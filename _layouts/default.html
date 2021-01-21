@@ -1,25 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<head>
-    <title>
-        Alexander Mourant
-    </title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
+  {%- include head.html -%}
 
-<body>
-    <header>
-        <a href="/">logo</a>
-        <nav>
-            <a href="/work">Work</a>
-            <a href="/about">About</a>
-        </nav>
-    </header>
+  <body>
 
-    <section>
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
         {{ content }}
-    </section>
-</body>
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
 
 </html>
