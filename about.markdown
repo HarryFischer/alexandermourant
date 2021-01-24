@@ -4,6 +4,4 @@ permalink: "/about/"
 layout: default
 ---
 
-About Alex
-
-Test
+This is a page about Alex
