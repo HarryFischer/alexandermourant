@@ -3,10 +3,14 @@ title: Home
 layout: home
 ---
 
-![alex-1.jpg](/uploads/alex-1.jpg)
+<div>
+    <h1>{{page.title}}</h1>
+</div>
 
-* Name of Work
+![alex-1.jpg](uploads/alex-1.jpg)
 
-* Size: 0x0
+- Name of Work
 
-* Paper: Lorem
+- Size: 0x0
+
+- Paper: Lorem
