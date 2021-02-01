@@ -2,6 +2,48 @@
 ---
 @import "style";
 
-body {
-    color:black;
+// @media (min-width: $mobile) {}
+$mobile: 320px;
+$mobileMedium: 275px;
+$tablet: 740px;
+$desktop: 980px;
+$wide: 1300px;
+
+$font-family-serif: 'ETBook', 'Times New Roman', serif;
+
+@font-face {
+    font-family: 'ETBook';
+    src: url('/assets/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot');
+    /* IE9 Compat Modes */
+    src:
+        url('../assets/et-book-roman-old-style-figures/et-book-roman-old-style-figures.woff') format('woff'),
+        /* Pretty Modern Browsers */
+        url('../assets/et-book-roman-old-style-figures/et-book-roman-old-style-figures.ttf') format('opentype'),
+        /* Safari, Android, iOS */
 }
+
+body {
+    color: black;
+    font-family:$font-family-serif;
+}
+
+.wrapper {
+    overflow-x: scroll;
+    .home {
+        display:flex;
+        flex-direction:row;
+        img {
+            max-width:none;
+            width:80vw;
+            margin-right:8px;
+        }
+    }
+    .site-title {
+        font-size: 20px;
+        letter-spacing:0;
+        font-family:$font-family-serif;
+        color:#000;
+    }
+}
+
+
