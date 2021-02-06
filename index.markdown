@@ -1,10 +1,10 @@
 ---
 title: Home
 image:
-  Image: uploads/alex-1.jpg
-  Name-of-work: Greenhouse 01
-  Material-of-work: White paper
-  Printing-of-work: Ink jet
+  Image: uploads/Blue%20Tree,%202017.jpg
+  Name-of-work: Aomori
+  Material-of-work: Paper type
+  Printing-of-work: Print type
 layout: home
 ---
 
