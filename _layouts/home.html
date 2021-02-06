@@ -6,7 +6,10 @@ layout: default
   <!-- {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%} -->
-
-  {{ content }}
-
+    <div>
+      <img src="{{ page.image.Image }}">
+      <p>{{ page.image.Name-of-work }}</p>
+      <p>{{ page.image.Material-of-work }}</p>
+      <p>{{ page.image.Printing-of-work }}</p>
+    </div>
 </div>
