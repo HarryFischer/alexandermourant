@@ -1,11 +1,11 @@
 ---
 title: Home
+image: "/uploads/alex-1.jpg"
+caption:
+- Lorem ipsum
+- A4 paper
+- Inkjet printer
 layout: home
 ---
 
-![alex-1.jpg](uploads/alex-1.jpg)
-_{{image_caption}}_
 
-![alex-1.jpg](uploads/alex-1.jpg)
-
-![alex-1.jpg](uploads/alex-1.jpg)
