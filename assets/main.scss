@@ -35,8 +35,12 @@ body {
         flex-direction:row;
         img {
             max-width:none;
-            width:80vw;
-            margin-right:8px;
+            height:40vh;
+            margin-right:20px;
+
+            &.top {
+                margin-top: 40px;
+            }
         }
     }
     .site-title {

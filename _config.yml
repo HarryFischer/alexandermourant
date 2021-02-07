@@ -10,7 +10,7 @@ collections:
     output: true
 email: alexander-mourant@gmail.com
 description: Alexander Mourant - Photographer - Portfolio
-baseurl: "/alexandermourant"
+baseurl: ""
 url: https://harryfischer.github.io
 twitter_username: alexandermourant
 github_username: HarryFischer
