@@ -1,10 +1,10 @@
 ---
 title: Home
 image:
-  Image: uploads/Blue%20Tree,%202017.jpg
-  Name-of-work: Aomori
-  Material-of-work: Paper type
-  Printing-of-work: Print type
+- "/uploads/Blue%20Tree,%202017.jpg"
+- caption: aomori 2
+  caption-paper: paper typw lorem ipsum
+  caption-print: paper type lorem ipsum
 layout: home
 ---
 
