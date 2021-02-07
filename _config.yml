@@ -11,7 +11,7 @@ collections:
 email: alexander-mourant@gmail.com
 description: Alexander Mourant - Photographer - Portfolio
 baseurl: ""
-url: https://harryfischer.github.io
+url:
 twitter_username: alexandermourant
 github_username: HarryFischer
 copyright: Alexander Mourant
