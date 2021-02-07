@@ -15,3 +15,5 @@ url:
 twitter_username: alexandermourant
 github_username: HarryFischer
 copyright: Alexander Mourant
+sass:
+  style: compressed
