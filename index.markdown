@@ -6,7 +6,7 @@ Image:
   caption-size: 1 x 1
   caption-paper: Paper type goes here
   caption-print: Printing type goes here
-  page-url: "/about"
+  page-url: "/aomori"
   image-size: small
   image-position: top
 - image: "/uploads/alex-1.jpg"
