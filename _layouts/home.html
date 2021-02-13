@@ -3,11 +3,13 @@ layout: default
 ---
 
 <div class="home">
-{%- for image in page.Image -%}
+{%- for content in page.Content -%}
+<a href="{{ site.baseurl }}{{content.page-url}}">
   <div>
-    <img class="{{image.image-size}} {{image.image-position}}" src="{{ site.baseurl }}{{image.image}}" alt="">
-    <p>{{image.caption}}</p>
-    <p>{{image.caption-paper}}</p>
+    <img class="{{content.image-size}} {{content.image-position}}" src="{{ site.baseurl }}{{content.image}}" alt="">
+    <p>{{content.caption}}</p>
+    <p>{{content.caption-paper}}</p>
   </div>
+  </a>
 {%- endfor -%}
 </div>
