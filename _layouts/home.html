@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 {%- for image in page.Image -%}
   <div>
-    <img class="{{image.image-size}} {{image.image-position}}" src="{{image.image}}" alt="">
+    <img class="{{image.image-size}} {{image.image-position}}" src="{{ site.baseurl }}{{image.image}}" alt="">
     <p>{{image.caption}}</p>
     <p>{{image.caption-paper}}</p>
   </div>
