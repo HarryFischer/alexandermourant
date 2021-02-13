@@ -1,7 +1,7 @@
 ---
 title: Home
 position: 0
-Image:
+Content:
 - image: "/uploads/Blue%20Tree,%202017.jpg"
   caption: Aomori
   caption-size: 1 x 1
