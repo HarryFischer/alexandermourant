@@ -7,6 +7,7 @@ Content:
   caption-year: 2017
   caption-size: 1x1
   caption-medium: Giclee print
+  caption-frame: black frame
   caption-edition: 5 + 2AP
   caption-extra: extra
 Information:
