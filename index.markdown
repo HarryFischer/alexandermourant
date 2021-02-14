@@ -10,6 +10,14 @@ Content:
   page-url: "/aomori"
   image-size: small
   image-position: top
+- image: "/uploads/Dissipate%20I,%202017.jpg"
+  caption-title: sxgkjbvendrxb
+  caption-project: hbdrcfbvrdf
+  caption-year: edxbnrxf
+  caption-ignore: 
+  page-url: 
+  image-size: 
+  image-position: 
 layout: home
 ---
 
