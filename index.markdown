@@ -10,14 +10,6 @@ Content:
   page-url: "/aomori"
   image-size: small
   image-position: top
-- image: "/uploads/alex-1.jpg"
-  caption: Green house
-  caption-paper: Paper type goes here
-  caption-size: 2x2
-  caption-print: Printing type goes here
-  page-url: "/about"
-  image-size: medium
-  image-position: bottom
 layout: home
 ---
 
