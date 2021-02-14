@@ -6,7 +6,7 @@ Content:
   caption-title: Blue Tree
   caption-project: Aomori
   caption-year: 2017
-  caption-default: blank
+  caption-ignore: ignore
   page-url: "/aomori"
   image-size: small
   image-position: top
