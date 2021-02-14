@@ -12,7 +12,7 @@ Alexander Mourant is an artist based in London. His work has been included in pu
 
 2018 - 2020 Royal College of Art, MA Photography (Distinction)
 
-2013 - 2017  Falmouth University, BA (Hons) Photography (First Class Honours)
+2013 - 2017  [Falmouth University](http://google.com), BA (Hons) Photography (First Class Honours)
 
  
 **Solo Exhibitions**
