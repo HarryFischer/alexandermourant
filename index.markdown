@@ -4,20 +4,12 @@ position: 0
 Content:
 - image: "/uploads/Blue%20Tree,%202017.jpg"
   caption-title: Blue Tree
-  caption-project: Aomori
   caption-year: 2017
-  caption-ignore: ignore
+  caption-project: Aomori
+  caption-ignore: 
   page-url: "/aomori"
   image-size: small
   image-position: top
-- image: "/uploads/Dissipate%20I,%202017.jpg"
-  caption-title: sxgkjbvendrxb
-  caption-project: hbdrcfbvrdf
-  caption-year: edxbnrxf
-  caption-ignore: 
-  page-url: 
-  image-size: 
-  image-position: 
 layout: home
 ---
 
