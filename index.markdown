@@ -42,6 +42,14 @@ Content:
   page-url: alexandermourant.siteleaf.net/i-could-not-tell-glass-from-air
   image-size: medium
   image-position: bottom
+- image: "/uploads/A%20Vertigo%20Like%20Self%20-%202020%20-%20Alexander%20Mourant.png"
+  caption-title: A Vertigo Like Self
+  caption-year: 2019
+  caption-project: 
+  caption-ignore: 
+  page-url: alexandermourant.siteleaf.net/a-vertigo-like-self
+  image-size: small
+  image-position: top
 layout: home
 ---
 
