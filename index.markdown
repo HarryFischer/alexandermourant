@@ -26,6 +26,14 @@ Content:
   page-url: alexandermourant.siteleaf.net/aurelian
   image-size: medium
   image-position: top
+- image: "/uploads/Peckham%20I%20new.jpg"
+  caption-title: Peckham I
+  caption-year: 2019
+  caption-project: To Feel Its Touch
+  caption-ignore: 
+  page-url: alexandermourant.siteleaf.net/to-feel-its-touch
+  image-size: small
+  image-position: bottom
 layout: home
 ---
 
