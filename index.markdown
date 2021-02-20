@@ -15,7 +15,7 @@ Content:
   caption-year: 2019
   caption-project: The Lightness
   caption-ignore: 
-  page-url: alexandermourant.siteleaf.net/the-lightness
+  page-url: "/the-lightness"
   image-size: small
   image-position: bottom
 - image: "/uploads/Alexander%20Mourant-Aurelian-3.jpg"
@@ -23,7 +23,7 @@ Content:
   caption-year: 2017
   caption-project: Aurelian
   caption-ignore: 
-  page-url: alexandermourant.siteleaf.net/aurelian
+  page-url: "/aurelian"
   image-size: medium
   image-position: top
 - image: "/uploads/Peckham%20I%20new.jpg"
@@ -31,7 +31,7 @@ Content:
   caption-year: 2019
   caption-project: To Feel Its Touch
   caption-ignore: 
-  page-url: alexandermourant.siteleaf.net/to-feel-its-touch
+  page-url: "/to-feel-its-touch"
   image-size: small
   image-position: bottom
 - image: "/uploads/17.jpg"
@@ -39,7 +39,7 @@ Content:
   caption-year: 2020
   caption-project: I Could Not Tell Glass From Air
   caption-ignore: 
-  page-url: alexandermourant.siteleaf.net/i-could-not-tell-glass-from-air
+  page-url: "/i-could-not-tell-glass-from-air"
   image-size: medium
   image-position: bottom
 - image: "/uploads/A%20Vertigo%20Like%20Self%20-%202020%20-%20Alexander%20Mourant.png"
@@ -47,9 +47,17 @@ Content:
   caption-year: 2019
   caption-project: 
   caption-ignore: 
-  page-url: alexandermourant.siteleaf.net/a-vertigo-like-self
+  page-url: "/a-vertigo-like-self"
   image-size: small
   image-position: top
+- image: 
+  caption-title: 
+  caption-year: 
+  caption-project: 
+  caption-ignore: 
+  page-url: "/the-bell-tower"
+  image-size: 
+  image-position: 
 layout: home
 ---
 
