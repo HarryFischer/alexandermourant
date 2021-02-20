@@ -34,6 +34,14 @@ Content:
   page-url: alexandermourant.siteleaf.net/to-feel-its-touch
   image-size: small
   image-position: bottom
+- image: "/uploads/17.jpg"
+  caption-title: Shelter
+  caption-year: 2020
+  caption-project: I Could Not Tell Glass From Air
+  caption-ignore: 
+  page-url: alexandermourant.siteleaf.net/i-could-not-tell-glass-from-air
+  image-size: medium
+  image-position: bottom
 layout: home
 ---
 
