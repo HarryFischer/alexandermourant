@@ -1,6 +1,6 @@
 ---
 title: Home
-position: 3
+position: 5
 Content:
 - image: "/uploads/Blue%20Tree,%202017.jpg"
   caption-title: Blue Tree
