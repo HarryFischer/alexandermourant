@@ -50,14 +50,14 @@ Content:
   page-url: "/a-vertigo-like-self"
   image-size: small
   image-position: top
-- image: 
-  caption-title: 
-  caption-year: 
-  caption-project: 
+- image: "/uploads/1.jpeg"
+  caption-title: Vessel I
+  caption-year: 2020
+  caption-project: The Bell Tower
   caption-ignore: 
   page-url: "/the-bell-tower"
-  image-size: 
-  image-position: 
+  image-size: small
+  image-position: top
 layout: home
 ---
 
