@@ -1,6 +1,7 @@
 ---
 title: Aomori
 date: 2021-02-13 18:49:00 Z
+position: 2
 Content:
 - image: 
   video: 
