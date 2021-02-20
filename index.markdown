@@ -16,8 +16,8 @@ Content:
   caption-project: The Lightness
   caption-ignore: 
   page-url: alexandermourant.siteleaf.net/the-lightness
-  image-size: 
-  image-position: 
+  image-size: small
+  image-position: bottom
 layout: home
 ---
 
