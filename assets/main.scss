@@ -26,21 +26,24 @@ $font-family-serif: 'ETBook', 'Times New Roman', serif;
 body {
     color: black;
     font-family:$font-family-serif;
+    letter-spacing: 0.2px;
+    font-weight: 100;
 }
 
 .wrapper {
     overflow-x: scroll;
+    &::-webkit-scrollbar {
+        display: none;
+    }
     .home {
-        display:flex;
-        flex-direction:row;
         img {
             max-width:none;
-            height:40vh;
+            height:80vh;
             margin-right:20px;
 
-            &.top {
-                margin-top: 40px;
-            }
+            // &.top {
+            //     margin-top: 40px;
+            // }
         }
     }
     .site-title {
@@ -48,6 +51,24 @@ body {
         letter-spacing:0;
         font-family:$font-family-serif;
         color:#000;
+    }
+    .flex  {
+        display:flex;
+        flex-direction:row;
+    }
+    .inner-content {
+        .caption-wrapper {
+            padding-top: 8px;
+            .caption {
+                font-size:14px;
+                margin: 0;
+                line-height: 1.15;
+                color: black;
+                span {
+                    font-style:italic;
+                }
+            }
+        }
     }
 }
 
