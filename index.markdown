@@ -58,6 +58,14 @@ Content:
   page-url: "/the-bell-tower"
   image-size: small
   image-position: top
+- image: "/uploads/To%20Grasp%20the%20Miraculous%20as%20Twilight%20-%202020.png"
+  caption-title: To Grasp the Miraculous as Twilight
+  caption-year: 2020
+  caption-project: On Living Stones and Reaching
+  caption-ignore: 
+  page-url: "/on-living-stones-and-reaching"
+  image-size: 
+  image-position: 
 layout: home
 ---
 
