@@ -18,6 +18,14 @@ Content:
   page-url: alexandermourant.siteleaf.net/the-lightness
   image-size: small
   image-position: bottom
+- image: "/uploads/Alexander%20Mourant-Aurelian-3.jpg"
+  caption-title: Blue Parrot
+  caption-year: 2017
+  caption-project: Aurelian
+  caption-ignore: 
+  page-url: alexandermourant.siteleaf.net/aurelian
+  image-size: medium
+  image-position: top
 layout: home
 ---
 
