@@ -50,3 +50,40 @@ $on-laptop:        800px !default;
   "syntax-highlighting"
 ;
 
+
+
+
+@font-face {
+  font-family: 'ETBook';
+  font-weight:regular;
+  src: url('../assets/et-book-roman-old-style-figures.eot');
+  /* IE9 Compat Modes */
+  src:
+    url('../assets/et-book-roman-old-style-figures.woff') format('woff'),
+    /* Pretty Modern Browsers */
+    url('../assets/et-book-roman-old-style-figures.ttf') format('opentype'),
+    /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'ETBook';
+  font-weight:bold;
+  src:
+    url('../assets/etbookot-bold-webfont.woff2') format('woff2'),
+    url('../assets/etbookot-bold-webfont.woff') format('woff'),
+    /* Pretty Modern Browsers */
+    url('../assets/ETBookOT-Bold.otf') format('opentype'),
+    /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'ETBook';
+  font-weight:regular;
+  font-style:italic;
+  src:
+    url('../assets/etbookot-italic-webfont.woff2') format('woff2'),
+    url('../assets/etbookot-italic-webfont.woff') format('woff'),
+    /* Pretty Modern Browsers */
+    url('../assets/ETBookOT-Italic.otf') format('opentype'),
+    /* Safari, Android, iOS */
+}

@@ -5,9 +5,11 @@ layout: default
 <div class="home">
   <div class="inner-content flex">
     {%- for content in page.Content -%}
-    <a href="{{ site.baseurl }}{{ content.page-url }}">
+    <a class="link-container {{ content.image-position }} href="{{ site.baseurl }}{{ content.page-url }}">
       <div class="link-wrapper">
-        <img class="{{ content.image-size }} {{ content.image-position }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
+        <div class="image-wrapper">
+          <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
+        </div>
         <div class="caption-wrapper">
           <p class="caption">{{content.caption-title}} <span>{{ content.caption-year }}</span></p>
           <p class="caption">{{content.caption-project}}</p>
