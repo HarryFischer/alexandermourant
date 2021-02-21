@@ -5,8 +5,8 @@ layout: default
 <div class="home">
   <div class="inner-content flex">
     {%- for content in page.Content -%}
-    <a class="link-container {{ content.image-position }} href="{{ site.baseurl }}{{ content.page-url }}">
-      <div class="link-wrapper">
+    <a class="link-container" href="{{ site.baseurl }}{{ content.page-url }}">
+      <div class="link-wrapper {{ content.image-position }}">
         <div class="image-wrapper">
           <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
         </div>

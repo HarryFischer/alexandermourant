@@ -119,35 +119,40 @@ body {
         flex-direction:row;
     }
     .inner-content {
-        min-height: 86vh;
+        min-height: 60vh;
+        max-height: 80vh;
         .link-container {
             display: flex;
         }
         .top {}
 
-        .middle {}
+        .middle {
+            margin-top: auto;
+            margin-bottom: auto;
+        }
 
         .bottom {
-            &~.link-container {
-                justify-content: flex-end;
-                align-items: flex-end;
-            }
+            margin-top: auto;
+            // &~.link-container {
+            //     justify-content: flex-end;
+            //     align-items: flex-end;
+            // }
         }
         .link-wrapper {
             .image-wrapper {
                 .small {
-                    max-width: 30vw;
-                    // margin-right: 40px;
+                    width:auto;
+                    height: 30vh;
                 }
 
                 .medium {
-                    max-width: 60vw;
-                    max-height: 80vh;
+                    width:auto;
+                    height: 50vh;
                 }
 
                 .large {
-                    max-width: 80vw;
-                    max-height: 80vh;
+                    width:auto;
+                    height: 70vh;
                 }
             }
         }
