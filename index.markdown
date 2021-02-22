@@ -8,7 +8,7 @@ Content:
   caption-project: 
   caption-ignore: 
   page-url: "/on-living-stones-and-reaching"
-  image-size: small
+  image-size: medium
   image-position: top
 - image: "/uploads/Vitrum%20IX,%202019.jpg"
   caption-title: I Could Not Tell Glass From Air
@@ -16,7 +16,7 @@ Content:
   caption-project: 
   caption-ignore: 
   page-url: "/i-could-not-tell-glass-from-air"
-  image-size: small
+  image-size: medium
   image-position: top
 - image: "/uploads/A%20Vertigo%20Like%20Self%20-%202020%20-%20Alexander%20Mourant.png"
   caption-title: A Vertigo Like Self
@@ -34,7 +34,7 @@ Content:
   page-url: "/the-bell-tower"
   image-size: small
   image-position: top
-- image: "/uploads/Peckham%20I%20(iii).jpg"
+- image: "/uploads/Peckham%20I%20(iii)-19d032.jpg"
   caption-title: To Feel Its Touch
   caption-year: 2019
   caption-project: 
