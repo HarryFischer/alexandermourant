@@ -26,7 +26,7 @@ Content:
   page-url: "/a-vertigo-like-self"
   image-size: small
   image-position: bottom
-- image: "/uploads/13.jpg"
+- image: "/uploads/Dust%20Dances%20Around%20Itself,%202020-4d4c29.jpg"
   caption-title: The Bell Tower
   caption-year: 2020
   caption-project: 
@@ -34,7 +34,7 @@ Content:
   page-url: "/the-bell-tower"
   image-size: small
   image-position: top
-- image: "/uploads/Chiswick%20II%20(iii).jpg"
+- image: "/uploads/Peckham%20I%20(iii).jpg"
   caption-title: To Feel Its Touch
   caption-year: 2019
   caption-project: 
