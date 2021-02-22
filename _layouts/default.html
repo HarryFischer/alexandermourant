@@ -3,17 +3,18 @@
 
   {%- include head.html -%}
 
-  <body>
+  <body id="scroll">
 
     {%- include header.html -%}
 
     <main class="page-content {{ page.title | escape }}" aria-label="Content">
-      <div class="wrapper" id="content-wrapper">
+      <div class="wrapper" id="content-wrapper" >
         {{ content }}
       </div>
     </main>
 
 
   </body>
+  <script src="assets/scroll.js"></script>
 
 </html>

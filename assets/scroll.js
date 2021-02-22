@@ -1,11 +1,12 @@
-const scrollWrapper = document.querySelector('.page-content');
-const mq = window.matchMedia("(min-width: 600px)");
+const scrollWrapper = document.getElementById('content-wrapper');
+console.log(scrollWrapper)
+const mq = window.matchMedia('(min-width: 700px)');
 
 if (mq.matches) {
     (function () {
         function scrollHorizontally(e) {
             e = window.event || e;
-            var delta = Math.max(-1, Math.min(1, (e.wheelDelta || -e.detail)));
+            var delta = Math.max(-1.5, Math.min(1.5, (e.wheelDelta || -e.detail)));
             scrollWrapper.scrollLeft -= (delta * 10); // Multiplied by 40
             e.preventDefault();
         }
@@ -21,4 +22,4 @@ if (mq.matches) {
     })();
 }
 
-
+console.log("working")

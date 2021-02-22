@@ -17,22 +17,31 @@ body {
     font-family:$font-family-serif;
     letter-spacing: 0.2px;
     font-weight: 100;
+    scroll-behavior: smooth;
 }
 
 .site-header {
     .site-title {
-        width:30%;
         font-size: 20px;
         letter-spacing:0;
         font-family:$font-family-serif;
         color:#000;
+        @media (min-width:700px) {
+            width:30%;
+        }
     }
     .wrapper {
         display:flex;
+        @media (max-width:700px) {
+            justify-content:space-between;
+        }
     }
     nav {
         margin-top: auto;
         margin-bottom: auto;
+        @media (max-width:700px) {
+            text-align: right;
+        }
         .nav-inner {
             display:flex;
             flex-direction:column;
@@ -42,6 +51,9 @@ body {
                 &:first-child {
                     margin-right: 20px;
                     padding-top: 4px;
+                    @media (max-width:700px) {
+                        margin-right: 0;
+                    }
                     // &::before {
                     //     content:'';
                     //     position:absolute;
@@ -80,6 +92,9 @@ body {
                         justify-content: space-between;
                         align-items: center;
                         width:85px;
+                        @media (max-width:700px) {
+                            flex-direction:row-reverse;
+                        }
                         p {
                             margin-bottom:0;
                         }
@@ -116,11 +131,16 @@ body {
     }
     .flex  {
         display:flex;
-        flex-direction:row;
+        flex-direction:column;
+        @media (min-width: 700px) {
+            flex-direction:row;
+        }
     }
     .inner-content {
-        min-height: 60vh;
-        max-height: 80vh;
+        @media (min-width: 700px) {
+            min-height: 60vh;
+            max-height: 80vh;
+        }
         .link-container {
             display: flex;
         }
@@ -153,6 +173,12 @@ body {
                 .large {
                     width:auto;
                     height: 70vh;
+                }
+                .small, .medium, .large {
+                    @media (max-width:700px) {
+                        height:auto;
+                        width:100%;
+                    }
                 }
             }
         }
