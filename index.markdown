@@ -8,7 +8,7 @@ Content:
   caption-project: 
   caption-ignore: 
   page-url: "/on-living-stones-and-reaching"
-  image-size: medium
+  image-size: large
   image-position: top
 - image: "/uploads/Vitrum%20IX,%202019.jpg"
   caption-title: I Could Not Tell Glass From Air
