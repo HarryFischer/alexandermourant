@@ -2,36 +2,12 @@
 title: Home
 position: 7
 Content:
-- image: "/uploads/Blue%20Tree,%202017.jpg"
-  caption-title: Aomori
-  caption-year: 2017
+- image: "/uploads/To%20Grasp%20the%20Miraculous%20as%20Twilight%20-%202020.png"
+  caption-title: On Living Stones and Reaching
+  caption-year: 2020
   caption-project: 
   caption-ignore: 
-  page-url: "/aomori"
-  image-size: 
-  image-position: 
-- image: "/uploads/Lightness-Alexander%20Mourant-4.jpg"
-  caption-title: The Lightness
-  caption-year: 2019
-  caption-project: 
-  caption-ignore: 
-  page-url: "/the-lightness"
-  image-size: 
-  image-position: 
-- image: "/uploads/Alexander%20Mourant-Aurelian-3.jpg"
-  caption-title: Aurelian
-  caption-year: 2017
-  caption-project: 
-  caption-ignore: 
-  page-url: "/aurelian"
-  image-size: 
-  image-position: 
-- image: "/uploads/Peckham%20I%20new.jpg"
-  caption-title: To Feel Its Touch
-  caption-year: 2019
-  caption-project: 
-  caption-ignore: 
-  page-url: "/to-feel-its-touch"
+  page-url: "/on-living-stones-and-reaching"
   image-size: 
   image-position: 
 - image: "/uploads/Vitrum%20IX,%202019.jpg"
@@ -58,12 +34,36 @@ Content:
   page-url: "/the-bell-tower"
   image-size: 
   image-position: 
-- image: "/uploads/To%20Grasp%20the%20Miraculous%20as%20Twilight%20-%202020.png"
-  caption-title: On Living Stones and Reaching
-  caption-year: 2020
+- image: "/uploads/Peckham%20I%20new.jpg"
+  caption-title: To Feel Its Touch
+  caption-year: 2019
   caption-project: 
   caption-ignore: 
-  page-url: "/on-living-stones-and-reaching"
+  page-url: "/to-feel-its-touch"
+  image-size: 
+  image-position: 
+- image: "/uploads/Blue%20Tree,%202017.jpg"
+  caption-title: Aomori
+  caption-year: 2017
+  caption-project: 
+  caption-ignore: 
+  page-url: "/aomori"
+  image-size: 
+  image-position: 
+- image: "/uploads/Lightness-Alexander%20Mourant-4.jpg"
+  caption-title: The Lightness
+  caption-year: 2019
+  caption-project: 
+  caption-ignore: 
+  page-url: "/the-lightness"
+  image-size: 
+  image-position: 
+- image: "/uploads/Alexander%20Mourant-Aurelian-3.jpg"
+  caption-title: Aurelian
+  caption-year: 2017
+  caption-project: 
+  caption-ignore: 
+  page-url: "/aurelian"
   image-size: 
   image-position: 
 layout: home
