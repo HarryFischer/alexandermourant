@@ -49,7 +49,7 @@ Content:
   caption-ignore: 
   page-url: "/aomori"
   image-size: small
-  image-position: top
+  image-position: bottom
 - image: "/uploads/Lightness-Alexander%20Mourant-4.jpg"
   caption-title: The Lightness
   caption-year: 2019
