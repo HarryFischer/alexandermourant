@@ -2,7 +2,7 @@
 title: Home
 position: 7
 Content:
-- image: "/uploads/To%20Grasp%20the%20Miraculous%20as%20Twilight%20-%202020.png"
+- image: "/uploads/14.%201119am%20-%2027th%20March.jpg"
   caption-title: On Living Stones and Reaching
   caption-year: 2020
   caption-project: 
@@ -26,7 +26,7 @@ Content:
   page-url: "/a-vertigo-like-self"
   image-size: small
   image-position: bottom
-- image: "/uploads/1.jpeg"
+- image: "/uploads/13.jpg"
   caption-title: The Bell Tower
   caption-year: 2020
   caption-project: 
@@ -34,7 +34,7 @@ Content:
   page-url: "/the-bell-tower"
   image-size: small
   image-position: top
-- image: "/uploads/Peckham%20I%20new.jpg"
+- image: "/uploads/Chiswick%20II%20(iii).jpg"
   caption-title: To Feel Its Touch
   caption-year: 2019
   caption-project: 
@@ -50,7 +50,7 @@ Content:
   page-url: "/aomori"
   image-size: small
   image-position: bottom
-- image: "/uploads/Lightness-Alexander%20Mourant-4.jpg"
+- image: "/uploads/Lightness-Alexander%20Mourant-5.jpg"
   caption-title: The Lightness
   caption-year: 2019
   caption-project: 
@@ -58,7 +58,7 @@ Content:
   page-url: "/the-lightness"
   image-size: small
   image-position: bottom
-- image: "/uploads/Alexander%20Mourant-Aurelian-3.jpg"
+- image: "/uploads/Display%20dome%20with%20atmosphere%20-%20Alexander%20Mourant.jpg"
   caption-title: Aurelian
   caption-year: 2017
   caption-project: 
