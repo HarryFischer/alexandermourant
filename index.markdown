@@ -24,7 +24,7 @@ Content:
   caption-project: 
   caption-ignore: 
   page-url: "/a-vertigo-like-self"
-  image-size: small
+  image-size: medium
   image-position: bottom
 - image: "/uploads/Dust%20Dances%20Around%20Itself,%202020-4d4c29.jpg"
   caption-title: The Bell Tower
@@ -32,7 +32,7 @@ Content:
   caption-project: 
   caption-ignore: 
   page-url: "/the-bell-tower"
-  image-size: small
+  image-size: medium
   image-position: top
 - image: "/uploads/Peckham%20I%20(iii)-19d032.jpg"
   caption-title: To Feel Its Touch
