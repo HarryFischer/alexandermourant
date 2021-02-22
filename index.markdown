@@ -51,7 +51,7 @@ Content:
   image-size: small
   image-position: top
 - image: "/uploads/1.jpeg"
-  caption-title: Vessel I
+  caption-title: 
   caption-year: 2020
   caption-project: The Bell Tower
   caption-ignore: 
@@ -59,7 +59,7 @@ Content:
   image-size: small
   image-position: top
 - image: "/uploads/To%20Grasp%20the%20Miraculous%20as%20Twilight%20-%202020.png"
-  caption-title: To Grasp the Miraculous as Twilight
+  caption-title: 
   caption-year: 2020
   caption-project: On Living Stones and Reaching
   caption-ignore: 
