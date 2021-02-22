@@ -8,64 +8,64 @@ Content:
   caption-project: 
   caption-ignore: 
   page-url: "/aomori"
-  image-size: small
-  image-position: top
+  image-size: 
+  image-position: 
 - image: "/uploads/Lightness-Alexander%20Mourant-4.jpg"
   caption-title: The Lightness
   caption-year: 2019
   caption-project: 
   caption-ignore: 
   page-url: "/the-lightness"
-  image-size: small
-  image-position: bottom
+  image-size: 
+  image-position: 
 - image: "/uploads/Alexander%20Mourant-Aurelian-3.jpg"
   caption-title: Aurelian
   caption-year: 2017
   caption-project: 
   caption-ignore: 
   page-url: "/aurelian"
-  image-size: medium
-  image-position: top
+  image-size: 
+  image-position: 
 - image: "/uploads/Peckham%20I%20new.jpg"
   caption-title: To Feel Its Touch
   caption-year: 2019
   caption-project: 
   caption-ignore: 
   page-url: "/to-feel-its-touch"
-  image-size: small
-  image-position: bottom
+  image-size: 
+  image-position: 
 - image: "/uploads/Vitrum%20IX,%202019.jpg"
   caption-title: I Could Not Tell Glass From Air
   caption-year: 2020
   caption-project: 
   caption-ignore: 
   page-url: "/i-could-not-tell-glass-from-air"
-  image-size: medium
-  image-position: bottom
+  image-size: 
+  image-position: 
 - image: "/uploads/A%20Vertigo%20Like%20Self%20-%202020%20-%20Alexander%20Mourant.png"
   caption-title: A Vertigo Like Self
   caption-year: 2019
   caption-project: 
   caption-ignore: 
   page-url: "/a-vertigo-like-self"
-  image-size: small
-  image-position: top
+  image-size: 
+  image-position: 
 - image: "/uploads/1.jpeg"
   caption-title: The Bell Tower
   caption-year: 2020
   caption-project: 
   caption-ignore: 
   page-url: "/the-bell-tower"
-  image-size: small
-  image-position: top
+  image-size: 
+  image-position: 
 - image: "/uploads/To%20Grasp%20the%20Miraculous%20as%20Twilight%20-%202020.png"
   caption-title: On Living Stones and Reaching
   caption-year: 2020
   caption-project: 
   caption-ignore: 
   page-url: "/on-living-stones-and-reaching"
-  image-size: small
-  image-position: bottom
+  image-size: 
+  image-position: 
 layout: home
 ---
 
