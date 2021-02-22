@@ -104,8 +104,11 @@ body {
                         }
                     }
                 }
-                .artwork-link {
+                .hide-nav {
                     display:none;
+                }
+                .show-nav {
+                    display:block;
                 }
             }
         }

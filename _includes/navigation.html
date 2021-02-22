@@ -15,13 +15,15 @@
                     </svg>
                 </a>
             </li>
-            {% for item in site.data.navigation %}
-            <li class="artwork-link">
-                <a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
-                {{ item.name }}
-                </a>
-            </li>
-            {% endfor %}
+            <div class="hide-nav">
+              {% for item in site.data.navigation %}
+              <li class="artwork-link">
+                  <a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
+                  {{ item.name }}
+                  </a>
+              </li>
+              {% endfor %}
+            </div>
         </ul>
     </div>
 </nav>
