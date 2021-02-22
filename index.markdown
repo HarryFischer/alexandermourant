@@ -42,20 +42,20 @@ Content:
   page-url: "/to-feel-its-touch"
   image-size: medium
   image-position: bottom
-- image: "/uploads/Blue%20Tree,%202017.jpg"
-  caption-title: Aomori
-  caption-year: 2017
-  caption-project: 
-  caption-ignore: 
-  page-url: "/aomori"
-  image-size: medium
-  image-position: bottom
 - image: "/uploads/Lightness-Alexander%20Mourant-5.jpg"
   caption-title: The Lightness
   caption-year: 2019
   caption-project: 
   caption-ignore: 
   page-url: "/the-lightness"
+  image-size: medium
+  image-position: bottom
+- image: "/uploads/Blue%20Tree,%202017.jpg"
+  caption-title: Aomori
+  caption-year: 2017
+  caption-project: 
+  caption-ignore: 
+  page-url: "/aomori"
   image-size: medium
   image-position: bottom
 - image: "/uploads/Display%20dome%20with%20atmosphere%20-%20Alexander%20Mourant.jpg"
