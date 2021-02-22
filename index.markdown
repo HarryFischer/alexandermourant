@@ -3,7 +3,7 @@ title: Home
 position: 7
 Content:
 - image: "/uploads/Blue%20Tree,%202017.jpg"
-  caption-title: Blue Tree
+  caption-title: 
   caption-year: 2017
   caption-project: Aomori
   caption-ignore: 
@@ -11,7 +11,7 @@ Content:
   image-size: small
   image-position: top
 - image: "/uploads/Lightness-Alexander%20Mourant-4.jpg"
-  caption-title: Lightness VII
+  caption-title: 
   caption-year: 2019
   caption-project: The Lightness
   caption-ignore: 
@@ -19,7 +19,7 @@ Content:
   image-size: small
   image-position: bottom
 - image: "/uploads/Alexander%20Mourant-Aurelian-3.jpg"
-  caption-title: Blue Parrot
+  caption-title: 
   caption-year: 2017
   caption-project: Aurelian
   caption-ignore: 
@@ -27,15 +27,15 @@ Content:
   image-size: medium
   image-position: top
 - image: "/uploads/Peckham%20I%20new.jpg"
-  caption-title: Peckham I
+  caption-title: 
   caption-year: 2019
   caption-project: To Feel Its Touch
   caption-ignore: 
   page-url: "/to-feel-its-touch"
   image-size: small
   image-position: bottom
-- image: "/uploads/17.jpg"
-  caption-title: Shelter
+- image: "/uploads/Vitrum%20IX,%202019.jpg"
+  caption-title: 
   caption-year: 2020
   caption-project: I Could Not Tell Glass From Air
   caption-ignore: 
@@ -64,8 +64,8 @@ Content:
   caption-project: On Living Stones and Reaching
   caption-ignore: 
   page-url: "/on-living-stones-and-reaching"
-  image-size: 
-  image-position: 
+  image-size: small
+  image-position: bottom
 layout: home
 ---
 
