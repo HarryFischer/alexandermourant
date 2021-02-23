@@ -122,9 +122,10 @@ body {
         display: none;
     }
     .home {
+        margin-top: 20px;
         img {
             max-width:none;
-            width:40vw;
+            // width:40vw;
             margin-right:20px;
 
             // &.top {
@@ -175,7 +176,7 @@ body {
 
                 .large {
                     width:auto;
-                    height: 70vh;
+                    height: 75vh;
                 }
                 .small, .medium, .large {
                     @media (max-width:700px) {
