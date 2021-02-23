@@ -1,4 +1,4 @@
-console.log("main working")
+console.log("build-1")
 
 const artworksBtn = document.querySelector('.artworks-title')
 const artworkList = document.querySelector('.hide-nav')
