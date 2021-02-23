@@ -126,11 +126,12 @@ body {
         img {
             max-width:none;
             // width:40vw;
-            margin-right:20px;
-
-            // &.top {
-            //     margin-top: 40px;
-            // }
+            margin-right:50px;
+            margin-right:100px;
+            margin-right:150px;
+            margin-right:200px;
+            margin-right:300px;
+            margin-right:400px;
         }
     }
     .flex  {
@@ -164,14 +165,19 @@ body {
         }
         .link-wrapper {
             .image-wrapper {
-                .small {
+                .x-small {
                     width:auto;
                     height: 30vh;
                 }
 
+                .small {
+                    width:auto;
+                    height: 45vh;
+                }
+
                 .medium {
                     width:auto;
-                    height: 50vh;
+                    height: 60vh;
                 }
 
                 .large {
