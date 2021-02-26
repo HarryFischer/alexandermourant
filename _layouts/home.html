@@ -7,12 +7,11 @@ layout: default
     {%- for content in page.Content -%}
     <a class="link-container" href="{{ site.baseurl }}{{ content.page-url }}">
       <div class="link-wrapper {{ content.image-position }}">
-        <div class="image-wrapper">
+        <div class="image-wrapper {{content.caption-margin-right}}">
           <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
         </div>
         <div class="caption-wrapper">
           <p class="caption">{{content.caption-title}} <span>{{ content.caption-year }}</span></p>
-          <p class="caption">{{content.caption-project}}</p>
         </div>
       </div>
     </a>

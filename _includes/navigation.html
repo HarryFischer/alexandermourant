@@ -1,31 +1,48 @@
 <nav>
-    <div class="nav-inner">
-        <ul>
-            <li>
-                <a href="{{site.baseurl}}/about">Info</a>
-            </li>
-        </ul>
-    
-        <ul>
-            <li class="artworks-title">
-                <a class="artworks-title__dropdown">
-                    <p>Artworks</p>
-                    <svg width="22" height="11" viewBox="0 0 22 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M21 1L11 8.94118L1 1L11 10L21 1Z" fill="#9DA0A2" stroke="#9DA0A2"/>
-                    </svg>
-                </a>
-            </li>
-            <div class="hide-nav">
-              {% for item in site.data.navigation %}
-              <li class="artwork-link">
-                  <a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
-                  {{ item.name }}
-                  </a>
-              </li>
-              {% endfor %}
-            </div>
-        </ul>
-    </div>
+  <div class="nav-inner">
+    <ul>
+        <li>
+            <a href="{{site.baseurl}}/about">About</a>
+        </li>
+    </ul>
+
+    <ul>
+      <li class="artworks-title">
+        <a class="artworks-title__dropdown">
+          <p>Artworks</p>
+          <svg width="22" height="11" viewBox="0 0 22 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M21 1L11 8.94118L1 1L11 10L21 1Z" fill="#9DA0A2" stroke="#9DA0A2"/>
+          </svg>
+        </a>
+      </li>
+        <!-- <div class="hide-nav">
+          {% for item in site.data.navigation %}
+          <li class="artwork-link">
+              <a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
+              {{ item.name }}
+              </a>
+          </li>
+          {% endfor %}
+        </div> -->
+      <div class="hide-nav">
+        <li class="artwork-link">
+            <a href="/alexandermourant/aomori">Aomori</a>
+        </li>
+        <li class="artwork-link">
+          <a href="/alexandermourant/the-lightness">The lightness</a>
+        </li>
+        <li class="artwork-link">
+            <a href="/alexandermourant/aurelian">Aurelian</a>
+        </li>
+        <li class="artwork-link">
+          <a href="/alexandermourant/to-feel-its-touch">To feel it's touch</a>
+        </li>
+        <li class="artwork-link">
+          <a href="/alexandermourant/i-could-not-tell-glass-from-air">I could not tell glass from air</a>
+        </li>
+      </div>
+    </ul>
+  </div>
 </nav>
 
 
