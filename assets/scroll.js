@@ -1,6 +1,7 @@
 const scrollWrapper = document.getElementById('content-wrapper');
-console.log(scrollWrapper)
 const mq = window.matchMedia('(min-width: 700px)');
+const pageType = document.querySelector('.home');
+console.log(pageType)
 
 if (mq.matches) {
     (function () {
@@ -21,5 +22,3 @@ if (mq.matches) {
         }
     })();
 }
-
-console.log("working")
