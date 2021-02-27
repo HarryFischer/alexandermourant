@@ -64,7 +64,7 @@ Content:
   page-url: "/aurelian"
   image-size: medium
   image-position: top
-  image-margin-right: 
+  image-margin-right: small
   ignore: 
 layout: home
 ---
