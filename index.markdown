@@ -40,7 +40,7 @@ Content:
   page-url: "/to-feel-its-touch"
   image-size: large
   image-position: middle
-  image-margin-right: xlarge
+  image-margin-right: medium
   ignore: 
 - image: "/uploads/Lightness-Alexander%20Mourant-5.jpg"
   caption-title: The Lightness
@@ -56,7 +56,7 @@ Content:
   page-url: "/aomori"
   image-size: medium
   image-position: bottom
-  image-margin-right: small
+  image-margin-right: medium
   ignore: 
 - image: "/uploads/Display%20dome%20with%20atmosphere%20-%20Alexander%20Mourant.jpg"
   caption-title: Aurelian
