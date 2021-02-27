@@ -6,7 +6,7 @@ Content:
   caption-title: On Living Stones and Reaching
   caption-year: 2020
   page-url: "/on-living-stones-and-reaching"
-  image-size: small
+  image-size: large
   image-position: top
   image-margin-right: small
   ignore: 
