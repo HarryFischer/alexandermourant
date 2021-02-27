@@ -38,8 +38,8 @@ Content:
   caption-title: To Feel Its Touch
   caption-year: 2019
   page-url: "/to-feel-its-touch"
-  image-size: medium
-  image-position: bottom
+  image-size: large
+  image-position: middle
   image-margin-right: xlarge
   ignore: 
 - image: "/uploads/Lightness-Alexander%20Mourant-5.jpg"
