@@ -22,8 +22,8 @@ Content:
   caption-title: A Vertigo Like Self
   caption-year: 2019
   page-url: "/a-vertigo-like-self"
-  image-size: medium
-  image-position: bottom
+  image-size: small
+  image-position: middle
   image-margin-right: medium
   ignore: 
 - image: "/uploads/Dust%20Dances%20Around%20Itself,%202020-4d4c29.jpg"
