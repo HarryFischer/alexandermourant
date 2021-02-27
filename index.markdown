@@ -47,8 +47,8 @@ Content:
   caption-year: 2019
   page-url: "/the-lightness"
   image-size: medium
-  image-position: bottom
-  image-margin-right: xxlarge
+  image-position: middle
+  image-margin-right: medium
   ignore: 
 - image: "/uploads/Blue%20Tree,%202017.jpg"
   caption-title: Aomori
