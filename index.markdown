@@ -30,7 +30,7 @@ Content:
   caption-title: The Bell Tower
   caption-year: 2020
   page-url: "/the-bell-tower"
-  image-size: medium
+  image-size: small
   image-position: top
   image-margin-right: large
   ignore: 
