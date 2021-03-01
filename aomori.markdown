@@ -5,17 +5,17 @@ position: 5
 Content:
 - image: "/uploads/Blue%20Tree,%202017.jpg"
   video: 
-  caption-title: Blue tree
-  caption-subtitle: 
+  caption-title: Title
+  caption-subtitle: Subtitle
   link-url: 
   caption-year: 2017
   caption-size: 1x1
   caption-medium: paper
   caption-extras: Lorem ipsum
   caption-edition: 2AP + 10
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: medium
 Words:
 - words-title: Interview with Nadav
   word-paragraph: 
