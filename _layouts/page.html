@@ -24,7 +24,12 @@ layout: default
           <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
         </div>
         <div class="caption-wrapper">
-          <p class="caption">{{content.caption-title}} <span>{{ content.caption-year }}</span></p>
+          <p class="caption">{{ content.caption-title }} <span>{{ content.caption-year }}</span></p>
+          <a href="{{ content.link-url }}">{{ content.caption-subtitle }}</a>
+          <p>{{ content.caption-size }}, {{ content.caption-medium }}</p>
+          <p></p>
+          <p>{{ content.caption-extras }}</p>
+          <p>{{ content.caption-edition }}</p>
         </div>
       </div>
     </a>

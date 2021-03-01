@@ -47,11 +47,13 @@ body {
             flex-direction:column;
             @media (min-width:700px) {
                 flex-direction:row;
+                align-items: center;
             }
             ul {
                 margin: 0;
                 margin-bottom:8px;
                 position: relative;
+                margin-left: 15px;
                 li  {
                     list-style-type: none;
                     a {
