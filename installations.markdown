@@ -8,9 +8,9 @@ Content:
   link-url: "/aomori"
   caption-year: 2019
   caption-extras: curated by...
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: medium
   ignore: 
 ---
 
