@@ -6,9 +6,9 @@ Content:
 - image: "/uploads/Blue%20Tree,%202017.jpg"
   video: 
   caption-title: Title
+  caption-year: 2017
   caption-subtitle: Subtitle
   link-url: 
-  caption-year: 2017
   caption-size: 1x1
   caption-medium: paper
   caption-extras: Lorem ipsum
@@ -21,6 +21,5 @@ Words:
   word-paragraph: 
 - word-paragraph: 'Q: question'
   words-title: 'A: answer'
-Exposure: 
 ---
 
