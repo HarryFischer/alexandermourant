@@ -45,6 +45,9 @@ body {
         .nav-inner {
             display:flex;
             flex-direction:column;
+            @media (min-width:700px) {
+                flex-direction:row;
+            }
             ul {
                 margin: 0;
                 margin-bottom:8px;
@@ -134,7 +137,7 @@ body {
             height:max-content;
             margin-bottom:30px;
             @media (min-width:700px) {
-                margin-bottom: none
+                margin-bottom: none;
             }
             // image-margins
             @media (min-width:700px) {

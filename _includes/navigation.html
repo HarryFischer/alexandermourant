@@ -1,12 +1,6 @@
 <nav>
   <div class="nav-inner">
     <ul>
-        <li>
-            <a href="{{site.baseurl}}/about">About</a>
-        </li>
-    </ul>
-
-    <ul>
       <li class="artworks-title">
         <a class="artworks-title__dropdown">
           <p>Artworks</p>
@@ -15,32 +9,46 @@
           </svg>
         </a>
       </li>
-        <!-- <div class="hide-nav">
-          {% for item in site.data.navigation %}
-          <li class="artwork-link">
-              <a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
-              {{ item.name }}
-              </a>
-          </li>
-          {% endfor %}
-        </div> -->
+        
       <div class="hide-nav">
         <li class="artwork-link">
-            <a href="/alexandermourant/aomori">Aomori</a>
+          <a href="/alexandermourant/on-living-stones-and-reaching">On Living Stones and Reaching</a>
         </li>
         <li class="artwork-link">
-          <a href="/alexandermourant/the-lightness">The lightness</a>
+          <a href="/alexandermourant/i-could-not-tell-glass-from-air">I Could Not Tell Glass From Air</a>
+        </li>
+        <li class="artwork-link">
+          <a href="/alexandermourant/a-veertigo-like-self">A Vertigo Like Self</a>
+        </li>
+        <li class="artwork-link">
+          <a href="/alexandermourant/the-bell-tower">The Bell Tower</a>
+        </li>
+        <li class="artwork-link">
+          <a href="/alexandermourant/to-feel-its-touch">To Feel Its Touch</a>
+        </li>
+        <li class="artwork-link">
+          <a href="/alexandermourant/the-lightness">The Lightness</a>
+        </li>
+        <li class="artwork-link">
+            <a href="/alexandermourant/aomori">Aomori</a>
         </li>
         <li class="artwork-link">
             <a href="/alexandermourant/aurelian">Aurelian</a>
         </li>
         <li class="artwork-link">
-          <a href="/alexandermourant/to-feel-its-touch">To feel it's touch</a>
-        </li>
-        <li class="artwork-link">
           <a href="/alexandermourant/i-could-not-tell-glass-from-air">I could not tell glass from air</a>
         </li>
       </div>
+    </ul>
+    <ul>
+        <li>
+            <a href="{{site.baseurl}}/installations">Installations</a>
+        </li>
+    </ul>
+    <ul>
+        <li>
+            <a href="{{site.baseurl}}/about">About</a>
+        </li>
     </ul>
   </div>
 </nav>
@@ -67,3 +75,14 @@
         </div>
       </nav>
     {%- endif -%} -->
+
+
+    <!-- <div class="hide-nav">
+          {% for item in site.data.navigation %}
+          <li class="artwork-link">
+              <a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
+              {{ item.name }}
+              </a>
+          </li>
+          {% endfor %}
+        </div> -->
