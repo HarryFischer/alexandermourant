@@ -125,5 +125,15 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/alexander-mourant-1-aomori-13-Old%20Truman%20Brewery%202018.jpg"
+  caption-title: The Old Truman Brewery
+  caption-subtitle: Aomori
+  link-url: 
+  caption-year: 2017
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
 ---
 
