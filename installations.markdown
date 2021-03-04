@@ -12,5 +12,15 @@ Content:
   image-position: top
   image-margin-right: medium
   ignore: 
+- image: "/uploads/18.jpg"
+  caption-title: Shelter
+  caption-subtitle: I Could Not Tell Glass From Air
+  link-url: "/i-could-not-tell-glass-from-air"
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: medium
+  ignore: 
 ---
 
