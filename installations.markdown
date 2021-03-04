@@ -126,7 +126,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/alexander-mourant-1-aomori-13-Old%20Truman%20Brewery%202018.jpg"
+- image: "/uploads/Aomori%20-%20Installation-5.jpg"
   caption-title: The Old Truman Brewery
   caption-subtitle: Aomori
   link-url: 
@@ -136,7 +136,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/alexander-mourant-1-aomori-14-Old%20Truman%20Brewery%202018.jpg"
+- image: "/uploads/Aomori%20-%20Installation-6.jpg"
   caption-title: The Old Truman Brewery
   caption-subtitle: Aomori
   link-url: 
@@ -146,7 +146,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/alexander-mourant-1-aomori-15-Old%20Truman%20Brewery%202018.jpg"
+- image: "/uploads/Aomori%20-%20Installation-2.52.jpg"
   caption-title: The Old Truman Brewery
   caption-subtitle: Aomori
   link-url: 
