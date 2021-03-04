@@ -95,5 +95,15 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/Chiswick%20II.jpg"
+  caption-title: Unseen Amsterdam
+  caption-subtitle: To Feel Its Touch
+  link-url: 
+  caption-year: 2019
+  caption-extras: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  ignore: 
 ---
 
