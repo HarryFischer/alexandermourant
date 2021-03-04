@@ -156,8 +156,8 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Chiswick%20II.jpg"
-  caption-title: Unseen Amsterdam
+- image: "/uploads/Peckham%2024%20-%20Installation%20-%20Alexander%20Mourant%20-%202019.jpg"
+  caption-title: Peckham 24
   caption-subtitle: To Feel Its Touch
   link-url: 
   caption-year: 2019
@@ -166,8 +166,8 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Peckham%2024%20-%20Installation%20-%20Alexander%20Mourant%20-%202019.jpg"
-  caption-title: Peckham 24
+- image: "/uploads/Chiswick%20II.jpg"
+  caption-title: Unseen Amsterdam
   caption-subtitle: To Feel Its Touch
   link-url: 
   caption-year: 2019
