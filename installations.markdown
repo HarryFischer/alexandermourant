@@ -22,7 +22,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: 
+- image: "/uploads/16.jpg"
   caption-title: Shelter
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
