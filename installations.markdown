@@ -13,7 +13,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Five%20Sketches-8.jpg"
+- image: "/uploads/Five%20Sketches-1.jpg"
   caption-title: Five Furrows
   caption-subtitle: On Living Stones and Reaching
   link-url: 
@@ -23,7 +23,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Five%20Sketches-11.jpg"
+- image: "/uploads/Five%20Sketches-6.jpg"
   caption-title: Five Furrows
   caption-subtitle: On Living Stones and Reaching
   link-url: 
@@ -46,6 +46,26 @@ Content:
 - image: "/uploads/When%20the%20Image%20Returns%20to%20Glass%201.2.jpg"
   caption-title: The Eye Sees
   caption-subtitle: When the Image Returns to Glass
+  link-url: 
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Vitrum%20IX,%202019%20-%20Edel%20Assanti.jpg"
+  caption-title: Edel Assanti
+  caption-subtitle: I Could Not Tell Glass From Air
+  link-url: 
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/vitrum%20I,%20edel%20assanti%203.jpg"
+  caption-title: Edel Assanti
+  caption-subtitle: I Could Not Tell Glass From Air
   link-url: 
   caption-year: 2020
   caption-extras: 
@@ -120,26 +140,6 @@ Content:
   caption-subtitle: 'Left to right: Vitrum X, 2019; Vitrum IX, 2019; Fall I & II (diptych),
     2019; Vitrum VIII, 2019; Vitrum XI, 2018'
   link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 2020
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Vitrum%20IX,%202019%20-%20Edel%20Assanti.jpg"
-  caption-title: Edel Assanti
-  caption-subtitle: I Could Not Tell Glass From Air
-  link-url: 
-  caption-year: 2020
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/vitrum%20I,%20edel%20assanti%203.jpg"
-  caption-title: Edel Assanti
-  caption-subtitle: I Could Not Tell Glass From Air
-  link-url: 
   caption-year: 2020
   caption-extras: 
   image-size: medium
