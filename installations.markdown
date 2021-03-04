@@ -216,5 +216,15 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/Where%20You%20Are%20Not%205x4-3.jpg"
+  caption-title: Copeland Gallery
+  caption-subtitle: Where You Are Not
+  link-url: 
+  caption-year: 2019
+  caption-extras: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  ignore: 
 ---
 
