@@ -1,6 +1,7 @@
 ---
 title: Installations
 date: 2021-03-01 17:53:00 Z
+position: 2
 Content:
 - image: "/uploads/alex-1.jpg"
   caption-title: Shelter

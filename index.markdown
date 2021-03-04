@@ -1,6 +1,6 @@
 ---
 title: Home
-position: 7
+position: 9
 Content:
 - image: "/uploads/14.%201119am%20-%2027th%20March.jpg"
   caption-title: On Living Stones and Reaching
