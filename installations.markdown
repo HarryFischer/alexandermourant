@@ -166,5 +166,15 @@ Content:
   image-position: 
   image-margin-right: 
   ignore: 
+- image: "/uploads/Five%20Sketches-2.jpg"
+  caption-title: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
+  link-url: 
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
 ---
 
