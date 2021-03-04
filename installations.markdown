@@ -72,7 +72,18 @@ Content:
   caption-extras: 
   image-size: medium
   image-position: top
-  image-margin-right: small
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/08.jpg"
+  caption-title: I Could Not Tell Glass From Air
+  caption-subtitle: 'Left to right: Vitrum X, 2019; Vitrum IX, 2019; Fall I & II (diptych),
+    2019; Vitrum VIII, 2019; Vitrum XI, 2018'
+  link-url: "/i-could-not-tell-glass-from-air"
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
   ignore: 
 ---
 
