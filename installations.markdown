@@ -52,15 +52,16 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: 
-  caption-title: 
-  caption-subtitle: 
-  link-url: 
-  caption-year: 
+- image: "/uploads/05.jpg"
+  caption-title: I Could Not Tell Glass From Air
+  caption-subtitle: 'Left to right: Vitrum III, 2019; Vitrum IV, 2018; Vitrum V; A
+    Gesture of Brambles, 2019'
+  link-url: "/i-could-not-tell-glass-from-air"
+  caption-year: 2020
   caption-extras: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
   ignore: 
 ---
 
