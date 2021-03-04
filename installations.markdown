@@ -186,36 +186,6 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Aomori%20-%20Installation-5.jpg"
-  caption-title: The Old Truman Brewery
-  caption-subtitle: Aomori
-  link-url: 
-  caption-year: 2017
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Aomori%20-%20Installation-2.52-9f4fdb.jpg"
-  caption-title: The Old Truman Brewery
-  caption-subtitle: Aomori
-  link-url: 
-  caption-year: 2017
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Aomori%20-%20Installation-3-a0dc71.jpg"
-  caption-title: The Old Truman Brewery
-  caption-subtitle: Aomori
-  link-url: 
-  caption-year: 2017
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Where%20You%20Are%20Not%205x4-3.jpg"
   caption-title: Copeland Gallery
   caption-subtitle: Where You Are Not
@@ -241,6 +211,36 @@ Content:
   caption-subtitle: Where You Are Not
   link-url: 
   caption-year: 2019
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Aomori%20-%20Installation-5.jpg"
+  caption-title: The Old Truman Brewery
+  caption-subtitle: Aomori
+  link-url: 
+  caption-year: 2017
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Aomori%20-%20Installation-2.52-9f4fdb.jpg"
+  caption-title: The Old Truman Brewery
+  caption-subtitle: Aomori
+  link-url: 
+  caption-year: 2017
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Aomori%20-%20Installation-3-a0dc71.jpg"
+  caption-title: The Old Truman Brewery
+  caption-subtitle: Aomori
+  link-url: 
+  caption-year: 2017
   caption-extras: 
   image-size: medium
   image-position: top
