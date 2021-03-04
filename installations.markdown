@@ -13,6 +13,26 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/Five%20Sketches-8.jpg"
+  caption-title: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
+  link-url: 
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Five%20Sketches-11.jpg"
+  caption-title: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
+  link-url: 
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
 - image: "/uploads/When%20the%20Image%20Returns%20to%20Glass%202.jpg"
   caption-title: The Eye Sees
   caption-subtitle: When the Image Returns to Glass
@@ -33,7 +53,7 @@ Content:
   image-position: top
   image-margin-right: small
   ignore: 
-- image: "/uploads/alex-1.jpg"
+- image: "/uploads/17.jpg"
   caption-title: Shelter
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -191,26 +211,6 @@ Content:
   caption-subtitle: Aomori
   link-url: 
   caption-year: 2017
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Five%20Sketches-8.jpg"
-  caption-title: Five Furrows
-  caption-subtitle: On Living Stones and Reaching
-  link-url: 
-  caption-year: 2020
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Five%20Sketches-11.jpg"
-  caption-title: Five Furrows
-  caption-subtitle: On Living Stones and Reaching
-  link-url: 
-  caption-year: 2020
   caption-extras: 
   image-size: medium
   image-position: top
