@@ -10,7 +10,7 @@ Content:
   caption-extras: 
   image-size: medium
   image-position: top
-  image-margin-right: medium
+  image-margin-right: xsmall
   ignore: 
 - image: "/uploads/18.jpg"
   caption-title: Shelter
@@ -51,6 +51,16 @@ Content:
   image-size: medium
   image-position: top
   image-margin-right: xsmall
+  ignore: 
+- image: 
+  caption-title: 
+  caption-subtitle: 
+  link-url: 
+  caption-year: 
+  caption-extras: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
   ignore: 
 ---
 
