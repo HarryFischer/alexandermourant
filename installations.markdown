@@ -3,6 +3,16 @@ title: Installations
 date: 2021-03-01 17:53:00 Z
 position: 8
 Content:
+- image: "/uploads/Five%20Sketches-2.jpg"
+  caption-title: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
+  link-url: 
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
 - image: "/uploads/alex-1.jpg"
   caption-title: Shelter
   caption-subtitle: I Could Not Tell Glass From Air
@@ -165,16 +175,6 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  ignore: 
-- image: "/uploads/Five%20Sketches-2.jpg"
-  caption-title: Five Furrows
-  caption-subtitle: On Living Stones and Reaching
-  link-url: 
-  caption-year: 2020
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
   ignore: 
 ---
 
