@@ -166,5 +166,15 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/vitrum%20I,%20edel%20assanti%203.jpg"
+  caption-title: Edel Assanti
+  caption-subtitle: I Could Not Tell Glass From Air
+  link-url: 
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
 ---
 
