@@ -101,9 +101,9 @@ Content:
   link-url: 
   caption-year: 2019
   caption-extras: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Peckham%2024%20-%20Installation%20-%20Alexander%20Mourant%20-%202019.jpg"
   caption-title: Peckham 24
@@ -111,9 +111,19 @@ Content:
   link-url: 
   caption-year: 2019
   caption-extras: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/alexander-mourant-1-aomori-12-Unseen%20Amsterdam%202018.jpg"
+  caption-title: Unseen Amsterdam
+  caption-subtitle: Aomori
+  link-url: 
+  caption-year: 2018
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
   ignore: 
 ---
 
