@@ -39,7 +39,7 @@ Content:
   link-url: 
   caption-year: 2020
   caption-extras: 
-  image-size: middle
+  image-size: medium
   image-position: top
   image-margin-right: xsmall
   ignore: 
