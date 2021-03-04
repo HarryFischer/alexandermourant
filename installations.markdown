@@ -20,7 +20,7 @@ Content:
   caption-extras: 
   image-size: medium
   image-position: top
-  image-margin-right: medium
+  image-margin-right: small
   ignore: 
 ---
 
