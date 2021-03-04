@@ -26,7 +26,7 @@ Content:
   caption-title: Shelter
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 
+  caption-year: 2020
   caption-extras: 
   image-size: medium
   image-position: top
@@ -36,17 +36,17 @@ Content:
   caption-title: Shelter
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 
+  caption-year: 2020
   caption-extras: 
   image-size: medium
   image-position: top
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/A%20Gesture%20of%20Brambles,%202019-22290a.jpg"
-  caption-title: Shelter
+  caption-title: A Gesture of Brambles
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 
+  caption-year: 2019
   caption-extras: 
   image-size: medium
   image-position: top
