@@ -85,5 +85,15 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/Unseen%202019%20triptych%20colour%20adjustment.jpg"
+  caption-title: Unseen Amsterdam
+  caption-subtitle: To Feel Its Touch
+  link-url: 
+  caption-year: 2019
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
 ---
 
