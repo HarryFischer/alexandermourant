@@ -13,6 +13,16 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/When%20the%20Image%20Returns%20to%20Glass%202.jpg"
+  caption-title: The Eye Sees
+  caption-subtitle: When the Image Returns to Glass
+  link-url: 
+  caption-year: 2020
+  caption-extras: 
+  image-size: middle
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
 - image: "/uploads/When%20the%20Image%20Returns%20to%20Glass%201.2.jpg"
   caption-title: The Eye Sees
   caption-subtitle: When the Image Returns to Glass
@@ -185,16 +195,6 @@ Content:
   image-size: medium
   image-position: top
   image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/When%20the%20Image%20Returns%20to%20Glass%202.jpg"
-  caption-title: The Eye Sees
-  caption-subtitle: When the Image Returns to Glass
-  link-url: 
-  caption-year: 2020
-  caption-extras: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
   ignore: 
 ---
 
