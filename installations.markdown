@@ -222,9 +222,9 @@ Content:
   link-url: 
   caption-year: 2019
   caption-extras: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
   ignore: 
 ---
 
