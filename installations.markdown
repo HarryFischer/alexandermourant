@@ -3,7 +3,7 @@ title: Installations
 date: 2021-03-01 17:53:00 Z
 position: 8
 Content:
-- image: "/uploads/Five%20Sketches-2.jpg"
+- image: "/uploads/Five-Sketches-2-spotted.jpg"
   caption-title: Five Furrows
   caption-subtitle: On Living Stones and Reaching
   link-url: 
