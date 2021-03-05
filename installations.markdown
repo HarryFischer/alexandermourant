@@ -145,7 +145,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2019.jpg"
+- image: "/uploads/Chiswick-II---Alexander-Mourant---2020-warmer.jpg"
   caption-title: Unseen Amsterdam, Seen Fifteen Gallery
   caption-subtitle: To Feel Its Touch
   link-url: "/to-feel-its-touch"
