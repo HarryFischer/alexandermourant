@@ -146,7 +146,7 @@ Content:
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2019.jpg"
-  caption-title: Unseen Amsterdam
+  caption-title: Unseen Amsterdam, Seen Fifteen Gallery
   caption-subtitle: To Feel Its Touch
   link-url: 
   caption-year: 2019
@@ -166,7 +166,7 @@ Content:
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Chiswick-II---Alexander-Mourant---2020.jpg"
-  caption-title: Unseen Amsterdam
+  caption-title: Unseen Amsterdam, Seen Fifteen Gallery
   caption-subtitle: To Feel Its Touch
   link-url: 
   caption-year: 2019
@@ -175,8 +175,8 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/alexander-mourant-1-aomori-12-Unseen%20Amsterdam%202018.jpg"
-  caption-title: Unseen Amsterdam
+- image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2018.jpg"
+  caption-title: Unseen Amsterdam, Seen Fifteen Gallery
   caption-subtitle: Aomori
   link-url: 
   caption-year: 2018
