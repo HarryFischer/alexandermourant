@@ -180,7 +180,7 @@ Content:
   caption-subtitle: Aomori
   link-url: 
   caption-year: 2018
-  caption-extras: 
+  caption-extras: 'Left to right: Dissipate I, Dissipate II, Forest IV'
   image-size: medium
   image-position: top
   image-margin-right: xsmall
