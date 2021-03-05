@@ -84,53 +84,52 @@ Content:
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/18.jpg"
-  caption-title: Shelter
+  caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Shelter
   image-size: medium
   image-position: top
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/16.jpg"
-  caption-title: Shelter
+  caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Shelter
   image-size: medium
   image-position: top
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/A%20Gesture%20of%20Brambles,%202019-22290a.jpg"
-  caption-title: A Gesture of Brambles
+  caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2019
-  caption-extras: 
+  caption-extras: A Gesture of Brambles
   image-size: medium
   image-position: top
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/05.jpg"
-  caption-title: I Could Not Tell Glass From Air
-  caption-subtitle: 'Left to right: Vitrum III, 2019; Vitrum IV, 2018; Vitrum V; A
-    Gesture of Brambles, 2019'
+  caption-title: Royal College of Art
+  caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: A Gesture of Brambles
   image-size: medium
   image-position: top
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/06.jpg"
-  caption-title: I Could Not Tell Glass From Air
-  caption-subtitle: 'Left to right: Vitrum VI, 2019; Fall I & II (diptych), 2019;
-    Vitrum VIII, 2019'
+  caption-title: Royal College of Art
+  caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: 'Left to right: Vitrum VI, 2019; Fall I & II (diptych), 2019; Vitrum
+    VIII, 2019'
   image-size: medium
   image-position: top
   image-margin-right: xsmall
