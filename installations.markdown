@@ -135,16 +135,6 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Chiswick-II---Alexander-Mourant---2020-warmer.jpg"
-  caption-title: Unseen Amsterdam, Seen Fifteen Gallery
-  caption-subtitle: To Feel Its Touch
-  link-url: "/to-feel-its-touch"
-  caption-year: 2019
-  caption-extras: Chiswick II
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Peckham-24---Installation---Alexander-Mourant---2019.jpg"
   caption-title: Peckham 24
   caption-subtitle: To Feel Its Touch
@@ -191,6 +181,16 @@ Content:
   link-url: "/aomori"
   caption-year: 2019
   caption-extras: 'Left to right: Forest III, Dissipate II, City II'
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Chiswick-II---Alexander-Mourant---2020-warmer.jpg"
+  caption-title: Unseen Amsterdam, Seen Fifteen Gallery
+  caption-subtitle: To Feel Its Touch
+  link-url: "/to-feel-its-touch"
+  caption-year: 2019
+  caption-extras: Chiswick II
   image-size: medium
   image-position: top
   image-margin-right: xsmall
