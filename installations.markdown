@@ -4,8 +4,8 @@ date: 2021-03-01 17:53:00 Z
 position: 8
 Content:
 - image: "/uploads/Five-Sketches-2-spotted.jpg"
-  caption-title: Five Furrows
-  caption-subtitle: On Living Stones and Reaching
+  caption-title: Mont au Prêtre Farm
+  caption-subtitle: Five Furrows
   link-url: 
   caption-year: 2020
   caption-extras: 
@@ -13,9 +13,9 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Five%20Sketches-1.jpg"
-  caption-title: Five Furrows
-  caption-subtitle: On Living Stones and Reaching
+- image: "/uploads/Five-Furrows---Alexander-Mourant---2020.jpg"
+  caption-title: Mont au Prêtre Farm
+  caption-subtitle: Five Furrows
   link-url: 
   caption-year: 2020
   caption-extras: 
@@ -23,9 +23,9 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Five%20Sketches-6.jpg"
-  caption-title: Five Furrows
-  caption-subtitle: On Living Stones and Reaching
+- image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020.jpg"
+  caption-title: Mont au Prêtre Farm
+  caption-subtitle: Five Furrows
   link-url: 
   caption-year: 2020
   caption-extras: 
@@ -33,7 +33,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/When%20the%20Image%20Returns%20to%20Glass%202.jpg"
+- image: "/uploads/The-Eye-Sees,-Arles-2---Alexander-Mourant---2020.jpg"
   caption-title: The Eye Sees
   caption-subtitle: When the Image Returns to Glass
   link-url: 
@@ -43,7 +43,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/When%20the%20Image%20Returns%20to%20Glass%201.2.jpg"
+- image: "/uploads/The-Eye-Sees,-Arles---Alexander-Mourant---2020.jpg"
   caption-title: The Eye Sees
   caption-subtitle: When the Image Returns to Glass
   link-url: 
