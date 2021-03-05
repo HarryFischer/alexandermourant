@@ -34,8 +34,8 @@ Content:
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/The-Eye-Sees,-Arles-2---Alexander-Mourant---2020.jpg"
-  caption-title: The Eye Sees
-  caption-subtitle: When the Image Returns to Glass
+  caption-title: The Eye Sees, Arles
+  caption-subtitle: 'Entractes 14: When the Image Returns to Glass'
   link-url: 
   caption-year: 2020
   caption-extras: 
@@ -44,8 +44,8 @@ Content:
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/The-Eye-Sees,-Arles---Alexander-Mourant---2020.jpg"
-  caption-title: The Eye Sees
-  caption-subtitle: When the Image Returns to Glass
+  caption-title: The Eye Sees, Arles
+  caption-subtitle: 'Entractes 14: When the Image Returns to Glass'
   link-url: 
   caption-year: 2020
   caption-extras: 
@@ -53,22 +53,22 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Vitrum%20IX,%202019%20-%20Edel%20Assanti.jpg"
+- image: "/uploads/Vitrum-IX,-2019---Edel-Assanti.jpg"
   caption-title: Edel Assanti
-  caption-subtitle: I Could Not Tell Glass From Air
+  caption-subtitle: With fists, it kicks, it bites
   link-url: 
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Vitrum IX
   image-size: medium
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/vitrum%20I,%20edel%20assanti%203.jpg"
+- image: "/uploads/Vitrum-I,-2019---Edel-Assanti.jpg"
   caption-title: Edel Assanti
-  caption-subtitle: I Could Not Tell Glass From Air
+  caption-subtitle: With fists, it kicks, it bites
   link-url: 
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Vitrum I
   image-size: medium
   image-position: top
   image-margin-right: xsmall
