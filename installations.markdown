@@ -83,7 +83,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/18.jpg"
+- image: "/uploads/Shelter-3---Alexnder-Mourant---2020.jpg"
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -93,7 +93,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/16.jpg"
+- image: "/uploads/Shelter-2---Alexnder-Mourant---2020-a9259c.jpg"
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -103,7 +103,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/A%20Gesture%20of%20Brambles,%202019-22290a.jpg"
+- image: "/uploads/A-Gesture-of-Brambles---Alexander-Mourant---2020.jpg"
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -113,7 +113,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/05.jpg"
+- image: "/uploads/A-Gesture-of-Brambles-2---Alexander-Mourant---2020.jpg"
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -123,7 +123,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/06.jpg"
+- image: "/uploads/ICNTGFA---Alexander-Mourant---2020.jpg"
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -135,12 +135,12 @@ Content:
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/08.jpg"
-  caption-title: I Could Not Tell Glass From Air
-  caption-subtitle: 'Left to right: Vitrum X, 2019; Vitrum IX, 2019; Fall I & II (diptych),
-    2019; Vitrum VIII, 2019; Vitrum XI, 2018'
+  caption-title: Royal College of Art
+  caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: 'Left to right: Vitrum X, 2019; Vitrum IX, 2019; Fall I & II (diptych),
+    2019; Vitrum VIII, 2019; Vitrum XI, 2018'
   image-size: medium
   image-position: top
   image-margin-right: xsmall
