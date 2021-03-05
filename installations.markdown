@@ -134,7 +134,7 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/08.jpg"
+- image: "/uploads/ICNTGFA-2---Alexander-Mourant---2020.jpg"
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -145,32 +145,32 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Unseen%202019%20triptych%20colour%20adjustment.jpg"
+- image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2019.jpg"
   caption-title: Unseen Amsterdam
   caption-subtitle: To Feel Its Touch
   link-url: 
   caption-year: 2019
-  caption-extras: 
+  caption-extras: Chiswick II
   image-size: medium
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Peckham%2024%20-%20Installation%20-%20Alexander%20Mourant%20-%202019.jpg"
+- image: "/uploads/Peckham-24---Installation---Alexander-Mourant---2019.jpg"
   caption-title: Peckham 24
   caption-subtitle: To Feel Its Touch
   link-url: 
   caption-year: 2019
-  caption-extras: 
+  caption-extras: Peckham I
   image-size: medium
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Chiswick%20II.jpg"
+- image: "/uploads/Chiswick-II---Alexander-Mourant---2020.jpg"
   caption-title: Unseen Amsterdam
   caption-subtitle: To Feel Its Touch
   link-url: 
   caption-year: 2019
-  caption-extras: 
+  caption-extras: Chiswick II
   image-size: medium
   image-position: top
   image-margin-right: xsmall
