@@ -6,7 +6,7 @@ Content:
 - image: "/uploads/Five-Sketches-2-spotted.jpg"
   caption-title: Mont au Prêtre Farm
   caption-subtitle: Five Furrows
-  link-url: 
+  link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
   caption-extras: 
   image-size: medium
@@ -16,7 +16,7 @@ Content:
 - image: "/uploads/Five-Furrows---Alexander-Mourant---2020.jpg"
   caption-title: Mont au Prêtre Farm
   caption-subtitle: Five Furrows
-  link-url: 
+  link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
   caption-extras: 
   image-size: medium
@@ -26,7 +26,7 @@ Content:
 - image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020.jpg"
   caption-title: Mont au Prêtre Farm
   caption-subtitle: Five Furrows
-  link-url: 
+  link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
   caption-extras: 
   image-size: medium
@@ -36,7 +36,7 @@ Content:
 - image: "/uploads/The-Eye-Sees,-Arles-2---Alexander-Mourant---2020.jpg"
   caption-title: The Eye Sees, Arles
   caption-subtitle: 'Entractes 14: When the Image Returns to Glass'
-  link-url: 
+  link-url: "/aomori"
   caption-year: 2020
   caption-extras: 
   image-size: medium
@@ -46,7 +46,7 @@ Content:
 - image: "/uploads/The-Eye-Sees,-Arles---Alexander-Mourant---2020.jpg"
   caption-title: The Eye Sees, Arles
   caption-subtitle: 'Entractes 14: When the Image Returns to Glass'
-  link-url: 
+  link-url: "/aomori"
   caption-year: 2020
   caption-extras: 
   image-size: medium
@@ -56,7 +56,7 @@ Content:
 - image: "/uploads/Vitrum-IX,-2019---Edel-Assanti.jpg"
   caption-title: Edel Assanti
   caption-subtitle: With fists, it kicks, it bites
-  link-url: 
+  link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
   caption-extras: Vitrum IX
   image-size: medium
@@ -66,19 +66,19 @@ Content:
 - image: "/uploads/Vitrum-I,-2019---Edel-Assanti.jpg"
   caption-title: Edel Assanti
   caption-subtitle: With fists, it kicks, it bites
-  link-url: 
+  link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
   caption-extras: Vitrum I
   image-size: medium
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/17.jpg"
-  caption-title: Shelter
+- image: "/uploads/Shelter---Alexnder-Mourant---2020.jpg"
+  caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Shelter
   image-size: medium
   image-position: top
   image-margin-right: xsmall
