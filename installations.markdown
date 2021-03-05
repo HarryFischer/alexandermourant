@@ -215,35 +215,5 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Aomori%20-%20Installation-5.jpg"
-  caption-title: The Old Truman Brewery
-  caption-subtitle: Aomori
-  link-url: 
-  caption-year: 2017
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Aomori%20-%20Installation-2.52-9f4fdb.jpg"
-  caption-title: The Old Truman Brewery
-  caption-subtitle: Aomori
-  link-url: 
-  caption-year: 2017
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Aomori%20-%20Installation-3-a0dc71.jpg"
-  caption-title: The Old Truman Brewery
-  caption-subtitle: Aomori
-  link-url: 
-  caption-year: 2017
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
 ---
 
