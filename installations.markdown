@@ -185,12 +185,12 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Where%20You%20Are%20Not%205x4-3.jpg"
+- image: "/uploads/Copeland-Gallery-3---Alexander-Mourant---2019.jpg"
   caption-title: Copeland Gallery
   caption-subtitle: Where You Are Not
   link-url: 
   caption-year: 2019
-  caption-extras: 
+  caption-extras: 'Left to right: Waterfall I, Blue Tree, Dissipate I, Forest V'
   image-size: medium
   image-position: top
   image-margin-right: xsmall
