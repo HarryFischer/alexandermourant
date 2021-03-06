@@ -63,7 +63,7 @@ Content:
   caption-year: 2017
   page-url: "/aurelian"
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: small
   ignore: 
 layout: home
