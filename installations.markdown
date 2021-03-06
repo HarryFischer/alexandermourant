@@ -10,7 +10,7 @@ Content:
   caption-year: 2020
   caption-extras: 
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Furrows---Alexander-Mourant---2020-65e547.jpg"
@@ -20,7 +20,7 @@ Content:
   caption-year: 2020
   caption-extras: 
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-7.jpg"
@@ -30,7 +30,7 @@ Content:
   caption-year: 2020
   caption-extras: 
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020-4af8cd.jpg"
@@ -40,7 +40,7 @@ Content:
   caption-year: 2020
   caption-extras: 
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-13.jpg"
@@ -50,7 +50,7 @@ Content:
   caption-year: 2020
   caption-extras: 
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-12.jpg"
@@ -60,7 +60,7 @@ Content:
   caption-year: 2020
   caption-extras: 
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/The-Eye-Sees,-Arles-2---Alexander-Mourant---2020.jpg"
@@ -70,7 +70,7 @@ Content:
   caption-year: 2020
   caption-extras: 
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/The-Eye-Sees,-Arles---Alexander-Mourant---2020.jpg"
@@ -80,7 +80,7 @@ Content:
   caption-year: 2020
   caption-extras: 
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Vitrum-IX,-2019---Edel-Assanti.jpg"
@@ -90,7 +90,7 @@ Content:
   caption-year: 2020
   caption-extras: Vitrum IX
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Vitrum-I,-2019---Edel-Assanti.jpg"
@@ -100,7 +100,7 @@ Content:
   caption-year: 2020
   caption-extras: Vitrum I
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Shelter---Alexnder-Mourant---2020.jpg"
@@ -110,7 +110,7 @@ Content:
   caption-year: 2020
   caption-extras: Shelter
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Shelter-3---Alexnder-Mourant---2020.jpg"
@@ -120,7 +120,7 @@ Content:
   caption-year: 2020
   caption-extras: Shelter
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Shelter-2---Alexnder-Mourant---2020-a9259c.jpg"
@@ -130,7 +130,7 @@ Content:
   caption-year: 2020
   caption-extras: Shelter
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/A-Gesture-of-Brambles---Alexander-Mourant---2020.jpg"
@@ -140,7 +140,7 @@ Content:
   caption-year: 2019
   caption-extras: A Gesture of Brambles
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/A-Gesture-of-Brambles-2---Alexander-Mourant---2020.jpg"
@@ -150,7 +150,7 @@ Content:
   caption-year: 2020
   caption-extras: A Gesture of Brambles
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/ICNTGFA---Alexander-Mourant---2020.jpg"
@@ -161,7 +161,7 @@ Content:
   caption-extras: 'Left to right: Vitrum VI, 2019; Fall I & II (diptych), 2019; Vitrum
     VIII, 2019'
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/ICNTGFA-2---Alexander-Mourant---2020.jpg"
@@ -172,7 +172,7 @@ Content:
   caption-extras: 'Left to right: Vitrum X, 2019; Vitrum IX, 2019; Fall I & II (diptych),
     2019; Vitrum VIII, 2019; Vitrum XI, 2018'
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2019.jpg"
@@ -182,7 +182,7 @@ Content:
   caption-year: 2019
   caption-extras: Chiswick II
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Peckham-24---Installation---Alexander-Mourant---2019.jpg"
@@ -192,7 +192,7 @@ Content:
   caption-year: 2019
   caption-extras: Peckham I
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2018.jpg"
@@ -202,7 +202,7 @@ Content:
   caption-year: 2018
   caption-extras: 'Left to right: Dissipate I, Dissipate II, Forest IV'
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Copeland-Gallery-3---Alexander-Mourant---2019.jpg"
@@ -212,7 +212,7 @@ Content:
   caption-year: 2019
   caption-extras: 'Left to right: Waterfall I, Blue Tree, Dissipate I, Forest V'
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019.jpg"
@@ -222,7 +222,7 @@ Content:
   caption-year: 2019
   caption-extras: 'Left to right: Forest III, Dissipate II, City II'
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019%202.jpg"
@@ -232,7 +232,7 @@ Content:
   caption-year: 2019
   caption-extras: 'Left to right: Forest III, Dissipate II, City II'
   image-size: medium
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
   ignore: 
 ---
