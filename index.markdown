@@ -55,7 +55,7 @@ Content:
   caption-year: 2017
   page-url: "/aomori"
   image-size: medium
-  image-position: bottom
+  image-position: middle
   image-margin-right: small
   ignore: 
 - image: "/uploads/Display-dome-with-atmosphere---Alexander-Mourant.jpg"
