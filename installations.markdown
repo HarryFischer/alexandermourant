@@ -165,16 +165,6 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Copeland-Gallery-3---Alexander-Mourant---2019-02fb2c.jpg"
-  caption-title: Aomori test colour
-  caption-subtitle: 
-  link-url: 
-  caption-year: 
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019.jpg"
   caption-title: Copeland Gallery
   caption-subtitle: Where You Are Not
