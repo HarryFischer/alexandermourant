@@ -31,7 +31,7 @@ Content:
   caption-extras: 
   image-size: medium
   image-position: top
-  image-margin-right: small
+  image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020-4af8cd.jpg"
   caption-title: Mont au Prêtre Farm
