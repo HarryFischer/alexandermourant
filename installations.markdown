@@ -235,5 +235,6 @@ Content:
   image-position: middle
   image-margin-right: xsmall
   ignore: 
+layout: installations
 ---
 
