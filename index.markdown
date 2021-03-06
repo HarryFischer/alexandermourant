@@ -31,7 +31,7 @@ Content:
   caption-year: 2020
   page-url: "/the-bell-tower"
   image-size: small
-  image-position: middle
+  image-position: top
   image-margin-right: small
   ignore: 
 - image: "/uploads/Peckham%20I%20(iii).jpg"
