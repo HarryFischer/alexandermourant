@@ -15,7 +15,7 @@ Content:
   caption-year: 2020
   page-url: "/i-could-not-tell-glass-from-air"
   image-size: small
-  image-position: top
+  image-position: middle
   image-margin-right: small
   ignore: 
 - image: "/uploads/A-Vertigo-Like-Self---2020---Alexander-Mourant.jpg"
