@@ -61,7 +61,7 @@ Content:
   caption-extras: 
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
   ignore: 
 - image: "/uploads/The-Eye-Sees,-Arles-2---Alexander-Mourant---2020.jpg"
   caption-title: The Eye Sees, Arles
@@ -81,7 +81,7 @@ Content:
   caption-extras: 
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
   ignore: 
 - image: "/uploads/Vitrum-IX,-2019---Edel-Assanti.jpg"
   caption-title: Edel Assanti
@@ -101,7 +101,7 @@ Content:
   caption-extras: Vitrum I
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
   ignore: 
 - image: "/uploads/Shelter---Alexnder-Mourant---2020.jpg"
   caption-title: Royal College of Art
@@ -173,7 +173,7 @@ Content:
     2019; Vitrum VIII, 2019; Vitrum XI, 2018'
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
   ignore: 
 - image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2019.jpg"
   caption-title: Unseen Amsterdam, Seen Fifteen Gallery
@@ -193,7 +193,7 @@ Content:
   caption-extras: Peckham I
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
   ignore: 
 - image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2018.jpg"
   caption-title: Unseen Amsterdam, Seen Fifteen Gallery
