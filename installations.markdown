@@ -13,6 +13,56 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/Five-Furrows---Alexander-Mourant---2020-65e547.jpg"
+  caption-title: Mont au Prêtre Farm
+  caption-subtitle: Five Furrows
+  link-url: "/on-living-stones-and-reaching"
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Five-Sketches-7.jpg"
+  caption-title: Mont au Prêtre Farm
+  caption-subtitle: Five Furrows
+  link-url: "/on-living-stones-and-reaching"
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: small
+  ignore: 
+- image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020-4af8cd.jpg"
+  caption-title: Mont au Prêtre Farm
+  caption-subtitle: Five Furrows
+  link-url: "/on-living-stones-and-reaching"
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Five-Sketches-13.jpg"
+  caption-title: Mont au Prêtre Farm
+  caption-subtitle: Five Furrows
+  link-url: "/on-living-stones-and-reaching"
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Five-Sketches-12.jpg"
+  caption-title: Mont au Prêtre Farm
+  caption-subtitle: Five Furrows
+  link-url: "/on-living-stones-and-reaching"
+  caption-year: 2020
+  caption-extras: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
+  ignore: 
 - image: "/uploads/The-Eye-Sees,-Arles-2---Alexander-Mourant---2020.jpg"
   caption-title: The Eye Sees, Arles
   caption-subtitle: 'Entractes 14: When the Image Returns to Glass'
@@ -181,66 +231,6 @@ Content:
   link-url: "/aomori"
   caption-year: 2019
   caption-extras: 'Left to right: Forest III, Dissipate II, City II'
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Five-Furrows---Alexander-Mourant---2020-65e547.jpg"
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
-  link-url: "/on-living-stones-and-reaching"
-  caption-year: 2020
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Five-Sketches-7.jpg"
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
-  link-url: "/on-living-stones-and-reaching"
-  caption-year: 2020
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: small
-  ignore: 
-- image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020-4af8cd.jpg"
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
-  link-url: "/on-living-stones-and-reaching"
-  caption-year: 2020
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Five-Sketches-13.jpg"
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
-  link-url: "/on-living-stones-and-reaching"
-  caption-year: 2020
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Five-Sketches-8.jpg"
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
-  link-url: "/on-living-stones-and-reaching"
-  caption-year: 2020
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Five-Sketches-12.jpg"
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
-  link-url: "/on-living-stones-and-reaching"
-  caption-year: 2020
-  caption-extras: 
   image-size: medium
   image-position: top
   image-margin-right: xsmall
