@@ -199,7 +199,7 @@ Content:
   caption-title: Mont au Prêtre Farm
   caption-subtitle: Five Furrows
   link-url: "/on-living-stones-and-reaching"
-  caption-year: 
+  caption-year: 2020
   caption-extras: 
   image-size: 
   image-position: 
@@ -209,7 +209,7 @@ Content:
   caption-title: Mont au Prêtre Farm
   caption-subtitle: Five Furrows
   link-url: "/on-living-stones-and-reaching"
-  caption-year: 
+  caption-year: 2020
   caption-extras: 
   image-size: 
   image-position: 
@@ -219,7 +219,7 @@ Content:
   caption-title: Mont au Prêtre Farm
   caption-subtitle: Five Furrows
   link-url: "/on-living-stones-and-reaching"
-  caption-year: 
+  caption-year: 2020
   caption-extras: 
   image-size: 
   image-position: 
@@ -229,7 +229,7 @@ Content:
   caption-title: Mont au Prêtre Farm
   caption-subtitle: Five Furrows
   link-url: "/on-living-stones-and-reaching"
-  caption-year: 
+  caption-year: 2020
   caption-extras: 
   image-size: 
   image-position: 
@@ -239,7 +239,7 @@ Content:
   caption-title: Mont au Prêtre Farm
   caption-subtitle: Five Furrows
   link-url: "/on-living-stones-and-reaching"
-  caption-year: 
+  caption-year: 2020
   caption-extras: 
   image-size: 
   image-position: 
@@ -249,7 +249,7 @@ Content:
   caption-title: Mont au Prêtre Farm
   caption-subtitle: Five Furrows
   link-url: "/on-living-stones-and-reaching"
-  caption-year: 
+  caption-year: 2020
   caption-extras: 
   image-size: 
   image-position: 
@@ -259,7 +259,7 @@ Content:
   caption-title: Mont au Prêtre Farm
   caption-subtitle: Five Furrows
   link-url: "/on-living-stones-and-reaching"
-  caption-year: 
+  caption-year: 2020
   caption-extras: 
   image-size: 
   image-position: 
