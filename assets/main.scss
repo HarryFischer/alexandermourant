@@ -18,9 +18,15 @@ body {
     letter-spacing: 0.2px;
     font-weight: 100;
     scroll-behavior: smooth;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 
 .site-header {
+    position: relative;
     .site-title {
         font-size: 20px;
         letter-spacing:0;
@@ -33,6 +39,14 @@ body {
         &:hover {
             border-bottom: 1px solid black;
             text-decoration: none;
+        }
+        @media (max-width: 700px) {
+            position:absolute;
+        }
+    }
+    nav {
+        @media (max-width: 700px) {
+            margin-left: auto;
         }
     }
     .nav-wrapper {
@@ -68,7 +82,7 @@ body {
                         color: black;;
                         margin:4px;
                         transition:border-bottom 0.3s ease;
-                        border-bottom:1px solid white;
+                        border-bottom:1px solid transparent;
                         &:hover {
                             border-bottom: 1px solid black;
                             text-decoration: none;
@@ -107,19 +121,48 @@ body {
                     }
                 }
                 .hide-nav {
-                    display:none;
+                    visibility: hidden;
+                    opacity: 0;
+                    transition: visibility 0s,
+                    opacity 0.5s ease;
                     position: absolute;
                     z-index: 100;
-                    background-color: white;
+                    background-color: #ffffff90;
                     width: max-content;
+                    width: 100vw;
                     right: 0;
                     padding: 5px 10px;
                     margin-right: -10px;
+                    @media (min-width: 700px) {
+                        right: -9vw;
+                        padding-right:9.5vw;
+                        border-bottom:1px solid rgba(207, 207, 207, 0.2);
+                    }
+                    @media (max-width: 700px) {
+                        width:unset;
+                        position:relative;
+                        display:none;
+                        .li {
+                            max-width:max-content;
+                        }
+                    }
+                    & ~ li {
+                        p {
+                            border-bottom:1px solid transparent;
+                        }
+                    }
                 }
                 .show-nav {
-                    display:block;
+                    visibility: visible;
+                    opacity: 1;
+                    @media (max-width: 700px) {
+                        display:block;
+                    }
                     .artwork-link {
                         margin: 10px 0;
+                        @media (max-width: 700px) {
+                            margin: 0 0px 10px 0px;
+                        }
                     }
                 }
             }
@@ -138,6 +181,7 @@ body {
             margin-top: 20px;
         }
         img {
+            transition: opacity 0.3s ease;
             max-width:none;
             // margin-right: 10px;
         }
@@ -158,6 +202,7 @@ body {
             display: flex;
             height:max-content;
             margin-bottom:30px;
+            text-decoration:none;
             // opacity:0;
             // transform: translateX(60px);
             // transition:all 0.5s ease-in;
@@ -262,14 +307,35 @@ body {
             }
             .caption-subtitle {
                 font-weight:bold;
-                transition:border-bottom 0.3s ease;
-                border-bottom:1px solid white;
                 margin-top: 4px;
                 width: max-content;
+            }
+            .caption-link-style {
+                transition:border-bottom 0.3s ease;
+                border-bottom:1px solid transparent;
+                width: max-content;
                 &:hover {
-                    border-bottom:1px solid black;
+                    border-bottom: 1px solid black;
+                    text-decoration: none;
                     text-decoration: none;
                 }
+            }
+        }
+    }
+}
+
+.Home {
+    .link-container {
+        // background-color:black;
+        // .caption-wrapper {
+        //     background-color: white;
+        // }
+        &:hover {
+            img {
+                // opacity: 0.9;
+            }
+            .caption-link-style {
+                border-bottom: 1px solid;
             }
         }
     }
