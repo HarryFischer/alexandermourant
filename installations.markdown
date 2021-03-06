@@ -165,16 +165,6 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019-2.jpg"
-  caption-title: Copeland Gallery
-  caption-subtitle: Where You Are Not
-  link-url: "/aomori"
-  caption-year: 2019
-  caption-extras: 'Left to right: Forest III, Dissipate II, City II'
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019.jpg"
   caption-title: Copeland Gallery
   caption-subtitle: Where You Are Not
@@ -185,12 +175,12 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Chiswick-II---Alexander-Mourant---2020-warmer.jpg"
-  caption-title: Unseen Amsterdam, Seen Fifteen Gallery
-  caption-subtitle: To Feel Its Touch
-  link-url: "/to-feel-its-touch"
+- image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019%202.jpg"
+  caption-title: Copeland Gallery
+  caption-subtitle: Where You Are Not
+  link-url: "/aomori"
   caption-year: 2019
-  caption-extras: Chiswick II
+  caption-extras: 'Left to right: Forest III, Dissipate II, City II'
   image-size: medium
   image-position: top
   image-margin-right: xsmall
