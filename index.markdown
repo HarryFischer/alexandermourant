@@ -2,7 +2,7 @@
 title: Home
 position: 9
 Content:
-- image: "/uploads/14.%201119am%20-%2027th%20March.jpg"
+- image: "/uploads/Screenshot%20Portrait%20of%20the%20Artist.jpg"
   caption-title: On Living Stones and Reaching
   caption-year: 2020
   page-url: "/on-living-stones-and-reaching"
