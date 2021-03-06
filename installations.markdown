@@ -245,15 +245,5 @@ Content:
   image-position: top
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020-4c0bc3.jpg"
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
-  link-url: "/on-living-stones-and-reaching"
-  caption-year: 2020
-  caption-extras: 
-  image-size: medium
-  image-position: top
-  image-margin-right: xsmall
-  ignore: 
 ---
 
