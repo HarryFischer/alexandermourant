@@ -6,7 +6,7 @@ Content:
   caption-title: On Living Stones and Reaching
   caption-year: 2020
   page-url: "/on-living-stones-and-reaching"
-  image-size: large
+  image-size: medium
   image-position: top
   image-margin-right: small
   ignore: 
@@ -14,7 +14,7 @@ Content:
   caption-title: I Could Not Tell Glass From Air
   caption-year: 2020
   page-url: "/i-could-not-tell-glass-from-air"
-  image-size: medium
+  image-size: small
   image-position: top
   image-margin-right: small
   ignore: 
