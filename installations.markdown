@@ -201,9 +201,9 @@ Content:
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
   caption-extras: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-7.jpg"
   caption-title: Mont au Prêtre Farm
@@ -211,9 +211,9 @@ Content:
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
   caption-extras: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: small
   ignore: 
 - image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020-4af8cd.jpg"
   caption-title: Mont au Prêtre Farm
@@ -221,9 +221,9 @@ Content:
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
   caption-extras: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-13.jpg"
   caption-title: Mont au Prêtre Farm
@@ -231,9 +231,9 @@ Content:
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
   caption-extras: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-8.jpg"
   caption-title: Mont au Prêtre Farm
@@ -241,9 +241,9 @@ Content:
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
   caption-extras: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-12.jpg"
   caption-title: Mont au Prêtre Farm
@@ -251,9 +251,9 @@ Content:
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
   caption-extras: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020-4c0bc3.jpg"
   caption-title: Mont au Prêtre Farm
@@ -261,9 +261,9 @@ Content:
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
   caption-extras: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: top
+  image-margin-right: xsmall
   ignore: 
 ---
 
