@@ -21,5 +21,6 @@ Words:
   word-paragraph: 
 - word-paragraph: 'Q: question'
   words-title: 'A: answer'
+layout: project
 ---
 
