@@ -13,12 +13,12 @@ console.log(pageType)
 //         }
 //         if (scrollWrapper.addEventListener) {
 //             // IE9, Chrome, Safari, Opera
-//             scrollWrapper.addEventListener("mousewheel", scrollHorizontally, false);
+//             scrollWrapper.addEventListener("wheel", scrollHorizontally, false);
 //             // Firefox
 //             scrollWrapper.addEventListener("DOMMouseScroll", scrollHorizontally, false);
 //         } else {
 //             // IE 6/7/8
-//             scrollWrapper.attachEvent("onmousewheel", scrollHorizontally);
+//             scrollWrapper.attachEvent("onwheel", scrollHorizontally);
 //         }
 //     })();
 // }

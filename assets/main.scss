@@ -121,7 +121,7 @@ body {
         }
         img {
             max-width:none;
-            margin-right: 10px;
+            // margin-right: 10px;
         }
     }
     .flex  {
@@ -141,8 +141,8 @@ body {
             height:max-content;
             margin-bottom:30px;
             // opacity:0;
-            transform: translateX(60px);
-            transition:all 0.5s ease-in;
+            // transform: translateX(60px);
+            // transition:all 0.5s ease-in;
             &.inView {
                 opacity: 1;
                 transform: translateX(0);
