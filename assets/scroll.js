@@ -24,5 +24,5 @@ console.log(pageType)
 // }
 
 
-import * as HorizontalScroll from '@oberon-amsterdam/horizontal';
-new HorizontalScroll({ container: scrollWrapper });
+// import * as HorizontalScroll from '@oberon-amsterdam/horizontal';
+// new HorizontalScroll({ container: scrollWrapper });

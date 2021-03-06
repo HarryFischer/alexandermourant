@@ -131,15 +131,15 @@ body {
     }
     .inner-content {
         @media (min-width: 700px) {
-            min-height: 60vh;
-            max-height: 80vh;
+            min-height: 85vh;
+            // max-height: 80vh;
         }
         .link-container {
             display: flex;
             height:max-content;
             margin-bottom:30px;
             @media (min-width:700px) {
-                margin-bottom: none;
+                margin-bottom: 0;
             }
             // image-margins
             @media (min-width:700px) {
@@ -218,10 +218,19 @@ body {
             .caption {
                 font-size:14px;
                 margin: 0;
-                line-height: 1.15;
+                line-height: 1;
                 color: black;
+                font-variant-numeric: lining-nums;
                 span {
                     font-style:italic;
+                }
+            }
+            .caption-subtitle {
+                font-weight:bold;
+                transition:border-bottom 0.3s ease;
+                &:hover {
+                    border-bottom:1px solid black;
+                    text-decoration: none;
                 }
             }
         }
