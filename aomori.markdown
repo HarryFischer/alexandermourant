@@ -5,14 +5,12 @@ position: 6
 Content:
 - image: "/uploads/Blue%20Tree,%202017.jpg"
   video: 
-  caption-title: Title
-  caption-year: 2017
-  caption-subtitle: Subtitle
-  link-url: 
-  caption-size: 1x1
-  caption-medium: paper
-  caption-extras: Lorem ipsum
-  caption-edition: 2AP + 10
+  caption-text: |-
+    Blue Tree, *2017*
+
+    1 x 1, Printing print
+
+    **1AP \+ 2**
   image-size: medium
   image-position: top
   image-margin-right: medium
