@@ -14,6 +14,13 @@ Content:
   image-size: medium
   image-position: top
   image-margin-right: medium
+Words:
+- interview-text: |-
+    Interview title, *21 Jan 2020*
+
+    **HF: **Question here
+
+    **AM:** Answer here
 layout: project
 ---
 
