@@ -18,7 +18,7 @@ Words:
 - interview-text: |-
     Interview title, *21 Jan 2020*
 
-    **HF: **Question here
+    **HF:** Question here
 
     **AM:** Answer here
 layout: project
