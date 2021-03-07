@@ -14,11 +14,6 @@ Content:
   image-size: medium
   image-position: top
   image-margin-right: medium
-Words:
-- words-title: Interview with Nadav
-  word-paragraph: 
-- word-paragraph: 'Q: question'
-  words-title: 'A: answer'
 layout: project
 ---
 
