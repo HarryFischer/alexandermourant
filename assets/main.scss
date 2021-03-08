@@ -34,7 +34,7 @@ body {
         letter-spacing:0;
         font-family:$font-family-serif;
         color:#000;
-        height: auto;
+        height: max-content;
         transition:border-bottom 0.3s ease;
         border-bottom:1px solid white;
 
