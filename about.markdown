@@ -14,8 +14,15 @@ Content:
     at Royal College of Art, London.
 Education:
 - title: Education
-  year-text: "*2018 – 2020* [Royal College of Art,](http://google.com) MA Photography
-    (Distinction)"
+  year-text: |-
+    2018 - 2020 Royal College of Art, MA Photography (Distinction)
+
+    2013 - 2017 Falmouth University, BA (Hons) Photography (First Class Honours)
+- title: Solo exhibitions
+  year-text: |-
+    2018 - Unseen Amsterdam, *Aomori*, Seen Fifteen Gallery
+
+    2018 - The Old Truman Brewery, *Aomori*
 layout: about
 ---
 
