@@ -227,6 +227,19 @@ Education:
     PhotoVoice: Sudan: Africa's Plastic Footprint
 
     PhotoVoice: Cairo to Cape Town: Africa's Plastic Footprint
+- title: Experience
+  year-text: |-
+    2018 - Bill Brandt Archive / Archivist
+
+    2017 - Michael Hoppen Gallery / Archivist
+
+    2017 - Todd Hido, JH Engström and Margot Wallard. Atelier Smedsby / Paris
+
+    2016 - Simon Roberts / Studio Assistant intern
+
+    2015 - Nadav Kander / Studio Assistant intern
+
+    2014 - 2017 Andy Le Gresley / Assistant and Digital Editor
 layout: about
 ---
 
