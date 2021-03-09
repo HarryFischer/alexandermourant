@@ -162,6 +162,71 @@ Education:
     2015 - Gallery Magazine: Evolution Issue no. 116, Beauty in Rumination
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, Blue Railing
+- title: Press
+  year-text: |-
+    **Online Press (click to view)**
+
+    whynow
+
+    Der Greif
+
+    COS magazine
+
+    photograph
+
+    METAL Magazine
+
+    Culture Trip
+
+    It's Nice That
+
+    Unseen Amsterdam
+
+    Photoworks
+
+    NOWNESS
+
+    Splash and Grab
+
+    Palm Studios\*
+
+    Unveil'd
+
+    British Journal of Photography - I
+
+    British Journal of Photography - II
+
+    The Plantation Journal
+
+    iGNANT
+
+    AINT-BAD
+
+    Photograd
+
+    losthenfound
+
+    SIGH Journal
+
+    Source Magazine
+
+    PYLOT Magazine
+
+    TRIP Magazine
+
+    Geographical Magazine
+
+    Falmouth University
+
+    PhotoVoice: Reaching Cape Point
+
+    PhotoVoice: Masai: Africa's Plastic Footprint
+
+    PhotoVoice: Ethiopia & Kenya
+
+    PhotoVoice: Sudan: Africa's Plastic Footprint
+
+    PhotoVoice: Cairo to Cape Town: Africa's Plastic Footprint
 layout: about
 ---
 
