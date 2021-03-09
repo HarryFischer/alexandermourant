@@ -111,7 +111,7 @@ Content:
 
     Edition of 7 \+ 2AP
   image-size: medium
-  image-position: middle
+  image-position: medium
   image-margin-right: middle
 - image: "/uploads/The-Eye-Sees,-Arles-2---Alexander-Mourant---2020.jpg"
   video: 
