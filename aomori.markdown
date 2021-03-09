@@ -128,9 +128,9 @@ Content:
     The Eye Sees, Arles, 2020
     Entractes 14: *When the Image Returns to Glass*
     *Waterfall III*, 2017
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 Words:
 - interview-text: |-
     Interview title, *21 Jan 2020*
