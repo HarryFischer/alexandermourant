@@ -47,6 +47,27 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
+- image: "/uploads/Dissipate-II,-2017.jpg"
+  video: 
+  caption-text: |-
+    *Dissipate II*, 2017
+
+    126cm x 156cm
+
+    Archival Giclée print
+
+    Bespoke white frame
+
+    Edition of 5 \+ 1AP
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
 Words:
 - interview-text: |-
     Interview title, *21 Jan 2020*
