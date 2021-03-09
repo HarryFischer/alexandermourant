@@ -157,6 +157,28 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019.jpg"
+  video: 
+  caption-text: |-
+    Copeland Gallery, 2019
+
+    *Where You Are Not*
+
+    *Forest III*, 2017; *Dissipate II*, 2017; *City II*, 2017
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019%202.jpg"
+  video: 
+  caption-text: |-
+    Copeland Gallery, 2019
+
+    *Where You Are Not*
+
+    *Forest III*, 2017; *Dissipate II*, 2017; *City II*, 2017
+  image-size: 
+  image-position: 
+  image-margin-right: 
 Words:
 - interview-text: |-
     Interview title, *21 Jan 2020*
