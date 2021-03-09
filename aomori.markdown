@@ -40,6 +40,13 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Dissipate-I,-2017.jpg"
+  video: 
+  caption-text: "*Dissipate I*, 2017\n\n126cm x 156cm \n\nArchival Giclée print \n\nBespoke
+    white frame\n\nEdition of 5 \\+ 1AP"
+  image-size: 
+  image-position: 
+  image-margin-right: 
 Words:
 - interview-text: |-
     Interview title, *21 Jan 2020*
