@@ -240,6 +240,15 @@ Education:
     2015 - Nadav Kander / Studio Assistant intern
 
     2014 - 2017 Andy Le Gresley / Assistant and Digital Editor
+- title: Words
+  year-text: |-
+    **[2021](https://c4journal.com/jack-whitefield-furze/)**[ - Review: Furze by Jack Whitefield, C4 Journal](https://c4journal.com/jack-whitefield-furze/)
+
+    **2020** - On Living Stones and Reaching
+
+    **2019** - The Journal: On Being Someone Other
+
+    **2017** - Land Art, Photography and Time
 layout: about
 ---
 
