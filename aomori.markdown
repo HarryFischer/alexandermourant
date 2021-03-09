@@ -62,15 +62,16 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
 - image: "/uploads/Forest-II,-2017.jpg"
   video: 
   caption-text: "*Forest II*, 2017\n\n44cm x 36cm\n\nArchival Giclée print\n\nBespoke
+    white frame \n\nEdition of 9 \\+ 2AP"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Forest-I,-2017.jpg"
+  video: 
+  caption-text: "*Forest I*, 2017\n\n44cm x 36cm\n\nArchival Giclée print\n\nBespoke
     white frame \n\nEdition of 9 \\+ 2AP"
   image-size: medium
   image-position: middle
