@@ -195,8 +195,8 @@ Content:
   image-margin-right: medium
   ignore: 
 - image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2018.jpg"
-  caption-title: Unseen Amsterdam, Seen Fifteen Gallery
-  caption-subtitle: Aomori
+  caption-title: Unseen Amsterdam
+  caption-subtitle: Seen Fifteen Gallery presents Aomori
   link-url: "/aomori"
   caption-year: 2018
   caption-extras: Dissipate I, 2017; Dissipate II, 2017; Forest IV, 2017
