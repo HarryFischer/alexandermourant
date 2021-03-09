@@ -204,7 +204,7 @@ Content:
   image-position: middle
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Copeland-Gallery-3---Alexander-Mourant---2019.jpg"
+- image: "/uploads/Copeland-Gallery-3---Alexander-Mourant---2019-ca7a3a.jpg"
   caption-title: Copeland Gallery
   caption-subtitle: Where You Are Not
   link-url: "/aomori"
