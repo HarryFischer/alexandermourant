@@ -146,6 +146,17 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
+- image: "/uploads/Copeland-Gallery-3---Alexander-Mourant---2019-ca7a3a.jpg"
+  video: 
+  caption-text: |-
+    Copeland Gallery, 2019
+
+    *Where You Are Not*
+
+    *Waterfall I*, 2017; *Blue Tree*, 2017; *Dissipate I*, 2017; *Forest V*, 2017
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 Words:
 - interview-text: |-
     Interview title, *21 Jan 2020*
