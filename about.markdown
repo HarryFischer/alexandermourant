@@ -18,11 +18,62 @@ Education:
     2018 - 2020 Royal College of Art, MA Photography (Distinction)
 
     2013 - 2017 Falmouth University, BA (Hons) Photography (First Class Honours)
-- title: Solo exhibitions
+- title: Solo Exhibitions
   year-text: |-
     2018 - Unseen Amsterdam, *Aomori*, Seen Fifteen Gallery
 
     2018 - The Old Truman Brewery, *Aomori*
+- title: Group Exhibitions
+  year-text: |-
+    2020 - Photo London Digital, Seen Fifteen Gallery: Dragana Jurišić, Alexander Mourant and Martin Seeds
+
+    2020 - Saatchi Gallery, London Grads Now: Ian Malhotra, Lydia Hamblet, Mandy Franca, Lydia Pettit, Francesca Mollett, Sholto Blisset, Nicole Coson, Ed Compson, Yang Xu, Bobby Monteverde, Roei Greenberg, Alexander Mourant, Qian Jiang, Shir Raz, Mathias Kruse Jørgensen and Katharina Siegel
+
+    2020 - ArtLacuna, A Rudimentary Education
+
+    2020 - Edel Assanti, with fists, it kicks, it bites: Daniel John Bracken, Katie Bret-Day, Alexander Mourant, Tom Medwell, Anabela Pinto, Sophie Hu, Mathias Kruse Jørgensen, Mathias Tang, Godith Hawkins and Yilin Shi
+
+    2020 - Unit 1 Gallery, Final, not Over: Katie Bret-Day, Mandy Franca, Roei Greenberg, Ian Malhotra, Alexander Mourant, Bobby Monteverde, Shir Raz and Xu Yang
+
+    2020 - Royal College of Art, SHOW 2020
+
+    2019 - Copeland Gallery, Where You Are Not: Tess Williams, Alexander Mourant, Maddie Rose Hills, Matilda Little, Florence Sweeney, Tom Pope, Simone Mudde and Katrina Russell-Adams
+
+    2019 - Unseen Amsterdam, To Feel Its Touch, Seen Fifteen Gallery: Marianne Bjørnmyr and Alexander Mourant
+
+    2019 - Peckham 24, For Those Who Could See Beyond The Surface: Marianne Bjørnmyr, Tenzing Dakpa, Maja Daniels, Katrin Koenning, Raymond Meeks and Alexander Mourant
+
+    2019 - Royal College of Art, WIP
+
+    2018 - Chelsea Arts Club, Garden of Earthly Delights
+
+    2018 - Jersey Arts Centre, Retrospective Exhibition
+
+    2018 - The Old Truman Brewery, Photoworks presents ‘Collaborate’ at Free Range
+
+    2017 - The Old Truman Brewery, South West Graduate Photography Prize
+
+    2017 - CCA Galleries International, Summer Exhibition, with work from Aurelian
+
+    2017 - Royal Geographical Society, RAW Truth, Alexander Mourant and Andy Hughes for RAW Foundation
+
+    2017 - The Old Truman Brewery, Free Range
+
+    2016 - Mall Galleries, Bryanston Today
+
+    2016 - NCVO, London, The National Council for Voluntary Organisations and PhotoVoice Photography Prize
+
+    2015 - Berni Gallery, Jersey, The Original Student Art Exhibition
+
+    2015 - The Poly, Falmouth, End of Year Show
+
+    2015 - theprintspace, London, PhotoVoice Awards
+
+    2014 - CCA Galleries International, Jersey, Gallery Magazine: Student Awards
+
+    2014 - The Fish Factory, Falmouth, with Illumination Space and Modernist Ceramics
+
+    2014 - The Photography Gallery, Falmouth, with Illusionist Paradise and Illumination Space
 layout: about
 ---
 
