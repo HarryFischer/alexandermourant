@@ -111,13 +111,15 @@ Content:
 
     Edition of 7 \+ 2AP
   image-size: medium
-  image-position: medium
-  image-margin-right: middle
+  image-position: middle
+  image-margin-right: medium
 - image: "/uploads/The-Eye-Sees,-Arles-2---Alexander-Mourant---2020.jpg"
   video: 
   caption-text: |-
     The Eye Sees, Arles, 2020
+
     Entractes 14: *When the Image Returns to Glass*
+
     *Waterfall III*, 2017
   image-size: medium
   image-position: middle
@@ -126,11 +128,24 @@ Content:
   video: 
   caption-text: |-
     The Eye Sees, Arles, 2020
+
     Entractes 14: *When the Image Returns to Glass*
+
     *Waterfall III*, 2017
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
+- image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2018.jpg"
+  video: 
+  caption-text: |-
+    Unseen Amsterdam, 2018
+
+    Seen Fifteen Gallery presents *Aomori*
+
+    *Dissipate I*, 2017; *Dissipate II*, 2017; *Forest IV*, 2017
+  image-size: 
+  image-position: 
+  image-margin-right: 
 Words:
 - interview-text: |-
     Interview title, *21 Jan 2020*
