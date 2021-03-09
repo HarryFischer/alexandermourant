@@ -16,8 +16,8 @@ Content:
 
     Edition of 5 + 2AP
   image-size: medium
-  image-position: top
-  image-margin-right: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/Forest-III,-2017.jpg"
   video: 
   caption-text: |-
@@ -30,9 +30,9 @@ Content:
     Bespoke white frame
 
     Edition of 5 \+ 1AP
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 Words:
 - interview-text: |-
     Interview title, *21 Jan 2020*
