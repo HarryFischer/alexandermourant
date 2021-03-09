@@ -37,9 +37,9 @@ Content:
   video: 
   caption-text: "*Forest V*, 2017\n\n186cm x 149cm\n\nArchival Giclée print\n\nBespoke
     white frame \n\nEdition of 3 \\+ 1AP"
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 Words:
 - interview-text: |-
     Interview title, *21 Jan 2020*
