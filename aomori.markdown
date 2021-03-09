@@ -3,14 +3,18 @@ title: Aomori
 date: 2021-02-13 18:49:00 Z
 position: 6
 Content:
-- image: "/uploads/Blue%20Tree,%202017.jpg"
+- image: "/uploads/Blue-Tree-2017.jpg"
   video: 
   caption-text: |-
-    Blue Tree, *2017*
+    *Blue Tree*, 2017
 
-    1 x 1, Printing print
+    106cm x 86cm
 
-    **1AP \+ 2**
+    Archival Giclée print
+
+    Bespoke white frame
+
+    Edition of 5 \+ 2AP
   image-size: medium
   image-position: top
   image-margin-right: medium
