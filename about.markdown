@@ -74,6 +74,33 @@ Education:
     2014 - The Fish Factory, Falmouth, with Illumination Space and Modernist Ceramics
 
     2014 - The Photography Gallery, Falmouth, with Illusionist Paradise and Illumination Space
+- title: Lectures / Talks
+  year-text: |-
+    2021 - Swansea College of Art, Visiting Lecturer
+
+    2020 - Kingston University, Visiting Lecturer
+
+    2020 - Royal College of Art, On Borders and Being, with Julia Crabtree, Katie Bret-Day and Roei Greenberg
+
+    2020 - Seen Fifteen, Time Light Chance, with Lina Ivanova and Victoria Doyle
+
+    2020 - ArtLacuna, What’s a Can of Worms Between Mates? with Victoria Doyle, Krasimira Butseva and Harry Gammer-Flitcroft
+
+    2019 - Kingston University, Visiting Lecturer
+
+    2019 - Copeland Gallery, On Blue and Photography, with Duncan Wooldridge, Tom Pope and Simone Mudde
+
+    2019 - Falmouth University, Visiting Lecturer
+
+    2019 - University of Huddersfield, Visiting Lecturer: Photography and Lived Experience
+
+    2019 - Peckham 24, Visualising Community, with Karen McQuaid, Marianne Bjørnmyr, D Wiafe and Max Miechowski
+
+    2018 - Kingston University, Visiting Lecturer
+
+    2018 - The Old Truman Brewery, Aomori, with Professor Steve Macleod
+
+    2018 - Bryanston School, Visiting Lecturer
 layout: about
 ---
 
