@@ -122,6 +122,15 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/The-Eye-Sees,-Arles---Alexander-Mourant---2020.jpg"
+  video: 
+  caption-text: |-
+    The Eye Sees, Arles, 2020
+    Entractes 14: *When the Image Returns to Glass*
+    *Waterfall III*, 2017
+  image-size: 
+  image-position: 
+  image-margin-right: 
 Words:
 - interview-text: |-
     Interview title, *21 Jan 2020*
