@@ -14,10 +14,25 @@ Content:
 
     Bespoke white frame
 
-    Edition of 5 \+ 2AP
+    Edition of 5 + 2AP
   image-size: medium
   image-position: top
   image-margin-right: medium
+- image: "/uploads/Forest-III,-2017.jpg"
+  video: 
+  caption-text: |-
+    *Forest III*, 2017
+
+    156cm x 126cm
+
+    Archival Giclée print
+
+    Bespoke white frame
+
+    Edition of 5 \+ 1AP
+  image-size: 
+  image-position: 
+  image-margin-right: 
 Words:
 - interview-text: |-
     Interview title, *21 Jan 2020*
