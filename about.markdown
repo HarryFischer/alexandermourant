@@ -101,6 +101,67 @@ Education:
     2018 - The Old Truman Brewery, Aomori, with Professor Steve Macleod
 
     2018 - Bryanston School, Visiting Lecturer
+- title: Awards / Commissions
+  year-text: |-
+    2020 - The Eye Sees, Arles, Entractes 14, When the Image Returns to Glass
+
+    2020 - HGG London, The Bell Tower
+
+    2019 - FT Weekend Magazine / Photo London, My London
+
+    2019 - Foam Paul Huf Award - Nomination
+
+    2017 - Free Range Award - Winner
+
+    2017 - Metro Imaging Award - Winner
+
+    2017 - South West Graduate Photography Prize - Finalist
+
+    2016 - The National Council for Voluntary Organisations and PhotoVoice Photography Prize - Finalist
+
+    2015 - Jersey Arts Centre's, Original Student Art Award - Winner
+
+    2015 - theprintspace, PhotoVoice Awards - Finalist
+- title: Grants
+  year-text: |-
+    2018 - ArtHouse Jersey - www.arthouse.je
+
+    2018 - Jersey Bursary - www.gov.je
+
+    2018 - Arts Council England - www.artscouncil.org.uk
+
+    2017 - ArtHouse Jersey - www.arthouse.je
+- title: Publications
+  year-text: |-
+    2020 - FotoFilmic, JRNL 6, Autumn
+
+    2020 - Dulwich Picture Gallery, In View, The Lightness, Summer
+
+    2020 - Folium Publishing, foreword by Tom Lovelace and Penelope Umbrico, fall into place
+
+    2019 - Photograph, Jan/Feb, 30th Anniversary Special
+
+    2018 - The Greatest Magazine, Issue 14, The Lightness
+
+    2018 - Unseen Magazine, Issue 5, Aomori
+
+    2018 - Penguin Random House, Notes from the Fog: Ben Marcus
+
+    2017 - Source Photographic Review, no. 90, Aurelian
+
+    2017 - British Journal of Photography, no. 7862, Aurelian
+
+    2016 - Gallery Magazine: The APPETITE issue, no. 128, Out of Africa
+
+    2016 - Gallery Magazine: The PARTNERSHIPS issue, no. 127, Ethiopia and Kenya
+
+    2016 - Gallery Magazine: The SOLO issue, no. 126, Cairo to Cape Town: Africa's Plastic Footprint
+
+    2016 - PhotoVoice: Issue 3, Africa's Plastic Footprint
+
+    2015 - Gallery Magazine: Evolution Issue no. 116, Beauty in Rumination
+
+    2014 - Gallery Magazine: Jersey Style Magazine no.110, Blue Railing
 layout: about
 ---
 
