@@ -44,9 +44,9 @@ Content:
   video: 
   caption-text: "*Dissipate I*, 2017\n\n126cm x 156cm \n\nArchival Giclée print \n\nBespoke
     white frame\n\nEdition of 5 \\+ 1AP"
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: small
 - image: "/uploads/Dissipate-II,-2017.jpg"
   video: 
   caption-text: |-
