@@ -46,7 +46,7 @@ Content:
     white frame\n\nEdition of 5 \\+ 1AP"
   image-size: medium
   image-position: middle
-  image-margin-right: small
+  image-margin-right: xsmall
 - image: "/uploads/Dissipate-II,-2017.jpg"
   video: 
   caption-text: |-
