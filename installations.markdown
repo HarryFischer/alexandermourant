@@ -68,7 +68,7 @@ Content:
   caption-subtitle: 'Entractes 14: When the Image Returns to Glass'
   link-url: "/aomori"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Waterfall III, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -78,7 +78,7 @@ Content:
   caption-subtitle: 'Entractes 14: When the Image Returns to Glass'
   link-url: "/aomori"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Waterfall III, 2017
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -88,7 +88,7 @@ Content:
   caption-subtitle: With fists, it kicks, it bites
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: Vitrum IX
+  caption-extras: Vitrum IX, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -98,7 +98,7 @@ Content:
   caption-subtitle: With fists, it kicks, it bites
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: Vitrum I
+  caption-extras: Vitrum I, 2019
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -137,7 +137,7 @@ Content:
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 2019
+  caption-year: 2020
   caption-extras: A Gesture of Brambles
   image-size: medium
   image-position: middle
@@ -158,8 +158,7 @@ Content:
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: 'Left to right: Vitrum VI, 2019; Fall I & II (diptych), 2019; Vitrum
-    VIII, 2019'
+  caption-extras: Vitrum VI, 2019; Fall I & II (diptych), 2019; Vitrum VIII, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -169,8 +168,8 @@ Content:
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: 'Left to right: Vitrum X, 2019; Vitrum IX, 2019; Fall I & II (diptych),
-    2019; Vitrum VIII, 2019; Vitrum XI, 2018'
+  caption-extras: Vitrum X, 2019; Vitrum IX, 2019; Fall I & II, 2019; Vitrum VIII,
+    2019; Vitrum XI, 2018
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -200,7 +199,7 @@ Content:
   caption-subtitle: Aomori
   link-url: "/aomori"
   caption-year: 2018
-  caption-extras: 'Left to right: Dissipate I, Dissipate II, Forest IV'
+  caption-extras: Dissipate I, 2017; Dissipate II, 2017; Forest IV, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -210,7 +209,8 @@ Content:
   caption-subtitle: Where You Are Not
   link-url: "/aomori"
   caption-year: 2019
-  caption-extras: 'Left to right: Waterfall I, Blue Tree, Dissipate I, Forest V'
+  caption-extras: Waterfall I, 2017; Blue Tree, 2017; Dissipate I, 2017; Forest V,
+    2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -220,7 +220,7 @@ Content:
   caption-subtitle: Where You Are Not
   link-url: "/aomori"
   caption-year: 2019
-  caption-extras: 'Left to right: Forest III, Dissipate II, City II'
+  caption-extras: Forest III, 2017; Dissipate II, 2017; City II, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -230,7 +230,7 @@ Content:
   caption-subtitle: Where You Are Not
   link-url: "/aomori"
   caption-year: 2019
-  caption-extras: 'Left to right: Forest III, Dissipate II, City II'
+  caption-extras: Forest III, 2017; Dissipate II, 2017; City II, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
