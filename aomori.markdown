@@ -143,9 +143,9 @@ Content:
     Seen Fifteen Gallery presents *Aomori*
 
     *Dissipate I*, 2017; *Dissipate II*, 2017; *Forest IV*, 2017
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 Words:
 - interview-text: |-
     Interview title, *21 Jan 2020*
