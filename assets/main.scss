@@ -15,7 +15,7 @@ $font-family-serif: 'ETBook', 'Times New Roman', serif;
 body {
     color: black;
     font-family:$font-family-serif;
-    letter-spacing: 0.2px;
+    letter-spacing: 0.4px;
     font-weight: 100;
     scroll-behavior: smooth;
     @media (min-width: 700px) {
@@ -366,6 +366,15 @@ body {
             padding-top: 20px;
         }
         overflow: visible;
+        .education-block {
+            margin-top: 60px;
+        }
+        h1 {
+            font-size: 21px;
+            margin-bottom: -10px;
+            border-top: 1px solid black;
+            max-width: 640px;
+        }
         p {
             max-width: 640px;
         }
