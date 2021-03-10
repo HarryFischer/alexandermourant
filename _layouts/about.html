@@ -9,11 +9,16 @@ layout: default
         <p>{{ content.about-text }}</p>
     </div>
     {%- endfor -%}
-    {%- for education in page.Education -%}
-    <div>
-        <p>{{ education.title }}</p>
-        <p>{{ education.year-text | markdownify }}</p>
+    <div class="">
+      <div class="">
+        {%- for education in page.Education -%}
+        <div>
+            <h1>{{ education.title }}</h1>
+            <p>{{ education.year-text | markdownify }}</p>
+        </div>
+        {%- endfor -%}
+      </div>
     </div>
-    {%- endfor -%}
   </div>
+  <p>© All Rights Reserved. All images on this site may not be reproduced, in whole or in part, without the written permission of Alexander Mourant.</p>
 </div>
