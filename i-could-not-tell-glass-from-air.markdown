@@ -47,7 +47,7 @@ Content:
     Unique
   image-size: medium
   image-position: middle
-  image-margin-right: medium
+  image-margin-right: large
 - image: "/uploads/A-Gesture-of-Brambles---Alexander-Mourant---2020.jpg"
   video: 
   caption-text: "*A Gesture of Brambles*, 2019\n\n17: 61cm x 51cm \\+ 1: 56cm x 51cm\n\nSilver
@@ -61,7 +61,7 @@ Content:
     gelatin hand print\n\nAluminium mount \\+ steel tray frame \n\nUnique"
   image-size: medium
   image-position: middle
-  image-margin-right: medium
+  image-margin-right: large
 - image: "/uploads/Vitrum-IX,-2019.jpg"
   video: 
   caption-text: |-
@@ -95,14 +95,14 @@ Content:
     Edition of 5 \+ 2AP
   image-size: medium
   image-position: middle
-  image-margin-right: medium
+  image-margin-right: large
 - image: "/uploads/_Fall-I-&-II-(Diptych),-2019.jpg"
   video: 
   caption-text: "*Fall I & II*, 2019 \n\nPrint: 156cm x 126cm \n\nDigital silver gelatin
     print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
   image-size: xsmall
   image-position: middle
-  image-margin-right: medium
+  image-margin-right: large
 - image: "/uploads/Vitrum-I,-2019.jpg"
   video: 
   caption-text: "*Vitrum I*, 2019 \n\nPrint: 101.5cm x 80.6cm\n\nDigital silver gelatin
@@ -116,7 +116,7 @@ Content:
     print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
   image-size: medium
   image-position: middle
-  image-margin-right: medium
+  image-margin-right: large
 - image: "/uploads/Vitrum%20III,%202019;%20Vitrum%20IV,%202018%20-%20Alexander%20Mourant%20-%202020.jpg"
   video: 
   caption-text: "*Vitrum III *& *Vitrum IV*, 2019 & 2018\n\nPrint: 10cm x 8cm \n\nFrame:
@@ -138,7 +138,7 @@ Content:
     gelatin print \\+ aluminium frame \n\nEdition of 5 \\+ 2AP"
   image-size: medium
   image-position: middle
-  image-margin-right: medium
+  image-margin-right: large
 - image: "/uploads/Vitrum-II,-2019.jpg"
   video: 
   caption-text: "*Vitrum II*, 2019 \n\n156cm x 126cm \n\nDigital silver gelatin print
