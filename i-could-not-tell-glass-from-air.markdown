@@ -48,23 +48,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: large
-- image: "/uploads/Vitrum-IX,-2019.jpg"
-  video: 
-  caption-text: |-
-    *Vitrum IX*, 2019
-
-    Print: 25.4cm x 20.32cm
-
-    Frame: 44.5cm x 38cm
-
-    Digital silver gelatin print
-
-    Mount \+ black aluminium frame
-
-    Edition of 5 \+ 2AP
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/Vitrum-IX,-2019---Edel-Assanti.jpg"
   video: 
   caption-text: |-
@@ -82,6 +65,23 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: large
+- image: "/uploads/Vitrum-IX,-2019.jpg"
+  video: 
+  caption-text: |-
+    *Vitrum IX*, 2019
+
+    Print: 25.4cm x 20.32cm
+
+    Frame: 44.5cm x 38cm
+
+    Digital silver gelatin print
+
+    Mount \+ black aluminium frame
+
+    Edition of 5 \+ 2AP
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/A-Gesture-of-Brambles---Alexander-Mourant---2020.jpg"
   video: 
   caption-text: "*A Gesture of Brambles*, 2019\n\n17: 61cm x 51cm \\+ 1: 56cm x 51cm\n\nSilver
@@ -116,14 +116,7 @@ Content:
     print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
   image-size: medium
   image-position: middle
-  image-margin-right: xlarge
-- image: "/uploads/Vitrum-V,-2018.jpg"
-  video: 
-  caption-text: "*Vitrum V*, 2018 \n\n41cm x 51cm \n\nSilver gelatin print \n\nWalnut
-    frame \n\nEdition of 5 \\+ 2AP"
-  image-size: xsmall
-  image-position: middle
-  image-margin-right: xlarge
+  image-margin-right: large
 - image: "/uploads/Vitrum%20III,%202019;%20Vitrum%20IV,%202018%20-%20Alexander%20Mourant%20-%202020.jpg"
   video: 
   caption-text: "*Vitrum III *& *Vitrum IV*, 2019 & 2018\n\nPrint: 10cm x 8cm \n\nFrame:
@@ -144,6 +137,13 @@ Content:
   caption-text: "*Vitrum IV*, 2018\n\nPrint: 10cm x 8cm \n\nFrame: 44.5cm x 38cm\n\nSilver
     gelatin print \\+ aluminium frame \n\nEdition of 5 \\+ 2AP"
   image-size: medium
+  image-position: middle
+  image-margin-right: large
+- image: "/uploads/Vitrum-V,-2018.jpg"
+  video: 
+  caption-text: "*Vitrum V*, 2018 \n\n41cm x 51cm \n\nSilver gelatin print \n\nWalnut
+    frame \n\nEdition of 5 \\+ 2AP"
+  image-size: xsmall
   image-position: middle
   image-margin-right: large
 - image: "/uploads/Vitrum-II,-2019.jpg"
