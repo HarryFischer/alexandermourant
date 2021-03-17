@@ -62,12 +62,18 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: 
+- image: "/uploads/Vitrum-IX,-2019.jpg"
   video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  caption-text: |-
+    *Vitrum IX*, 2019\
+    Print: 25.4cm x 20.32cm\
+    Frame: 44.5cm x 38cm\
+    Digital silver gelatin print\
+    Mount \+ black aluminium frame\
+    Edition of 5 \+ 2AP
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
