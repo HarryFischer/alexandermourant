@@ -102,6 +102,15 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Greatest-spreads-2x3-6.jpg"
+  video: 
+  caption-text: |-
+    The Greatest Magazine, 2018
+
+    *The Lightness*, Issue #14
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
