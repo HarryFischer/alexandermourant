@@ -18,6 +18,27 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Shelter-3---Alexnder-Mourant---2020.jpg"
+  video: 
+  caption-text: |-
+    *Shelter*, 2020
+
+    38 mixed size (piece scale: 4m x 9.2m)
+
+    Silver gelatin hand print (photogram)
+
+    Aluminium mount \+ steel tray frame
+
+    Unique
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
 layout: project
 ---
 
