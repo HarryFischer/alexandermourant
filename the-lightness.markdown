@@ -50,13 +50,13 @@ Content:
   caption-text: "*Lightness X*, 2018"
   image-size: medium
   image-position: middle
-  image-margin-right: medium
+  image-margin-right: xsmall
 - image: "/uploads/Lightness%20V,%202018.jpg"
   video: 
   caption-text: "*Lightness V*, 2018"
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/Greatest-spreads-2x3-1.jpg"
   video: 
   caption-text: |-
