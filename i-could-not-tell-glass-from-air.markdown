@@ -86,8 +86,6 @@ Content:
 
     Print: 25.4cm x 20.32cm
 
-    Frame: 44.5cm x 38cm
-
     Digital silver gelatin print
 
     Mount \+ black aluminium frame
@@ -98,18 +96,18 @@ Content:
   image-margin-right: medium
 - image: "/uploads/_Fall-I-&-II-(Diptych),-2019.jpg"
   video: 
-  caption-text: "*Fall I & II*, 2019 \n\n2: 156cm x 126cm \n\nDigital silver gelatin
+  caption-text: "*Fall I & II*, 2019 \n\nPrint: 156cm x 126cm \n\nDigital silver gelatin
     print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
   image-size: large
   image-position: middle
   image-margin-right: medium
 - image: "/uploads/Vitrum-I,-2019.jpg"
   video: 
-  caption-text: "*Vitrum I*, 2019 \n\nPrint: 101.5cm x 80.6cm\n\nFrame: 103cm x 83cm\n\nDigital
-    silver gelatin print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  caption-text: "*Vitrum I*, 2019 \n\nPrint: 101.5cm x 80.6cm\n\nDigital silver gelatin
+    print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
