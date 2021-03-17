@@ -21,6 +21,12 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Lightness%20III,%202018.jpg"
+  video: 
+  caption-text: "*Lightness III*, 2018"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
