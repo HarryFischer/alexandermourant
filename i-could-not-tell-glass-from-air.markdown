@@ -47,6 +47,13 @@ Content:
     Unique
   image-size: medium
   image-position: middle
+  image-margin-right: medium
+- image: "/uploads/A-Gesture-of-Brambles---Alexander-Mourant---2020.jpg"
+  video: 
+  caption-text: "*A Gesture of Brambles*, 2019\n\n17: 61cm x 51cm \\+ 1: 56cm x 51cm\n\nSilver
+    gelatin hand print\n\nAluminium mount \\+ steel tray frame \n\nUnique"
+  image-size: medium
+  image-position: middle
   image-margin-right: xsmall
 layout: project
 ---
