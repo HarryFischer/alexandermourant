@@ -116,14 +116,14 @@ Content:
     print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
   image-size: medium
   image-position: middle
-  image-margin-right: large
+  image-margin-right: xlarge
 - image: "/uploads/Vitrum-V,-2018.jpg"
   video: 
   caption-text: "*Vitrum V*, 2018 \n\n41cm x 51cm \n\nSilver gelatin print \n\nWalnut
     frame \n\nEdition of 5 \\+ 2AP"
   image-size: xsmall
   image-position: middle
-  image-margin-right: large
+  image-margin-right: xlarge
 - image: "/uploads/Vitrum%20III,%202019;%20Vitrum%20IV,%202018%20-%20Alexander%20Mourant%20-%202020.jpg"
   video: 
   caption-text: "*Vitrum III *& *Vitrum IV*, 2019 & 2018\n\nPrint: 10cm x 8cm \n\nFrame:
