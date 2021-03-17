@@ -3,6 +3,12 @@ title: The Lightness
 date: 2021-02-20 10:19:00 Z
 position: 5
 Content:
+- image: "/uploads/Lightness%20VIII,%202018.jpg"
+  video: 
+  caption-text: "*Lightness VIII*, 2018"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/Lightness%20I,%202018.jpg"
   video: 
   caption-text: "*Lightness I*, 2018"
@@ -21,18 +27,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Lightness%20III,%202018.jpg"
-  video: 
-  caption-text: "*Lightness III*, 2018"
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Lightness%20IX,%202018.jpg"
-  video: 
-  caption-text: "*Lightness IX*, 2018"
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/Lightness%20V,%202018.jpg"
   video: 
   caption-text: "*Lightness V*, 2018"
@@ -45,9 +39,15 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Lightness%20VIII,%202018.jpg"
+- image: "/uploads/Lightness%20III,%202018.jpg"
   video: 
-  caption-text: "*Lightness VIII*, 2018"
+  caption-text: "*Lightness III*, 2018"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Lightness%20IX,%202018.jpg"
+  video: 
+  caption-text: "*Lightness IX*, 2018"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
