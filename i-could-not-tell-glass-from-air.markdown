@@ -136,9 +136,9 @@ Content:
   video: 
   caption-text: "*Vitrum IV*, 2018\n\nPrint: 10cm x 8cm \n\nFrame: 44.5cm x 38cm\n\nSilver
     gelatin print \\+ aluminium frame \n\nEdition of 5 \\+ 2AP"
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 - image: "/uploads/Vitrum-II,-2019.jpg"
   video: 
   caption-text: "*Vitrum II*, 2019 \n\n156cm x 126cm \n\nDigital silver gelatin print
