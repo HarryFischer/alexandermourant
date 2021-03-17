@@ -108,6 +108,13 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Vitrum-I,-2019---Edel-Assanti.jpg"
+  video: 
+  caption-text: "*Vitrum I*, 2019 \n\nPrint: 101.5cm x 80.6cm\n\nDigital silver gelatin
+    print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 layout: project
 ---
 
