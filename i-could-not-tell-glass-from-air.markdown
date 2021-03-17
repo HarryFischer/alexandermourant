@@ -150,7 +150,7 @@ Content:
   video: 
   caption-text: "*Vitrum V*, 2018 \n\n41cm x 51cm \n\nSilver gelatin print \n\nWalnut
     frame \n\nEdition of 5 \\+ 2AP"
-  image-size: medium
+  image-size: small
   image-position: middle
   image-margin-right: xsmall
 layout: project
