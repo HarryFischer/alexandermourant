@@ -56,7 +56,7 @@ Content:
   caption-text: "*Lightness X*, 2018"
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 layout: project
 ---
 
