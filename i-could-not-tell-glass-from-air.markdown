@@ -115,6 +115,13 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
+- image: "/uploads/Vitrum-II,-2019.jpg"
+  video: 
+  caption-text: "*Vitrum II*, 2019 \n\n156cm x 126cm \n\nDigital silver gelatin print
+    \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
