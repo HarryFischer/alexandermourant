@@ -96,7 +96,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: large
-- image: "/uploads/_Fall-I-&-II-(Diptych),-2019.jpg"
+- image: "/uploads/Fall-I-&-II-(Diptych),-2019.jpg"
   video: 
   caption-text: "*Fall I & II*, 2019 \n\nPrint: 156cm x 126cm \n\nDigital silver gelatin
     print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
