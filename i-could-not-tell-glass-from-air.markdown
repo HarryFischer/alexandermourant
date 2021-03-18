@@ -100,7 +100,7 @@ Content:
   video: 
   caption-text: "*Fall I & II*, 2019 \n\nPrint: 156cm x 126cm \n\nDigital silver gelatin
     print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
-  image-size: medium
+  image-size: large
   image-position: middle
   image-margin-right: large
 - image: "/uploads/Vitrum-I,-2019---Edel-Assanti.jpg"
