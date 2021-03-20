@@ -25,6 +25,13 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/(ONLINE)-Peckham-I---Alexander-Mourant---2019.jpg"
+  video: 
+  caption-text: "Peckham I, 2019 \n\n51\\.4cm x 40.6cm (each work)\n\nGiclée photogram,
+    9 individual negatives\n\nAluminium frame, sprayed white\n\nEdition of 5 \\+ 1AP"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
