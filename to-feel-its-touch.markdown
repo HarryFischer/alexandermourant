@@ -62,6 +62,21 @@ Content:
   image-size: xsmall
   image-position: top
   image-margin-right: xsmall
+- image: "/uploads/(ONLINE)-Chiswick-II---Alexander-Mourant---2019.jpg"
+  video: 
+  caption-text: |-
+    *Chiswick II*, 2019
+
+    51\.4cm x 40.6cm (each work)
+
+    Giclée photogram, 9 individual negatives
+
+    Aluminium frame, sprayed white
+
+    Edition of 5 \+ 1AP
+  image-size: 
+  image-position: 
+  image-margin-right: 
 layout: project
 ---
 
