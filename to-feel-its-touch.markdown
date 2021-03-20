@@ -44,8 +44,8 @@ Content:
     Aluminium frame, sprayed white
 
     Edition of 5 \+ 1AP
-  image-size: medium
-  image-position: middle
+  image-size: xsmall
+  image-position: top
   image-margin-right: xsmall
 - image: "/uploads/Peckham-I-(ii),-2019.jpg"
   video: 
