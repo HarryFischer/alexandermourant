@@ -45,7 +45,7 @@ Content:
 
     Edition of 5 \+ 1AP
   image-size: xsmall
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Peckham-I-(ii),-2019.jpg"
   video: 
@@ -60,7 +60,7 @@ Content:
 
     Edition of 5 \+ 1AP
   image-size: xsmall
-  image-position: top
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/(ONLINE)-Chiswick-II---Alexander-Mourant---2019.jpg"
   video: 
