@@ -92,9 +92,18 @@ Content:
   image-size: small
   image-position: middle
   image-margin-right: xsmall
-- image: 
+- image: "/uploads/Chiswick-II-(ii),-2019.jpg"
   video: 
-  caption-text: 
+  caption-text: |-
+    *Chiswick II (ii)*, 2019
+
+    51\.4cm x 40.6cm
+
+    Giclée photogram
+
+    Aluminium frame, sprayed white
+
+    Edition of 5 \+ 1AP
   image-size: 
   image-position: 
   image-margin-right: 
