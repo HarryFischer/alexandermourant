@@ -35,7 +35,7 @@ Content:
 - image: "/uploads/Peckham-I-(i),-2019.jpg"
   video: 
   caption-text: |-
-    Peckham I (i), 2019
+    *Peckham I (i)*, 2019
 
     51\.4cm x 40.6cm
 
