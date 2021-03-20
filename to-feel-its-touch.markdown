@@ -104,9 +104,9 @@ Content:
     Aluminium frame, sprayed white
 
     Edition of 5 \+ 1AP
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: small
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
