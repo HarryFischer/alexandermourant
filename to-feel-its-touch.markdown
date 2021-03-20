@@ -74,9 +74,9 @@ Content:
     Aluminium frame, sprayed white
 
     Edition of 5 \+ 1AP
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/Chiswick-II-(i),-2019.jpg"
   video: 
   caption-text: |-
@@ -89,6 +89,12 @@ Content:
     Aluminium frame, sprayed white
 
     Edition of 5 \+ 1AP
+  image-size: small
+  image-position: middle
+  image-margin-right: xsmall
+- image: 
+  video: 
+  caption-text: 
   image-size: 
   image-position: 
   image-margin-right: 
