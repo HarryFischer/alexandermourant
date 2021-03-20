@@ -110,7 +110,7 @@ Content:
 - image: "/uploads/(ONLINE)-Chiswick-I---Alexander-Mourant---2019.jpg"
   video: 
   caption-text: |-
-    Chiswick I, 2019
+    *Chiswick I*, 2019
 
     51.4cm x 40.6cm (each work)
 
