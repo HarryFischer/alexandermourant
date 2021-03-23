@@ -103,20 +103,6 @@ Content:
   image-size: large
   image-position: middle
   image-margin-right: large
-- image: "/uploads/Vitrum-I,-2019---Edel-Assanti.jpg"
-  video: 
-  caption-text: "*Vitrum I*, 2019 \n\nPrint: 101.5cm x 80.6cm\n\nDigital silver gelatin
-    print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Vitrum-I,-2019.jpg"
-  video: 
-  caption-text: "*Vitrum I*, 2019 \n\nPrint: 101.5cm x 80.6cm\n\nDigital silver gelatin
-    print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
-  image-size: medium
-  image-position: middle
-  image-margin-right: large
 - image: "/uploads/Vitrum%20III,%202019;%20Vitrum%20IV,%202018%20-%20Alexander%20Mourant%20-%202020.jpg"
   video: 
   caption-text: "*Vitrum III *& *Vitrum IV*, 2019 & 2018\n\nPrint: 10cm x 8cm \n\nFrame:
@@ -146,6 +132,13 @@ Content:
   image-size: small
   image-position: middle
   image-margin-right: large
+- image: "/uploads/Vitrum-I,-2019.jpg"
+  video: 
+  caption-text: "*Vitrum I*, 2019 \n\nPrint: 101.5cm x 80.6cm\n\nDigital silver gelatin
+    print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/Vitrum-II,-2019.jpg"
   video: 
   caption-text: "*Vitrum II*, 2019 \n\n156cm x 126cm \n\nDigital silver gelatin print
