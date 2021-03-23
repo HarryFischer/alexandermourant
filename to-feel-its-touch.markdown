@@ -9,7 +9,7 @@ Content:
     9 individual negatives\n\nAluminium frame, sprayed white\n\nEdition of 5 \\+ 1AP"
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/Peckham-I-(i),-2019.jpg"
   video: 
   caption-text: |-
@@ -22,7 +22,7 @@ Content:
     Aluminium frame, sprayed white
 
     Edition of 5 \+ 1AP
-  image-size: xsmall
+  image-size: small
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Peckham-I-(ii),-2019.jpg"
@@ -37,9 +37,9 @@ Content:
     Aluminium frame, sprayed white
 
     Edition of 5 \+ 1AP
-  image-size: xsmall
+  image-size: small
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/(ONLINE)-Chiswick-II---Alexander-Mourant---2019.jpg"
   video: 
   caption-text: |-
@@ -54,7 +54,7 @@ Content:
     Edition of 5 \+ 1AP
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/Chiswick-II-(i),-2019.jpg"
   video: 
   caption-text: |-
@@ -84,7 +84,7 @@ Content:
     Edition of 5 \+ 1AP
   image-size: small
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/(ONLINE)-Chiswick-I---Alexander-Mourant---2019.jpg"
   video: 
   caption-text: |-
@@ -99,7 +99,7 @@ Content:
     Edition of 5 + 1AP
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/FT-Weekend-Magazine,-Alexander-Mourant-1.jpg"
   video: 
   caption-text: |-
@@ -108,17 +108,6 @@ Content:
     *My London*, FT Weekend Magazine
 
     Photo London
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Peckham-24---Installation---Alexander-Mourant---2019.jpg"
-  video: 
-  caption-text: |-
-    *Peckham I*, 2019
-
-    *For Those Who Could See Beyond the Surface*, Peckham 24
-
-    Curated by Emma Bowkett
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
