@@ -222,7 +222,7 @@ Content:
   caption-extras: 
   image-size: medium
   image-position: middle
-  image-margin-right: middle
+  image-margin-right: medium
   ignore: 
 - image: "/uploads/Aomori-Install-8.jpg"
   caption-title: Unseen Amsterdam
