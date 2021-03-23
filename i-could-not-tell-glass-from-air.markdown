@@ -95,12 +95,12 @@ Content:
     gelatin hand print\n\nAluminium mount \\+ steel tray frame \n\nUnique"
   image-size: medium
   image-position: middle
-  image-margin-right: large
+  image-margin-right: xlarge
 - image: "/uploads/Fall-I-&-II-(Diptych),-2019.jpg"
   video: 
   caption-text: "*Fall I & II*, 2019 \n\nPrint: 156cm x 126cm \n\nDigital silver gelatin
     print \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
-  image-size: large
+  image-size: xlarge
   image-position: middle
   image-margin-right: large
 - image: "/uploads/Vitrum%20III,%202019;%20Vitrum%20IV,%202018%20-%20Alexander%20Mourant%20-%202020.jpg"
@@ -115,8 +115,8 @@ Content:
     Silver gelatin print Mount \+ aluminium frame
 
     Edition of 5 \+ 2AP
-  image-size: small
-  image-position: top
+  image-size: medium
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Vitrum-III,-2019.jpg"
   video: 
