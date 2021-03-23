@@ -255,6 +255,16 @@ Content:
   image-position: medium
   image-margin-right: middle
   ignore: xsmall
+- image: "/uploads/Unseen-2019-3.jpg"
+  caption-title: 
+  caption-subtitle: 
+  link-url: 
+  caption-year: 
+  caption-extras: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+  ignore: 
 layout: installations
 ---
 
