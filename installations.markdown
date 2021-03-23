@@ -265,6 +265,26 @@ Content:
   image-position: middle
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/Aomori-Install-8.jpg"
+  caption-title: Unseen Amsterdam
+  caption-subtitle: Seen Fifteen Gallery presents Aomori
+  link-url: "/aomori"
+  caption-year: 2018
+  caption-extras: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Aomori-Install-6.jpg"
+  caption-title: 
+  caption-subtitle: 
+  link-url: 
+  caption-year: 
+  caption-extras: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+  ignore: 
 layout: installations
 ---
 
