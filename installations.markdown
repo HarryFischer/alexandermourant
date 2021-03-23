@@ -5,60 +5,60 @@ position: 8
 Content:
 - image: "/uploads/Five-Sketches-2-spotted.jpg"
   caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Furrows---Alexander-Mourant---2020-65e547.jpg"
   caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-7.jpg"
   caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020-4af8cd.jpg"
   caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-13.jpg"
   caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-12.jpg"
   caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: medium
