@@ -194,7 +194,7 @@ Content:
   image-position: middle
   image-margin-right: xsmall
   ignore: 
-- image: 
+- image: "/uploads/Unseen%202019-3.jpg"
   caption-title: 
   caption-subtitle: 
   link-url: 
