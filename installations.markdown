@@ -224,12 +224,22 @@ Content:
   image-position: middle
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2018.jpg"
+- image: "/uploads/Aomori-Install-8.jpg"
   caption-title: Unseen Amsterdam
   caption-subtitle: Seen Fifteen Gallery presents Aomori
   link-url: "/aomori"
   caption-year: 2018
-  caption-extras: Dissipate I, 2017; Dissipate II, 2017; Forest IV, 2017
+  caption-extras: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Aomori-Install-6.jpg"
+  caption-title: 
+  caption-subtitle: 
+  link-url: 
+  caption-year: 
+  caption-extras: 
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -261,26 +271,6 @@ Content:
   link-url: "/aomori"
   caption-year: 2019
   caption-extras: Forest III, 2017; Dissipate II, 2017; City II, 2017
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Aomori-Install-8.jpg"
-  caption-title: Unseen Amsterdam
-  caption-subtitle: Seen Fifteen Gallery presents Aomori
-  link-url: "/aomori"
-  caption-year: 2018
-  caption-extras: 
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Aomori-Install-6.jpg"
-  caption-title: 
-  caption-subtitle: 
-  link-url: 
-  caption-year: 
-  caption-extras: 
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
