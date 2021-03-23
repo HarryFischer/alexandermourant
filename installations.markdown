@@ -190,10 +190,10 @@ Content:
   link-url: 
   caption-year: 
   caption-extras: 
-  image-size: 
-  image-position: medium
-  image-margin-right: middle
-  ignore: xsmall
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+  ignore: 
 - image: "/uploads/Unseen-2019-3.jpg"
   caption-title: 
   caption-subtitle: 
