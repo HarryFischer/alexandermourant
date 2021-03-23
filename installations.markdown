@@ -174,12 +174,32 @@ Content:
   image-position: middle
   image-margin-right: medium
   ignore: 
-- image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2019.jpg"
-  caption-title: Unseen Amsterdam, Seen Fifteen Gallery
-  caption-subtitle: To Feel Its Touch
+- image: "/uploads/Unseen-2019-1.jpg"
+  caption-title: Unseen Amsterdam
+  caption-subtitle: Seen Fifteen Gallery presents To Feel Its Touch
   link-url: "/to-feel-its-touch"
   caption-year: 2019
-  caption-extras: Chiswick II
+  caption-extras: Alexander Mourant and Marianne Bjørnmyr
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Unseen-2019-2.jpg"
+  caption-title: 
+  caption-subtitle: 
+  link-url: 
+  caption-year: 
+  caption-extras: 
+  image-size: 
+  image-position: medium
+  image-margin-right: middle
+  ignore: xsmall
+- image: "/uploads/Unseen-2019-3.jpg"
+  caption-title: 
+  caption-subtitle: 
+  link-url: 
+  caption-year: 
+  caption-extras: 
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -231,36 +251,6 @@ Content:
   link-url: "/aomori"
   caption-year: 2019
   caption-extras: Forest III, 2017; Dissipate II, 2017; City II, 2017
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Unseen-2019-1.jpg"
-  caption-title: Unseen Amsterdam
-  caption-subtitle: Seen Fifteen Gallery presents To Feel Its Touch
-  link-url: "/to-feel-its-touch"
-  caption-year: 2019
-  caption-extras: Alexander Mourant and Marianne Bjørnmyr
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Unseen-2019-2.jpg"
-  caption-title: 
-  caption-subtitle: 
-  link-url: 
-  caption-year: 
-  caption-extras: 
-  image-size: 
-  image-position: medium
-  image-margin-right: middle
-  ignore: xsmall
-- image: "/uploads/Unseen-2019-3.jpg"
-  caption-title: 
-  caption-subtitle: 
-  link-url: 
-  caption-year: 
-  caption-extras: 
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
