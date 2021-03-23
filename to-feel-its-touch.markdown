@@ -116,7 +116,7 @@ Content:
   caption-text: |-
     *Peckham I*, 2019
 
-    *For Those Who Could See Beyond the Surface*, Peckham 24
+    *For Those Who Could See Beyond the Surface*
 
     Curated by Emma Bowkett
   image-size: medium
@@ -124,8 +124,12 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
   video: 
-  caption-text: "*Peckham I*, 2019\n\n*For Those Who Could See Beyond the Surface*
-    \n\nPeckham 24, curated by Emma Bowkett"
+  caption-text: |-
+    *Peckham I*, 2019
+
+    *For Those Who Could See Beyond the Surface*
+
+    Curated by Emma Bowkett
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
