@@ -229,7 +229,7 @@ Content:
   caption-subtitle: Seen Fifteen Gallery presents Aomori
   link-url: "/aomori"
   caption-year: 2018
-  caption-extras: 
+  caption-extras: Dissipate I, 2017; Dissipate II, 2017; Forest IV, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
