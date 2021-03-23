@@ -265,6 +265,16 @@ Content:
   image-position: middle
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
+  caption-title: 
+  caption-subtitle: 
+  link-url: 
+  caption-year: 
+  caption-extras: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+  ignore: 
 layout: installations
 ---
 
