@@ -105,11 +105,18 @@ Content:
   image-margin-right: large
 - image: "/uploads/Vitrum%20III,%202019;%20Vitrum%20IV,%202018%20-%20Alexander%20Mourant%20-%202020.jpg"
   video: 
-  caption-text: "*Vitrum III *& *Vitrum IV*, 2019 & 2018\n\nPrint: 10cm x 8cm \n\nFrame:
-    44.5cm x 38cm\n\nSilver gelatin print Mount \\+ aluminium frame \n\nEdition of
-    5 \\+ 2AP"
-  image-size: medium
-  image-position: middle
+  caption-text: |-
+    *Vitrum III* & *Vitrum IV*, 2019 & 2018
+
+    Print: 10cm x 8cm
+
+    Frame: 44.5cm x 38cm
+
+    Silver gelatin print Mount \+ aluminium frame
+
+    Edition of 5 \+ 2AP
+  image-size: small
+  image-position: top
   image-margin-right: xsmall
 - image: "/uploads/Vitrum-III,-2019.jpg"
   video: 
