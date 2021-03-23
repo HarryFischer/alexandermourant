@@ -204,7 +204,7 @@ Content:
   image-position: middle
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Peckham-24---Installation---Alexander-Mourant---2019.jpg"
+- image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
   caption-title: Peckham 24
   caption-subtitle: To Feel Its Touch
   link-url: "/to-feel-its-touch"
@@ -212,7 +212,17 @@ Content:
   caption-extras: Peckham I
   image-size: medium
   image-position: middle
-  image-margin-right: medium
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
+  caption-title: 
+  caption-subtitle: 
+  link-url: 
+  caption-year: 
+  caption-extras: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2018.jpg"
   caption-title: Unseen Amsterdam
@@ -251,26 +261,6 @@ Content:
   link-url: "/aomori"
   caption-year: 2019
   caption-extras: Forest III, 2017; Dissipate II, 2017; City II, 2017
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
-  caption-title: Peckham 24
-  caption-subtitle: To Feel Its Touch
-  link-url: "/to-feel-its-touch"
-  caption-year: 2019
-  caption-extras: Peckham I
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-  ignore: 
-- image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
-  caption-title: 
-  caption-subtitle: 
-  link-url: 
-  caption-year: 
-  caption-extras: 
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
