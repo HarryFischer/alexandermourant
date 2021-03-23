@@ -255,6 +255,16 @@ Content:
   image-position: middle
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
+  caption-title: Peckham 24
+  caption-subtitle: To Feel Its Touch
+  link-url: "/to-feel-its-touch"
+  caption-year: 2019
+  caption-extras: Peckham I
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+  ignore: 
 layout: installations
 ---
 
