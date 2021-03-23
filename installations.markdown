@@ -252,9 +252,9 @@ Content:
   caption-year: 
   caption-extras: 
   image-size: 
-  image-position: 
-  image-margin-right: 
-  ignore: 
+  image-position: medium
+  image-margin-right: middle
+  ignore: xsmall
 layout: installations
 ---
 
