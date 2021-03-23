@@ -108,7 +108,7 @@ Content:
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: Shelter
+  caption-extras: Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -118,7 +118,7 @@ Content:
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: Shelter
+  caption-extras: Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -128,7 +128,7 @@ Content:
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: Shelter
+  caption-extras: Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -138,7 +138,7 @@ Content:
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: A Gesture of Brambles
+  caption-extras: A Gesture of Brambles, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -148,7 +148,7 @@ Content:
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: A Gesture of Brambles
+  caption-extras: A Gesture of Brambles, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
