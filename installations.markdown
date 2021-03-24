@@ -212,7 +212,7 @@ Content:
   caption-extras: To Feel Its Touch, Peckham I, 2019
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
   ignore: 
 - image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
   caption-title: 
