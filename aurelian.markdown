@@ -36,6 +36,18 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Untitled-IV.jpg"
+  video: 
+  caption-text: "*Untitled IV, *2017"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Untitled-VI.jpg"
+  video: 
+  caption-text: "*Untitled VI*, 2017"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
