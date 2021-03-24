@@ -138,13 +138,9 @@ Content:
   caption-text: |-
     *Chiswick II (ii) & (iii)*, 2019
 
-    51\.4cm x 40.6cm (each)
+    Unseen Amsterdam
 
-    Giclée photogram
-
-    Aluminium frame, sprayed white
-
-    Edition of 5 \+ 1AP
+    Seen Fifteen Gallery
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
