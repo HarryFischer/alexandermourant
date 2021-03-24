@@ -185,20 +185,20 @@ Content:
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Unseen-2019-2.jpg"
-  caption-title: 
+  caption-title: Chiswick II (ii) & (iii)
   caption-subtitle: 
   link-url: 
-  caption-year: 
+  caption-year: 2019
   caption-extras: 
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Unseen-2019-3.jpg"
-  caption-title: 
+  caption-title: Chiswick II (i) & (vi)
   caption-subtitle: 
   link-url: 
-  caption-year: 
+  caption-year: 2019
   caption-extras: 
   image-size: medium
   image-position: middle
