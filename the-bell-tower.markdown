@@ -10,6 +10,18 @@ Content:
   image-size: large
   image-position: middle
   image-margin-right: medium
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+- image: "/uploads/13.jpg"
+  video: 
+  caption-text: "*Movement I*, 2020"
+  image-size: small
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
