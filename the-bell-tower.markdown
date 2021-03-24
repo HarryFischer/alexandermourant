@@ -8,13 +8,13 @@ Content:
   caption-text: Movement vi, 2020
   image-size: small
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: xxsmall
 - image: "/uploads/13.jpg"
   video: 
   caption-text: "*Movement xiii*, 2020"
   image-size: small
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: xxsmall
 - image: "/uploads/21.jpg"
   video: 
   caption-text: Movement xxii, 2020
