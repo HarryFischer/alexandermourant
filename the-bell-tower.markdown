@@ -30,8 +30,16 @@ Content:
   image-margin-right: medium
 - image: "/uploads/Dust-Dances-Around-Itself,-2020-e18286.jpg"
   video: 
-  caption-text: "Dust Dances Around Itself, 2020\n\n86cm x 106cm \n\nDigital silver
-    gelatin print \n\nBespoke white box frame\n\nEdition of 3 \\+ 1AP"
+  caption-text: |-
+    *Dust Dances Around Itself,* 2020
+
+    86cm x 106cm
+
+    Digital silver gelatin print
+
+    Bespoke white box frame
+
+    Edition of 3 \+ 1AP
   image-size: medium
   image-position: middle
   image-margin-right: medium
