@@ -24,12 +24,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Untitled-V.jpg"
-  video: 
-  caption-text: "*Untitled V*, 2017"
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/Display-Dome-With-Atmosphere.jpg"
   video: 
   caption-text: "*Display Dome With Atmosphere*, 2017"
@@ -39,6 +33,12 @@ Content:
 - image: "/uploads/Untitled-IV.jpg"
   video: 
   caption-text: "*Untitled IV, *2017"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Untitled-V.jpg"
+  video: 
+  caption-text: "*Untitled V*, 2017"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
