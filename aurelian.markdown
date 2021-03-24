@@ -83,6 +83,17 @@ Content:
   caption-text: "*Container With Atmosphere*, 2017"
   image-size: medium
   image-position: middle
+  image-margin-right: medium
+- image: "/uploads/FreeRangeShow2017-1.jpg"
+  video: 
+  caption-text: |-
+    Free Range Shows, 2017
+
+    Falmouth University
+
+    *Container With Atmospere* & *Untitled VI*, 2017
+  image-size: medium
+  image-position: middle
   image-margin-right: xsmall
 layout: project
 ---
