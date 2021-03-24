@@ -3,6 +3,12 @@ title: The Bell Tower
 date: 2021-02-20 10:40:00 Z
 position: 3
 Content:
+- image: "/uploads/6.jpg"
+  video: 
+  caption-text: Movement vi, 2020
+  image-size: 
+  image-position: 
+  image-margin-right: 
 - image: "/uploads/13.jpg"
   video: 
   caption-text: "*Movement xiii*, 2020"
@@ -16,15 +22,9 @@ Content:
   image-size: large
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/6.jpg"
+- image: "/uploads/21.jpg"
   video: 
-  caption-text: Movement vi, 2020
-  image-size: 
-  image-position: 
-  image-margin-right: 
-- image: 
-  video: 
-  caption-text: 
+  caption-text: Movement xxii, 2020
   image-size: 
   image-position: 
   image-margin-right: 
