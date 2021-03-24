@@ -111,28 +111,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Unseen-2019-2.jpg"
-  video: 
-  caption-text: |-
-    *Chiswick II (ii) & (iii)*, 2019
-
-    Unseen Amsterdam
-
-    Seen Fifteen Gallery
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Unseen-2019-3.jpg"
-  video: 
-  caption-text: |-
-    *Chiswick II (i) & (vi)*, 2019
-
-    Unseen Amsterdam
-
-    Seen Fifteen Gallery
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
   video: 
   caption-text: |-
@@ -152,6 +130,28 @@ Content:
     *For Those Who Could See Beyond the Surface*
 
     Curated by Emma Bowkett
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Unseen-2019-2.jpg"
+  video: 
+  caption-text: |-
+    *Chiswick II (ii) & (iii)*, 2019
+
+    Unseen Amsterdam
+
+    Seen Fifteen Gallery
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Unseen-2019-3.jpg"
+  video: 
+  caption-text: |-
+    *Chiswick II (i) & (vi)*, 2019
+
+    Unseen Amsterdam
+
+    Seen Fifteen Gallery
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
