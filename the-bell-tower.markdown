@@ -6,19 +6,13 @@ Content:
 - image: "/uploads/6.jpg"
   video: 
   caption-text: "*Movement vi*, 2020"
-  image-size: xsmall
+  image-size: small
   image-position: middle
   image-margin-right: xxsmall
 - image: "/uploads/13.jpg"
   video: 
   caption-text: "*Movement xiii*, 2020"
-  image-size: xsmall
-  image-position: middle
-  image-margin-right: xxsmall
-- image: "/uploads/21.jpg"
-  video: 
-  caption-text: "*Movement xxii*, 2020"
-  image-size: xsmall
+  image-size: small
   image-position: middle
   image-margin-right: medium
 - image: "/uploads/An-Attempt-to-Flood-the-Photograph,-Alexander-Mourant,-2020.jpg"
@@ -64,6 +58,12 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/21.jpg"
+  video: 
+  caption-text: "*Movement xxii*, 2020"
+  image-size: xsmall
+  image-position: middle
+  image-margin-right: medium
 layout: project
 ---
 
