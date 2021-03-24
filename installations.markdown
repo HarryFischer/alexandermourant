@@ -205,11 +205,11 @@ Content:
   image-margin-right: medium
   ignore: 
 - image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
-  caption-title: Peckham 24
+  caption-title: Peckham 24, Copeland Gallery
   caption-subtitle: For Those Who Could See Beyond the Surface
   link-url: "/to-feel-its-touch"
   caption-year: 2019
-  caption-extras: To Feel Its Touch, Peckham I, 2019
+  caption-extras: Peckham I, To Feel Its Touch, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
