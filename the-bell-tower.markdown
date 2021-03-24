@@ -25,9 +25,9 @@ Content:
 - image: "/uploads/21.jpg"
   video: 
   caption-text: Movement xxii, 2020
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: small
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
