@@ -14,7 +14,7 @@ Content:
   caption-text: "*Movement xiii*, 2020"
   image-size: small
   image-position: middle
-  image-margin-right: xxsmall
+  image-margin-right: medium
 - image: "/uploads/An-Attempt-to-Flood-the-Photograph,-Alexander-Mourant,-2020.jpg"
   video: 
   caption-text: "*An Attempt to Flood the Photograph*, 2020\n\n168cm x 116cm \n\nDigital
