@@ -194,6 +194,16 @@ Content:
   image-position: middle
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/Unseen-2019-3.jpg"
+  caption-title: 
+  caption-subtitle: 
+  link-url: 
+  caption-year: 
+  caption-extras: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+  ignore: 
 - image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
   caption-title: Peckham 24
   caption-subtitle: For Those Who Could See Beyond the Surface
