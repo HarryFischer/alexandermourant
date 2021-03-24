@@ -48,6 +48,12 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Lepidopterist's%20Cabinet.jpg"
+  video: 
+  caption-text: "*Lepidopterist's Cabinet (circa 1880)*, 2017"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
