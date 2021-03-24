@@ -54,6 +54,12 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Untitled-VIII.jpg"
+  video: 
+  caption-text: "*Untitled VIII*, 2017"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
