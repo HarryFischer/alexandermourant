@@ -242,7 +242,7 @@ Content:
   caption-extras: 
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
   ignore: 
 - image: "/uploads/Copeland-Gallery-3---Alexander-Mourant---2019-ca7a3a.jpg"
   caption-title: Copeland Gallery
