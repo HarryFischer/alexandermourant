@@ -89,7 +89,7 @@ Content:
   caption-text: |-
     Free Range Shows, 2017
 
-    Falmouth University
+    The Old Truman Brewery
 
     *Container With Atmospere* & *Untitled VI*, 2017
   image-size: medium
