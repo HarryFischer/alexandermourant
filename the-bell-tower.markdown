@@ -5,7 +5,7 @@ position: 3
 Content:
 - image: "/uploads/13.jpg"
   video: 
-  caption-text: "*Movement vi*, 2020"
+  caption-text: "*Movement xiii*, 2020"
   image-size: small
   image-position: middle
   image-margin-right: xsmall
@@ -18,7 +18,7 @@ Content:
   image-margin-right: medium
 - image: "/uploads/6.jpg"
   video: 
-  caption-text: 
+  caption-text: Movement vi, 2020
   image-size: 
   image-position: 
   image-margin-right: 
