@@ -138,7 +138,22 @@ Content:
   caption-text: |-
     *Chiswick II (ii) & (iii)*, 2019
 
-    51\.4cm x 40.6cm
+    51\.4cm x 40.6cm (each)
+
+    Giclée photogram
+
+    Aluminium frame, sprayed white
+
+    Edition of 5 \+ 1AP
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Unseen-2019-3.jpg"
+  video: 
+  caption-text: |-
+    *Chiswick II (i) & (vi)*, 2019
+
+    51\.4cm x 40.6cm (each)
 
     Giclée photogram
 
