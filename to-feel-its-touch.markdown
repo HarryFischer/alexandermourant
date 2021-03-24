@@ -111,28 +111,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
-  video: 
-  caption-text: |-
-    *Peckham I*, 2019
-
-    *For Those Who Could See Beyond the Surface*
-
-    Curated by Emma Bowkett
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
-  video: 
-  caption-text: |-
-    *Peckham I*, 2019
-
-    *For Those Who Could See Beyond the Surface*
-
-    Curated by Emma Bowkett
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/Unseen-2019-2.jpg"
   video: 
   caption-text: |-
@@ -152,6 +130,28 @@ Content:
     Unseen Amsterdam
 
     Seen Fifteen Gallery
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
+  video: 
+  caption-text: |-
+    *Peckham I*, 2019
+
+    *For Those Who Could See Beyond the Surface*
+
+    Curated by Emma Bowkett
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
+  video: 
+  caption-text: |-
+    *Peckham I*, 2019
+
+    *For Those Who Could See Beyond the Surface*
+
+    Curated by Emma Bowkett
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
