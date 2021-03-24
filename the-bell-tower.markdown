@@ -49,6 +49,13 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Vessel-III,-2020.jpg"
+  video: 
+  caption-text: "*Vessel III*, 2020 \n\n106cm x 86cm \n\nDigital silver gelatin print\n\nBespoke
+    white box frame \n\nEdition of 3 \\+ 1AP"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
