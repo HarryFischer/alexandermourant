@@ -34,7 +34,7 @@ Content:
     Bespoke white box frame
 
     Edition of 3 \+ 1AP
-  image-size: medium
+  image-size: small
   image-position: middle
   image-margin-right: medium
 - image: "/uploads/Vessel-I,-2020.jpg"
@@ -58,12 +58,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/21.jpg"
-  video: 
-  caption-text: "*Movement xxii*, 2020"
-  image-size: xsmall
-  image-position: middle
-  image-margin-right: medium
 layout: project
 ---
 
