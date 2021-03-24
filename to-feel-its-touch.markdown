@@ -129,6 +129,8 @@ Content:
 
     *For Those Who Could See Beyond the Surface*
 
+    Peckham 24, Copeland Gallery
+
     Curated by Emma Bowkett
   image-size: medium
   image-position: middle
