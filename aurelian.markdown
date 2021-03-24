@@ -78,6 +78,12 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Container-With-Atmosphere.jpg"
+  video: 
+  caption-text: "*Container With Atmosphere*, 2017"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
