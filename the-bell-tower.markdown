@@ -3,6 +3,12 @@ title: The Bell Tower
 date: 2021-02-20 10:40:00 Z
 position: 3
 Content:
+- image: "/uploads/13.jpg"
+  video: 
+  caption-text: "*Movement vi*, 2020"
+  image-size: small
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/An-Attempt-to-Flood-the-Photograph,-Alexander-Mourant,-2020.jpg"
   video: 
   caption-text: "*An Attempt to Flood the Photograph*, 2020\n\n168cm x 116cm \n\nDigital
@@ -10,18 +16,18 @@ Content:
   image-size: large
   image-position: middle
   image-margin-right: medium
+- image: "/uploads/6.jpg"
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
 - image: 
   video: 
   caption-text: 
   image-size: 
   image-position: 
   image-margin-right: 
-- image: "/uploads/13.jpg"
-  video: 
-  caption-text: "*Movement I*, 2020"
-  image-size: small
-  image-position: middle
-  image-margin-right: xsmall
 layout: project
 ---
 
