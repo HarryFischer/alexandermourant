@@ -179,7 +179,7 @@ Content:
   caption-subtitle: Seen Fifteen Gallery presents To Feel Its Touch
   link-url: "/to-feel-its-touch"
   caption-year: 2019
-  caption-extras: Alexander Mourant and Marianne Bjørnmyr
+  caption-extras: Peckham I, 2019; Chiswick II, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
