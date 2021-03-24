@@ -60,6 +60,12 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Untitled-XIV.jpg"
+  video: 
+  caption-text: "*Untitled XIV*, 2017"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: project
 ---
 
