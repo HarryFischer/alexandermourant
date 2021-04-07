@@ -1,4 +1,4 @@
-console.log("build-1")
+// console.log("build-1")
 
 const artworksBtn = document.querySelector('.artworks-title')
 const artworkList = document.querySelector('.hide-nav')
@@ -12,29 +12,47 @@ artworksBtn.addEventListener('click', () => {
 
 
 
-
 // const images = document.querySelectorAll(".rollover-image")
-const images = document.querySelectorAll('.link-container')
-console.log(images)
+// const images = document.querySelectorAll('.link-container')
+// console.log(images)
 
-function elementInViewport(el) {
-    const windowWidth = window.innerWidth
-    console.log(windowWidth)
-    const elementScroll = el.getBoundingClientRect().right
-    // const elementScroll = el.getBoundingClientRect().right - windowWidth
-    console.log(elementScroll)
-    const offSet = 60
-    return elementScroll < (offSet * -1)
+// function elementInViewport(el) {
+//     const windowWidth = window.innerWidth
+//     console.log(windowWidth)
+//     const elementScroll = el.getBoundingClientRect().right
+//     // const elementScroll = el.getBoundingClientRect().right - windowWidth
+//     console.log(elementScroll)
+//     const offSet = 60
+//     return elementScroll < (offSet * -1)
+// }
+// console.log(elementInViewport())
+// console.log(elementScroll)
+
+// document.addEventListener("scroll", () => {
+//     images.forEach((i) => {
+//         if (elementInViewport(i)) {
+//             i.classList.add('inView')
+//         } else {
+//             i.classList.remove('inView')
+//         }
+//     })
+// })
+
+// import in-view from in-view
+
+// inView('.link-container')
+//     .on('enter', doSomething)
+//     .on('exit', el => {
+//         el.style.opacity = 0.5;
+//     });
+
+
+
+const aboutPageBody = document.querySelector('body')
+console.log(aboutPageBody)
+const removeFixed = () => {
+    aboutPageBody.children.classList.contains('.About')
+    console.log('hello')
 }
-console.log(elementInViewport())
-console.log(elementScroll)
 
-document.addEventListener("scroll", () => {
-    images.forEach((i) => {
-        if (elementInViewport(i)) {
-            i.classList.add('inView')
-        } else {
-            i.classList.remove('inView')
-        }
-    })
-})
+removeFixed()

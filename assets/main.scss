@@ -19,7 +19,7 @@ body {
     font-weight: 100;
     scroll-behavior: smooth;
     @media (min-width: 700px) {
-        // position: fixed;
+        position: fixed;
     }
     top: 0;
     left: 0;
@@ -359,11 +359,52 @@ body {
     }
 }
 
+/*==== FADE IN RIGHT ===*/
+@-webkit-keyframes fadeInRight {
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(100%, 0, 0);
+        transform: translate3d(100%, 0, 0);
+    }
+
+    to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+@keyframes fadeInRight {
+    from {
+        opacity: 0;
+        -webkit-transform: translateX(200px);
+        transform: translateX(-200px);
+    }
+
+    to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+.wrapper {
+    -webkit-animation-name: fadeInRight;
+    animation-name: fadeInRight;
+
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
 .About {
     .wrapper {
+        animation:none;
         .inner-content {
-            padding-left: 20vw;
             padding-top: 20px;
+            @media (min-width: 900px) {
+                padding-left: 20vw;
+            }
         }
         overflow: visible;
         .education-block {
@@ -373,10 +414,10 @@ body {
             font-size: 21px;
             margin-bottom: -10px;
             border-top: 1px solid black;
-            max-width: 640px;
+            max-width: 620px;
         }
         p {
-            max-width: 640px;
+            max-width: 620px;
         }
     }
 }
@@ -400,3 +441,5 @@ body {
         }
     }
 }
+
+

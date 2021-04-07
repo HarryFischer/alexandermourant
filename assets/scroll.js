@@ -1,7 +1,7 @@
-const scrollWrapper = document.getElementById('content-wrapper');
-const mq = window.matchMedia('(min-width: 700px)');
-const pageType = document.querySelector('.home');
-console.log(pageType)
+// const scrollWrapper = document.getElementById('content-wrapper');
+// const mq = window.matchMedia('(min-width: 700px)');
+// const pageType = document.querySelector('.home');
+// console.log(pageType)
 
 // if (mq.matches) {
 //     (function () {
