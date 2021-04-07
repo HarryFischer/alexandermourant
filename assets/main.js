@@ -47,12 +47,70 @@ artworksBtn.addEventListener('click', () => {
 //     });
 
 
+const wrapper = document.querySelector('.wrapper')
+window.onload = () => {
+  wrapper.classList.add('loaded')
+};
 
-const aboutPageBody = document.querySelector('body')
-console.log(aboutPageBody)
+const aboutPageBody = document.querySelector('.about')
+
 const removeFixed = () => {
-    aboutPageBody.children.classList.contains('.About')
-    console.log('hello')
+    if (document.body.contains(aboutPageBody)) {
+        document.body.style.position = 'unset'
+    }
 }
 
 removeFixed()
+
+
+
+
+// function elementInViewport(el) {
+//   var top = el.offsetTop;
+//   var left = el.offsetLeft;
+//   var width = el.offsetWidth;
+//   var height = el.offsetHeight;
+
+//   while(el.offsetParent) {
+//     el = el.offsetParent;
+//     top += el.offsetTop;
+//     left += el.offsetLeft;
+//   }
+
+//   return (
+//     top < (window.pageYOffset + window.innerHeight) &&
+//     left < (window.pageXOffset + window.innerWidth) &&
+//     (top + height) > window.pageYOffset &&
+//     (left + width) > window.pageXOffset
+//   );
+// }
+
+// function isElementInViewport (el) {
+//     var rect = el.getBoundingClientRect();
+
+//     return (
+//         rect.top >= 0 &&
+//         rect.left >= 0 &&
+//         rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /* or $(window).height() */
+//         rect.right <= (window.innerWidth || document.documentElement.clientWidth) /* or $(window).width() */
+//     );
+// }
+
+// const slideInElement = document.querySelectorAll('.link-container') 
+// console.log(slideInElement[6])
+// console.log(isElementInViewport(slideInElement[6]))
+
+
+window.onscroll = () => {
+
+    var elements = querySelectorAll('.link-container');
+    for(var i = 0; i != elements.length; i++)
+    {
+        if(elements[i].getBoundingClientRect().left <= window.innerWidth * 0.75 &&
+            elements[i].getBoundingClientRect().left > 0)
+            console.log('one');
+        {
+            console.log('hello');
+        }
+    }
+}
