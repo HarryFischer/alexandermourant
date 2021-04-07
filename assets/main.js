@@ -48,11 +48,25 @@ artworksBtn.addEventListener('click', () => {
 
 
 
-const aboutPageBody = document.querySelector('body')
-console.log(aboutPageBody)
+
+
 const removeFixed = () => {
-    aboutPageBody.children.classList.contains('.About')
     console.log('hello')
 }
 
+const aboutPageBody = document.querySelector('.about')
+console.log(document.body.contains(aboutPageBody))
+
+const removeFixed = () => {
+    if (document.body.contains(aboutPageBody)) {
+        document.body.style.position = 'relative';
+    }
+}
+
 removeFixed()
+
+window.onload = function() {
+  document.querySelector('.wrapper').className = 'expand';
+};
+
+console.log(document.querySelector('.wrapper'))

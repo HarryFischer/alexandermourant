@@ -12,6 +12,20 @@ $wide: 1300px;
 
 $font-family-serif: 'ETBook', 'Times New Roman', serif;
 
+@keyframes transitionIn {
+    from {
+        transform: translateX(20px);
+        opacity:0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity:1;
+    }
+}
+
+
+
 body {
     color: black;
     font-family:$font-family-serif;
@@ -175,6 +189,7 @@ body {
 .wrapper {
     overflow-x: scroll;
     overflow-y: hidden;
+    
     &::-webkit-scrollbar {
         display: none;
     }
@@ -205,6 +220,9 @@ body {
             height:max-content;
             margin-bottom:30px;
             text-decoration:none;
+
+            animation: transitionIn 0.5s ease-in;
+            animation-delay: 0.5s;
             // opacity:0;
             // transform: translateX(60px);
             // transition:all 0.5s ease-in;
@@ -342,6 +360,10 @@ body {
     }
 }
 
+// .expand {
+//     animation:transitionIn 3s;
+// }
+
 .Home {
     .link-container {
         // background-color:black;
@@ -374,32 +396,9 @@ body {
     }
 }
 
-@keyframes fadeInRight {
-    from {
-        opacity: 0;
-        -webkit-transform: translateX(200px);
-        transform: translateX(-200px);
-    }
-
-    to {
-        opacity: 1;
-        -webkit-transform: none;
-        transform: none;
-    }
-}
-
-.wrapper {
-    -webkit-animation-name: fadeInRight;
-    animation-name: fadeInRight;
-
-    animation: fadeInAnimation ease 3s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
-}
 
 .About {
     .wrapper {
-        animation:none;
         .inner-content {
             padding-top: 20px;
             @media (min-width: 900px) {
