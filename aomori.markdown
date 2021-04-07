@@ -135,7 +135,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2018.jpg"
+- image: "/uploads/Aomori-Install-8.jpg"
   video: 
   caption-text: |-
     Unseen Amsterdam, 2018
@@ -143,6 +143,12 @@ Content:
     Seen Fifteen Gallery presents *Aomori*
 
     *Dissipate I*, 2017; *Dissipate II*, 2017; *Forest IV*, 2017
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Aomori-Install-6.jpg"
+  video: 
+  caption-text: 
   image-size: medium
   image-position: middle
   image-margin-right: medium

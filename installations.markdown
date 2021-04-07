@@ -5,60 +5,60 @@ position: 8
 Content:
 - image: "/uploads/Five-Sketches-2-spotted.jpg"
   caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Furrows---Alexander-Mourant---2020-65e547.jpg"
   caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-7.jpg"
   caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020-4af8cd.jpg"
   caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-13.jpg"
   caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
   ignore: 
 - image: "/uploads/Five-Sketches-12.jpg"
   caption-title: Mont au Prêtre Farm
-  caption-subtitle: Five Furrows
+  caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
-  caption-extras: 
+  caption-extras: Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -108,7 +108,7 @@ Content:
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: Shelter
+  caption-extras: Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -118,7 +118,7 @@ Content:
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: Shelter
+  caption-extras: Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -128,7 +128,7 @@ Content:
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: Shelter
+  caption-extras: Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -138,7 +138,7 @@ Content:
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: A Gesture of Brambles
+  caption-extras: A Gesture of Brambles, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -148,7 +148,7 @@ Content:
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
   caption-year: 2020
-  caption-extras: A Gesture of Brambles
+  caption-extras: A Gesture of Brambles, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -174,27 +174,57 @@ Content:
   image-position: middle
   image-margin-right: medium
   ignore: 
-- image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2019.jpg"
-  caption-title: Unseen Amsterdam, Seen Fifteen Gallery
-  caption-subtitle: To Feel Its Touch
+- image: "/uploads/Unseen-2019-1.jpg"
+  caption-title: Unseen Amsterdam
+  caption-subtitle: Seen Fifteen Gallery presents To Feel Its Touch
   link-url: "/to-feel-its-touch"
   caption-year: 2019
-  caption-extras: Chiswick II
+  caption-extras: Peckham I, 2019; Chiswick II, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
   ignore: 
-- image: "/uploads/Peckham-24---Installation---Alexander-Mourant---2019.jpg"
-  caption-title: Peckham 24
-  caption-subtitle: To Feel Its Touch
-  link-url: "/to-feel-its-touch"
+- image: "/uploads/Unseen-2019-2.jpg"
+  caption-title: Chiswick II (ii) & (iii)
+  caption-subtitle: 
+  link-url: 
   caption-year: 2019
-  caption-extras: Peckham I
+  caption-extras: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Unseen-2019-3.jpg"
+  caption-title: Chiswick II (i) & (vi)
+  caption-subtitle: 
+  link-url: 
+  caption-year: 2019
+  caption-extras: 
   image-size: medium
   image-position: middle
   image-margin-right: medium
   ignore: 
-- image: "/uploads/Unseen-Amsterdam---Alexander-Mourant---2018.jpg"
+- image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
+  caption-title: Peckham 24, Copeland Gallery
+  caption-subtitle: For Those Who Could See Beyond the Surface
+  link-url: "/to-feel-its-touch"
+  caption-year: 2019
+  caption-extras: Peckham I, To Feel Its Touch, 2019
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
+  caption-title: 
+  caption-subtitle: 
+  link-url: 
+  caption-year: 
+  caption-extras: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
+  ignore: 
+- image: "/uploads/Aomori-Install-8.jpg"
   caption-title: Unseen Amsterdam
   caption-subtitle: Seen Fifteen Gallery presents Aomori
   link-url: "/aomori"
@@ -203,6 +233,16 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+  ignore: 
+- image: "/uploads/Aomori-Install-6.jpg"
+  caption-title: 
+  caption-subtitle: 
+  link-url: 
+  caption-year: 
+  caption-extras: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
   ignore: 
 - image: "/uploads/Copeland-Gallery-3---Alexander-Mourant---2019-ca7a3a.jpg"
   caption-title: Copeland Gallery

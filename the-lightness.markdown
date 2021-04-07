@@ -15,6 +15,12 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Lightness%20III,%202018.jpg"
+  video: 
+  caption-text: "*Lightness III*, 2018"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/Lightness%20II,%202018.jpg"
   video: 
   caption-text: "*Lightness II*, 2018"
@@ -24,18 +30,6 @@ Content:
 - image: "/uploads/Lightness%20IV,%202018.jpg"
   video: 
   caption-text: "*Lightness IV*, 2018"
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Lightness%20III,%202018.jpg"
-  video: 
-  caption-text: "*Lightness III*, 2018"
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Lightness%20V,%202018.jpg"
-  video: 
-  caption-text: "*Lightness V*, 2018"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -54,6 +48,12 @@ Content:
 - image: "/uploads/Lightness%20X,%202018.jpg"
   video: 
   caption-text: "*Lightness X*, 2018"
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Lightness%20V,%202018.jpg"
+  video: 
+  caption-text: "*Lightness V*, 2018"
   image-size: medium
   image-position: middle
   image-margin-right: medium
