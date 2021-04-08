@@ -206,7 +206,6 @@ body {
             height:max-content;
             margin-bottom:30px;
             text-decoration:none;
-            // opacity:0;
             @media (min-width:700px) {
                 margin-bottom: 0;
             }
@@ -364,8 +363,8 @@ body {
     }
 }
 
-.loaded {
-    .link-container {
+
+    .link-container.active {
         opacity: 1;
         // transform: translateX(30px);
         animation-delay: 2s;
@@ -376,8 +375,7 @@ body {
             animation: slideIn 0.5s ease-in;
         }
     }
-    
-}
+
 
 .Home {
     .link-container {
