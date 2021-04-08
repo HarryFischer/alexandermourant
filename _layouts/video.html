@@ -6,7 +6,20 @@ layout: default
   <div class="inner-content">
     {%- for content in page.Content -%}
     <div>
-      {{ content.video }}
+      <iframe 
+        width="100%" 
+        height="100%" 
+        src="{{ content.video }}" 
+        frameborder="0" 
+        allowfullscreen
+        rel=0
+        controls=0
+        modestBranding=0
+        autoplay=1>
+      </iframe>
+      <div class="caption-wrapper">
+        {{ content.caption-text | markdownify }}
+      </div>
     </div>
     {%- endfor -%}
   </div>
