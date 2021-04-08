@@ -4,12 +4,12 @@ date: 2021-02-20 10:36:00 Z
 position: 2
 Content:
 - image: 
-  video: https://youtu.be/7LQuSvEvQLM
+  video: https://www.youtube.com/embed/7LQuSvEvQLM
   caption-text: "*A Vertigo Like Self*, 2019\n\nSuper 8 film, colour, silent\n\nFor
     projection, digitised HD \n\nDuration: 6 minutes, 50 seconds"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-layout: project
+layout: video
 ---
 
