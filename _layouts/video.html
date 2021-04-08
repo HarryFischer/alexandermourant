@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="home scroll-horizontal">
+  <div class="inner-content">
+    {%- for content in page.Content -%}
+    <div>
+      {{ content.video }}
+    </div>
+    {%- endfor -%}
+  </div>
+</div>
