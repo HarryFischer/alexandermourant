@@ -2,6 +2,9 @@
 title: Alexander Mourant
 timezone: UTC
 collections:
+  data:
+    title: Data
+    output: true
   posts:
     title: Posts
     output: true
