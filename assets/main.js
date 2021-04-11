@@ -40,23 +40,15 @@ if (iO) {
     
   let observer = new IntersectionObserver(function(entries) {
     entries.forEach(function(item) {
-      
       if (item.intersectionRatio > .1) {
-        
-        item.target.classList.add("active");
-
+        item.target.classList.add("active")
       } else {
         // item.target.classList.remove("active");
       }
-      
-    });
-    
-  }, config);
-
+    })
+  }, config)
   box.forEach(function(item){
     observer.observe(item);
-  });
-  
-} // end of if(iO)
-  
-}); // end of load event
+  }) 
+}
+})
