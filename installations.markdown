@@ -4,15 +4,15 @@ date: 2021-03-01 17:53:00 Z
 position: 8
 Content:
 - image: "/uploads/Five-Sketches-2-spotted.jpg"
+  caption-text: On living
   caption-title: Mont au Prêtre Farm
   caption-subtitle: On Living Stones and Reaching
-  link-url: "/on-living-stones-and-reaching"
   caption-year: 2020
   caption-extras: Five Furrows, 2020
+  link-url: "/on-living-stones-and-reaching"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Five-Furrows---Alexander-Mourant---2020-65e547.jpg"
   caption-title: Mont au Prêtre Farm
   caption-subtitle: On Living Stones and Reaching
