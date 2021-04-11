@@ -5,18 +5,20 @@ layout: default
 <div class="home scroll-horizontal">
   <div class="inner-content">
     {%- for content in page.Content -%}
-    <div>
-      <div style="">
-        <iframe 
-          src="https://player.vimeo.com/video/535542743?autoplay=1&loop=1&muted=1&controls=false" 
-          style="position:absolute;top:0;left:0;width:100%;height:30vh;" 
-          frameborder="0" 
-          allow="autoplay; fullscreen; picture-in-picture">
-        </iframe>
-      </div>
-      <script src="https://player.vimeo.com/api/player.js"></script>
-      <div class="caption-wrapper">
-        {{ content.caption-text | markdownify }}
+    <div class="link-container {{ content.image-position }}">
+      <div class="link-wrapper">
+        <div class="image-wrapper" style="position:relative;">
+          <iframe 
+            class="{{ content.image-size }}"
+            src="https://player.vimeo.com/video/535542743?autoplay=1&loop=1&muted=1&controls=false"  
+            frameborder="0" 
+            allow="autoplay; fullscreen; picture-in-picture">
+          </iframe>
+          <script src="https://player.vimeo.com/api/player.js"></script>
+        </div>
+        <div class="caption-wrapper" style="position:relative;">
+            {{ content.caption-text | markdownify }}
+        </div>
       </div>
     </div>
     {%- endfor -%}

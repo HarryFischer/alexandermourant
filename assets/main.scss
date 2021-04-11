@@ -441,7 +441,13 @@ body {
 
 
 
-iframe {
-    height: 30vh;
-    margin: auto;
+.wrapper .inner-content .link-wrapper .image-wrapper {
+    iframe.medium {
+        width: calc(100vw - 20px);
+        height: 73vw;
+        @media (min-width: 700px) {
+            width: 64vh;
+            height: 50vh;
+        }
+    }
 }
