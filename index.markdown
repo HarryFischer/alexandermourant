@@ -34,7 +34,7 @@ Content:
   image-position: top
   image-margin-right: small
   ignore: 
-- image: "/uploads/Peckham%20I%20(iii).jpg"
+- image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
   caption-title: To Feel Its Touch
   caption-year: 2019
   page-url: "/to-feel-its-touch"
