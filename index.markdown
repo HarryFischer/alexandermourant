@@ -38,7 +38,7 @@ Content:
   caption-title: To Feel Its Touch
   caption-year: 2019
   page-url: "/to-feel-its-touch"
-  image-size: small
+  image-size: medium
   image-position: middle
   image-margin-right: small
   ignore: 
