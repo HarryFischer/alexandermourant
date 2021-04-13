@@ -30,8 +30,8 @@ Content:
   caption-title: The Bell Tower
   caption-year: 2020
   page-url: "/the-bell-tower"
-  image-size: small
-  image-position: top
+  image-size: medium
+  image-position: middle
   image-margin-right: small
   ignore: 
 - image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
