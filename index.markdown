@@ -26,7 +26,7 @@ Content:
   image-position: bottom
   image-margin-right: small
   ignore: 
-- image: "/uploads/Dust-Dances-Around-Itself,-2020.jpg"
+- image: "/uploads/An-Attempt-to-Flood-the-Photograph,-Alexander-Mourant,-2020.jpg"
   caption-title: The Bell Tower
   caption-year: 2020
   page-url: "/the-bell-tower"
