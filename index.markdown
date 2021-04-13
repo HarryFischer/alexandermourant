@@ -7,7 +7,7 @@ Content:
   caption-year: 2020
   page-url: "/on-living-stones-and-reaching"
   image-size: medium
-  image-position: bottom
+  image-position: top
   image-margin-right: small
   ignore: 
 - image: "/uploads/Vitrum-IX,-2019.jpg"
