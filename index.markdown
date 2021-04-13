@@ -2,7 +2,7 @@
 title: Home
 position: 9
 Content:
-- image: "/uploads/Screenshot%20Portrait%20of%20the%20Artist.jpg"
+- image: "/uploads/Artist-with-Two-Hundred-and-Eighty-Boxes.jpg"
   caption-title: On Living Stones and Reaching
   caption-year: 2020
   page-url: "/on-living-stones-and-reaching"
