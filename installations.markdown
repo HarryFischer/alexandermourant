@@ -23,6 +23,16 @@ Content:
   image-position: middle
   image-margin-right: xsmall
   ignore: 
+- image: "/uploads/Five-Furrows---Alexander-Mourant---2020-e3472d.jpg"
+  caption-title: Old edit
+  caption-subtitle: 
+  link-url: 
+  caption-year: 
+  caption-extras: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+  ignore: 
 - image: "/uploads/Five-Sketches-7.jpg"
   caption-title: Mont au Prêtre Farm
   caption-subtitle: On Living Stones and Reaching
