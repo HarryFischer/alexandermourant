@@ -9,6 +9,6 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-layout: farm-index
+layout: project
 ---
 
