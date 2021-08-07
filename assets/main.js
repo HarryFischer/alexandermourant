@@ -52,3 +52,20 @@ if (iO) {
   }) 
 }
 })
+
+
+
+
+// populate iframe
+const iframe = document.querySelector("iframe")
+console.log(iframe)
+const buttons = document.querySelector(".link")
+console.log(buttons.dataset)
+const iframeDestination = buttons.dataset
+
+// for (let i = 0; i < buttons.length; i++) {
+  buttons.addEventListener("click", () => {
+    buttons.preventDefault
+    iframe.src = buttons.dataset.destination
+  })
+// }
