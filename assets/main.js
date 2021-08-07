@@ -52,3 +52,27 @@ if (iO) {
   }) 
 }
 })
+
+
+
+// close farm left nav
+const leftPanel = document.querySelector(".split-wrapper__left")
+leftPanel.addEventListener(("click"), () => {
+  if (!leftPanel.classList.contains("closed")) {
+    leftPanel.classList.add ("closed")
+  } else {
+    leftPanel.classList.remove ("closed")
+  }
+})
+
+
+// fill olsar iframe on click
+const iframe = document.querySelector(".fill-me")
+const link = document.querySelector(".olsar-link")
+
+link.addEventListener(("click"), () => {
+  iframe.src = (link.dataset.link)
+  iframe.classList.add("filled")
+  link.classList.add("active")
+})
+
