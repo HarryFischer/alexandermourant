@@ -1,7 +1,7 @@
 ---
 title: On Living Stones and Reaching
 date: 2021-02-20 10:45:00 Z
-position: 4
+position: 6
 Content:
 - image: 
   video: 
