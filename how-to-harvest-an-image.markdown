@@ -1,6 +1,7 @@
 ---
 title: 11 How to Harvest an Image
 date: 2021-11-15 17:58:00 Z
+permalink: "/on-living-stones-and-reaching/how-to-harnes-an-image"
 position: 10
 Content:
 - caption-text: |-
