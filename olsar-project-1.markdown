@@ -6,7 +6,7 @@ Content:
 - image: "/uploads/olsar-p1-01.jpg"
   caption-text: This is a dummy caption for olsar proj 1
   image-size: medium
-  image-position: center
+  image-position: middle
 layout: olsar-1
 ---
 
