@@ -1,5 +1,5 @@
 ---
-title: The Image Reveals Itself
+title: 7 The Image Reveals Itself
 date: 2021-11-15 17:44:00 Z
 position: 6
 Content:
