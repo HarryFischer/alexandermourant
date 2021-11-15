@@ -8,6 +8,7 @@ Content:
   caption-text: |-
     Palm of the Earth, 2020
     50 x 62 in. (126cm x 156cm)
+  image-size: medium
   image-position: middle
 layout: olsar-2
 ---
