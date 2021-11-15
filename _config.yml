@@ -46,11 +46,8 @@ responsive_image:
   save_to_source: false
   cache: false
   extra_images:
-<<<<<<< HEAD
-    - uploads/*/*/*/*.{jpeg,jpg}
 defaults:
   - scope:
-      path: ""
       type: "pages"
     values:
       image:
@@ -59,6 +56,3 @@ defaults:
       image-size:
       image-position:
       image-margin-right:
-=======
-  - uploads/*/*/*/*.{jpeg,jpg}
->>>>>>> 31d7865f729eb4324271d99f434e62407dd025c0
