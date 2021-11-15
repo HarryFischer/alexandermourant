@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-position: 9
+position: 10
 Content:
 - about-text: Alexander Mourant is an artist based in London. His work has been included
     in publications such as FT Weekend Magazine, British Journal of Photography, Photograph,
