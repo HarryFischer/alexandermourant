@@ -14,10 +14,14 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
+    type: pages
   values:
-    layout: default
-    author: Ethan
+    image: 
+    video: 
+    caption-text: 
+    image-size: 
+    image-position: 
+    image-margin-right: 
 email: alexander-mourant@gmail.com
 description: Alexander Mourant - Photographer - Portfolio
 baseurl: "/alexandermourant"
@@ -45,14 +49,4 @@ responsive_image:
   output_path_format: assets/resized/%{width}/%{basename}
   save_to_source: false
   cache: false
-  extra_images:
-defaults:
-  - scope:
-      type: "pages"
-    values:
-      image:
-      video:
-      caption-text:
-      image-size:
-      image-position:
-      image-margin-right:
+  extra_images: 
