@@ -1,6 +1,6 @@
 ---
 title: Home
-position: 13
+position: 14
 Content:
 - image: "/uploads/Portrait-of-the-artist-repeating-himself-2020.jpg"
   caption-title: On Living Stones and Reaching

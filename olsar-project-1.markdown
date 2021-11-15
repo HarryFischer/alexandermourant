@@ -2,7 +2,7 @@
 title: olsar project 1
 date: 2021-11-15 14:58:00 Z
 permalink: "/on-living-stones-and-reaching/project-one"
-position: 12
+position: 13
 Content:
 - image: "/uploads/olsar-p1-01.jpg"
   caption-text: This is a dummy caption for olsar proj 1
