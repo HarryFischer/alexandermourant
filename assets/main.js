@@ -70,15 +70,22 @@ leftPanel.addEventListener(("click"), () => {
 
 // fill olsar iframe on click
 const iframe = document.querySelector(".fill-me")
-const link = document.querySelector(".olsar-link")
+const links = document.querySelectorAll(".olsar-link")
 
-link.addEventListener(("click"), () => {
-  iframe.src = (link.dataset.link)
-  iframe.classList.add("filled")
-  link.classList.add("active")
-  if (!leftPanel.classList.contains("closed")) {
-    leftPanel.classList.add ("closed")
-  } else {
-    leftPanel.classList.remove ("closed")
-  }
-})
+console.log(links)
+
+
+for (let i = 0; i < links.length; i++) {
+  console.log(links[i])
+  links[i].addEventListener(("click"), () => {
+    console.log(links[i])
+    iframe.src = (links[i].dataset.link)
+    iframe.classList.add("filled")
+    links[i].classList.add("active")
+    if (!leftPanel.classList.contains("closed")) {
+      leftPanel.classList.add ("closed")
+    } else {
+      leftPanel.classList.remove ("closed")
+    }   
+  })
+}
