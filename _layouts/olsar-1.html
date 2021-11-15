@@ -4,28 +4,13 @@ layout: default
 
 <div class="home scroll-horizontal">
   <div class="inner-content flex">
-    <!-- <div class="project-title link-container">
-      <div class="title-inner">
-        <h1>Aomori</h1>
-        <p>Words</p>
-      </div>
-    </div> -->
     {%- for content in page.Content -%}
-    <div class="link-container {{ content.image-margin-right }} {{ content.image-position }}">
-      <div class="link-wrapper">
-        <div class="image-wrapper">
-          <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
-        </div>
-        <div class="caption-wrapper olsar one">
-            {{ content.caption-text | markdownify }}
-        </div>
-      </div>
+    <div class="image-wrapper">
+      <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
+    </div>
+    <div class="caption-wrapper olsar one">
+      {{ content.caption-text | markdownify }}
     </div>
     {%- endfor -%}
   </div>
-  <!-- <div>
-    {% for words in page.Words %}
-    <p>{{ words.interview-text | markdownify }}</p>
-    {% endfor %}
-  </div> -->
 </div>
