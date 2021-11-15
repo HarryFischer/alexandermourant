@@ -1,6 +1,7 @@
 ---
 title: 12 The Harvesters
 date: 2021-11-15 18:00:00 Z
+permalink: "/on-living-stones-and-reaching/the-harvesters"
 position: 11
 Content:
 - image: "/uploads/olsar-p8-11.jpg"
