@@ -17,12 +17,12 @@ defaults:
     type: pages
   values:
     Content:
-      image: 
-      video: 
-      caption-text: 
-      image-size: 
-      image-position: 
-      image-margin-right: 
+      - image: 
+        video: 
+        caption-text: 
+        image-size: 
+        image-position: 
+        image-margin-right: 
 email: alexander-mourant@gmail.com
 description: Alexander Mourant - Photographer - Portfolio
 baseurl: "/alexandermourant"
