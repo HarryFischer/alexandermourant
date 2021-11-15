@@ -1,7 +1,7 @@
 ---
 title: The Lightness
 date: 2021-02-20 10:19:00 Z
-position: 16
+position: 17
 Content:
 - image: "/uploads/Lightness%20VIII,%202018.jpg"
   video: 
