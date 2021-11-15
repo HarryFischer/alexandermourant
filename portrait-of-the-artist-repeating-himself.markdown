@@ -5,6 +5,7 @@ permalink: "/on-living-stones-and-reaching/portrait-of-the-artist-repeating-hims
 position: 1
 Content:
 - image: "/uploads/olsar-p1-26.jpg"
+  image-size: medium
   image-position: middle
 layout: olsar-3
 ---
