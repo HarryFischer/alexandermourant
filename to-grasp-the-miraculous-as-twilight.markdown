@@ -6,6 +6,7 @@ position: 9
 Content:
 - image: "/uploads/olsar-p7-01.jpg"
   caption-text: To Grasp the Miraculous As Twilight, 2020 62 x 50 in. (156cm x 126cm)
+  image-size: medium
   image-position: middle
 layout: olsar-1
 ---
