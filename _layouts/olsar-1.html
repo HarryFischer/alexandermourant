@@ -5,11 +5,13 @@ layout: default
 <div class="home scroll-horizontal">
   <div class="inner-content flex">
     {%- for content in page.Content -%}
-    <div class="image-wrapper">
-      <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
-    </div>
-    <div class="caption-wrapper olsar one">
-      {{ content.caption-text | markdownify }}
+    <div class="olsar olsar-one {{ content.image-position }}">
+      <div class="image-wrapper">
+        <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
+      </div>
+      <div class="caption-wrapper">
+        {{ content.caption-text | markdownify }}
+      </div>
     </div>
     {%- endfor -%}
   </div>
