@@ -1,6 +1,7 @@
 ---
 title: 1 How to Plant an Image
 date: 2021-11-15 16:12:00 Z
+permalink: "/on-living-stones-and-reaching/how-to-plant-an-image"
 position: 0
 Content:
 - caption-text: "How to Plant an Image, 2020 Super 8 film, colour, silent\LFor projection,
