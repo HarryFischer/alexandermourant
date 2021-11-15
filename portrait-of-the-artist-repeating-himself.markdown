@@ -1,0 +1,8 @@
+---
+title: Portrait of the Artist Repeating Himself
+date: 2021-11-15 17:09:00 Z
+Content:
+- image: "/uploads/olsar-p1-02.jpg"
+layout: olsar-3
+---
+
