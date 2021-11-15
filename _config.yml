@@ -43,7 +43,11 @@ responsive_image:
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: "pages"
     values:
-      layout: "default"
-      author: "Ethan"
+      image:
+      video:
+      caption-text:
+      image-size:
+      image-position:
+      image-margin-right:
