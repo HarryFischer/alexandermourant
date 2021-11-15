@@ -449,6 +449,7 @@ body {
   display: flex;
   height: calc(100vh - 50px);
   &__left {
+    position: relative;
     border-right: 1px solid black;
     display: flex;
     transition: all 0.5s ease;
@@ -474,6 +475,24 @@ body {
         transition: all 0.5s ease;
       }
     }
+    .close,
+    .open {
+      position: absolute;
+      right: 10px;
+      top: 10px;
+      transition: scale 0.3s ease;
+      &:hover {
+        transform: scale(1.5);
+      }
+    }
+    &.open {
+      .close {
+        display: block;
+      }
+      .open {
+        display: none;
+      }
+    }
     &.closed {
       width: 80px;
       .inner-wrapper {
@@ -489,6 +508,12 @@ body {
           opacity: 0;
           // visibility: hidden;
         }
+      }
+      .close {
+        display: none;
+      }
+      .open {
+        display: block;
       }
     }
   }
@@ -548,7 +573,21 @@ body {
 }
 
 .olsar {
+  margin-left: auto;
+  margin-right: auto;
+  .caption-wrapper {
+    margin: auto;
+    margin-left: 20px;
+    width: 150px;
+    min-height: unset !important;
+  }
+  display: flex;
   &-one {
-    display: flex;
+  }
+  &-two {
+    flex-direction: row-reverse;
+    .caption-wrapper {
+      margin-right: 20px;
+    }
   }
 }
