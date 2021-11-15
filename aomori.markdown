@@ -1,7 +1,7 @@
 ---
 title: Aomori
 date: 2021-02-13 18:49:00 Z
-position: 15
+position: 16
 Content:
 - image: "/uploads/Blue-Tree-2017.jpg"
   video: 
