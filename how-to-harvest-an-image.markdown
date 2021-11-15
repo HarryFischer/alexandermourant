@@ -7,6 +7,7 @@ Content:
 - caption-text: |-
     How to Harvest an Image, 2020 Super 8 film, colour, silent
     For projection, digitised HD Duration: 7 minutes, 53 seconds
+  image-size: medium
   image-position: middle
 layout: olsar-2
 ---
