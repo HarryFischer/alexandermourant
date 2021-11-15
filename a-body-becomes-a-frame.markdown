@@ -8,6 +8,7 @@ Content:
   caption-text: |-
     A Body Becomes a Frame
     15:52, 24th June, 2020 34 x 40 in. (86cm x 106cm)
+  image-size: medium
   image-position: middle
 layout: olsar-2
 ---
