@@ -11,6 +11,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: default
+    author: Ethan
 email: alexander-mourant@gmail.com
 description: Alexander Mourant - Photographer - Portfolio
 baseurl: "/alexandermourant"
@@ -22,16 +29,16 @@ sass:
   style: compressed
 markdown: kramdown
 plugins:
-  - jekyll-responsive-image
+- jekyll-responsive-image
 responsive_image:
   template: _includes/responsive-image.html
   default_quality: 10
   sizes:
-    - width: 480
-      quality: 30
-    - width: 800
-    - width: 1400
-      quality: 20
+  - width: 480
+    quality: 30
+  - width: 800
+  - width: 1400
+    quality: 20
   auto_rotate: false
   strip: true
   base_path: uploads
@@ -39,11 +46,4 @@ responsive_image:
   save_to_source: false
   cache: false
   extra_images:
-    - uploads/*/*/*/*.{jpeg,jpg}
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-      author: "Ethan"
+  - uploads/*/*/*/*.{jpeg,jpg}
