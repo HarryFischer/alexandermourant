@@ -9,7 +9,7 @@ Content:
   caption-text: Teaching the Camera How to Carry (Right), 2020 Each 16 x 20 in. (40.64cm
     x 50.8cm)
   image-size: 
-  image-position: 
+  image-position: middle
   image-margin-right: 
 - image: "/uploads/olsar-p3-05.jpg"
   video: 
