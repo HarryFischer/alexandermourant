@@ -495,15 +495,16 @@ body {
       }
     }
     &.closed {
-      width: 80px;
+      width: 24px;
       .inner-wrapper {
         position: relative;
         h1 {
-          width: 100%;
+          width: max-content;
           transform: rotate(90deg) translate(-50%);
           position: absolute;
-          top: 50%;
-          left: -190px;
+          top: 33%;
+          left: -164px;
+          font-size: 27px;
         }
         p {
           opacity: 0;
