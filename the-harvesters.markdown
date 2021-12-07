@@ -49,12 +49,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: 
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
 - image: "/uploads/olsar-p8-10.jpg"
   video: 
   caption-text: 
