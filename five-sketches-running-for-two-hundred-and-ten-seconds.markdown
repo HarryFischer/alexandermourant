@@ -13,7 +13,7 @@ Content:
     5: 400cm x 40cm x 5cm welded steel trays Artwork scale: 400cm x 260cm
     Cyanotype, photogram, watercolour paper, unique
   image-size: 
-  image-position: 
+  image-position: middle
   image-margin-right: 
 - image: "/uploads/olsar-p5-01.jpg"
   video: 
