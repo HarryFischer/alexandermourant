@@ -6,6 +6,7 @@ position: 5
 Content:
 - entry-heading-text: 
   entry-body-text: 
+  entry-image: 
   entry-meta-text: 
   text-margin-right: 
 layout: olsar-5
