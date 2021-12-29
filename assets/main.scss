@@ -339,6 +339,22 @@ body {
         }
       }
     }
+
+    .entry-wrapper {
+      width: 400px;
+      overflow-y: scroll;
+      padding-top: 5px;
+      &__heading {
+      }
+      &__body {
+      }
+      &__image {
+        width: 100%;
+        height: auto;
+      }
+      &__meta {
+      }
+    }
   }
 }
 
@@ -596,6 +612,10 @@ body {
     .caption-wrapper {
       // min-width: 270px;
     }
+  }
+  &-five {
+    margin-left: 10px;
+    margin-right: unset;
   }
 }
 

@@ -4,21 +4,18 @@ layout: default
 
 <div class="home scroll-horizontal">
   <div class="inner-content flex">
-    <!-- <div class="project-title link-container">
-      <div class="title-inner">
-        <h1>Aomori</h1>
-        <p>Words</p>
-      </div>
-    </div> -->
     {%- for content in page.Content -%}
-    <div class="link-container {{ content.image-margin-right }} {{ content.image-position }}">
-      <div class="link-wrapper">
-        <div class="image-wrapper">
-          <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
-        </div>
-        <div class="caption-wrapper olsar one">
-            {{ content.caption-text | markdownify }}
-        </div>
+    <div class="olsar olsar-five {{ content.text-margin-right }}">
+      <div class="entry-wrapper">
+        <h1 class="entry-wrapper__heading">{{ content.entry-heading-text | markdownify }}</h1>
+        <div class="entry-wrapper__body">{{ content.entry-body-text | markdownify }}</div>
+        {% if content.entry-image %}
+        <img class="entry-wrapper__image" src="{{ site.baseurl }}{{ content.entry-image }}"> 
+        {% endif %}
+        {% if content.entry-two-image %}
+        <img class="entry-wrapper__image" src="{{ site.baseurl }}{{ content.entry-two-image }}"> 
+        {% endif %}
+        <p class="entry-wrapper__meta">{{ content.entry-meta-text | markdownify }}</p>
       </div>
     </div>
     {%- endfor -%}
