@@ -1,5 +1,3 @@
-// console.log("build-1")
-
 const artworksBtn = document.querySelector('.artworks-title')
 const artworkList = document.querySelector('.hide-nav')
 
@@ -55,7 +53,28 @@ if (iO) {
 
 
 
+function scrollHorizontally(e) {
+  e = wrapper.event || e;
+  var delta = Math.max(-1, Math.min(1, (e.wheelDelta || -e.detail)));
+  var scrollSpeed = 15; // Janky jank <<<<<<<<<<<<<<
+  wrapper.scrollLeft -= (delta * scrollSpeed);
+  wrapper.scrollLeft -= (delta * scrollSpeed);
+  e.preventDefault();
+}
 
+const windowSize = window.innerWidth
+
+if (windowSize > 700) {
+  if (window.addEventListener) {
+  // IE9, Chrome, Safari, Opera
+  window.addEventListener("mousewheel", scrollHorizontally, false);
+  // Firefox
+  window.addEventListener("DOMMouseScroll", scrollHorizontally, false);
+} else {
+  // IE 6/7/8
+  window.attachEvent("onmousewheel", scrollHorizontally);
+}
+}
 
 
 
@@ -67,11 +86,6 @@ const doc = iframe.contentDocument;
 console.log(iframe)
 console.log(doc)
 console.log(iframe.contentDocument.body.innerHTML)
-
-
-const addCss = () => {
-  iframe.contentDocument.body.innerHTML = iframe.contentDocument.body.innerHTML + '<style>header {display:none;}</style>';
-}
 
 
 for (let i = 0; i < links.length; i++) {
@@ -87,6 +101,17 @@ for (let i = 0; i < links.length; i++) {
     }   
   })
 }
+
+const prevArrow = document.querySelector('.prev')
+const nextArrow = document.querySelector('.next')
+
+console.log(prevArrow)
+console.log(nextArrow)
+
+
+nextArrow.addEventListener('click', () => {
+  
+})
 
 // close farm left nav
 const leftPanel = document.querySelector(".split-wrapper__left")
