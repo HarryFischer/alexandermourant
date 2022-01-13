@@ -8,7 +8,7 @@ Content:
   entry-body-text: "You make my neck ache.\nYou make my arms ache.\nYou make my back
     ache.\nYou make my legs ache.\nYou make, surprisingly, the arches of my feet ache.\n\nYou
     make aching into a form.\nYou make aching hold volume.\nYou make aching *move*.\nYou
-    make aching cast a shadow. You make aching a thing unto itself.\n\nYou make aching
+    make aching cast a shadow.\nYou make aching a thing unto itself.\n\nYou make aching
     addicting.\nYou make aching pleasing.\nYou make aching worrying.\nYou make aching
     gratifying.\nYou make aching in a way, I’ve never before ached.\n\nYou make me
     want to suffocate.\n\n*You* did this. \n*You* make."
