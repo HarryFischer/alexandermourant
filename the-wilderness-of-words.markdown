@@ -115,6 +115,19 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 6/04/2020
+  entry-body-text: "You know me as I know myself.<br>\nOr maybe, even closer than
+    that.<br> \nAnd that puts me off balance.<br>"
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
