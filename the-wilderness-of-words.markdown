@@ -4,7 +4,13 @@ date: 2021-11-15 17:43:00 Z
 permalink: "/on-living-stones-and-reaching/the-wilderness-of-words"
 position: 5
 Content:
-- entry-heading-text: 2/04/2020
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 2/04/2020
   entry-body-text: |-
     You make my neck ache.<br>
     You make my arms ache.<br>
@@ -32,6 +38,46 @@ Content:
     <br>
     *You* did this.<br>
     *You* make.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 3/04/2020
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 
+  entry-body-text: "\nI must apologise for yesterday. It is clear to me now, after
+    a good night’s sleep, that I was rather agitated. Riled up, as it were. And to
+    tell you the truth, I was a little bit nervous. So, as a result, I took my frustration
+    out on you. Which I am ashamed of. Truly. I don’t expect it to happen again. But,
+    if it does, you must promise to speak plainly, and clearly, as I won’t tolerate
+    your dissatisfaction—I don’t want us to drift apart. \n\n \nApart, I sigh, before
+    we have even begun. \n\n\nTo begin is often thought to be the hardest part. Part
+    of what, you may ask yourself. Well, part of the whole. And what is the whole?
+    The whole is something which, I must admit, I am still navigating; however, I
+    expect the whole would have a start and an end. But again, what defines the start,
+    and what defines the end. Do you? Do I? Do we? Who shall we turn to for an answer?
+    For a line, clearly drawn in the sand. You, no, you; yes, yes you; line-up, toes
+    on the line, back straight, shoulders back, breathe, I said breathe; on your mark,
+    get set, go!\n\n\nYou bolt from the line. \nOr does the line bolt from you? \n\n\nThis
+    part then, is something difficult to define. And whose to stay it goes in a straight
+    line, like our runner, hurtling along the sand. As it happens, this whole I imagine,
+    is not straight, but round, like a circle, or a slice of pie. It actually reminds
+    me of a diagram, of those tedious fractions which we learnt at school. Those fractions,
+    were often three-dimensional, much like our pie. They had depth; their section,
+    their part, travelled up, down and through the whole. And this depth is something
+    all together unpredictable too—depth grows depth, you see. \n\n\nI sense I have
+    confused the matter. \nI need to stop this frantic energy. \n\n\nPerhaps it’s
+    hard to begin, as beginning means roughly understanding what this thing is a part
+    of: what piece, what fraction, does the beginning mean, to its whole? Anyway,
+    you don’t have to answer that right away. Muse on it. Absorb it. Drink it all
+    in. We have the time—some would say, all the time in the world. And just as the
+    runner returns, to find their line again, we may realise that this beginning has
+    been swept away, by an incoming tide. \n\n\nI guess it’s up to me, to draw the
+    line again. "
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
