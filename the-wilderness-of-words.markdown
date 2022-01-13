@@ -44,11 +44,11 @@ Content:
   text-margin-right: 
 - image: 
   video: 
-  caption-text: 3/04/2020
+  caption-text: 
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: 
+  entry-heading-text: 3/04/2020
   entry-body-text: "\nI must apologise for yesterday. It is clear to me now, after
     a good night’s sleep, that I was rather agitated. Riled up, as it were. And to
     tell you the truth, I was a little bit nervous. So, as a result, I took my frustration
