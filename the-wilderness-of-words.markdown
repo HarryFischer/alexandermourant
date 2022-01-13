@@ -6,27 +6,27 @@ position: 5
 Content:
 - entry-heading-text: 2/04/2020
   entry-body-text: |-
-    You make my neck ache.
-    You make my arms ache.
-    You make my back ache.
-    You make my legs ache.
+    You make my neck ache.<br>
+    You make my arms ache.<br>
+    You make my back ache.<br>
+    You make my legs ache.<br>
     You make, surprisingly, the arches of my feet ache.
 
-    You make aching into a form.
-    You make aching hold volume.
-    You make aching *move*.
-    You make aching cast a shadow.
-    You make aching a thing unto itself.
+    You make aching into a form.<br>
+    You make aching hold volume.<br>
+    You make aching *move*.<br>
+    You make aching cast a shadow.<br>
+    You make aching a thing unto itself.<br>
 
-    You make aching addicting.
-    You make aching pleasing.
-    You make aching worrying.
-    You make aching gratifying.
-    You make aching in a way, I’ve never before ached.
+    You make aching addicting.<br>
+    You make aching pleasing.<br>
+    You make aching worrying.<br>
+    You make aching gratifying.<br>
+    You make aching in a way, I’ve never before ached.<br>
 
     You make me want to suffocate.
 
-    *You* did this.
+    *You* did this.<br>
     *You* make.
   entry-image: 
   entry-two-image: 
