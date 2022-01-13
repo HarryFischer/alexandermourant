@@ -140,10 +140,10 @@ Content:
     you stay still?<br>\nI’m worried, that if I get to *somewhere*, I won’t know where
     to go from there.<br>\n<br> \n<br>\nSomehow, instead of you approaching me, I
     find myself reaching for you.<br> \n<br>\n<br>\nI stretch my arm out, open my
-    hand, and wave it, as if feeling for a wall in darkness.<br> \nAn act of will,
-    but exactly whose will, again, I’m not entirely certain.<br>\n<br>\n<br>\nI feel
-    an immense pressure rise within me.<br>\nMy mouth is dry, my knees, weak.<br>
-    \n<br>\n<br>\nI’m not sure what you meant."
+    hand, and wave it, as if feeling for a wall in darkness. An act of will, but exactly
+    whose will, again, I’m not entirely certain.<br>\n<br>\n<br>\nI feel an immense
+    pressure rise within me.<br>\nMy mouth is dry, my knees, weak.<br> \n<br>\n<br>\nI’m
+    not sure what you meant."
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
