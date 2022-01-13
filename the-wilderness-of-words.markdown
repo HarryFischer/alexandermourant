@@ -56,15 +56,15 @@ Content:
     if it does, you must promise to speak plainly, and clearly, as I won’t tolerate
     your dissatisfaction—I don’t want us to drift apart.<br> \n<br>\n<br> \nApart,
     I sigh, before we have even begun. <br>\n<br>\n<br>\nTo begin is often thought
-    to be the hardest part. Part of what, you may ask yourself. Well, part of the
+    to be the hardest part. *Part of what*, you may ask yourself. Well, part of the
     whole. And what is the whole? The whole is something which, I must admit, I am
     still navigating; however, I expect the whole would have a start and an end. But
     again, what defines the start, and what defines the end. Do you? Do I? Do we?
     Who shall we turn to for an answer? For a line, clearly drawn in the sand. You,
-    no, you; yes, yes you; line-up, toes on the line, back straight, shoulders back,
-    breathe, I said breathe; on your mark, get set, go!<br>\n<br>\n<br>\nYou bolt
-    from the line.<br> \nOr does the line bolt from you?<br> \n<br>\n<br>\nThis part
-    then, is something difficult to define. And whose to stay it goes in a straight
+    no, *you*; yes, yes *you*; line-up, toes on the line, back straight, shoulders
+    back, breathe, I said *breathe*; on your mark, get set, go!<br>\n<br>\n<br>\nYou
+    bolt from the line.<br> \nOr does the line bolt from you?<br> \n<br>\n<br>\nThis
+    part then, is something difficult to define. And whose to stay it goes in a straight
     line, like our runner, hurtling along the sand. As it happens, this whole I imagine,
     is not straight, but round, like a circle, or a slice of pie. It actually reminds
     me of a diagram, of those tedious fractions which we learnt at school. Those fractions,
@@ -73,12 +73,12 @@ Content:
     all together unpredictable too—depth grows depth, you see.<br>\n<br>\n<br>\nI
     sense I have confused the matter.<br> \nI need to stop this frantic energy.<br>
     \n<br>\n<br>\nPerhaps it’s hard to begin, as beginning means roughly understanding
-    what this thing is a part of: what piece, what fraction, does the beginning mean,
-    to its whole? Anyway, you don’t have to answer that right away. Muse on it. Absorb
-    it. Drink it all in. We have the time—some would say, all the time in the world.
-    And just as the runner returns, to find their line again, we may realise that
-    this beginning has been swept away, by an incoming tide.<br> \n<br>\n<br>\nI guess
-    it’s up to me, to draw the line again. "
+    what this thing is *a part of*: what piece, what fraction, does the beginning
+    mean, to its whole? Anyway, you don’t have to answer that right away. Muse on
+    it. Absorb it. Drink it all in. We have the time—some would say, all the time
+    in the world. And just as the runner returns, to find their line again, we may
+    realise that this beginning has been swept away, by an incoming tide.<br> \n<br>\n<br>\nI
+    guess it’s up to me, to draw the line again. "
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
