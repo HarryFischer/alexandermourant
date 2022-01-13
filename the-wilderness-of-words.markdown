@@ -89,7 +89,7 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: 3/04/2020
+  entry-heading-text: 4/04/2020
   entry-body-text: "Isn’t *apart* a rather odd thing.<br> \nI mean, just look at the
     word itself.<br> \n<br>\n<br>\nTo be *apart*, means to be s-e-p-e-r-a-t-e.<br>
     \nBut the word itself remains together.<br> \n<br>\n<br>\nWhereas, to be *a part*,
