@@ -99,6 +99,22 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 5/04/2020
+  entry-body-text: "You may be wondering as to why you’re here.<br> \nAnd sometimes,
+    I wonder the same thing myself.<br> \n<br>\n<br>\nAlthough, you’re not quite here,
+    are you?<br>\nI keep forgetting that. There’s here and there’s there.<br> \n<br>\n<br>\nIt
+    might then be best to say, you are *approaching* here.<br> \nTo reaffirm our position:
+    you approach here, from over *there*."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
