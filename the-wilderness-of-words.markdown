@@ -388,45 +388,46 @@ Content:
   image-margin-right: 
   entry-heading-text: 18/04/2020
   entry-body-text: "The field was being realised, ever so quickly, in front of my
-    eyes. \n\nOnce I triggered the start, every stage seemed to be upon me. \n\nThe
-    fertilizer rained down, like hail stones. Little white pellets of sustenance and
-    energy, scattered: left, right, up, down. They filled the air and settled on the
-    soil. Slipping into every crack and crevice produced by the plough. I thought
-    it would take as long as the other work, but then the driver, promptly positioned
-    himself in the middle of the field, fired up the machine, and commenced; within
-    two minutes, the work was done. I was surprised at the speed of it, at the efficiency
-    of the process. I merely blinked and he was gone. \n\nWe called for the power
-    harrow, and soon enough, within an hour or so, it came billowing up the lane.
-    I thought this machine similar to the rotavator, but it was heavier, stronger,
-    with far more brute force. It started, like the others, by travelling up and down,
-    moving right to left. It sounded like a high pitched wail, escalating, as the
-    circular drum with blades spun, gaining increased velocity. A pummelling. A battering.
-    It crushed and compounded. Ushering in, wherever it went, a uniformity. It levelled
-    the earth. My sea of mountains became a mill pond, gently undulating. Behind the
-    machine, from the right angle, you could see these cliff like edges being funnelled
-    in. After, I was left with a smooth layer of finely prepared soil. I ran my fingers
-    through it. \n\nAs we were pressed for time, they sent the crawler out too, whilst
-    the rotavator was still completing the remaining half of the field. The crawler
-    is a funny, little, yellow, aged machine. I remember it from when I was a boy.
-    Over the years its parts have been removed, adjusted, fixed or replaced entirely.
-    So much so, I wasn’t completely sure if I was looking at the same machine, or
-    a patchwork, made of metal. And as its name suggests, it is a thing that crawls,
-    on caterpillar tracks, thereby moving at a slower pace than most. It gave me a
-    sense of something prehistoric, unleashed from a cage, as it groaned its way up
-    the field. The crawler is tasked with directing the soil, balancing the flow,
-    to create perfectly proportioned rows, or furrows, as they are known in the trade.
-    These span the length of the field in parallel lines. These too induce vertigo,
-    from a ceaseless progression, of up and down. \n\nTo observe both machines move
-    around each other, on the same stage, was like watching a carefully choreographed
-    dance, between two people. They sped up, they slowed down, they moved over, around
-    and across each other. Each added to the other’s work, to the other’s movement.
-    They pushed forward, together, and before long, the field was done, prepared,
-    ready for another’s entrance. \n\nFor the final act, they brought a tractor and
-    a trailer, carrying boxes of seed for me to plant. Thankfully, they placed these
-    boxes along the furrows, at intervals twenty meters apart, to help my progression,
-    along the field. I thanked them and they departed. They seemed to laugh between
-    themselves, again, in disbelief. I was at last alone with no more distractions
-    and no more observations. The task now fell to me, onto my shoulders."
+    eyes.<br>\n<br> \n<br>\nOnce I triggered the start, every stage seemed to be upon
+    me.<br> \n<br>\n<br>\nThe fertiliser rained down, like hail stones. Little white
+    pellets of sustenance and energy, scattered: left, right, up, down. They filled
+    the air and settled on the soil. Slipping into every crack and crevice produced
+    by the plough. I thought it would take as long as the other work, but then the
+    driver, promptly positioned himself in the middle of the field, fired up the machine,
+    and commenced; within two minutes, the work was done. I was surprised at the speed
+    of it, at the efficiency of the process. I merely blinked and he was gone.<br>\n<br>
+    \n<br>\nWe called for the power harrow, and soon enough, within an hour or so,
+    it came billowing up the lane. I thought this machine similar to the rotavator,
+    but it was heavier, stronger, with far more brute force. It started, like the
+    others, by travelling up and down, moving right to left. It sounded like a high
+    pitched wail, escalating, as the circular drum with blades spun, gaining increased
+    velocity. A pummelling. A battering. It crushed and compounded. Ushering in, wherever
+    it went, a uniformity. It levelled the earth. My sea of mountains became a mill
+    pond, gently undulating. Behind the machine, from the right angle, you could see
+    these cliff like edges being funnelled in. After, I was left with a smooth layer
+    of finely prepared soil. I ran my fingers through it.<br>\n<br> \n<br>\nAs we
+    were pressed for time, they sent the crawler out too, whilst the rotavator was
+    still completing the remaining half of the field. The crawler is a funny, little,
+    yellow, aged machine. I remember it from when I was a boy. Over the years its
+    parts have been removed, adjusted, fixed or replaced entirely. So much so, I wasn’t
+    completely sure if I was looking at the same machine, or a patchwork, made of
+    metal. And as its name suggests, it is a thing that crawls, on caterpillar tracks,
+    thereby moving at a slower pace than most. It gave me a sense of something prehistoric,
+    unleashed from a cage, as it groaned its way up the field. The crawler is tasked
+    with directing the soil, balancing the flow, to create perfectly proportioned
+    rows, or furrows, as they are known in the trade. These span the length of the
+    field in parallel lines. These too induce vertigo, from a ceaseless progression,
+    of up and down.<br> \n<br>\n<br>\nTo observe both machines move around each other,
+    on the same stage, was like watching a carefully choreographed dance, between
+    two people. They sped up, they slowed down, they moved over, around and across
+    each other. Each added to the other’s work, to the other’s movement. They pushed
+    forward, together, and before long, the field was done, prepared, ready for another’s
+    entrance.<br>\n<br> \n<br>\nFor the final act, they brought a tractor and a trailer,
+    carrying boxes of seed for me to plant. Thankfully, they placed these boxes along
+    the furrows, at intervals twenty meters apart, to help my progression, along the
+    field. I thanked them and they departed. They seemed to laugh between themselves,
+    again, in disbelief. I was at last alone with no more distractions and no more
+    observations. The task now fell to me, onto my shoulders."
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
