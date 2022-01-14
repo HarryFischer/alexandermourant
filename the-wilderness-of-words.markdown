@@ -138,12 +138,52 @@ Content:
   entry-body-text: "I want to know if you’ll stay *there*.<br>\nFirmly rooted in the
     ground, so to speak.<br> \n<br>\n<br>\nAs I make my way through this forest, will
     you stay still?<br>\nI’m worried, that if I get to *somewhere*, I won’t know where
-    to go from there.<br>\n<br> \n<br>\nSomehow, instead of you approaching me, I
-    find myself reaching for you.<br> \n<br>\n<br>\nI stretch my arm out, open my
-    hand, and wave it, as if feeling for a wall in darkness. An act of will, but exactly
-    whose will, again, I’m not entirely certain.<br>\n<br>\n<br>\nI feel an immense
-    pressure rise within me.<br>\nMy mouth is dry, my knees, weak.<br> \n<br>\n<br>\nI’m
+    to go from there.<br>\n<br> \n<br>\nSomehow, instead of you *approaching* me,
+    I find myself *reaching* for you.<br> \n<br>\n<br>\nI stretch my arm out, open
+    my hand, and wave it, as if feeling for a wall in darkness. An act of will, but
+    exactly whose will, again, I’m not entirely certain.<br>\n<br>\n<br>\nI feel an
+    immense pressure rise within me.<br>\nMy mouth is dry, my knees, weak.<br> \n<br>\n<br>\nI’m
     not sure what you meant."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 8/04/2020
+  entry-body-text: "I wonder to myself, whether I should leave you loiter.<br>\nLoitering
+    outside, in the rain.<br>\n<br>\n<br>\nI’m struggling with it.<br>\nWith this
+    decision I must make.<br>\n<br>\n<br>\nI do not suggest that I find your demeanour
+    distressing, or even menacing, as if you startle me, by skulking around outside.
+    I am not unsettled by your face, or at least, I don’t believe so. I’m undecided.
+    I have not yet materialised the face of you. And to do so would be wrong, I think.
+    It exists like a crying window, full of distortion and glare. It’s hard for me
+    to explain.<br>\n<br>\n<br>\nWe are close, but far.<br> \nI can hear you mumble
+    and murmur.<br>   \n<br>\n<br>\nThe thing is, once I let you in—you’re in. There’s
+    no pushing you, our guest, back out into the rain. It’s a one-way ticket. Into
+    this warm, cosy room, I call myself. But this self, at the present moment, is
+    not quite itself, and you may wish to turn on your heels, and go in search of
+    someone else. I give you this warning: go *somewhere* else. There’s a chill in
+    here too, the fire is struggling, its embers, lessening. Growing cold. I fear
+    to be stamped out.<br>  \n<br>\n<br>\nYou seem to be quite enjoying the rain,
+    dripping down your face.<br> \nYou don’t seem too cold either, or discontent.<br>\n<br>\n<br>\nI
+    shall leave you loiter.<br> \nA while longer.<br> \n<br>\n<br>\n*Apart*. "
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 
+  entry-body-text: 
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
