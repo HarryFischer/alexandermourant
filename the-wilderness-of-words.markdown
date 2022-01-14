@@ -280,6 +280,59 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 
+  entry-body-text: "And so my plan is revealed. My intention, laid bare, albeit, only
+    to a certain extent; we still have far to go together; many miles and many pages
+    to cover. Up until now, I hope you haven’t found them too convoluted, my stories
+    and tales I mean. I wasn’t aware of how ambiguous you wished it; how subtle, how
+    direct, how *within* itself you wanted it. I think as we negotiate what *it is*,
+    we shall fluctuate from within to outside ourselves. Oscillating between the two.
+    Like air, drawn into my lungs, and blown back out.<br>\n<br>\n<br>\nI am relieved
+    to start discussing what planting meant to me.<br>\n<br>\n<br>\nYou see, we had
+    chosen the field months prior; selecting it, out of numerous others. It had to
+    be right. It had to *feel* right. And so we debated, and eventually whittled them
+    down, like you would a block of wood, to find the perfect shape. We settled on
+    our preferred choice and waited. Then, after a couple weeks flew by, we attempted
+    to commence the process: to start planting the field. But, for some reason, you
+    felt it not right, and sent the weather to hold us off; the rain poured, and poured,
+    and the sun didn’t shine; I waited two weeks but you never let up. The soil was
+    waterlogged. I was downcast, irritated and impatient. My concern was this: if
+    not now, then when? I felt you were attempting to elude me, as if I was a stranger,
+    following you down a dark, sinister street at night. And so you made me wait,
+    and I waited and wondered, each and every day.<br> \n<br>\n<br>\nAfter six weeks,
+    you changed your mood. The weather lifted and we began to commence for a second
+    time. I was dubious, to say the least, unkeen to set myself up for another fall.
+    But the day came, I arrived, parked, and walked into the field. The sun was bright,
+    the sky was blue, and the earth, the earth was moist—it was just right. The field
+    was unkempt; the grass, luscious, and a vivid green. The stage was set, so to
+    speak, and we began.<br> \n<br>\n<br>\nFirst, I watched as my dad, cut the grass.
+    He started from the edge, and made his way up and down the field, slashing at
+    the lengths. Very quickly, variations of shade, colour and tone appeared in the
+    field, along the lengths of grass already cut. They contrasted with each other,
+    depending on the direction of the cut and your position. I walked up the side
+    of the bank, and observed as the final strip was sliced, clean off; separating
+    the image I knew, from its former, unkempt self, to a newer, fresher face. Appearances
+    shifted, like quicksand.<br>\n<br> \n<br>\nThe process did not stop there: next
+    came a breaking, as the rotavator swept the ground, removing what little carpet
+    of green was left. Uprooted entirely, and giving way to a light brown, dry soil,
+    I felt as if we were grinding pigment in a pestle and mortar. The canvas too,
+    was being stretched and defined, its dimensions becoming clear. I’ll forgive you
+    for thinking that the boundaries of this task were a comforting sight. It is true,
+    knowing the distance you must travel, does indeed help support your confidence
+    in the journey. But here, here the distance was to the horizon, and I could not
+    see to the other side. My body was confronted, with the scale of it, with its
+    own minuscule nature against the expansive, devouring space of the field. I stood
+    face-to-face with it, trembling."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
