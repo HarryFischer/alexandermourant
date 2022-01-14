@@ -252,17 +252,30 @@ Content:
   text-margin-right: 
 - image: 
   video: 
-  caption-text: "I also planned to not only plant.<br>  \nBut to write to *reach*
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 14/04/2020
+  entry-body-text: "I also planned to not only plant.<br>  \nBut to write to *reach*
     you.<br>    \nTo write *to* you.<br> \n<br> \n<br> \nI’m sorry, I can’t share
     any more.<br>  \nI feel we’ve gone too far.<br>  \n<br> \n<br> \nThe more I say,
     the more I define.<br>  \nAnd it’s important that you’re not defined by me.<br>
     \ \n<br> \n<br> \nI’ve been told I’m controlling.<br>  \nAnd I know I mustn’t
     control you.<br>  "
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: 
-  entry-body-text: 
+  entry-heading-text: 15/04/2020
+  entry-body-text: "The seer, sees and in doing so, is seen.<br> \nIf only seen within
+    himself.<br>"
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
