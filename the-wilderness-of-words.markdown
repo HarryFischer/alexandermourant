@@ -286,7 +286,7 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: 
+  entry-heading-text: 16/04/2020
   entry-body-text: "And so my plan is revealed. My intention, laid bare, albeit, only
     to a certain extent; we still have far to go together; many miles and many pages
     to cover. Up until now, I hope you haven’t found them too convoluted, my stories
