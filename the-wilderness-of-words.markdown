@@ -182,8 +182,9 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: 
-  entry-body-text: 
+  entry-heading-text: 9/04/2020
+  entry-body-text: "You breathe, heavy, on the window pane.<br> \nMy sight obscured
+    by your breath.<br>"
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
