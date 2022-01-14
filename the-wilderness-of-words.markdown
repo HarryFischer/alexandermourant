@@ -333,6 +333,53 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 17/04/2020
+  entry-body-text: "The following day, I returned to the field.<br> \n<br>\n<br>\nToday
+    we were to plough.<br> \n<br>\n<br>\nThe ploughman arrived. I observed a great,
+    curved, metallic toothed monster, following behind him. I spoke to him briefly,
+    before he set off. He seemed confident he’d make short work of it. The plough
+    dug into the ground, penetrated it, and dragged. The tractor at first jolted,
+    digging in, pulled back slightly by the unrelenting grip of the soil, it was hard,
+    solid, iron-willed too. But alas, it gave itself up, and the ploughman started
+    his way up the field, carving the soil. Turning it over, and over, and over. *I
+    could recall the soil very well, how dark it was and the smell of it—as if it
+    had never before been opened up. The scent was like a forest of trees, ground
+    up, layered and squeezed together*. It was like time itself had released an aroma.
+    Watching soil, deep, nutrient rich soil, being summoned from the ground, was like
+    seeing waves appear, when the ocean was nowhere near. It gives you a sense of
+    something essential, or fundamental, when you’re near it, as if the balance of
+    the universe relies on it.<br> \n<br>\n<br>\nTumbling, tumbling, tumbling.<br>\n<br>\n<br>\nThe
+    plough, in its wake, formed a landscape within a landscape. A thousand landscapes.
+    The slopes and jagged edges shimmered. Angle, surface, texture, size, scale, depth,
+    width, height and length, all paraded in front of me. I felt a sense of vertigo
+    from the infinite. Perspectives bred like rabbits in the hedgerows. And it was
+    then, I formed the realisation of what the world is made of: earth. I saw what
+    God must have, when forming tectonic plates, and compressing them together, to
+    force a surge, an uplift, of boundless energy. An endless mountain range appeared
+    before me. And I fell before it, onto my knees. It multiplied inside of me and
+    I inside it.<br>\n<br>\n<br> \nCrumbling, crumbling, crumbling.<br> \n<br>\n<br>\nAs
+    the ploughman progressed on, field turned into battlefield. The enemy approached
+    from the western flank. I arrived in fallen worlds, only to stagger, clumsily,
+    into another. My feet were alien to me. I pressed on. The sun in my eyes, sweat
+    at my brow and a pounding in my chest. I felt a kind of catharsis in seeing something
+    ravaged other than myself. These craters, these edges, extended out of me. And
+    to move through them, was as if to come to terms with them, to map them, inside
+    myself. *Art is like the traces of wounds ploughed into the field*. Ploughing
+    reveals more than it hides. It digs up the root of things. It mixes in, parts
+    of me, reached by light, and those untouched by it. The field eats itself. To
+    produce from itself. You fuel yourself in ways unknown to yourself.<br>\n<br>
+    \n<br>\nI waved goodbye to the ploughman, as he left, for another field.<br>\n<br>
+    \n<br>\nA job well done."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
