@@ -189,6 +189,19 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 10/04/2020
+  entry-body-text: "You’re tapping, tapping, tapping on the glass.<br>\nIncessantly
+    tapping.<br> "
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
