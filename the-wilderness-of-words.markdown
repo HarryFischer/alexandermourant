@@ -236,6 +236,20 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 13/04/2020
+  entry-body-text: "As much as words mean many things.<br> \nIt is your nature *to
+    be* many things.<br>  \n<br> \n<br> \nBy telling you, I risk changing you.<br>
+    \n<br>  \n<br> \nFor the most part.<br> \nYou are to be an image.<br>  "
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
