@@ -1120,6 +1120,27 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 12/05/2020
+  entry-body-text: |-
+    As dust or ash, floating in the wind.<br>
+    <br>
+    <br>
+    To learn of Philip Joshue Mourant’s demise, was to learn of something fundamentally absent. I use the word demise, as in a sense, it was. And I can see how that makes him somewhat mythologised. As if he was a character: characters don’t just live and die, they are born out of suffering, they ascend to vast heights, and they fall, like Icarus, into an ocean of demise. Often we’re told as readers, the reason for a fall is excessive hubris. To become the fallen you must believe, that your means are over and above yourself. And it’s the universe’s way of levelling the playing field. As life is a game. A terribly sordid game, which you can quickly grow tired of. It reminds me of what is veiled, behind writing and photographs: suffering. We are bound to suffer through them, to open ourselves up to the unfathomable depths of them, as although they teach us, and introduce us, they often take more than they give; we’re reminded of all that we don’t have. And that’s mourning too: the expanding absence of the heart, the knowing that chance, choice and destiny no longer remains. It is set in stone. No more throw of the dice. And that’s when tragedy occurs: when the one who grows absent, abandons chance, too early.<br>
+    <br>
+    <br>
+    In the wake of discovering Philip’s death, my grandfather and Stephen Mourant (1954)—another relative who is a keen researcher, and architect of our extensive family tree, and again, must also be thanked for his assistance—together, set about locating his remains. They drew a blank when attempting to locate his burial at cemeteries in both St Helier and St Saviour. It seems, as a result of his suicide (his blasphemy), the church did not allow him to be buried as tradition would have it, in the family plot, or recognised, for that matter, on the land of the church. Therefore, he went into town, which is now by the police station, and was laid to rest in what is known as Green Street Cemetery, or Stranger’s Cemetery. It was a place for those, as the name suggests, who were lost in some way; wanderers without a home. And after some back and forth correspondence, and digging in the archive, he proved quite hard to track down, but, eventually, they found him, and they learnt his burial was recorded, on the 31st August 1892, on the east side, in a grave with no markings of any kind, just a number: plot 345.<br>
+    <br>
+    It was in early October, when I set off, with my father and grandfather, to visit Stranger’s Cemetery. We had the map from the archives, the plot circled, and we were going to visit the man who, to all of us, was a great-grandfather. There was an air of unreality. The day was clear, with gentle, soft sunlight, dappling on the surface of things, highlighting overgrown grass, trees and ivy, which felt as if they encroached further, as we stood there, threatening, or inviting us to become them. And after some confusion, misdirection, and the occasional frantic turning of our map, we eventually found plot 345. As promised, there was no headstone, just a little block of granite, with the number engraved, worn by time. The ground was patchy, with clumps of grass, but mainly, it was a blanket of dirt. There were the occasional specks of yellow and orange, colour from the fallen leaves of autumn. All three of us stood there silently; musing on what it is to become just another number, in a field of unknown people. It stayed with me, as things occasionally do. And with that, it felt like another tale was laid to rest, in the ground and on the page. And perhaps, as memory attracts memory, it grows anew.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
