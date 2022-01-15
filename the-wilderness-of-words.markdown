@@ -1088,6 +1088,25 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 10/05/2020
+  entry-body-text: |-
+    Anyway, I digress. Let’s return to Charles and Philip. Their reputation had grown over the years, but, more so Charles, who became perhaps *the most successful of all island breeders*; they exported cattle to the mainland and further afield, such as America. What quickly followed, I trust, was a sizeable fortune for the time. In one particular case, in 1919, a bull named Sybil’s Gamboge (bred by Charles Mourant), sold in New York for a world record of $65,000, roughly a million dollars in today’s money. This sale caused such a frenzy that the bull, later, was transported to New York City, and paraded down Wall Street. This was the first case, I imagine, of a bull actually being on Wall Street. Furthermore, the bull’s daughter, Bagot’s Gamboge Crocus, sold for $10,100, and fifteen other daughters brought around $3,000 each on average. By 1921, the bull’s offspring had culminated total sales of $500,000. It was like selling racehorses. And although, it must be said, Charles Mourant experienced this grand sale in the final year of his life, I believe both brothers had good fortune in their exploits for most of their life. It was said they were able to purchase farms, early land and build multiple barns for their herds of cattle.<br>
+    <br>
+    <br>
+    It is with a heavy heart, that I inform you, this good fortune came crumbling down in 1892. From here seeps the darkness; the darkness of this tale, like a pool of blood, soaking into the page. In the early morning, on the 29th of October, a servant, called Louis Allouis, rose to attend, as with each day, to the cattle in the stable; as he walked in, he found his master, Philip Joshue Mourant, hanging from the rafters by his neck. Allouis immediately called for help and attempted to lift Philip’s weight. Only when joined by the other servant, Jean Baptise Martin, could they lift him, remove the rope, and place Philip on the floor, outside the stable. Life was extinct, but the body was still warm. They rushed off to get assistance. But it was in vain, as he, most definitely, had departed this world.<br>
+    <br>
+    <br>
+    Mystery still surrounds the exact circumstances which lead to Philip’s actions that morning. He did not leave a note. Witnesses in the inquest said they had seen Philip become elusive, disheartened and distant over the past few weeks. His brother, Charles, also commented saying he had noticed his brother was low-spirited, upset by the loss of his cattle and a poor year on the farm; however, Charles felt although downcast, Philip never insinuated anything which would lead him to do such a thing. He was reticent, and plagued with worries, which rattled around his head; people close to him, such as the stablehands, had seen him speaking to himself, in the weeks prior. Muttering. Muttering. Muttering. I would say then, he tried his best to conceal his desperation from others. *Bottling it all up*. And as our family stories now suggest, it was not just a poor year on the farm, but a bank collapse, which had absorbed his life savings, and left not a penny to his name. Others propose, as I had mentioned before, that alcoholism had a part to play. Whatever the story, it seems dear Philip was suffering from an intense depression. A great sadness which must have welled up inside of him, like an incoming tide, raising a boat, and taking him out to sea. I think he was concerned, most of all, about not just the money, but the loss of his reputation: about what the family would think, and how they would *feel*. You must not forget, this would have caused quite a stir at the time; there was utter disgrace in bankruptcy. A stir which he felt, would have been too much to bear. It weighs down on me, like large, ever filling anchors, to picture him there, on that fateful morning, aching, as the image of himself, that boulder of all that you are, resting on your shoulders, was shattered, crushed, ground away, into a pile of sand. Was he on his hands and knees, as his image, severed from him, became sand, and slipped through his fingers? Perhaps it’s the sheer weight of it: *the weight of history*. It pulverises.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
