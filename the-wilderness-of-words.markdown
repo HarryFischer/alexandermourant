@@ -613,47 +613,47 @@ Content:
   text-margin-right: 
 - image: 
   video: 
-  caption-text: "I held the stone and it held my gaze. I moved it around in my palm,
-    spinning it, overturning it, tracing and recording every inch of its surface;
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 25/04/2020
+  entry-body-text: "I held the stone and it held my gaze. I moved it around in my
+    palm, spinning it, overturning it, tracing and recording every inch of its surface;
     I noted its shape, dimension, colour and outline against my palm. By all appearances,
     it seemed ordinary. Ordinary like the rest. Ordinary like a stone. And much like
     the others, that had passed through my hand, it was smooth, greyish, dirty in
     places, and cold, cold to touch. But somehow, this one appeared different to the
     rest; it was out of the ordinary. Wherever the ordinary was, it had emerged from
-    it. \n\nIt was heavier somehow. Heavier.\nOr was it lighter? Lighter.\n\nI glanced
-    back, back over my shoulder, to see a line of stones following me to where I stood.
-    Their length was far, their width, narrow. I felt like a celestial body, as constellations
-    of orbs, of stones, circled and circled, orbiting around me. They grew, gargantuan,
-    like snowballs, running down a great snowy hill. They lifted off and departed
-    this world. It was then I became a stargazer, observing clusters of them, of stars,
-    of stones, millions and millions of miles away; flickering, glinting, twinkling,
-    their luminescence was sent back to Earth; they penetrated the atmosphere, and
-    entered me. I was filled by their message and it was their message I did hear:
-    they had come to lift me. And so, without hesitation, I went, beginning slow at
-    first, but levitating nonetheless. I disobeyed gravity. Drifting far and drifting
-    wide. Rolls reversed. Positions eroded. Now, it was I, orbiting the stones. \n\nMy
-    stones are like grains of sand in the space of the landscape, I thought, as I
-    soared and soared, high above. They were almost amorphous, transmuting themselves.
-    If I’d looked away I would have lost sight of them. Perhaps, my talent as an artist
-    is to walk across a moor, or place a stone on the ground. That would be a noble,
-    simple life: I  dreamt it, I believed it, I lived it, and it was done. Milestones
-    are like chapters, spinning out from underneath me. Let’s be pragmatic about this.
-    A precise thought, logical, crystalline like the material of the stone. A stone
-    is a stone is a stone. Much like a waterfall is a waterfall is a waterfall. Is
-    a stone just the idea of stone? There are parts of me, and parts of you, which
+    it.<br>\n<br>\nIt was heavier somehow. Heavier.<br>\nOr was it lighter? Lighter.<br>\n<br>\nI
+    glanced back, back over my shoulder, to see a line of stones following me to where
+    I stood. Their length was far, their width, narrow. I felt like a celestial body,
+    as constellations of orbs, of stones, circled and circled, orbiting around me.
+    They grew, gargantuan, like snowballs, running down a great snowy hill. They lifted
+    off and departed this world. It was then I became a stargazer, observing clusters
+    of them, of stars, of stones, millions and millions of miles away; flickering,
+    glinting, twinkling, their luminescence was sent back to Earth; they penetrated
+    the atmosphere, and entered me. I was filled by their message and it was their
+    message I did hear: they had come to lift me. And so, without hesitation, I went,
+    beginning slow at first, but levitating nonetheless. I disobeyed gravity. Drifting
+    far and drifting wide. Rolls reversed. Positions eroded. Now, it was I, orbiting
+    the stones.<br>\n<br>\nMy stones are like grains of sand in the space of the landscape,
+    I thought, as I soared and soared, high above. They were almost amorphous, transmuting
+    themselves. If I’d looked away I would have lost sight of them. Perhaps, my talent
+    as an artist is to walk across a moor, or place a stone on the ground. That would
+    be a noble, simple life: I  dreamt it, I believed it, I lived it, and it was done.
+    Milestones are like chapters, spinning out from underneath me. Let’s be pragmatic
+    about this. A precise thought, logical, crystalline like the material of the stone.
+    A stone is a stone is a stone. Much like a waterfall is a waterfall is a waterfall.
+    Is a stone just the idea of stone? There are parts of me, and parts of you, which
     become, parts of us. I gasp. I was mortally open, filled with groundlessness.
     I sensed my own finitude. A crack in reality had sent me into a spiral; the spiral
     begins, the spiral ends, the rest is a curve, much like a stone. I did not wish
     to depart this world without you. I struggled, kicked and cried, to turn the tide
-    of my momentum. I wanted to return; to return to the field, and to you.\n\nI was
-    brought crashing, crashing like a meteor, back down to Earth.\nI snapped back
-    inside myself, and dropped the stone.\n\t\t\t\t\t\t|\n\t\t\t\t\t\t|\n\t\t\t\t\t\t|\n\t\t\t\t\t\t|\n\t\t\t\t\t\t|\n\t\t\t\t\t\tIt
-    landed, with a thud. \n\t\t\t\t\t\tIndenting the earth. "
-  image-size: 
-  image-position: 
-  image-margin-right: 
-  entry-heading-text: 
-  entry-body-text: 
+    of my momentum. I wanted to return; to return to the field, and to you.<br>\n<br>\nI
+    was brought crashing, crashing like a meteor, back down to Earth.<br>I snapped
+    back inside myself, and dropped the stone.<br>\t\t\t\t\t\t|<br>\t\t\t\t\t\t|<br>\t\t\t\t\t\t|<br>\t\t\t\t\t|<br>\t\t\t\t\t|<br>\t\t\t\t\tIt
+    landed, with a thud.<br> \t\t\tIndenting the earth. "
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
