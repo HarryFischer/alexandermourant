@@ -1600,6 +1600,19 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 29/05/2020
+  entry-body-text: "*The moon has sunk and the Pleiads,*<br>\n*And midnight is gone,*<br>
+    \n*And the hours are passing, passing,*<br>  \n*And I lie alone.*<br>"
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
