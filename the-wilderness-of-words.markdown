@@ -1726,6 +1726,7 @@ Content:
     earth earth earth earth earth earth earth earth earth earth earth earth earth
     earth earth earth earth earth earth earth earth earth earth earth earth earth
     earth earth earth earth earth earth earth earth earth earth earth earth earth
+    earth earth earth earth burial earth earth earth earth earth earth earth earth
     earth earth earth earth earth earth earth earth earth earth earth earth earth
     earth earth earth earth earth earth earth earth earth earth earth earth earth
     earth earth earth earth earth earth earth earth earth earth earth earth earth
@@ -1736,15 +1737,7 @@ Content:
     earth earth earth earth earth earth earth earth earth earth earth earth earth
     earth earth earth earth earth earth earth earth earth earth earth earth earth
     earth earth earth earth earth earth earth earth earth earth earth earth earth
-    earth earth earth earth earth earth earth earth earth earth earth earth earth
-    earth earth earth earth earth earth earth earth earth earth earth earth earth
-    earth earth earth earth earth earth earth earth earth earth earth earth earth
-    earth earth earth earth earth earth earth earth earth earth earth earth earth
-    earth earth earth earth earth earth earth earth earth earth earth earth burial
-    earth earth earth earth earth earth earth earth earth earth earth earth earth
-    earth earth earth earth earth earth earth earth earth earth earth earth earth
-    earth earth earth earth earth earth earth earth earth earth earth earth earth
-    earth earth earth earth earth earth earth earth earth earth
+    earth earth earth earth earth earth
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
