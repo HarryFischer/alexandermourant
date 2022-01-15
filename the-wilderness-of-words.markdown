@@ -1537,6 +1537,69 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 28/05/2020
+  entry-body-text: "I’ve noticed things reveal themselves, and people, who utter them,
+    when they are hidden. When they are at ease within themselves. Like those who
+    speak the truth at a masked ball. Or to be sinister, those who write threatening
+    letters out of cuttings from a newspaper. And you’ll find no greater disguise,
+    than the presence of the night.  There, you and I, needn’t have a name, as we
+    exist in the realm of the indistinct; and names do not pass the gate.<br>\n<br>\nThat
+    night was a rapturous tale of terror and fright. I found it slipped out of me,
+    the beast with no name, as my mask, pure and visionless as the night, grew the
+    size of my body, and merged with all that surrounded it; darkness became me, and
+    I, the night. In the absence of it (the light), it slipped out: the nature of
+    my *desire*; my wants and my yearnings. The light, normally my keeper, had scarpered,
+    stirring my loins; and it was darkness, who struck at my chains, and urged me
+    to rise. I heard you whisper into my ear: *what appears in the night is the night
+    that appears*. It repeated as an enchantment, seducing, surging through me: *I
+    wanted it*, all that it revealed. I stripped naked and bare, and ran through it,
+    *through the night*, toward my dark and throbbing heart. I swam in deep, reservoirs
+    of darkness, the lake of my own unknown. My skin turned numb, and my eyes dulled;
+    I could see clearer and further than ever before. It awoke from the deep and rose
+    to the surface: *the sensuality of night had never been so clear to me, darkness
+    descending like velvet to wrap around you and enclose you in its black cocoon,
+    to take you to your other self and others.* A chrysalis of black glass, cracked,
+    and bore a black-winged butterfly, its wings were made of coal. It fuelled a passion,
+    a source of searing heat, blazing inside of me.<br> \n<br> \nIt caught my eye,
+    as I stared down towards you: a bright, white orb, suspended in darkness. How
+    strange it was to see it there, so *out of place*. I was curious and bent down
+    to pick it up, stretching my arm out in reach of it. My fingertips glided across
+    a cool, silky membrane, and I felt a hunger, a need to enter it—*sinking, sinking
+    in*; it passed through my fingers, glistening, and distorted the shape which was
+    once the orb. I felt satisfied but cheated. The moon rippled, in a pool of water,
+    a puddle, made by the storm. Reflected, as if by a magic mirror, carved into the
+    earth. I watched it undulate; rise and fall. It beguiled me. And though it moved
+    akin to water, I was not certain it was, it shone like mercury and danced as quicksilver;
+    I thought it fluid extracted from Beauty herself. Above me, the moon had risen,
+    and its rays, gently floated, descending from space. I could see them streaming
+    down, as sunlight does in a forest. They landed all around me, bringing us to
+    a time *just* before black, but it was not grey, *no*, more like silver, a sparkle
+    on the surface of the earth. The silver caressed my skin. And I felt a need, a
+    want, a desire for it; the water sloshed as I dug down, desperate to uncover the
+    moon beneath the waves. *Love for the moon often has its double in love for its
+    reflection, as if to stress a vocation for mirror games in that reflected light*.
+    Its image flashed and flickered, violently stretching, shapeshifting, into a shadow
+    of its former self. I was moonstruck, and desperate to see it again. I had contracted
+    it, a disease given to me by the moon. An obsession to be with it. I was overcome,
+    and I fell to my knees, a lunatic. The waters of my body, were pushed and pulled,
+    like the tide, along the shore; consciousness drifted in and out. I coughed, and
+    coughed, spluttering, into my palm. I drew my hand from my face, and saw it, quicksilver,
+    dazzling, beads of it, shimmering in the moonlight.   I had never considered the
+    *when* and *where* of this. I was a child, wishing to be held. I was certain we
+    had more time. Alas, *it is one of the great facts of the world, like sunlight,
+    or springtime, or the reflection in dark waters of that silver shell we call the
+    moon. It cannot be questioned.* The inevitability of it: the swift, decisive wings
+    of death."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
