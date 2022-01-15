@@ -456,6 +456,64 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
+  entry-heading-text: 20/04/2020
+  entry-body-text: "My first observation, was actually a sensation, or to be exact,
+    the *lack of* sensation. I had spent my first day in the field planting by hand.
+    And as promised, I shall not bore you with the details. But you should know, I
+    had committed myself, in body and mind, to the task at hand. I was planting as
+    directed, up and down the furrows. The phrase *back-breaking* is often bandied
+    about nowadays, but truly, I speak from a place of experience, it was indeed,
+    *back-breaking*. I continued on, completed twelve rows, and headed home. I was
+    exhausted. Spent. For the remainder of the evening, I was incapable of moving;
+    my muscles ached, throbbed, burned, and at times were agonising and tender. I
+    positioned myself in bed, moaned as I lay my body flat, and attempted to go to
+    sleep. I felt my blood rush around my body and heat radiated out from me. \n<br>\n<br>\nAs
+    I lay there, willing myself to sleep, dreading the following day, I noticed I
+    could feel the weight of my body, more than ever before. *The body declares itself
+    subject!* It made itself known to me, as an object, one with its own limits, boundaries
+    and intentions. It had been thrown, you could say, by me, the pilot, into a nosedive,
+    hurtling towards the ocean. It was alarmed, and alert. I realised then, it’s not
+    normally one for my attention. I guess, I use it, without really considering it.
+    When I was there, contemplating this new found *knowing* of myself, I located
+    a place I could not feel, it was numb, and cold to touch. My left hand—to be precise,
+    the right side, of my left palm—did not ache; truth be told, it did not feel anything
+    at all. I squeezed and massaged it with the fingers from my other hand. It was
+    lifeless. I had a strange sense of doubleness wash over me, of slippage: that
+    feeling which occurs when your brain stumbles, trips over itself, unable to discern
+    what it thinks it knows, from what it feels.\n<br>\n<br>\nI ascertained that there,
+    here, that padded piece of flesh, was where my weight rested, when traversing
+    the field. I learnt that, to plant properly, you must hold the box with either
+    your left or right hand; and instead of carrying the full weight of the box, constantly,
+    you must channel your weight; support it, when bent down, through your hand, arm
+    and shoulder; by doing so, you help support your back. Once your back goes, you
+    go. \n<br>\n<br>\nThe human hand is commonly known as a grasping organ; it is
+    so familiar, and so essential, we often overlook its importance. Its meaning can
+    range across a variety of subjects too: *in the hands of*, implies the holding
+    of power, wealth and authority; *a helping hand*, suggests the giving of assistance,
+    aid and support; *a big hand*, often leads to applause, praise and adoration;
+    *to hand off*, is to offload, or relinquish responsibility; *show your hand*,
+    leads to the revealing of not only cards, but intent; *by my hand*, is literally,
+    made by my hand (handwriting); *a hand*, is four inches, and a unit for measuring
+    the height of a horse; *may I ask for your hand in*, is of course, marriage; and
+    finally, although I’m sure there are many more, *a hand*, is a sailor in a ship’s
+    crew, and by association, a labourer. This odyssey of meaning brought me to the
+    word *manual*, which comes from the latin *manus*, meaning *hand*; and so, we
+    arrive at *manual labour*, and everything, by extension, that uses a *hand* and
+    the body. \n<br>\n<br>\nAs those thoughts whirled around my mind, I began to drift.
+    You know, *often, before having the courage to go toward the greatness of sleep,
+    I pretend that someone is holding my hand and I go, go toward the enormous absence
+    of form that is sleep. And when even then I can’t find the courage, then I dream.*
+    In your hands, you carry me. "
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
   entry-heading-text: 
   entry-body-text: 
   entry-image: 
