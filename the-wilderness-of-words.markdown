@@ -224,14 +224,13 @@ Content:
   entry-body-text: "I can no longer keep you at bay, my arms unfurl, and I bring you
     into my embrace. You’re wet and cold; I rub your arms, vigorously, igniting your
     blood, into a dance around your body. Warmth fills your cheeks.<br> \n<br> \n<br>
-    \nIt’s time, I tell you.<br>  \nTime to tell you.<br>  \n<br> \nI’m nervous, and
-    I’m uncertain as to why.<br>Maybe I seek your approval, your acceptance.<br> Anyway,
+    \nIt’s time, I tell you.<br>Time to tell you.<br>  \n<br> \nI’m nervous, and I’m
+    uncertain as to why.<br>Maybe I seek your approval, your acceptance.<br> Anyway,
     dig deep, I urge myself.<br>I *must* dig deep.<br> \n<br> \n<br> \nI’m determined
     to navigate *somewhere*; this task you set for me. \nThis arduous voyage across
-    time and chance.<br> \n<br>  \n<br> \nI… I… I decided to plant.<br>  \nI planted
-    a field.<br>  \n<br> \n<br> \nI say so, with a tremor to my word.<br>  \nWith
-    a crackle and a quake.<br>  \n<br> \n<br> \nI planted it, in order to *reach*
-    you. "
+    time and chance.<br> \n<br>  \n<br> \nI… I… I decided to plant.<br>I planted a
+    field.<br>  \n<br> \nI say so, with a tremor to my word.<br>With a crackle and
+    a quake.<br>  \n<br>  \nI planted it, in order to *reach* you. "
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
