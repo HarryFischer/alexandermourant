@@ -1176,6 +1176,7 @@ Content:
     <br>
     *As I have said before I just loved being in the fields with my dad and Muriel and Graham, although going to the other farms was really hard work. So I know how hard it is to plant by hand, I wish you all the very best, just for giving it a go. Will be there with a hot drink and some goodies to keep you going. I have asked M and G but we don’t have any photos planting, but we do have 2 digging.*
     <br>
+    <br>
     *Love Gran x x*
     <br>
     <br>
