@@ -1386,6 +1386,20 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 23/05/2020
+  entry-body-text: "*Who are we*, I asked him: *the seer, the pheasant or the hawk?*
+    \nHe winked and said: *the mouse, of course.*<br>\n<br>\nDevoured by it, by what
+    we find in the field.<br>\nHe left, and I have not seen him since. "
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
