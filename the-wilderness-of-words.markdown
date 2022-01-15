@@ -1107,6 +1107,19 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 11/05/2020
+  entry-body-text: "*Suffering, like a stone…\n(around my neck, \ndeep inside me)
+    *"
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
