@@ -786,7 +786,7 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: 
+  entry-heading-text: 1/05/2020
   entry-body-text: "As luck would have it, it is now, and only now, that you join
     me in the present.<br> \n*The present*, whatever that may be.<br>\n<br> \nIt will
     come as no surprise to learn that I have been *reaching* for a while now, but
@@ -836,6 +836,81 @@ Content:
     Look at it this way: it might influence your form, or your shape; you may gain
     an aptitude for it, for recollections and for memory. After all, it’s in your
     nature to be nostalgic. To muse on the past, and to *feel* it in the present."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 2/05/2020
+  entry-body-text: "If you flew, like a seagull, due south from Poole Harbour, at
+    about hundred miles into that tempestuous sea, you would come across a scattering
+    of islands, which can be seen, on a clear and sunny day, from each other. The
+    place I call home is an island that sits in the Channel, the English Channel.
+    They are positioned near the coast of France, but not too close to be France.
+    Interestingly, they are the oldest possession of the British Crown. In the past,
+    I have counted many acquaintances and friends, who have brimmed with joy, in mockery
+    of us; and their comments usually go something along the lines of: *Are you French?
+    Is it just you and ten other people? Really? Do you really live on a rock, in
+    the sea, with just a cow and a tree?* As to *why* mainlanders find this idea hilariously
+    funny still eludes me, to such a degree, I believe the island remains my secret.
+    A secret from all those who are ignorant. In spite of this, the island which we
+    are concerned with, is the largest, and has known many names throughout its time,
+    given to it by its inhabitants and passers-by. *Settle in. Sit around the campfire,
+    and let’s begin*.<br>\n<br>\n<br>\nIt started with a rumour, amongst historians
+    and writers, that the first name was once *Cæsarea*; believed to be given to the
+    island by the Roman Empire, to help guide officials on voyages; however, in recent
+    times, there seems to be no proof in such claims. During the 6th century, and
+    coinciding with Christianity, it is thought the island had taken a new name; found
+    during the Early Middle Ages, and located within the small chapels on the island,
+    such as Fisherman’s Chapel; it was recorded as being either: *Andium*, *Agna*,
+    *Augia* or *Angia*; some propose that *Andium*, roughly translated, could mean
+    “large island”. Next, and perhaps pivotally, it was only after the invasion of
+    the Vikings, or the Norsemen, between the 9th and 10th centuries, did a new name
+    emerge; the one which would last to the present day. As with most things, this
+    too is debated, but popular theories suggest that the Normans named the island
+    *Gers-ey*. The reason as to why, again, remains unclear, but it is thought that
+    the suffix “ey” is Norse for either “water” or “island”, and the meaning of “Gers”
+    could perhaps be from the Frisian, which means “grass”, thus leading us to “Grassy
+    Isle”. It is also popular belief, and my favourite interpretation, that the name
+    hails from the Norwegian Viking who first seized and claimed the island, as *Geirr*
+    is a personal name, resulting in *Geirr’s ey* or “Geirr’s Island”. Whatever the
+    route, it is now, we arrive at Jersey, the island of Jersey.<br>\n<br>\n<br>\nYou
+    should note, Jersey has not always been an island, in fact, studies prove a great
+    forest once grew between Jersey and Guernsey, stretching out from where the beach
+    ends and the sea begins, across the water, to where the sea ends, and the beach
+    begins. As sea levels rose, so too did the island’s tendency to dip its toes,
+    then a leg, then a torso, and lastly, its whole body, into the tide of history:
+    it has seen Palaeolithic hunter gatherers 250,000 years ago, the Neolithic period,
+    the Gallo-Roman era, the Early Middle Ages, Vikings, Normans, the Hundred Years’
+    War, the Black Death, the War of the Roses, the English Civil War, the Battle
+    of Jersey, World War I, World War II, a five-year occupation from German forces,
+    and finally, its liberation on 9th May 1945. It is then an island drenched in
+    history. The scars of which appear, intermittently, throughout its landscape.
+    And as I stand here, in my field, surveying the land, I notice a block like structure
+    emerging, disrupting my view, interrupting the sea of green foliage. It is a concrete,
+    distressed, box shape. Something which I’ve always overlooked. My grandfather
+    told me the other day, he use to play on it, when he was ten or eleven years old:
+    *on the German gun emplacement*, he said. The sky above, is in the centre, or
+    rather, this field is in the centre of the sky (in prime position of the flight
+    path). It sent a chill, spreading down my spine. It dawned on me: it’s here history
+    can be seen *and* felt. "
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 3/05/2020
+  entry-body-text: 
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
