@@ -723,6 +723,25 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 27/04/2020
+  entry-body-text: |-
+    I reached it, not *it*.... don’t be foolish, not you, but something else; I jumped off the wall, onto the granite slipway, kicked off my shoes and removed my socks; I stepped off, my feet touched the sand, and it spread between my toes. The sound of the waves gently crashed as I walked further out onto the beach. A sense of relief pervaded and comforted me. *I felt that I could swim for miles, out into the ocean: a desire for freedom, an impulsive to move, tugged at me as though it were a thread fastened to my chest*. I released myself and sang a melody, it rose and fell, like light, dancing across the waves. *A spirit filled him, pure as the purest water, sweet as dew, moving as music*. As my song moved through the air, I scanned the horizon and noticed a figure, a lone figure, moving frantically along the shoreline. It was, alas, our runner, circling, searching for a line. A line in the sand. The line I had promised him. I was disheartened to see this, to see his madness creeping in; he should have begun, many pages and pages ago. I thought, perhaps, he may have lost sight of himself. It’s easy to do so, as you know. Especially in a place such as this: an abyss of sand; an abyss of you. I need not tell you what happens when you gaze at it.<br>
+    <br>
+    I placed my hand into my pocket, grasped the stone, and lifted it out. When does a stone become a pebble? When does a mountain become a hill? It was slightly lighter than before. Our walk may have resolved it somewhat, but the stone trembled in fear, it was like an earthquake, the size of my palm. The trembling became an image, or rather, a fragment of *it*; it dug in, sunk its roots down, and burrowed into me; my soul separated itself from my skin, outraged, that an image had replaced it. The stone gave birth to the present. And it is the here and now where we find ourselves. I thought about throwing it at the rocks, catapulting it, to see it land, with a clap, and a thunder. Could I destroy this image; shattering it, into a thousand pieces? Does it have a fossil inside? A fossilised event, like a book, or a poem. I hesitated; I could not destroy a book, no more than I could destroy a person.<br>
+    <br>
+    I wondered if the stone could grow into a tree of coral under the sea. A beautiful, kaleidoscopic world, a world where mirage becomes reality, where sight itself is not as distinct as it ought to be. I walked a little further, down to the water’s edge. The tension between me and the water grew, closer. I waited and as the wave broke, the sea came rushing up to greet me, like an old friend, long separated by time. What is the sea, the ocean, if not a giant basin of rock, an expansive network of shelves, surfaces, holding the water above it, in its hands or on its shoulders. I saw life made up of material, such as words, which I harness, alongside stone and water; permeating, spreading, or holding on, and standing firm. *Breathing the air of the sea is like breathing the light*. A clarity as fresh as the day. I was tempted to drop you in, to make you *a part of* the sea of stone. You’d be a drop, a drop in the ocean of stories. And maybe, that was that; these stones are like tales, whispers in the wind, departures, waiting to be nurtured and dropped into a melting pot of that which makes you. They are the things which direct, lead, and help you arrive. Like a blustery day, and a sail full of breeze.<br>
+    <br>
+    The sun began to fall, the light, with it, and so the world did too, falling, falling around us. You were not an ordinary stone after all, but a curious one, from a family of living stones. I bent down, with the stone in my hand and drew a line, a line clear as crystal, unmistakeable, along the sand. The runner looked relieved, thanked me,  from the bottom of his heart, and went on his way. I placed you back into my pocket, turned, and headed home. *A living stone*, I sang and sang. The stone and sea merged together and became me. A body of sea and stone.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
