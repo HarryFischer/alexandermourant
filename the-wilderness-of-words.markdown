@@ -1293,6 +1293,69 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 20/05/2020
+  entry-body-text: "I sheltered at the base of a tree. The tree I mentioned before,
+    that grand, old oak tree; I stood there hugging its trunk. It helped me endure
+    the storm. And you should know, if you choose a tree large enough, one with a
+    large enough wingspan, not a drop of rain will touch you. That’s a funny idea,
+    isn’t it? The idea of a tree flapping its branches with such a force, it were
+    to uproot, and transport itself, like its seeds, catching the breeze, and floating
+    in the wind. A reversal of roles. *But the wind does not stop for my thoughts*.
+    I’m not sure what the terminology would be for that: for the area covered by the
+    branches and leaves of a tree; how it occupies the sky; and how it fills the air.
+    There must be a cumulative name for its radius, circumference, perimeter; for
+    its volume. More so, imagine a flock of them, a colony, a congregation, a murder,
+    or whichever name it may take, flying high above us, casting shadows the size
+    of a field. We’ll have to find another word for that too. We seem to be in the
+    business of naming at the moment; the storm blew itself out, and with it, our
+    grasp on the formation of *what-d'you-call-it*, oh, *what’s-its-name*, oh yes:
+    things. *Time is scattered, the past and the future, the future past and present*.
+    Blowing.<br>\n<br>\nI sat on my haunches, with my back leaning against the bark,
+    panting, slowly catching my breath. I collected myself and gazed out of the shadows.
+    The clouds appeared to dissipate, moving on, and the sun emerged, triumphant;
+    streaming light, glistening across beads of water, on the field, on the grass,
+    and on the plants, like diamonds, falling and spreading along the floor, from
+    a hole in your pocket. *In front of me a jade sea is running wild*. Waves crashed,
+    virid spray. I had not yet told you: you have *emerged*. You broke through the
+    surface a few weeks ago. And how I welcomed you to us. But it was then, after
+    the rain we just had, that you looked vibrant and full of youth; luscious and
+    green. Your leaves had grown and the sunlight, bouncing off the earth, radiated
+    out through you; it was as if I stared into an X-ray, observing your arteries
+    and veins. And the earth looked relieved too; the soil, which was almost dust,
+    had returned, a dark, fertile brown. I thought: what makes the colour of soil?
+    Even the ravines on its surface, those dry, barren cliffs, transmuted into gently
+    rolling hills. Everything seemed to expand, in relief, in the pleasure of water
+    and the waking of sunlight. An aroma of petrichor filled the air; it was intoxicating.
+    A scent so sweet, it flowered inside my nostrils, as if Demeter herself, breathed
+    it.<br>\n<br>\nI contemplated the field and curiously, it was only then, not during
+    my planting, or my resting, but in the aftermath of a storm, did I notice it.
+    Upon first appearances, the field is stationary. Anyone would tell you so. It
+    does not move like a car or a train, it is immobile. Surely that’s matter of fact?
+    *No*, not exactly. In actual fact, it moves, slowly, growing up, towards me—it
+    moves, but it moves at a pace we tend not to consider. Too fast or too slow; we
+    human-centrically understand movement. But that’s not simply all I wish to say.
+    *If you blink, you miss it*. What I’m getting at is fundamental, it's a spontaneously
+    *inner* feeling. It's like when you notice yourself breathing. Or when you *catch
+    yourself thinking*. There’s an excess of unconscious behaviour running parallel
+    to us at any one time, and I guess, the field acts like an unconscious event;
+    a reflex: reaching for a falling glass, tapping my foot to music, or even, retrieving
+    words to write. It is kind of autonomous, but when you recognise the autonomy
+    it stops in its tracks. Much like good writing, when you realise you are writing,
+    and the words lose their kinetic energy. My epiphany is this: the field is *literally
+    and symbolically the **ground** of the events which are taking place within it*.
+    It occupies, divides and produces events. Everything leads from and to it. All
+    paths are the same: they lead here. It was then I heard it: *a voice calling*.
+    A man, in the distance, waving; he had followed the path here too. "
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
