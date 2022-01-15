@@ -257,9 +257,9 @@ Content:
   image-margin-right: 
   entry-heading-text: 14/04/2020
   entry-body-text: "I also planned to not only plant.<br>But to write to *reach* you.<br>To
-    write *to* you.<br> \n<br> \nI’m sorry, I can’t share any more.<br>I feel we’ve
-    gone too far.<br>  \n<br> \nThe more I say, the more I define.<br>And it’s important
-    that you’re not defined by me.<br>  \n<br>\nI’ve been told I’m controlling.<br>And
+    write *to* you.<br> \n<br>\n<br> \nI’m sorry, I can’t share any more.<br>I feel
+    we’ve gone too far.<br>  \n<br> \nThe more I say, the more I define.<br>And it’s
+    important that you’re not defined by me.<br>  \n<br>\nI’ve been told I’m controlling.<br>And
     I know I mustn’t control you.  "
   entry-image: 
   entry-two-image: 
