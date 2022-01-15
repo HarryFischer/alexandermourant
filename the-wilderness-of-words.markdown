@@ -1191,6 +1191,39 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 16/05/2020
+  entry-body-text: 'In the spirit of wholeness, I thought I’d share that my mother,
+    Andrea Mourant (1959), also has farmers on both her maternal and paternal lines,
+    as do my grandparents Pam Labey (1933) and Roy Labey (1932-1986). So, rest assured,
+    whichever road we were to take, across this landscape of *who* and *where*, would
+    have led us to the earth. I have learnt we are inextricably linked, bonded, to
+    this island in the sea, and to its soil. Tomorrow, I shall leave you with a photograph
+    of my great-grandfather, Stanley Alexander (1905-1985), furrowing and planting
+    potatoes down at L’Etacq, where we walked, if you cast your mind back, with that
+    heavy, curious, little stone, in my pocket. I have discovered the mixture we all
+    carry, in one way or another, inside us: blood, stones and earth. *Endlessly*.'
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 17/05/2020
+  entry-body-text: 
+  entry-image: "/uploads/StanleyAlexander-2.jpg"
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
