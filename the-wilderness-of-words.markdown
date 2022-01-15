@@ -658,6 +658,71 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 26/04/2020
+  entry-body-text: 'The eyes of the stone stared back at me. I could not plant it,
+    I sensed that, deep in my gut. It was a ringleader and it would intoxicate the
+    others. It seduced me. What’s more, I had an overwhelming urge to walk; to walk
+    *with* it. And so I bent down, picked it up and placed the stone into my pocket.
+    I gathered myself, and collected those little pieces of cosmic dust that had ricocheted
+    around me. I calmed myself—*deep, deep breaths*—and began to walk.  I took this
+    route: straight on, out of the field, and into the lane; left, along the lane
+    until I got to the T-junction; right, down into the valley, past the duck pond,
+    and then up the hill, back out of the valley; right again, and onto the main road,
+    I travelled along here for a while, passing the garden centre, passing the petrol
+    station, passing the shop, *what a lovely day for a walk*; I shot a left, following
+    the winding lane as it moved like a snake along a forest floor; I stumbled down
+    into another valley, and immediately, headed straight back up, my legs burning
+    from the height of it; next I went along the lane, until I met the greenhouses,
+    and stopped, on the yellow line; right, past St John’s manor; left, down that
+    grand boulevard of trees; I continued on, passing the occasional house, and farmland;
+    after some time, I arrived at St Mary’s village, walked past the pub and the church,
+    and pushed on; this is when I almost lost sight of it: why I was walking; devouring
+    trees, devouring leaves, like air; *I like the simplicity of walking, the simplicity
+    of stones*, I murmured to myself, as if trying to convince myself to continue
+    walking; I did not deviate from my route, I persisted with it, along the same
+    road, past the windmill, and then the road took a sharp right; I stared at the
+    pavement, hypnotised, watching my feet, and my shoes, march on, as if they were
+    possessed; *a walk is just one more layer, a mark, laid upon the thousands of
+    other layers of human and geographic history on the surface of the land*; I considered
+    my mark, and whether a mark was necessary, *mark my words*, you said to me; I
+    took another right, so many, many rights, and eventually arrived at another yellow
+    line, I waited, paused for the traffic, and travelled over the road and into the
+    lane; I passed the pink house, and then I past Gran’s house, I poked my head around
+    the gate, but she wasn’t in; her garden looked tranquil, sheltered and serene;
+    whereas, on the lane, the vegetation looked barren, beaten and weathered by this
+    stormy position; I felt that stone in my pocket, bouncing against my thigh, a
+    tinge of sadness spread from my leg, and up into my heart; *walking presupposes
+    that at every step the world changes in some aspect and also that something changes
+    in us*; uncertain, my intent wavering, I became like that old tree, *over there*,
+    creaking in the wind; at last, the road ebbed and flowed its way to a sweeping
+    vista, overlooking the sea, and I emerged, high above the shore, on a cliff face;
+    the air was fresh, and I filled my lungs; I followed the twisting, looping, bending
+    road down to the beach at L’Etacq, and took the coastal path across the bay, along
+    the sea wall; the curve carried me a great distance; the waves rolled in, and
+    rolled out, as if pushing and pulling at my body; it was as though, I wandered,
+    in and out of consciousness; I lost my balance, and was carried close to the edge
+    of the wall; I peered at it, teetering on the brink, tempted to succumb to the
+    vastness, to the sublime terror of height; I no longer sought to contain myself;
+    my body demanded a metamorphosis, to transcend, to escape itself; my grip on the
+    present and the past slipped away, time departed; my thoughts were flooded; the
+    waves crashed, pounded, against the wall; I felt it, as if you were banging on
+    my skull, cracking my head, like a stone in two; I stumbled on, and at times crawled,
+    scraping my knees, cutting them, on the rough concrete; *blood out of a stone*;
+    as I staggered to my feet, on my left, the white house floated by; the seagulls
+    cawed, following me like scavengers, picking at the weak; the sun was bright,
+    a bright, white light, and the swell shimmered and barrelled; exploding stars
+    in its wake; I was nearing my end; I was nearing the slipway at Le Braye; words
+    carried me the rest of the way. A thought enclosed in a stone.'
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
