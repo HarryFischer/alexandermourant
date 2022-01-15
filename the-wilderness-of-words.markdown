@@ -163,15 +163,15 @@ Content:
     I have not yet materialised the face of you. And to do so would be wrong, I think.
     It exists like a crying window, full of distortion and glare. It’s hard for me
     to explain.<br>\n<br>\n<br>\nWe are close, but far.<br> \nI can hear you mumble
-    and murmur.<br>   \n<br>\n<br>\nThe thing is, once I let you in—you’re in. There’s
-    no pushing you, our guest, back out into the rain. It’s a one-way ticket. Into
-    this warm, cosy room, I call myself. But this self, at the present moment, is
-    not quite itself, and you may wish to turn on your heels, and go in search of
-    someone else. I give you this warning: go *somewhere* else. There’s a chill in
-    here too, the fire is struggling, its embers, lessening. Growing cold. I fear
-    to be stamped out.<br>  \n<br>\n<br>\nYou seem to be quite enjoying the rain,
-    dripping down your face. You don’t seem too cold either, or discontent.<br>\n<br>\nI
-    shall leave you loiter.<br> \nA while longer.<br> \n<br>\n<br>\n*Apart*. "
+    and murmur.<br>   \n<br>\nThe thing is, once I let you in—you’re in. There’s no
+    pushing you, our guest, back out into the rain. It’s a one-way ticket. Into this
+    warm, cosy room, I call myself. But this self, at the present moment, is not quite
+    itself, and you may wish to turn on your heels, and go in search of someone else.
+    I give you this warning: go *somewhere* else. There’s a chill in here too, the
+    fire is struggling, its embers, lessening. Growing cold. I fear to be stamped
+    out.<br>  \n<br>\n<br>\nYou seem to be quite enjoying the rain, dripping down
+    your face. You don’t seem too cold either, or discontent.<br>\n<br>\nI shall leave
+    you loiter.<br> \nA while longer.<br> \n<br>\n<br>\n*Apart*. "
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
