@@ -1230,6 +1230,56 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 18/05/2020
+  entry-body-text: "We have now learnt about the past and the past has learnt about
+    us. And how does that make you feel? Do you have a renewed sense of purpose? Do
+    you feel assured within yourself, by a grounding; or, like me, are you adrift?
+    In-between: here, there, somewhere. Who knows, and at this point, who really cares?
+    May I share an observation about writing historically with you: it felt dry; really,
+    really dry. It was as if those words were heavy, cumbersome and featureless; and
+    I could not mould or sculpt them as I usually would. They lacked plasticity. I
+    was honestly struggling to pull those threads out, to join and weave them. It
+    was extremely frustrating and I’m unsatisfied by the mess I have made. I was sure
+    of it, you know, that they were betrothed, destined to dance: *meant to be*; to
+    be *here*, with us. And perhaps, it will come across as a failure on my part.
+    When we both stand back and look at you from a distance; from a place of clarity
+    and objectivity. Remember: you must never force things into place.<br>\n<br>\n<br>\n*They
+    just didn’t want to fluctuate, or move*, that’s what I’d tell or beg the officer;
+    they exuded a certain inertness, an inhospitable nature engulfing the page. I
+    had to be done with them. Like cracked clay along a river bed; or stretches of
+    sand in a desert; or this earth across my field; or this dryness in my eyes: thirsty,
+    parched, gasping for a drink. I’m wearing contact lenses today, as my glasses
+    snapped last night. I’m not fond of them, contact lenses that is. They make me
+    squint. They make my eyeballs squirm. It’s an addition to the daily torment I
+    must endure. They make me see through dryness, and in doing so, they distort my
+    sense of things. I catch myself looking at opaque forms, as globules of glare,
+    float through my line of sight—the lenses, catch on my skin. It’s like smearing
+    Vaseline across glass. I’m hallucinating. There are animals with dry eyes, like
+    the snake, and those, like us—yes, yes indeed we are animal—who have, what you’d
+    call moist, wet eyes. I wonder, as the snake, often deceives us, is it not then
+    the nature of dryness to fool and trick us. To encircle us. To constrict us. Is
+    it the nature of water to be truth: to sweep us away down the river. Is dryness
+    a form of blindness? Do my eyes weep to seek the truth. They weep, as they learn
+    the truth, I know that to be true. And hasn’t the eye often betrayed truth, or,
+    rather, escaped it.  Like the fugitive, spinning a web of lies. What then is the
+    fate of words, or writing, which feels lifeless and dry, like my eyes. To write,
+    is to give it form: a body of truth. It’s the texture of truth which makes us
+    believe it.<br>\n<br> \n<br>\nA storm brews, there is thunder and lighting in
+    the distance.\n<br> \n<br>\nOne-Mississippi.<br>\nTwo-Mississippi.<br>\nThree-Mississippi.<br>\n<br>\n*A
+    clap of thunder*.<br>\n<br>\nYou’re not far.<br>\n<br>\nI think the closer I get
+    to things, things which matter, then the harder it is to form. To form the words
+    through which we speak. The rains come, and I shall quench my thirst. The truth
+    of the soil. Weeping eyes, beckoning."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
