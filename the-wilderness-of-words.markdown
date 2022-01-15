@@ -170,7 +170,7 @@ Content:
     someone else. I give you this warning: go *somewhere* else. There’s a chill in
     here too, the fire is struggling, its embers, lessening. Growing cold. I fear
     to be stamped out.<br>  \n<br>\n<br>\nYou seem to be quite enjoying the rain,
-    dripping down your face.<br> \nYou don’t seem too cold either, or discontent.<br>\n<br>\n<br>\nI
+    dripping down your face. You don’t seem too cold either, or discontent.<br>\n<br>\nI
     shall leave you loiter.<br> \nA while longer.<br> \n<br>\n<br>\n*Apart*. "
   entry-image: 
   entry-two-image: 
