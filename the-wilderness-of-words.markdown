@@ -780,6 +780,66 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 
+  entry-body-text: "As luck would have it, it is now, and only now, that you join
+    me in the present.<br> \n*The present*, whatever that may be.<br>\n<br> \nIt will
+    come as no surprise to learn that I have been *reaching* for a while now, but
+    whether it was towards, or away from you, remains to be seen. But, for some reason,
+    it is now I feel we are on the same page. And I get the impression you’re growing
+    impatient, as you’re endlessly pacing, like a bloodhound, restless to uncover
+    the truth. To sniff it out, as it were. And after our walk, it pleases me to say
+    we’ve bonded and grown familiar; and doesn’t it feel nice to lean closer, to lean
+    on someone every now and then? Anyway, you don’t feel like a stranger anymore,
+    that was my point, you’re more like an acquaintance. But an acquaintance I’m interested
+    in understanding further. So that’s a good thing. That’s a good position to be
+    in. I’ve noticed there two types of acquaintances: those you have polite conversation
+    with at a bus stop, and those, who for some reason, you can simply slip into getting
+    blind, raving drunk; speaking for hours and hours on end. I suspect, and hope,
+    you may be the latter. At present, I am comfortable to share it with you, *the
+    truth of it*, or, as far as I know it to be.<br>\n<br>\nTo help us on our way,
+    may I point something out: you have asked me *what* and *why*, but you haven’t
+    asked me *where*. And it is the *where* where the crux of this story lies; more
+    so, it is not only *where* but the *who* we find there. I postulate that there’s
+    something lurking in all stories, in all names, and in all people, and often,
+    it’s telluric: it’s from the soil and it’s from the earth. What I mean by that
+    is this: the *where*, from my experience, tends to be where most of you are found,
+    nearby, deeply buried in the earth. And who are these *you* I speak of? Well,
+    please don’t think me morbid, but it’s your family. Or perhaps, it’s just the
+    case for my own family. Nevertheless, I believe it’s the *who* who dictates the
+    *where*, and it's the *who* which often ends up in the dirt of the *where*, and
+    therefore, the *who* becomes inseparable from the *where*. And just because the
+    *who* are in the dirt, doesn’t mean to say their value is worthless, far from
+    it, in actual fact, their value can never, truly, be measured. These pieces anchor
+    you to a place. To the *where*. Well, they do for me. You can choose to believe
+    me or not, but that fact of the matter is, you never control it; it’s that place
+    you first walked over, and in some respects, it walked over you. I’ve discovered,
+    that over time, it can hinder, contain and control you; or it liberates, supports
+    and ignites you. Its agency fluctuates. Its nature changes. Much like your passion
+    for things. And whether it’s one or the other, it forms you, like a sculptor handling
+    clay. *The creation of life from clay*. It’s known around the world as something
+    to *long for*, or something you *long to leave*. It’s hard to make and easy to
+    destroy. It is, of course: home.<br>\n<br>\n<br>\nIt may also be prudent to point
+    out: *all the names mean nothing to you, and your name means nothing to them*.
+    And so, this journey into *where* and *who*, shall be, somewhat, a self-fulfilling
+    exercise, an exercise for me to enjoy, and perhaps, you too, if you’re a person
+    who can tolerate those utterly tedious stories, about other people’s families.
+    I do often ask myself: is there anything more dull than feigning interest in Great
+    Aunty Fanny? I think not; if there is, I haven’t found it yet. Needless to say,
+    I will not be disappointed if you leave now. But if you choose to, if you will
+    it so, we shall cast our minds back, back to the people and places that made me.
+    Look at it this way: it might influence your form, or your shape; you may gain
+    an aptitude for it, for recollections and for memory. After all, it’s in your
+    nature to be nostalgic. To muse on the past, and to *feel* it in the present."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
