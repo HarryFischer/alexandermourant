@@ -243,8 +243,8 @@ Content:
   image-margin-right: 
   entry-heading-text: 13/04/2020
   entry-body-text: "As much as words mean many things.<br> \nIt is your nature *to
-    be* many things.<br>  \n<br> \n<br> \nBy telling you, I risk changing you.<br>
-    \n<br>  \n<br> \nFor the most part.<br> \nYou are to be an image.<br>  "
+    be* many things.<br>  \n<br> \nBy telling you, I risk changing you.<br> \n<br>
+    \ \nFor the most part.<br> \nYou are to be an image.<br>  "
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
@@ -256,12 +256,11 @@ Content:
   image-position: 
   image-margin-right: 
   entry-heading-text: 14/04/2020
-  entry-body-text: "I also planned to not only plant.<br>  \nBut to write to *reach*
-    you.<br>    \nTo write *to* you.<br> \n<br> \n<br> \nI’m sorry, I can’t share
-    any more.<br>  \nI feel we’ve gone too far.<br>  \n<br> \n<br> \nThe more I say,
-    the more I define.<br>  \nAnd it’s important that you’re not defined by me.<br>
-    \ \n<br> \n<br> \nI’ve been told I’m controlling.<br>  \nAnd I know I mustn’t
-    control you.<br>  "
+  entry-body-text: "I also planned to not only plant.<br>But to write to *reach* you.<br>To
+    write *to* you.<br> \n<br> \nI’m sorry, I can’t share any more.<br>I feel we’ve
+    gone too far.<br>  \n<br> \nThe more I say, the more I define.<br>And it’s important
+    that you’re not defined by me.<br>  \n<br>\nI’ve been told I’m controlling.<br>And
+    I know I mustn’t control you.  "
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
