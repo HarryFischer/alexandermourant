@@ -911,7 +911,7 @@ Content:
   image-margin-right: 
   entry-heading-text: 3/05/2020
   entry-body-text: 
-  entry-image: 
+  entry-image: "/uploads/ClaudeCahun.png"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
