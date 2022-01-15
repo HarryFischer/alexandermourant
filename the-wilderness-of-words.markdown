@@ -1432,6 +1432,38 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 25/05/2020
+  entry-body-text: "My afternoon slowly dwindled away as I stood, sat and lay in the
+    field. My skin turned a light pink, burnt by the blazing sun. I noticed how the
+    shadows began to lengthen around 5 o’clock, stretching out, like a cat on the
+    floor. The heaviness of them grew deeper too. On their edges, a clear, yellow
+    light, still fell, illuminating the world a while longer. Once it had begun, there
+    was nothing I could do to stop it: the falling of the sun. I had enjoyed our day
+    so much I did not wish to see it end. And so, I attempted to lasso it, the sun,
+    with my trusty old fibre rope. I spun it, around and around, above my head, my
+    arm whipping it, faster and faster, until it felt right, then *loose*; she travelled
+    up into the air, like a rocket out to space, heading for the sun. Many times I
+    tried and failed, *falling short*; I thought it not long enough. But, on my last
+    attempt, it made it, and my rope landed snug around the sun. With haste, I dug
+    my heels into the earth, bent my knees, and prepared, concentrating all the energy
+    I could muster into a great, big, *heave-ho*. The rope went taut, my muscles strained,
+    and the sun did not budge an inch. It continued to fall. I gave it one last go,
+    and bellowed out in pain, as my veins, raised, surged with blood, and then, helplessly,
+    I fell with a thump, onto my back; the rope had disintegrated, scorched by the
+    sun, like hair, singed in a flame. The yellow light, turned gold, and moved like
+    syrup, spreading over, covering the earth. It was not just the sun, which lowered,
+    at every passing minute, but the world too, which was falling around us.<br>\n<br>\nLower\nLower\nDarkening\nDarkening\n\t\t\t\t\t\t\t
+    \       "
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
