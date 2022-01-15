@@ -1141,15 +1141,15 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
-- image: "/uploads/PhilipJoshueMourant-2.jpg"
+- image: 
   video: 
   caption-text: 
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: 
+  entry-heading-text: 12/05/2020
   entry-body-text: 
-  entry-image: 
+  entry-image: "/uploads/PhilipJoshueMourant-2.jpg"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
