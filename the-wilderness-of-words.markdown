@@ -1400,6 +1400,38 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 24/05/2020
+  entry-body-text: 'Imagine this: the romanticised, mercurial, experimental artist,
+    returns to the studio, after a late night drinking. He’s rampageous, outraged
+    by the injustice of it all. His fellow artists just don’t *get it*, his gallery
+    is ignorant, and his collectors wish to return what they bought, as the work *changes*.
+    He’s gobsmacked by it. He paces the studio, pushes books off shelves, throws paper
+    in the air and smashes glasses on the floor; then, he turns to it: to the canvas
+    in the corner. The artist, with his sight set, races over, like a bull, over a
+    groaning wooden floor, to the pure, white canvas; he grabs it, off the floor,
+    and forces it onto the easel. It''s now we learn where our perspective lies: not
+    a fly on the wall, but the paint in his palette. Oh how the paint *trembles* in
+    fear. Quivering at the presence of the artist in such a foul mood. The red is
+    scooped up first, large globs of it, the colour of blood, absorbed into the brush.
+    And as the artist throws his arm back, the paint *lifts*—as your body does, in
+    turbulence, feeling light, with a tingle of nerves—before being thrown, hurtling
+    towards the canvas. Splat. Splat. Splat. The other colours, quaking, see this
+    anger, transferring through his arm into paint. Dissatisfied, the demon inside
+    him cries out for more, more, *more paint!* He discards the palette, much to their
+    relief, and goes for the bucket, prising open the lid; in one fluid motion, he
+    chucks it on, the *whole* bucket, a waterfall of blood. The paint rebounds, covering
+    the artist in his own efforts. He stands there panting, eyes closed, listening
+    to drops of blood fall off the easel’s shelf.'
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
