@@ -1458,7 +1458,8 @@ Content:
     I fell with a thump, onto my back; the rope had disintegrated, scorched by the
     sun, like hair, singed in a flame. The yellow light, turned gold, and moved like
     syrup, spreading over, covering the earth. It was not just the sun, which lowered,
-    at every passing minute, but the world too, which was falling around us.<br>\n<br>\nLower\nLower\nDarkening\nDarkening\n\t\t\t\t\t\t\t
+    at every passing minute, but the world too, which was falling around us.<br>\n<br>\n<br>\nLower<br>\nLower<br>\nDarkening<br>\nDarkening<br>\nLower<br>\nLower<br>\nDarkening<br>\nDarkening<br>\nLower<br>\nLower<br>\nDarkening<br>\nDarkening<br>\n<br>\n<br>\nGold
+    gave way<br>\nto a grey, dusky blue<br>\nas we entered twilight.\n\t\t\t\t\t\t\t
     \       "
   entry-image: 
   entry-two-image: 
