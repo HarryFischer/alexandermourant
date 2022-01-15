@@ -430,6 +430,38 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 19/04/2020
+  entry-body-text: I am tempted to continue, to continue speaking like I have, over
+    the past few days. But I think describing how I *did this*, or how I *did that*,
+    may get slightly tiresome, for both you, to read, and I, to write. I also feel
+    we’ve reached a point in this narrative, a juncture, where an attempt to convey,
+    or interpret the nature of my planting, in its entirety, would be futile. I’ve
+    learnt there are a few things beyond the reach of language, and this, in fact,
+    might be one of them. Furthermore, somethings, after all, must be kept for myself.
+    And so, rather than trying to climb a slippery, muddy slope, I shall merely stand
+    at the bottom, and observe one or two things which crossed my path.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 
+  entry-body-text: 
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
