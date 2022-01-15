@@ -1669,6 +1669,35 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 31/05/2020
+  entry-body-text: |-
+    *We are involved with flower, leaf, and fruit.*<br>
+    *They speak not just the language of one year.*<br>
+    *From darkness a bright phenomenon appears*<br>
+    *and still reflects, perhaps, the jealous glint*<br>
+    <br>
+    *of the dead, who fill the earth. How can we know*<br>
+    *what part they play within the ancient cycle?*<br>
+    *Long since, it has been their job to make the soil*<br>
+    *vigorous with the force of their free marrow.*<br>
+    <br>
+    *But have they done it willingly? we ask…*<br>
+    *Does this fruit, formed by the heavy slaves, push up*<br>
+    *like a clenched fist, to threaten us, their masters?*<br>
+    <br>
+    *Or in fact are they the masters, as they sleep*<br>
+    *beside the roots and grant us, from their riches,*<br>
+    *this hybrid Thing of speechless strength and kisses?*
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
