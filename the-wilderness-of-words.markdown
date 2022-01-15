@@ -1001,6 +1001,22 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 7/05/2020
+  entry-body-text: |-
+    My search has unearthed talent, notoriety and sadness amongst the family line. For a pastoral idyll, regrettably, is exactly that: an idyll; it is not realistic, or achievable. It lives as an idyllic image, in my mind, rising and setting, like the sun. The sum of it reads as a mixed bag; as with most families, there is lightness and darkness. For us, there was rampant alcoholism within our ranks; an infliction helped along by strong home brew cider. And in the 17th century, Jean Mourant, became known for witchcraft, and as a consequence, was hanged. However, happier revelations include: Rev Philip Mo(u)rant (1700-1770), a celebrated antiquarian and researcher into the Norman conquest; Sir John Everett Millais (1829-1896), the Pre-Raphaelite painter of the 19th century, who was a child prodigy, gaining entrance into the Royal Academy Schools age 11 (at the time of writing, his palettes are on show in the vaults); and, last but certainly not least, Dr Arthur Ernest Mourant (1904-1994), who was a highly skilled individual, recognised as a geologist, haematologist, chemist and geneticist. It would now be apt to reveal to you Dr Mourant’s book, *Blood and Stones*, which is the text I currently consult about *who* and *what* we are. Besides the fabulous title, which I envy, I shall forever be indebted to him for discovering our ancestry. His death, was in 1994, which coincidentally, was the year of my birth. He was also a lover of photography. Although, I do not for one moment attempt to draw any similarity between the little I know, and understand, to the seemingly stratospheric intelligence and wisdom of this man. But I’d be crestfallen if I did not declare the kinship I feel towards him; and despite the fact our relationship is one through a tenuous link, it is a link nonetheless.<br>
+    <br>
+    <br>
+    Right, with the help of Dr Mourant, let me attempt to break this down: the man in the picture I showed you yesterday, to the left of the horse, is my great-grandfather, Edgar Reynolds Mourant (1909-1971), the man to the right, holding the plough, is my great-great-grandfather, Philip Chevalier Mourant (1875-1967), and Philip’s father, was my great-great-great-grandfather, Philip Joshue Mourant (1831-1892). With me so far? Great. Next, Philip Joshue Mourant, was the brother of Charles Mourant (1840-1920), and Charles’s son, was Ernest Mourant (1872-1958), whose son was our Dr Arthur Ernest Mourant (1904-1994). It’s a delirious and tenuous link, like I said, but we both share a love of blood and stones, so I shall carry on. When reading Dr Mourant’s autobiography (the aforementioned title), I came across an interesting piece of history which was unknown to me. He writes: *I cannot trace my own ancestry in the male line beyond my great-great-great-grandfather, Jean Mourant, whose son Philip in 1818 bought the farm at Haut du Mont au Prêtre in the parish of St Helier, which has remained the home of the senior branch of the family*. He goes on to mention that his grandfather, Charles Mourant, lived there too when he was a boy. This was enlightening, because, owing to the fact Dr Mourant’s grandfather grew up in that house, it would also make sense, that Charles’s brother, Philip Joshue Mourant (my great-great-great-grandfather), did too. Again, this may be uninteresting to you, dear Reader, but it was on the 10th August 1973, when my own grandfather, Stewart Mourant (1940), purchased Haut du Mont, from a close descendant, Philip George Mourant (1919-1988). After my grandfather lived there, some years later, he moved next door, and my own father, Nick Mourant (1964), came to live there, and brought up four children: Georgina Mourant (1989), Stephanie Mourant (1990), Bryony Mourant (1992), and then myself; which leads me, and you, to this wooden desk where I now sit, writing these words, in that very same house. I gaze up and stare at the surface of the granite walls, weathered by hands over the years. *If these walls could speak*, I thought. How bizarre it feels to write history when I’m not only touching it, but sitting inside it. Words welcome us; we inhabit their walls.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
