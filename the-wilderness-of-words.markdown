@@ -1017,6 +1017,77 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 8/05/2020
+  entry-body-text: "The reason why I brought you here, was not only to visit my house,
+    or to meet Dr Mourant, but to speak of our ancestors, Charles Mourant, and my
+    great-great-great-grandfather, Philip Joshue Mourant. You see, about a year ago,
+    I learnt of their tales and exploits. And at the time, it seemed like quite a
+    grand and exciting story, something which I thought you’d be interested to hear.
+    Indeed, that was the plan, until I learnt of how the story ended, for Philip at
+    least, and then it became achingly sad and troublesome. It became a story I wasn’t
+    sure of how to handle; how to spin or weave it. It felt wrong, but it also felt
+    essential to this, to *our* story. And I had to judge what was best for you and
+    for us; to weigh them both up. I decided, as I was sucked in by this story, enthralled
+    by it, I should attempt to recall it, no matter how shameful it feels to be doing
+    so. In terms of records, or factual basis, time has done away with most of the
+    details, as time often does, and my family holds hardly any documents. And so,
+    what I tell you is supported by what was passed down, by what was disclosed; and
+    I’m certain, what was spoken, was affected, by what was unspoken. It started as
+    a family rumour, and the more it was said, I guess, the more it was said to be
+    true. Like liquid cooling, through the generations, to become crystal inside us.<br>\n<br>\n<br>\nI’ll
+    stop beating around the bush: as I mentioned, they were brothers, and Charles
+    was the younger. They grew up at Haut du Mont, as I did, became young men, and
+    followed their own paths. Philip, being almost a decade older, was expectedly,
+    the first to marry. He married Mary-Ann Le Gallais (1829), who bore three children:
+    Philip (1859), who sadly died in infancy; Mary Ann (1860) and Emelie Rachel (1861).
+    At this time, Dr Mourant speaks of Charles travelling: he headed out by sea, sailing
+    far and wide, reaching as far as Barbados. Upon his return, he too married and
+    continued to farm at Haut du Mont. It would seem, after a while, he decided to
+    move to his own house at Croix ès Mottes, St Saviour, which is nearby to La Hougue
+    Bie; shortly after, Charles had his first child, a son, Ernest Mourant (1872),
+    and it was there, at Croix ès Mottes, where he spent the remainder of his life.
+    Unfortunately, in the 1860s, Philip’s wife Mary-Ann, died, as to why, I could
+    not find out. It was then, in the late 1860s Philip remarried, to Mary-Ann’s sister,
+    Louisa Le Gallais (1839), who bore five children: Louisa Alice (1870), Clara Jane
+    (1873), Philip Chevalier (1875), Harriet Vivian (1880) and Eva Ann (1882). A census
+    of 1891, puts Philip’s family all in residence at La Commune Farm, St Saviour.<br>\n<br>\n<br>
+    \nProfessionally speaking, their life was quite successful. Both brothers became
+    notable farmers on the island. I believe they grew crops, but their mainstay was
+    cattle; they bred, prizewinning and lucrative, Jersey cows. For those in the dark,
+    the Jersey cow is a unique, purebred to Jersey, becoming recognised as such around
+    1700. They have a golden coat and a friendly, docile temperament. They produce
+    sought after rich and creamy milk. There even exists the Jersey Herd Book, founded
+    by the Royal Jersey Agricultural & Horticultural Society, as a record of the Jersey
+    cow’s ancestry (its pedigree), much like a family tree, dating back to 1866. In
+    fact, so great was the interest in breeding and showing cows, that still to this
+    day, Jersey holds a biannual show, of which I remember my sister, Georgina Mourant,
+    competing and winning a rosette when we were kids. And when I recall our childhood,
+    it is one of cows in the shed and in the fields. Just before the turn of the millennium,
+    we had around five hundred head of cattle. And once, to mark the occasion of Prince
+    Charles and Lady Diana’s wedding, my grandfather’s cow, named Regal Absorbine
+    Dream, was selected and gifted from Jersey to the Royal Family."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 9/05/2020
+  entry-body-text: 
+  entry-image: "/uploads/NickMourant-HautduMont-2.jpg"
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
