@@ -1465,6 +1465,65 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 26/05/2020
+  entry-body-text: "I’ve always marvelled at blue. And if you know me at all, you’ll
+    know that to be true. It moves me in a way unlike any other. I’ve never tried
+    to put it into words, instead, I opted for other people’s. Now, if you forced
+    me to produce something, I’d say it’s something about its personality, its aloofness;
+    though, it's incredibly intimate at the same time. I think that’s why I’m drawn
+    to it: to the blue; it's like an oxymoron: cold burning, heavy lightness, bright
+    smoke, cruel kindness, living death. It defies itself, resisting categories. The
+    way true artists do.<br>\n<br>\nThat evening, the blue arrived, and it did so
+    quietly, like sneaking on the landing at night. Blue is light on its feet. It
+    slipped in, and before I knew it, it pervaded my sight: the blue hour. Twilight
+    is that time when the sun has finished its show: the sunset spectacle of purple,
+    orange and gold; beautiful, don’t get me wrong, but it contains a vivid sense
+    of theatre, which lacks subtly, unlike twilight. Twilight, you could say, is when
+    the show is over, and you start, wearily, heading home; you’re calmly travelling
+    on an empty bus and the feeling of it, the show, begins to percolate. It filters
+    down through your organs and into your bones. Forming, what I’d say is your impression
+    of it; your *lasting* impression. The world as we know it is built on a series
+    of expressions and impressions. And its often the in-between places, or states,
+    very much like our bus ride, which help us understand those expressions. Those
+    that bombard us, each and every day. Surrounding us, like a pack of dogs, barking.<br>\n<br>\nThere
+    are three types of twilight: civil, nautical and astronomical. They follow that
+    order as the sun dips below the horizon, and continues to curve beneath us, until
+    eventually, the last of its rays, the stragglers, on the voyage simply known as
+    *The Day*, dissipate, marking its end. There’s a pathos to it; to the light of
+    time gone by. A lament for all that you were meant to say and do. Many are the
+    people who claim to be in *the twilight of their lives*, existing for a brief,
+    self-reflective moment, in *twilight years*. I sometimes wish I could live forever,
+    in the land of twilight. And perhaps that’s the artist’s blessing, or their curse,
+    to be neither here, nor there. My impression of it was one of emergence and dissolution.
+    And like twilight, my impression formed in the liminal, and liminal’s good friend,
+    solitude. The trees reversed, becoming silhouettes of themselves against a backdrop
+    of powder blue. Blue against blue. Blue on blue. Blue wrestled in front of me.
+    The clarity of sight I’d spent so long cultivating that afternoon failed me. Everything
+    slipped into being everything else. Close, became far, and the distant, near.<br>\n<br>
+    \nThe landscape took this time to muse on its impression of us; how we had expressed
+    ourselves thus far. And I could not tell if it was excited, tender or scared.
+    The land had much to think on, to deliberate, between the grasslands, tundras,
+    deserts, forests and mountains; we squeeze and wring ourselves out on it; much
+    has been said and done. It even reminded me of another: the camera; more so, the
+    children of it: photographs. Existing in a space of neither day nor night. Of
+    neither life nor death. That thought, *a living death*, echoed around me, as if
+    my body were a cave, a cavern, beyond time and space itself. *Photography is an
+    elegiac art, a twilight art*. Like the landscape transforming around me, the image
+    I stood within, was a vehicle, moving, at a velocity beyond all which we could
+    see and know. *It’s that edge, that life death edge*. Pulling at me. And when
+    you’re not quite sure of what you’ve seen, and you’re not quite sure of who you
+    are, reality seems not so important, and if we were to step and live through the
+    experience of an impression being formed, it may, perhaps, be best found in twilight."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
