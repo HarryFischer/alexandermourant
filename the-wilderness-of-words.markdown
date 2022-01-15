@@ -228,9 +228,9 @@ Content:
     uncertain as to why.<br>Maybe I seek your approval, your acceptance.<br> Anyway,
     dig deep, I urge myself.<br>I *must* dig deep.<br> \n<br> \n<br> \nI’m determined
     to navigate *somewhere*; this task you set for me. \nThis arduous voyage across
-    time and chance.<br> \n<br>  \n<br> \nI… I… I decided to plant.<br>I planted a
-    field.<br>  \n<br> \nI say so, with a tremor to my word.<br>With a crackle and
-    a quake.<br>  \n<br>  \nI planted it, in order to *reach* you. "
+    time and chance.<br> \n<br>  \nI… I… I decided to plant.<br>I planted a field.<br>
+    \ \n<br> \nI say so, with a tremor to my word.<br>With a crackle and a quake.
+    \ \n<br>  \nI planted it, in order to *reach* you. "
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
