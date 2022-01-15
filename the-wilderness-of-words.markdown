@@ -748,8 +748,34 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: "Outline of the stone, with the page, as my palm: \n"
-  entry-body-text: 
+  entry-heading-text: 28/04/2020
+  entry-body-text: "Outline of the stone, with the page, as my palm: \n"
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 29/04/2020
+  entry-body-text: "What age does that feel? You asked me, some time ago. \nIt provoked
+    me, in more ways than one."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 30/04/2020
+  entry-body-text: 'You have a different way of knowing yourself, you also said to
+    me. '
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
