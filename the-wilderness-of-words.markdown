@@ -514,8 +514,28 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: 
-  entry-body-text: 
+  entry-heading-text: 21/04/2020
+  entry-body-text: "My second observation, was that of rhythm. It’s an interesting
+    question, isn’t it: *how to move?* A few weeks ago, I found I had to learn how
+    to travel over the earth, in a way unfamiliar to myself, but not too dissimilar
+    to a rock climber, ascending a cliff face: grappling with the surface, weight
+    forward, constantly in motion, building momentum and crucially, *never looking
+    back*. I was, of course, moving horizontally, but I had a strong suspicion that
+    the surface, and the direction of my passing, defied one another, just as though
+    they knew our relationship was out of whack, unnatural, much like a climber, five
+    hundred meters high, hanging on by their fingertips.<br> \n<br>\nOut of place.<br>
+    \nOut on a limb.<br> \nDislodging rocks as I went.<br>\n<br>\nI moved like so:
+    \n<br>\n<br>\npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
+    place place<br> \npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
+    place place<br> \npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
+    place place<br> \npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
+    place place<br> \npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
+    place place<br> \npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
+    place place<br> \npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
+    place place<br> \npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
+    place place<br> \npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
+    place place<br> \npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
+    place place<br> \n "
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
