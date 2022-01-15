@@ -931,6 +931,64 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 5/05/2020
+  entry-body-text: "*What was our life like?*<br> \nHow kind of you to ask.<br> \n<br>\n<br>\nOur
+    life in Jersey, over the past five hundred years, could quite accurately be summed
+    up over the following lines: we were, and for all intents and purposes still are,
+    quintessentially, farmers; our life was out on the fields and in the barns; it
+    was about getting your hands dirty. And this was not unique to us, but to the
+    island itself; Jersey had its cornerstone in a prosperous agricultural industry.
+    The task, at first, was to grow enough food to survive, to feed a family of eight
+    to ten children. But it soon grew into a prominent industry. The island had, and
+    still has, rich fertile soil, and a favourable climate, which brings its crops
+    to fruition a couple weeks prior to that of the mainland. It brought the island
+    fame, and crucially, wealth. There are tales of farmers who produced their crops
+    early, sold them to merchants down at the harbour (for a mind-boggling price),
+    and then laughed, as they walked home, with a spring in their step, taking early
+    retirement. Those were what you’d call the *good old days*. We were famous for
+    four main things: cider, tomatoes, cows and Jersey Royal Potatoes. Two have died
+    out and two remain.<br>\n<br>\n<br>\nWe were, and again, still are a family, who
+    pride ourselves at breeding prizewinning cattle and growing Jersey Royal Potatoes.
+    The potatoes, started life as a bit of a fluke, and for a time, they were known
+    as Jersey Flukes. As my father said to me once, it was Hugh de la Haye, who one
+    day came across a potato growing which had sixteen eyes. The *eyes* of which we
+    speak are actually sprouts; shoots from which the body of the plant grows up,
+    out of the earth, towards the sun. This was extremely abnormal, and after Hugh
+    showed this to his friends, they decided to cut it up, into pieces, with a stalk
+    each and planted these into a cotil. A cotil is a Jersey term, for an early, sloping
+    field, which is very small and difficult to manoeuvre around. They are south facing
+    and experience maximum warmth and sunlight. After a heavy and early spring, Hugh
+    noticed how one plant produced unique, kidney shaped potatoes. He continued to
+    cultivate these, over the years, until there was enough for an entire field, crop
+    and harvest. They tasted delicious, and popularity quickly grew; thus, a tradition
+    was born. It may come as no surprise to you, but, at last, I can tell you: I planted
+    potatoes too. *I did that!* I took to the field and placed them, one by one, up
+    the furrows. They are what grow *out there*, on the land. And, they are what grow
+    inside of me.<br>\n<br>\n<br>\nLastly, our place *within* the place, had been
+    the parish of Grouville, St Saviour, and St Helier. These parishes are closely
+    knit communities, sharing boundaries with each other. So, over time, we did not
+    travel far. Far in Jersey is about two miles, and that’s about the distance, if
+    not less, that the majority of our family moved. You have to reorientate your
+    sense of what is close and far here, both physically and metaphysically. The year
+    was filled with tradition and hard, gratifying work. The children would walk to
+    school, and walk back; the neighbours would know you, and your father, and your
+    father’s father. You’d grow apples for cider, make black butter in the winter,
+    \ make Jersey Wonders in the spring (as the tide went out), plant the fields,
+    tend to the cows, harvest the crop, even the schools would close during the height
+    of the season so the children could farm too. That was their life for generations,
+    and of course, it was back-breaking and strenuous, and perhaps I’ve romanticised
+    it, but it appears to be a good life. As much as there is unhappiness anywhere,
+    I get the sense it was a better place than many."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
