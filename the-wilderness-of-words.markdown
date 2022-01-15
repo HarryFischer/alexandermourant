@@ -554,8 +554,46 @@ Content:
     place place<br>\npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
     place place<br>\npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
     place place<br>\npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
-    place place<br>\npick up<br> \nstep step step<br>\nput down<br> \nrest<br>\nplace
     place place<br>\n<br>\nDoes the word become the act?"
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 23/04/2020
+  entry-body-text: "As I traversed the field, diligently planting, what I thought
+    I knew annulled itself.<br>\n<br> \nIt stirred and revealed itself to me, as I
+    shall now reveal it to you.<br> \n<br>\nI realised that rhythm is one of the hardest
+    things to learn, and one of the hardest things to gain. You see, I was never much
+    of a dancer, or a musician, or a sportsman. I was never much of anything. And
+    I’d be lying if I didn’t somewhat resent myself for that. They say you are born
+    with rhythm. They say you are born with or without it. It is just one of those
+    things, one of those many, many things, which we add to our long list of things
+    we choose to live by; preordained, predestined shackles, heavy around our limbs.
+    *Me? No. No, I can’t dance*. I never have. And I kind of always felt, if I did
+    have it, I wouldn’t know where to place it. *Take your good intentions elsewhere*.
+    Climatically: to gain rhythm is actually, to gain acceptance; to be rhythmic,
+    is to know yourself.<br>\n<br>\nI now suspect it, rhythm that is, as something
+    extending out, and proliferating the world around us. Hidden behind shadows, doorways,
+    laying under the earth. It appears like low lying mist, in the early morning air,
+    the weight of gravity holding it down, making it *a part of* this world; it is
+    so precious, so unique, it would depart us, should it get the chance. A flutter
+    of golden butterflies. A splash of light. A breath as deep as the sea. You find
+    rhythm in more ways than you know. In the words I use to write to you. And in
+    the sentences I cobble together. I feel, sometimes, like I dance through letters
+    and words. They carry us through the rhythm of the page. Much like music, building,
+    growing, successively following itself, existing *in* and *through* time, the
+    effects of which are at the mercy of experience and duration. I think I’ve found
+    it. And I now point you towards the essence of music, dance, sport, and writing,
+    as I now know it, and dare I say it, life, which I feel, deeply, in my heart:
+    *rhythm*.<br> \n<br>\n*Oh honey*, put on your dancing shoes.<br> \nLet’s hit the
+    town.<br> \n<br>\n<br>\nRhythm,<br>  \nburied with me,<br> \ns<br>\ne<br>\ne<br>\np<br>\ns<br>\nout
+    of me,<br> \ninto the ground.<br> \n<br>\nFuelling,<br>\nspinning the Earth.<br>"
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
