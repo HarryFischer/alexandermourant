@@ -1613,6 +1613,62 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 30/05/2020
+  entry-body-text: "*I went on, sinking words into the pages, perhaps wondering what
+    or who was taking them in. And then, for the first time that day, just as it was
+    ending, I knew where I was—I was beneath the ground.* The image grew around me
+    and I was absorbed into the earth. Death acquainted itself with me; I found it
+    eternal, *a stone-fashioned dream*. The most I feared about it, was not the quietness
+    (I revel in the quiet), but in the loneliness I’d find there. You should not confuse
+    that with solitude either, another which I hold dear, as they have very different
+    natures; no, loneliness, rather than a choice, a spiritual route, as it were,
+    is often a curse laid upon us: you seek solitude, but avoid loneliness. There,
+    I was not lonely at all, but surrounded by stones, *my stones*, skulls, cracked,
+    with stalks protruding from them. Although I could not see, I felt their presence,
+    encircling me, patiently lying where I had placed them. *My skull is a suspended
+    stone*. They levitated, pulsating, defying gravity in the darkness of time.   And
+    it dawned on me then, in the black, moonless night, in the earth of time itself,
+    that I was no longer playing to the night, but I was amidst *a darkness deeper
+    than the night’s*. My one true slumber; the endless night.<br>\n<br>\n*Earth,
+    isn’t this what you want: to arise within us, **invisible**?* The invisible force
+    beneath our feet, guiding us along. But I was not steered, I was held by it, by
+    the earth, and it did not stifle or suffocate me, but assimilated me. It fed off
+    me; and I wilfully gave it. I first thought us living in obligate symbiosis: one
+    could not live *without* the other; now, I see it, as clear as day: one of us
+    must take leave, *depart this life*, meet Charon and cross the river Styx, for
+    the other to walk amongst the living. Was I, in reality, the host, and you, the
+    parasite? The energy of my life transferred into you, through the transmission
+    of words, over the air and onto the page; and I offered it to you, for my final
+    act: my flesh and my bones. Your roots received it in thanks. And I watched as
+    you digested me, to become yourself. I could feel them, the images inside of me,
+    floundering, keen to escape; they became fossilised, petrified into sculpture;
+    no longer growing or ever turning. I had given them to you, given them *all* to
+    you.<br>\n<br>\nI thought you worth dying for.<br>\n<br>\nYou will be forever
+    ingrained in my memory, my *poetic* memory, carved in a stone that is a tablet,
+    a place where love herself begins. A place both smooth and untouched and yet to
+    know many names. As Orpheus, in the eleventh hour, I descended to the depths,
+    in search of my love, Eurydice; I traversed the landscape of the self, encountered
+    the labyrinth known as doubt, and retrieved a bucket from the well, which I sense
+    was my soul. And at last, after my tiresome journey, with my feet bloody, and
+    my body aching, I was, reunited with you.<br>\n<br>\nThat night *they would be
+    alone, surrounded by darkness and silence: and in that moment of supreme tenderness
+    he would be transfigured. He would fade into something impalpable under her eyes
+    and then in a moment, he would be transfigured. Weakness and timidity and inexperience
+    would fall from him in that magic moment.* God split them in two, and they fought
+    to return as one. Their darkness formed a vortex of radiant lightness. *A portrait
+    of one or the other, our two narcissisms drowning there, it was the impossible
+    realised in a magic mirror*. Against nature, I planted you inside my heart, and
+    *within* the doubleness of my world; as the tryst elapsed, a cadaver remained. "
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
