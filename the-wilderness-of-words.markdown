@@ -915,6 +915,22 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 4/05/2020
+  entry-body-text: |-
+    I could continue to select moments of history to regale you with, but it wouldn’t serve us well, as although we are indeed concerned with the distant, it’s the distant which grows near that captures us. And for me, no, for *us*, I should say, this exercise is not just about what happened when, but the nature of *who* we find there, and how they came to be there. Jersey has seen an array of notable inhabitants, and to name a few: King Charles II (1630-1685), the dethroned king, whilst in exile, sheltered on the island twice, during 1646 and 1649; Victor Hugo (1802-1885), the famed poet and novelist, also moved to Jersey whilst in exile from France in 1852; Claude Cahun (1894-1954), born Lucy Renee Mathilde Schwob, was an artist, at the forefront of surrealism, who originated from Nantes, but later settled in Jersey; and lastly, Gerald Durrell (1925-1995), author and conservationist, settled here after life in Corfu, setting up the Jersey Wildlife Preservation Trust and zoo. These are names known widely on and off the island of Jersey. And why should you care? Well, that’s up to you. I sometimes find it insightful to learn which bodies have moved through this air. And those who have felt the island dwell inside of them. As it dwells inside of me. History is a place, a cave, which wraps around me.<br>
+    <br>
+    <br>
+    I shall now attempt to follow the lineage of my family; for arguments sake, and for the sake of paper, I will only follow my paternal line, as best I can. It is believed the Mourant family, also spelt Morant and Moraunt, arrived on the island of Jersey as early as 1309. Research into the family has suggested that we are possibly descendants of the de Morant family of Normandy. As the story goes, the Viking, Rollo, landed in Normandy in 911, and signed a treaty with the then King of West Francia, Charles III; the king bestowed power and land onto Rollo, who became the first Duke of Normandy. The Duke’s fief (an estate of land), was known to be called either “Les Cours Morant” or “Morantsgaard”, which is thought to have originated from “morant” meaning “seamen”. As a matter of fact, it was not until Rollo’s son, William Longsword, previously Count of Rouen, seized the Cotentin Peninsula, during an expansion of lands in 933, did the Duchy come to possess the Channel Islands. The ancestors of Mourant, or the de Morant family, are recorded as being mainly members of the landed gentry or nobility in France. Historical references place the families presence as far back as Pierre Morant (1155), Olivier Morant (1195) and Raoul and Guillaume Morant (1195 and 1198), all residing in and around Normandy. The first mention of the family actually in Jersey, comes regrettably, in the form of punishment, as in the parish of St Saviour, in 1309, Ralph (Radulphus) Moraunt was punished for breaking a law governing bakers and taverners. Following this, there are the occasional records where the family name appears, such as in land transactions, legal documents and court appearances, all the way through the 15th century. The family seems to fragment during this time, with lines ending, and daughters being prominent rather than sons. Nevertheless, what is agreed upon as the strongest, longest and continuous line, begins with the birth of Drouet Mourant (1500-1580), or Morant (depending on which source you consult), who was baptised in St Saviour's parish church, in 1500. Where the “u” came from in our name, still baffles and remains a mystery to me; as the name grew so did its meaning, as the “u” brings us to “Mourant”, meaning “dying” in French. However, it is from here, from birth rather than death, of Drouet Mourant, that a line emerges; or should I say, a tree, which we can follow; *look, look up there*, as I climb down from the highest most upper branches, descending from the zenith, making sure, carefully, to step lightly, as I move to the lower branches, and then onto the trunk, shimmying down, to the base of the tree, and onto the ground, *down to me*. You could say, he was a grand, old oak tree, and me, a sapling, slender and immature.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
