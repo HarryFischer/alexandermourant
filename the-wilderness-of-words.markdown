@@ -775,8 +775,8 @@ Content:
   image-position: 
   image-margin-right: 
   entry-heading-text: 30/04/2020
-  entry-body-text: 'You have a different way of knowing yourself, you also said to
-    me. '
+  entry-body-text: "*You have a different way of knowing yourself*, you also said
+    to me. "
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
@@ -789,10 +789,10 @@ Content:
   image-margin-right: 
   entry-heading-text: 1/05/2020
   entry-body-text: "As luck would have it, it is now, and only now, that you join
-    me in the present.<br> \n*The present*, whatever that may be.<br>\n<br> \nIt will
-    come as no surprise to learn that I have been *reaching* for a while now, but
-    whether it was towards, or away from you, remains to be seen. But, for some reason,
-    it is now I feel we are on the same page. And I get the impression you’re growing
+    me in the present. *The present*, whatever that may be.<br>\n<br> \nIt will come
+    as no surprise to learn that I have been *reaching* for a while now, but whether
+    it was towards, or away from you, remains to be seen. But, for some reason, it
+    is now I feel we are on the same page. And I get the impression you’re growing
     impatient, as you’re endlessly pacing, like a bloodhound, restless to uncover
     the truth. To sniff it out, as it were. And after our walk, it pleases me to say
     we’ve bonded and grown familiar; and doesn’t it feel nice to lean closer, to lean
@@ -1166,15 +1166,18 @@ Content:
     A letter from my grandmother, Rosemary Mourant (1940), pertinently titled, *Life on the Farm*:<br>
     <br>
     <br>
-    *I am Rosemary Querée, am one of six children, we live on a farm down Rozel called Hillside, my parents are Wilford and my mother Lilian. I was able to leave school at the end of the spring term 1954, as my 15th birthday fell during the school holidays. My mother was not keen for me to stay on the farm, preferring I follow my sister Doreen who was a medical sectary at the General Hospital, so for a week or so I had to learn 10 medical words and their meanings, as I had no intention of going in an office I just didn’t learn them!!!!! So my life on the farm began. The days were long, but as long as I was outside I was happy. Dad would call us about 6:30am, had a cup of tea then out to the cow shed to milk the cows by hand, after that clean the stables, then take the cows out to grass, they were all pegged individually, someone had to come and move them onto new grass at least twice a day.*
+    *I am Rosemary Querée, am one of six children, we live on a farm down Rozel called Hillside, my parents are Wilford and my mother Lilian. I was able to leave school at the end of the spring term 1954, as my 15th birthday fell during the school holidays. My mother was not keen for me to stay on the farm, preferring I follow my sister Doreen who was a medical sectary at the General Hospital, so for a week or so I had to learn 10 medical words and their meanings, as I had no intention of going in an office I just didn’t learn them!!!!! So my life on the farm began. The days were long, but as long as I was outside I was happy. Dad would call us about 6:30am, had a cup of tea then out to the cow shed to milk the cows by hand, after that clean the stables, then take the cows out to grass, they were all pegged individually, someone had to come and move them onto new grass at least twice a day.* <br>
     <br>
     *When it was a planting day, Dad liked to be in the field by 8:30. Dad sowed the fertilizer by hand, so Muriel and I had to keep him going by running on the ploughed field with a galvanised bucket so he never stopped. It was one of the hardest jobs we did. So my dad would make the furrow with the horse (Bella) and plough and the three of us would plant the potatoes in the furrow making sure we were finished by the time Dad came round again, we were always pleased to see Mum around 10:30 bringing us a sandwich and hot coffee made with boiled milk, it was really good. If after we finished planting it was still daylight we would pick up all the empty boxes carrying 8 at a time to the end of the field. After the days planting we had to milk the cows feed them etc then come in for our tea, then wash and bed.*
     <br>
+    <br>
     *We didn’t work like that two days in a row, as Dad had only one tractor, he would plough the next field while we would look after the cows and load the trailer with the seed potatoes ready for the next day and take care of the cows, few pigs and about 30 hens. Muriel and I were known as the ‘girls’ and for several years when we had finished planting on our farm, we were in great demand to help others, the trouble was when they knew we were there they would have a really busy day, we both worked very hard. We must have been rather naive, we never thought of being paid, so you can imagine when our grandfather came home and gave us each a £5 note! We thought we were millionaires. We had done two days planting for him.*
+    <br>
     <br>
     *As I have said before I just loved being in the fields with my dad and Muriel and Graham, although going to the other farms was really hard work. So I know how hard it is to plant by hand, I wish you all the very best, just for giving it a go. Will be there with a hot drink and some goodies to keep you going. I have asked M and G but we don’t have any photos planting, but we do have 2 digging.*
     <br>
-    *Love Gran x x *
+    *Love Gran x x*
+    <br>
     <br>
     Emailed: 5:07pm, 15th January, 2020
   entry-image: 
