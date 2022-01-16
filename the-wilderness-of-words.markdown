@@ -2103,6 +2103,54 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 21/06/2020
+  entry-body-text: "Partly sunny and warm.<br>\nA gentle breeze draws water out of
+    the earth. "
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 22/06/2020
+  entry-body-text: |-
+    Mostly sunny and beautiful.<br>
+    If the weather holds, we’ll dig soon.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 23/06/2020
+  entry-body-text: |-
+    Today the sun shines radiant and hot.<br>
+    I can feel it in my bones: tomorrow, we will dig.<br>
+    <br>
+    With that recognition, and that knowledge, crystallising inside of me, I’ve realised our great voyage through somewhere, draws to a close. It is one I lament, as I sense, given time, I could say so much more. I’ve written on the time you afforded me, through the space you graced me with, and now I can feel your eyes, like my words, are tired and overused. As I reflect upon it, re-reading some of those peculiar pages I wrote, many, many weeks ago, I find myself questioning myself; it’s as if I’m not the person, the man, I once was. And, you know, I don’t find that discomforting in the slightest; I don’t seek in frustration, to form in the present, times past. I’m not a man frantically placing sand into a glass jar. That sense feels fresh at my fingertips, and around my body, as though I had not found rhythm, but learnt of its growth inside of me. I do, however, only vaguely understand what it is I have said; I can only say it came from a place of impulse and instinct, a place I’m learning to nurture, as if I’m a parent of my self, watching, as I play from a doorway. I am now not really sure what to say. I am not really sure what you want to hear. I am a doctor in the delivery room, with just an hour or so to wait. You will arrive tomorrow and I, as always, am apprehensive of such a momentous day, and the task which now falls, heavy onto my shoulders. We shall soon depart this form, join each other, transfigure, and enter our something *other*.<br>
+    <br>
+    In the beginning, Art was said to embark across our lives at the very moment two lovers were separated, because, at first, it them who conjured it, motivated by an intense absence, a longing for the other, and in the face of their desperation, an outline was drawn, millenniums ago, of each lover’s silhouette, on a wall, which grew, through all our longings, into an image. It was the birth of the image. And some reckon, art itself, which came through a wish, a *desire* to be together. I falter, as I imagine meeting you, tomorrow, in your wholeness, in fear I may have misjudged it; perhaps, instead of filling me with vigour and euphoria, as you enter into my cavernous absence, I will just as quickly feel bereft, stripped of the knowledge that we *will* meet, for the reality that we’ve *already* met. Before I can even blink, my back, not even turned, you will flee, a fugitive from my grasp. I’m scared to feel my absence grow larger, having felt myself, deepen, by the promise of your presence. I hope it won’t be true. It pains me to continue searching, moving through *others* and discarding them along the way. I’ll have to wait to hear the verdict. I shall attempt to unearth the truth of it: the nature of the work, and what is concealed beneath the surface (if that’s even possible); it will be, only then, at the dig and at that epoch, when I’ll know whether to cling to you, or to pull a new stone out of my pocket, and strive for something, or someone else.<br>
+    <br>
+    We have reached the end.<br>
+    This shape of us, and this iteration, has at last, been laid to rest.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
