@@ -1908,6 +1908,25 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 9/06/2020
+  entry-body-text: |-
+    If I continue to oscillate between the interior and exterior nature things, not only do I become acquainted with their nature, but I radiate energy, in the transfer between the two. Actually no, that’s not quite right, it’s not the living as another which drains me, it’s the standing on a tightrope between one and the other. Writing pushes me there, right onto the edge. The path we take is on the verge of the surreal. Writing itself shares in this doubleness, for almost every word, there is an antonym: white/black; fire/water; sky/earth; love/hate; hot/cold; life/death. But to understand both, you must come to understand it, you must *live* it, and if you live it, you learn it, and to learn it, is to *experience* it; not just for what *it* is, but for how it differs. To stand on a wall and look at both sides.<br>
+    <br>
+    When I speak of writing, I do not mean, for example, writing as systematic note taking, but writing *as* being; to employ images, sensation and slippery meaning. Though, what we may call *true* writing, isn’t only an act of manifesting experience, either; no, not at all, there’s something further at play between ourselves and the work. Writing in the context I wish to propose, is not just an exercise, it is *becoming*. An experience through which you enter an intangible, liminal space; an ungraspable event which sneaks up on you, is incessant, fragmentary and neither here, nor there. There’s a pushing and pulling here. There’s a tension, in the place where *emergence* begins, and form is shaped. In order to emerge, one must distance, and through distancing, one becomes. *It is a process, that is, a passage of life that traverses the liveable and the lived.* This experience, I now realise, is the process of *othering* oneself; this *otherness* writes through the author. And paradoxically, it is the revealing and hiding from oneself, which is the essential quality for the formation of characters, like those found in a novel. And sometimes I feel I have written myself into a novel, a story of that which is you; a novel inside a photograph.<br>
+    <br>
+    I acknowledge this is a deeply ontological transgression, something which verges on delirium, and would warrant a space entirely on its own to further disseminate. However, the subject of *othering* oneself, in order to create a character, is a fascinating idea. I’ll put it simply now: to write requires you to become two characters: the Writer and the Reader. You must learn to absorb and emit impressions and expressions in tandem. And if not done in life, it requires you to *imagine* it; to *image* it; the image becomes idea and reality. And how one plays, tricks and adores the other, becomes what I think is the beginning of stories, tales and adventures. This distinction between leaving yourself, and entering another, is what brought us images: tapestries of knights; frescoes of angels; and hanging scrolls of pine trees and mountains. The narratives we often tell ourselves, require us to wish, or to *become*, someone or something else; again, we crack ourselves, like a stone in two.<br>
+    <br>
+    Lastly, this process, although underlying and carefully camouflaged, so much so, I nearly walked straight over it, is found in many other relationships; namely, the artist and the viewer. The contemplative gaze which is *viewing*, is a kind of reading; it’s a language which is also learnt. But it is why, perhaps, when reaching or making an artwork, the artist, no longer in charge of stirring a boiling pot of impressions around, has to themselves become a vessel. To become a *viewer* in order to be estranged from that which they are so close and bore. Is that then the  role of a critic? In any case, they must penetrate that wall of flesh between one soul and another, not by hacking away at limbs, but by *becoming* water themselves, and entering, permeating, every vein, duct and crevice of the viewer. Art is a circuit, a spiritual necessity, a continuum; art and life, life and writing, writing and art; ceaselessly.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
