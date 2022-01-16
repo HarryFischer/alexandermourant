@@ -2003,6 +2003,23 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 14/06/2020
+  entry-body-text: |-
+    *You could read The Snow Queen,* writes Solnit, *as a story about primordial forces versus animal empathies or even cold versus warmth.* For me, it's a story and an analysis, which has an underlying importance, towards the *doubleness* we must endeavour to feel, in the pursuit of not only ourselves, but in tending to others. It unearthed a  deep sadness within me, a recognition for what I feel is one of my greatest ever failings: a *lack of* empathy. I despise how, through this writing, I’ve proposed myself to be some kind of bilingual being, adept at being within *and* without, by speaking of *doubleness* as if I’m comfortable with it, masquerading as a capable guide; whereas, in reality, in the place I live outside of *here*, nothing could be further from the truth: I’m scared, as a lost boy, wholeheartedly, in entering the *other*. Sometimes I just don’t *get* it; I’m devoid of feeling, and my whole body is desensitised to life. In actual fact, I torment myself for it, appalled by my inability to take on *otherness*. Often, I stand in dismay, repelled by my careless actions and hurtful words, as if a crime has taken place. But what troubles me more, is how, at times, I may feel the smallest things *greatly*, and the greatest things, as if they’re a crumb of bread. *Why* that is, *why* I to feel *so* much, and feel *so* little, is my nemesis; and, truthfully, it’s my curse.<br>
+    <br>
+    When I was a boy, I use to act, and in some respects, I guess, you could say, I never stopped. I was driven down, every Saturday morning, by my grandmother, in her little, green Rover, into town and to the arts centre; there, she’d drop me; I’d jump outside, onto the pavement, and make my way into the café. Once there, I’d follow the corridor around and make my way up the stairs. I’d take a left directly at the top, and enter the first door on my immediate left. It’s here where lessons were taught and where I began to learn my lines. The scene was carefully plotted our for me, we selected props, and it was up to me to go home, rehearse, and practice my monologue. I cannot for the life of me remember what lines I had to say. What I do recall, however, is using a white wicker chair, as a kind of raised platform, where I’d place my knees and gaze up, as if looking out of a window into the night sky. I was given, as you may have guessed, the part of Kai, during his pivotal scene, where in his attic, whilst enchanted by the snow, a splitter enters his eye. I rehearsed and rehearsed it: over and over and over and over and over and over and over. I practised it, the performance, the *act*, until I was dizzy. It was not so much a monologue by the end of it, but an experimental dance, of spreading my weight on and off the chair; of hurtling, staggering around the stage, clutching my eye, and harbouring a resentment, a stern coldness towards the world. I believed with every fibre of my being, that a shard of glass, had travelled through my eye, to dwell inside my heart.<br>
+    <br>
+    It leaves me now feeling distorted, and scattered out of my body, as if I’m loose with wires and circuits which aren’t properly functioning; the current which is meant to move through my eyes, to my brain and into my heart, sometimes jumps. The circuit, surges, desperate for a circuit breaker to absorb, and channel my unstable energy; and maybe that’s what an artwork is: when my circuits are flooded with energy, it holds it, otherwise, my whole system blows. My body may suffer from permanent damage, from the early days, in parts of me, which cannot be replaced. I think it may be from the time when I wasn’t making. A time when I had yet to know what making *was*, and how it *moves* me. I sometimes find myself believing my act, my performance, as a repetitive chant, or a curse, that I enacted and laid upon myself; solidifying the character I would become, and the monster, which dwells inside my cold heart. That internal dialogue, tears at itself, struggling, into a body of numbness. The burden of *feeling* it both sides, is my dissolution and my beginning.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
