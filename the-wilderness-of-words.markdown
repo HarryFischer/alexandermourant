@@ -2020,6 +2020,23 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 15/06/2020
+  entry-body-text: |-
+    I’ve laid it bare the best I can.<br>
+    <br>
+    I *cannot* go any further. I am anxious and fear I've said too much. I’d like to pretend that what I’ve said is universally felt, that everyone struggles to traverse that fine line between who they are, and who they should be; but most, if any at all, would ever admit it. So, I shall take a big gulp, and trust no one has read up until this point. It’s raining and the pitter-patter of drops against the windowpane are, ever so slightly, calming me. It’s like the sound of waves breaking in a distant dream. It’s the sound of memory knocking. A dream where everything is whole, and we are no longer plagued by swapping masks and changing faces. The image of ourselves is comfortable, and not just on our skin, but in our bones. The image of you is the image I formed of myself.<br>
+    <br>
+    Stone is made by compressing crystals. Crystals are analogous to glass, ice and mirrors. Crystals are molecules, atoms, which make up cells, which come together, through intense pressure to make stone. Stones are made by separation from the whole; from breaking *apart* from one stone to become two stones. The stone is a material of multiplication, they are seeds of things and images to come. The stones are making a rectangle. A rectangle which grows simultaneously out and in, to once again, live inside us; a body of stone, floating, in a sea of crystal.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
