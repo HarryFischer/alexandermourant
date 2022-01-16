@@ -2157,7 +2157,8 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: |-
+  entry-heading-text: References
+  entry-body-text: |-
     References
 
     *Love the questions themselves*, Rainer Maria Rilke, *Letters to a Young Poet*<br>
@@ -2213,7 +2214,6 @@ Content:
     *Where does a story begin?* Rebecca Solnit, *The Faraway Nearby*<br>
     *it’s a narcissist’s and cynic’s mirror that freezes the heart and…*, Rebecca Solnit, *The Faraway Nearby*<br>
     *You could read The Snow Queen as a story about primordial forces…*, Rebecca Solnit, *The Faraway Nearby*
-  entry-body-text: 
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
