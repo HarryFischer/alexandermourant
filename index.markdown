@@ -20,7 +20,7 @@ Content:
   image-position: middle
   image-margin-right: small
   ignore: 
-- image: "/uploads/A-Vertigo-Like-Self---2020---Alexander-Mourant.jpg"
+- image: "/uploads/5x3.8%20-%20Alexander%20Mourant%20-%20A%20Vertigo%20Like%20Self%20-%203.jpg"
   caption-title: A Vertigo Like Self
   caption-year: 2019
   page-url: "/a-vertigo-like-self"
