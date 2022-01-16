@@ -1847,6 +1847,67 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 8/06/2020
+  entry-body-text: "What I bring us to, is the peculiar *otherness* I feel when writing.
+    Moreover, the sensation of making anything at all. There lives inside me two *others*,
+    like brothers, who reside in a house made of doubleness in a world of direct opposition.
+    *I say that*, you say otherwise. *You saw that*, I refuse it. And what I’m trying
+    to work out is whether that’s an essential characteristic of being this person.
+    This person who makes things usually out of light, time and minerals, has recently,
+    made things solely out of words. And it's the words that have brought it out.<br>\n<br>\n*To
+    meet your maker*, is to meet God. But we are made by numerous makers who ironically,
+    do not themselves, consider themselves, to be makers. So we’re a world of objects
+    and makers who do not know they are makers. Imagine a factory of people working,
+    where the workers did not know they were at work, their materials did not know
+    they were materials, and the things they made, were barely recognisable as things.
+    They were so beautifully crafted, effortless in their making, the finest in all
+    the land, that our awareness of them fell from our perception. The makers worked
+    on objects who in turn, and in time, became makers too. And what was it they were
+    making? They worked on a line of expressions, some new, some old, some in for
+    repair, but the cleverest thing about them, was they lay inside us, as letters,
+    then words, then sentences, then pages, then writing, until images were born.
+    Words are the materials which lay ready and waiting in the mind of the Reader.
+    They are the dirt, ground and earth of it; the bottom or the basis of a thing.
+    From this they root and fertilise images. They are in all of us.<br>\n<br> \nNow,
+    negotiating which images and which words shall be used, when, where and why, is
+    another task entirely. Initially, I felt it to be a task quite straightforward,
+    a-b-c, simple and ordered, like the alphabet. But when you get into it, words
+    are not so effortless as they’d like you to believe. I think that’s why they remain
+    so elusive to us; they hide in plain sight. And the feeding of words, and the
+    images that follow, requires a colossal amount of energy. They do so because often,
+    images, pictures and ideas, are so easily stuck, sinking, into the marshlands
+    of our minds. Here they can breed like reptiles, which estrange us, from ourselves,
+    and others, and from whatever the truth may be. Thus, the importance of not only
+    navigating, but steering images, comes to the fore, so we are not mislead by them.
+    This is where my *otherness* helps. And it only makes sense to me if I put it
+    into words: have you ever tried to catch something? Well, it’s like trying to
+    round something up, whether it's a ferocious animal, or a tame little creature,
+    it helps to have two of us. If I go on my own, it’ll slip under the hedge, jump
+    over the wall, or dart between my legs. But together, if we approach it, considered
+    and balanced, mutually reaching it, it sees no way out and it sits calm and still,
+    for a brief movement, to allow us to touch it, before it jumps, and runs off.<br>\n<br>\nThe
+    energy I exert through writing, is the simultaneous entering and leaving of myself,
+    into my *otherness* and back out; it relies on doubleness. And when you successfully
+    travel between the interior and exterior of things, you begin to see not only
+    what is grey, and in-between, but what they are and what they can be, whether
+    they are pushed over the line this way or that. You must, however, be waiting
+    there, either side of the line to greet them. Like today, I filled a glass with
+    water at such a speed, when the glass became full, and I quickly turned off the
+    tap, the water continued, swirling, contained by the glass, generating a miniature
+    whirlpool; it feels like that, when you allow the outside in, and you hold it
+    right: a spinning, vertiginous descent. And sometimes, when you take a warm glass
+    and fill it with cold water, it fills slightly, before cracking in your hand,
+    and cutting you."
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
