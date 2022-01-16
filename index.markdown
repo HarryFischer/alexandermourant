@@ -5,7 +5,7 @@ Content:
 - image: "/uploads/Portrait-of-the-artist-repeating-himself-2020.jpg"
   video: 
   caption-text: 
-  image-size: large
+  image-size: medium
   image-position: middle
   image-margin-right: small
   caption-title: On Living Stones and Reaching
@@ -16,7 +16,7 @@ Content:
   caption-title: I Could Not Tell Glass From Air
   caption-year: 2020
   page-url: "/i-could-not-tell-glass-from-air"
-  image-size: large
+  image-size: medium
   image-position: middle
   image-margin-right: small
   ignore: 
@@ -24,7 +24,7 @@ Content:
   caption-title: A Vertigo Like Self
   caption-year: 2019
   page-url: "/a-vertigo-like-self"
-  image-size: large
+  image-size: medium
   image-position: middle
   image-margin-right: small
   ignore: 
