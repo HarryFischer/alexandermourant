@@ -2151,6 +2151,80 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: "References\n\n*Love the questions themselves*, Rainer Maria
+    Rilke, *Letters to a Young Poet*<br>\n*Part of it may also be part of something
+    else*, Robert Barry, *Art Work*, 1970<br>\n*Its boundaries are not fixed*, Robert
+    Barry, *Art Work*, 1970<br>\n*I could recall the soil very well…*, Claire-Louise
+    Bennett, *Pond*<br>\n*Art is like the traces of wounds ploughed into the field*,
+    Günther Uecker, *Kunstsammlung Nordrhein-Westfalen*<br>\n*The body declares itself
+    subject!* Italo Calvino, *If on a Winter's Night a Traveler*<br>\n*often, before
+    having the courage to go toward…*, Clarice Lispector, *The Passion According to
+    G.H*<br>\n*My stones are like grains of sand in the space of the landscape*, Richard
+    Long, *Five, six, pick up sticks*, 1980<br>\n*my talent as an artist is to walk
+    across a moor, or place a stone on…*, Richard Long, *Five, six, pick up sticks*,
+    1980<br>\n*A precise thought, logical, crystalline like the material of the stone*,
+    Giuseppe Penone, *Writings*, 2006<br>\n*a waterfall is a waterfall is a waterfall*,
+    John Berger, *and our faces, my heart, brief as photos*<br>\n*I like the simplicity
+    of walking, the simplicity of stones*, Richard Long, *Five, six, pick up sticks*,
+    1980<br>\n*a walk is just one more layer, a mark, laid upon the thousands…*, Richard
+    Long, *Five, six, pick up sticks*, 1980<br>\n*walking presupposes that at every
+    step the world changes in some aspect…*, Italo Calvino, *Collection of Sand*<br>\n*I
+    felt that I could swim for miles, out into the ocean: a desire for freedom…*,
+    Rachel Cusk, *Outline*<br>\n*A spirit filled him, pure as the purest water, sweet
+    as dew…*, James Joyce, *A Portrait of the Artist as a Young Man*<br>\n*Breathing
+    the air of the sea is like breathing the light*, Giuseppe Penone, *Writings*,
+    1990<br>\n*all the names mean nothing to you, and your name means nothing to them*,
+    Claire-Louise Bennett, *Pond*<br>\n*I cannot trace my own ancestry in the male
+    line beyond my…*, Arthur Ernest Mourant, *Blood and Stones*<br>\n*perhaps the
+    most successful of all island breeders…*, Arthur Ernest Mourant, *Blood and Stones*<br>\n*Suffering,
+    like a stone…* (around my neck, deep inside me), Roland Barthes, Mourning Diary
+    \nIt will come, Rainer Maria Rilke, Letters to a Young Poet\nBut the wind does
+    not stop for my thoughts, Derek Jarman, Modern Nature\nTime is scattered, the
+    past and the future, the future past and present, Derek Jarman, Modern Nature\nIn
+    front of me a jade sea is running wild, Derek Jarman, Modern Nature\ncatch yourself
+    thinking, Alan Ginsberg, The Essential Ginsberg\nis literally and symbolically
+    the ground of the events which are taking place…, John Berger, About Looking\na
+    voice calling, John Berger, About Looking\ntwo horses grazing; an old woman looking
+    for mushrooms; finches…, John Berger, About Looking\nThe field that you are standing
+    before appears to have the same proportions…, John Berger, About Looking\nPhotography
+    is an elegiac art, a twilight art, Susan Sontag, On Photography \nIt’s that edge,
+    that life death edge, Dennis Wheeler with Nancy Holt, Revolve, 1977\nwhat appears
+    in the night is the night that appears, Maurice Blanchot, The Space of Literature
+    \nThe sensuality of night had never been so clear to me…, Rebecca Solnit, The
+    Faraway Nearby \nLove for the moon often has its double in love for its reflection…,
+    Italo Calvino, Collection of Sand\nit is one of the great facts of the world,
+    like sunlight, or springtime…, Oscar Wilde, The Picture of Dorian Gray\nThe moon
+    has sunk and the Pleiad, Sappho in Karen Blixen, Out of Africa\nI went on, sinking
+    words into the pages, perhaps wondering what or who…, Claire-Louise Bennett, Pond\na
+    stone-fashioned dream, Charles Baudelaire, The Flower of Evil \nMy skull is a
+    suspended stone, Giuseppe Penone, Writings, 2005\na darkness deeper than the night’s,
+    Italo Calvino, If on a Winter's Night a Traveler\nEarth, isn’t this what you want:
+    to arise within us, invisible? Rainer Maria Rilke, Duino Elegies\nthey would be
+    alone, surrounded by darkness and silence…, James Joyce, A Portrait of the Artist
+    as a Young Man\nPortrait of one or the other, our two narcissisms drowning there…,
+    Claude Cahun, Aveux non avenus\nWe are involved with flower, leaf, and fruit.
+    They speak not just…, Rainer Maria Rilke, The Sonnets to Orpheus\nthe image comes
+    from the sky: it does not…itself distinction and distance, Jean-Luc Nancy, The
+    Ground of the Image \nIt is a process, that is, a passage of life that traverses
+    the liveable…, Giles Deleuze, Essays critical and clinical \nto all appearances,
+    the artist acts like a mediumistic being who…, Marcel Duchamp, The Creative Act\nthe
+    path may lead to the Lichtung, the clearing whose very space, open to…, John Berger,
+    About Looking\npoetry as a dig, a dig for finds that end up being plants, Seamus
+    Heaney, Feeling into Words\nWhere does a story begin? Rebecca Solnit, The Faraway
+    Nearby\nit’s a narcissist’s and cynic’s mirror that freezes the heart and…, Rebecca
+    Solnit, The Faraway Nearby\nYou could read The Snow Queen as a story about primordial
+    forces…, Rebecca Solnit, The Faraway Nearby"
+  entry-body-text: 
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
