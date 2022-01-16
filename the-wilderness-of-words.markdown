@@ -1799,6 +1799,54 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 5/06/2020
+  entry-body-text: 'Things I’m worried about today: my overuse of the word *like*;
+    relying on other people; the beeping of the washing machine; the cushion I sit
+    on slipping; my coffee isn’t on a coaster; the lightbulb above my desk has blown;
+    my desk is creaking and it never has before; I haven’t got a glass of water; I
+    need a wee every twenty minutes; my avocados on the windowsill still haven’t grown
+    any roots; my to do list of stuff that isn’t writing; my to do list of stuff that
+    is writing; searching for something interesting to say; time is running out.'
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 6/06/2020
+  entry-body-text: 'Top tip: if you’re stuck about what to write, write about where
+    you’re sat. The audience *loves* it.'
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 7/06/2020
+  entry-body-text: |-
+    Let’s get down to brass tacks: if I’m being honest, I’m insecure about what I’ve said, and how I’ve said it. That’s where all this volatile energy is coming from. Why I’m flustered and red in the face. I think, I’ve written it in a very romanticised style, which, I’ll put up my hands, *is* me, and as much as I try, I cannot escape myself, but what may linger around this, is an aftertaste of pretentiousness, for thinking that my words can do more than they actually do. Failure makes me uncomfortable. And here we hit on my true concern: is it any good? I know for a fact that this group of people, *over there*, won’t like the lyrical nature of it, and this lot, *over here*, won’t like the historical nature of it; and, there’s another group, far away, sat *way over there*, who will resent the fact I’ve even tried to define it. Different groups all steadfast in their separate opinions; and by the way, each has the *right* opinion too. In this respect you can never win, whatever you do. I know I’m being irrational, but that’s what you do to me. I’m nervous to disappoint you. And what I want is for other people to learn how you do things too.<br>
+    <br>
+    Is it earnest, is it profound, have I caricatured myself, and have I convinced myself to be *moved* by it in a prescribed way? Forcing myself into *being* an artist, *the* Artist, in a fashion everyone expects an artist to be; formulating, misconstruing, reinforcing, lies after lies. Am I even an artist? How do you ever know? Do you just wake up one day and feel it, the calling? Maybe I’m someone who likes the idea of art, who likes being near it, who regrettably, doesn’t have the qualities, the gumption, the know-how, to actually make something worthwhile. I’m definitely not a writer, I’ve learnt that so far; I can’t find the reserves in me anymore; the metaphors, the similes, and the analogies are all used up. It fades, my energy for it. It's an itch that has been scratched. Maybe that’s to do with the experience I carry, or rather, the *lack of* it; that which is needed to write for such a distance. You need a deep, deep well, to draw from. And there’s also a glimmer in me that likes the idea of starting afresh. Returning to the 2nd of April, and starting again. But this time, let’s do it from a position that denounces any other, that doesn’t feel constrained and dictated by all that surrounds, and came before it. I deeply mourn the impossibility of it all. The inability to calmly navigate art, and give whatever you make a home within itself.<br>
+    <br>
+    You know it takes a very skilled wordsmith to create motion in a sentence. The right kind of movement is hard to come by; you don’t want to be jolted and you don’t want to be lulled asleep. And I think perhaps the intensity of my reading and seeing, has outweighed my listening to it. To the ebb and flow of words. I never paused to hear them, to listen to the wind blow through the gaps of them, to hear the way their white space, their nothingness, whistles. The pauses and spaces between them. And this, ultimately, may be the downfall of you. To reveal my thoughts about writing *whilst* writing feels a bit like the alienation effect. And to use an analogy previously levelled at me by another: it’s like giving each member of the audience a script describing all the entrances, cues, dialogues, transitions and exits of a performance. The medium confronts itself. Paint seeing itself dry and clay’s awareness upon entering the kiln. Does it remove the aura of it? Perhaps, we’ve not been reaching at all, but leaping onto the stage, and gallivanting around. There’s an artificiality and theatricality to it all. Don’t you find that, looking at it? It’s hard to get beyond my sceptical nature sometimes. And that nature, isn’t at all romantic.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
