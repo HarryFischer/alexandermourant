@@ -20,18 +20,18 @@ Content:
   image-position: middle
   image-margin-right: small
   ignore: 
-- image: "/uploads/5x3.8%20-%20Alexander%20Mourant%20-%20A%20Vertigo%20Like%20Self%20-%203.jpg"
-  caption-title: A Vertigo Like Self
-  caption-year: 2019
-  page-url: "/a-vertigo-like-self"
-  image-size: medium
-  image-position: middle
-  image-margin-right: small
-  ignore: 
 - image: "/uploads/An-Attempt-to-Flood-the-Photograph,-Alexander-Mourant,-2020.jpg"
   caption-title: The Bell Tower
   caption-year: 2020
   page-url: "/the-bell-tower"
+  image-size: medium
+  image-position: middle
+  image-margin-right: small
+  ignore: 
+- image: "/uploads/5x3.8%20-%20Alexander%20Mourant%20-%20A%20Vertigo%20Like%20Self%20-%203.jpg"
+  caption-title: A Vertigo Like Self
+  caption-year: 2019
+  page-url: "/a-vertigo-like-self"
   image-size: medium
   image-position: middle
   image-margin-right: small
