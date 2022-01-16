@@ -3,18 +3,20 @@ title: Home
 position: 16
 Content:
 - image: "/uploads/Portrait-of-the-artist-repeating-himself-2020.jpg"
-  caption-title: On Living Stones and Reaching
-  caption-year: 2020
-  page-url: "/on-living-stones-and-reaching"
+  video: 
+  caption-text: 
   image-size: large
   image-position: middle
   image-margin-right: small
+  caption-title: On Living Stones and Reaching
+  caption-year: 2020
+  page-url: "/on-living-stones-and-reaching"
   ignore: 
 - image: "/uploads/Vitrum-IX,-2019.jpg"
   caption-title: I Could Not Tell Glass From Air
   caption-year: 2020
   page-url: "/i-could-not-tell-glass-from-air"
-  image-size: small
+  image-size: large
   image-position: middle
   image-margin-right: small
   ignore: 
@@ -22,8 +24,8 @@ Content:
   caption-title: A Vertigo Like Self
   caption-year: 2019
   page-url: "/a-vertigo-like-self"
-  image-size: small
-  image-position: bottom
+  image-size: large
+  image-position: middle
   image-margin-right: small
   ignore: 
 - image: "/uploads/An-Attempt-to-Flood-the-Photograph,-Alexander-Mourant,-2020.jpg"
