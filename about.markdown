@@ -3,28 +3,31 @@ title: About
 permalink: "/about/"
 position: 17
 Content:
-- about-text: Alexander Mourant is an artist based in London. His work has been included
-    in publications such as FT Weekend Magazine, British Journal of Photography, Photograph,
-    Unseen Magazine and The Greatest Magazine. Solo shows include Aomori at The Old
-    Truman Brewery and Unseen Amsterdam, alongside group shows at Edel Assanti, Saatchi
-    Gallery and Peckham 24. Mourant is a recipient of grants from ArtHouse Jersey,
-    Jersey Bursary and Arts Council England. He has won the Free Range Award and was
-    nominated for Foam Paul Huf Award. In 2020, Mourant became a member of Revolv
-    Collective. He achieved BA Photography at Falmouth University, and MA Photography
-    at Royal College of Art, London.
+- about-text: "*Alexander Mourant is an artist based in London. His work has been
+    included in publications such as FT Weekend Magazine, British Journal of Photography,
+    Photograph, Unseen Magazine and The Greatest Magazine. Solo shows include Aomori
+    at The Old Truman Brewery and Unseen Amsterdam, alongside group shows at Edel
+    Assanti, Saatchi Gallery and Peckham 24. Mourant is a recipient of grants from
+    ArtHouse Jersey, Jersey Bursary and Arts Council England. He has won the Free
+    Range Award and was nominated for Foam Paul Huf Award. In 2020, Mourant became
+    a member of Revolv Collective. He achieved BA Photography at Falmouth University,
+    and MA Photography at Royal College of Art, London.*"
 Education:
 - title: Education
-  year-text: |-
+  year-text: |2-
+
     2018 - 2020 **Royal College of Art**, MA Photography (Distinction)
 
     2013 - 2017 **Falmouth University**, BA (Hons) Photography (First Class Honours)
 - title: Solo Exhibitions
-  year-text: |-
+  year-text: |2-
+
     2018 - **Unseen Amsterdam**, *Aomori*, Seen Fifteen Gallery
 
     2018 - **The Old Truman Brewery**, *Aomori*
 - title: Group Exhibitions
-  year-text: |-
+  year-text: |2-
+
     2020 - **Photo London Digital**, Seen Fifteen Gallery: Dragana Jurišić, Alexander Mourant and Martin Seeds
 
     2020 - **Saatchi Gallery**, London Grads Now: Ian Malhotra, Lydia Hamblet, Mandy Franca, Lydia Pettit, Francesca Mollett, Sholto Blisset, Nicole Coson, Ed Compson, Yang Xu, Bobby Monteverde, Roei Greenberg, Alexander Mourant, Qian Jiang, Shir Raz, Mathias Kruse Jørgensen and Katharina Siegel
@@ -75,7 +78,8 @@ Education:
 
     2014 - The Photography Gallery, Falmouth, with Illusionist Paradise and Illumination Space
 - title: Lectures / Talks
-  year-text: |-
+  year-text: |2-
+
     2021 - Swansea College of Art, Visiting Lecturer
 
     2020 - Kingston University, Visiting Lecturer
@@ -102,7 +106,8 @@ Education:
 
     2018 - Bryanston School, Visiting Lecturer
 - title: Awards / Commissions
-  year-text: |-
+  year-text: |2-
+
     2020 - The Eye Sees, Arles, Entractes 14, When the Image Returns to Glass
 
     2020 - HGG London, The Bell Tower
@@ -123,7 +128,8 @@ Education:
 
     2015 - theprintspace, PhotoVoice Awards - Finalist
 - title: Words
-  year-text: |-
+  year-text: |2-
+
     **[2021](https://c4journal.com/jack-whitefield-furze/)**[ - Review: Furze by Jack Whitefield, C4 Journal](https://c4journal.com/jack-whitefield-furze/)
 
     **2020** - On Living Stones and Reaching
@@ -132,7 +138,8 @@ Education:
 
     **2017** - Land Art, Photography and Time
 - title: Grants
-  year-text: |-
+  year-text: |2-
+
     2018 - ArtHouse Jersey - www.arthouse.je
 
     2018 - Jersey Bursary - www.gov.je
@@ -141,7 +148,8 @@ Education:
 
     2017 - ArtHouse Jersey - www.arthouse.je
 - title: Publications
-  year-text: |-
+  year-text: |2-
+
     2020 - FotoFilmic, JRNL 6, Autumn
 
     2020 - Dulwich Picture Gallery, In View, The Lightness, Summer
@@ -172,8 +180,7 @@ Education:
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, Blue Railing
 - title: Press
-  year-text: |-
-    **Online Press (click to view)**
+  year-text: |2-
 
     whynow
 
@@ -237,18 +244,12 @@ Education:
 
     PhotoVoice: Cairo to Cape Town: Africa's Plastic Footprint
 - title: Experience
-  year-text: |-
-    2018 - Bill Brandt Archive / Archivist
-
-    2017 - Michael Hoppen Gallery / Archivist
-
-    2017 - Todd Hido, JH Engström and Margot Wallard. Atelier Smedsby / Paris
-
-    2016 - Simon Roberts / Studio Assistant intern
-
-    2015 - Nadav Kander / Studio Assistant intern
-
-    2014 - 2017 Andy Le Gresley / Assistant and Digital Editor
+  year-text: "\n2021 - Wandsworth Council Art's Service / Creative Director & Lead
+    Artist, *A Place to Call Home* \n\n2021 - Open Doors Gallery / Creative Consultant\n\n2018
+    - Bill Brandt Archive / Archivist\n\n2017 - Michael Hoppen Gallery / Archivist\n\n2017
+    - Todd Hido, JH Engström and Margot Wallard. Atelier Smedsby / Paris\n\n2016 -
+    Simon Roberts / Studio Assistant intern\n\n2015 - Nadav Kander / Studio Assistant
+    intern\n\n2014 - 2017 Andy Le Gresley / Assistant and Digital Editor"
 layout: about
 ---
 
