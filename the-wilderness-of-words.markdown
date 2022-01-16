@@ -2077,6 +2077,32 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 19/06/2020
+  entry-body-text: |-
+    A passing morning shower.<br>
+    We can’t dig.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 20/06/2020
+  entry-body-text: "Intervals of clouds and sun.<br>\nWeather improving. "
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
