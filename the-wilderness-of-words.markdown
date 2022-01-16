@@ -1958,6 +1958,34 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 12/06/2020
+  entry-body-text: |-
+    Isn’t it interesting how films have interludes, and writing has too? It’s like we can’t be *on* all the time.<br>
+    <br>
+    Imagine we’re a paddling boat interlude.<br>
+    Imagine we’re a bird on the rocks interlude.<br>
+    Imagine we’re a church, mill and stream interlude.<br>
+    Imagine we’re a waterfall interlude.<br>
+    Imagine we’re a ploughing interlude.<br>
+    Imagine we’re a bonfire interlude.<br>
+    Imagine we’re a palm beach interlude.<br>
+    Imagine we’re a potter’s wheel interlude.<br>
+    Imagine we’re an angel fish in a tank interlude.<br>
+    Imagine we’re a spinning wheel interlude.<br>
+    <br>
+    <br>
+    Let's rest here awhile.<br>
+    Before our final leap.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
