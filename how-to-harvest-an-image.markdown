@@ -4,7 +4,7 @@ date: 2021-11-15 17:58:00 Z
 permalink: "/on-living-stones-and-reaching/how-to-harnes-an-image"
 position: 10
 Content:
-- video: https://player.vimeo.com/video/664962310?autoplay=1&loop=1&controls=false
+- video: https://player.vimeo.com/video/666506790?autoplay=1&loop=1&controls=false
   caption-text: |-
     How to Harvest an Image, 2020 Super 8 film, colour, silent
     For projection, digitised HD Duration: 7 minutes, 53 seconds
