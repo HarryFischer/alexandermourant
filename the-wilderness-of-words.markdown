@@ -2159,8 +2159,6 @@ Content:
   image-margin-right: 
   entry-heading-text: References
   entry-body-text: |-
-    References
-
     *Love the questions themselves*, Rainer Maria Rilke, *Letters to a Young Poet*<br>
     *Part of it may also be part of something else*, Robert Barry, *Art Work*, 1970<br>
     *Its boundaries are not fixed*, Robert Barry, *Art Work*, 1970<br>
