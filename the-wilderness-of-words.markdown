@@ -764,7 +764,7 @@ Content:
   entry-body-text: |-
     *What age does that feel?* You asked me, some time ago.<br>
     It provoked me, in more ways than one.
-  entry-image: 
+  entry-image: "/uploads/OutlineofStone-28-04-2020.jpg"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
