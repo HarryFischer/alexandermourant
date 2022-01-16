@@ -1986,6 +1986,23 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 13/06/2020
+  entry-body-text: |-
+    *Where does a story begin?* Asks Rebecca Solnit. It’s a funny thing to mention, or ask, especially now, as we draw to a close. But recently, I’m not afraid of asking or answering the difficult questions. And I like the idea of closing with the beginning. Or opening with the end. I’m not quite sure which it is. Solnit’s question makes me think not just of stories, and ours, to be precise, but where, indeed, do artworks begin? Where are they seeded in order to germinate? Moreover, I thought *beyond* this, to a place more elusive and harder to understand: where does the artist begin? When I come to think of it, it’s an incredibly hard thing to place, and I can't *quite* put my finger on it: to *where* it all began. It feels like a moving target. And if I were to trace it, to attempt to follow my own footsteps, outside myself, like a tracker, into the wilderness, I’m uncertain if I’d ever return. *Lost in the Wilderness*, it would be called, the first and last novel of this particular author. And it’s not a very good one at that. They called it all rather indistinct and monotonous; *lacklustre*, I believe, which for me, was the final blow.<br>
+    <br>
+    No, there’s something about working out *where* it started, especially for artworks, and artists themselves, which is often a taboo subject. People guard it, and in some respects, I think you should too, to a certain degree; the work should foster, and nurture *a part of* you, which isn’t already a part of the world. You must, sometimes, keep the fuel of it, the core, the stones you use to feed it, and let others bask in the secondary element of it: the warmth and light it brings. I think if some of it is kept, in the stores which make up your self, then the fire continues to burn, and it does not risk being extinguished. There may, however, come a time, in the not too distant future, when you feel like sharing a piece of it. This only happens when you encounter a unique, special case, or perhaps, special individuals, who make you feel confident enough in your efforts, in your thoughts and dreams, to make you want to share it; which you’ll find, does not lessen the blaze, but incites the flames into an inferno. This, in fact, may be one of those fearless days, an event, where I now find myself, wishing to share a piece of you.<br>
+    <br>
+    As Solnit continues through her story, enlightening us with how and why stories occur, how they rise and fall, like the tide, we feel witness to the author traversing writing itself, and reaching towards, to touch upon the essence of why it is she became a writer, and where her own story lies. It is powerful, personal and honest; lyrical but deeply intelligent storytelling. And at one point in this narrative, Solnit is in Iceland, occupied with being a writer in residence at the Library of Water. It is here, where personal revelations, do not just echo, but reach apotheosis for the author, and I felt as if she had reached through the page, and dragged me into the ink. It was not fire which drew me in, but the coldness of ice. Solnit retells, and muses on, a well known fairy tale: *The Snow Queen* by Hans Christian Andersen. I shall not recount all she has written, but merely mention the origin of the story: it pivots around the creation of an evil looking-glass, a mirror made by trolls, which shatters, and a shard of it, unfortunately, finds its way into the eye, and eventually, the heart of a little boy named Kai. This little boy is swept up in cynicism, in a flurry of snow, infected by a mirror, and perceives the world without a hint of empathy. It takes his friend, Gerda, a brave little girl, to travel to the Snow Queen's palace and liberate the boy, by melting his cold, icy heart, with her warm tears. The corrupting splitter of mirror dissolves in her love for him. For Solnit, crucially, *it’s a narcissist’s and cynic’s mirror that freezes the heart and distorts the world.* It is more revealing than any story we’ve discussed so far, insofar as we speak of *being* another, of departing ourselves and entering an *otherness*, here the *doubleness* of a little boy fails, thereby revealing to us its antithesis: a resolute, singularity.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
