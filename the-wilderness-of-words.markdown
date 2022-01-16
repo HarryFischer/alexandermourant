@@ -1927,6 +1927,24 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 10/06/2020
+  entry-body-text: |-
+    I believe a problem only arises when you become so familiar with the annihilation of your self, you can’t find your way back. And sometimes I feel that too; I think most would be lying if they said otherwise. It’s a process which forms continuously, not only in things which we make outside of us, but in the thing which *is* us, that fragile piece of flesh. And occasionally, I’ve observed some of us get lost in it, in descending to the greatest depths, or ascending to searing heights, in ecstasy, high off of it: obsessed, possessed, hallucinating; stoned, tripping, hyped up, freaked out, spaced out, zonked, wasted, wrecked. I hanker and yearn for it: it is as addicting as any drug, that experience of *getting away*, away from it, away from myself, and that vacuous shell. On a passage heading for nowhere. I desire to be displaced, to be nobody. And I think it’s the artworks which are what remain, after the dust has settled, as you return, re-entering the atmosphere, with a sore and throbbing head, your body depleted of vitamins and energy, after a sweet sojourn, elsewhere. In the distant stars and the cosmos.<br>
+    <br>
+    It’s the art of pilgrimage: a religious, holy journey; a crusade where the artist seeks to concurrently capture and evade himself. And it’s this energy which brings forth a lightness, a space for fruit and birth, a glade, or a field. In doing so, and *to all appearances, the artist acts like a mediumistic being who, from the labyrinth beyond time and space, seeks his way out to a clearing.* It’s a twisting, winding road, through a dense forest of doubt, which lays before each and every one of us; one which is very tricky to overcome. But if you’re lucky, and if you’re worthy, if you pay homage to it, and give yourself over to it, *the path may lead to the Lichtung, the clearing whose very space, open to light and vision, is the most surprising thing about existence, and is the very condition of Being.* In this space, of infinite light and vision, it is revealed; we find it nestled there, in the earth: a presence in the enduring absence of us; we have finally, reached it: a revelation, an archaeological find; *poetry as a dig, a dig for finds that end up being plants.* Growth from the fossils buried deep inside us; from the stones and stories in our gut.<br>
+    <br>
+    <br>
+    The artwork is the *artefact* from the extinct civilisation now known as the self.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
