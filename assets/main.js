@@ -2,7 +2,6 @@ const artworksBtn = document.querySelector('.artworks-title')
 const artworkList = document.querySelector('.hide-nav')
 
 artworksBtn.addEventListener('click', () => {
-    console.log("clicked")
     artworkList.classList.toggle("show-nav")
 })
 
@@ -83,16 +82,16 @@ if (iO) {
 const iframe = document.querySelector(".fill-me")
 const links = document.querySelectorAll(".olsar-link")
 const doc = iframe.contentDocument;
-console.log(iframe)
-console.log(doc)
-console.log(iframe.contentDocument.body.innerHTML)
 
+let count = 0
 
 for (let i = 0; i < links.length; i++) {
   links[i].addEventListener(("click"), () => {
     iframe.src = (links[i].dataset.link)
     iframe.classList.add("filled")
     links[i].classList.add("active")
+    count = i
+    console.log(count)
     if (!leftPanel.classList.contains("closed")) {
       leftPanel.classList.add("closed")
       iframe.style.display = 'block'
@@ -102,15 +101,34 @@ for (let i = 0; i < links.length; i++) {
   })
 }
 
+
+
 const prevArrow = document.querySelector('.prev')
 const nextArrow = document.querySelector('.next')
+let iframeCurrentSource
 
-console.log(prevArrow)
-console.log(nextArrow)
+nextArrow.addEventListener('click', (event) => {
+  count = count + 1
+  event.preventDefault()
+  iframeCurrentSource = iframe.src
+
+  links.forEach(() => {
+    console.log(links[`count`])
+    // iframe.src = links[count]
+  })
+
+  console.log(event)
+  console.log(iframeCurrentSource)
 
 
-nextArrow.addEventListener('click', () => {
-  
+
+  // check current iframe url
+  // links.forEach((e, i) => {
+  //   if (iframeCurrentSource === links[i]) {
+  //     console.log('e', e)
+  //     console.log('i', i)
+  //   }
+  // })
 })
 
 // close farm left nav

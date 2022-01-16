@@ -352,7 +352,11 @@ body {
       width: 400px;
       overflow-y: scroll;
       padding-top: 5px;
+      border-right: 1px solid #121212;
+      padding-right: 10px;
+      padding-bottom: 100px;
       &__heading {
+        font-size: 30px;
       }
       &__body {
       }
@@ -442,6 +446,18 @@ body {
       @media (min-width: 900px) {
         margin-left: 50%;
         transform: translateX(-50%);
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        position: relative;
+        div {
+        }
+        div:first-child {
+          width: 50%;
+          position: sticky;
+          top: 0;
+          height: max-content;
+        }
       }
     }
     overflow: visible;
@@ -527,7 +543,7 @@ body {
   &__left {
     position: relative;
     display: flex;
-    transition: all 0.5s ease;
+    // transition: all 0.5s ease;
     @media (min-width: 900px) {
       width: 40%;
       border-right: 1px solid black;
@@ -537,11 +553,11 @@ body {
       @media (min-width: 900px) {
         margin: auto;
       }
-      // transition: all 0.5s ease;
       h1 {
         font-size: 20px;
-        // text-align: center;
-        // transition: rotation 0.5s ease;
+        max-width: 80%;
+        margin: 0 auto;
+        margin-bottom: 10px;
       }
       p {
         font-size: 15px;
@@ -649,17 +665,25 @@ body {
       }
       &.filled {
         visibility: visible;
+        & ~ .navigation-wrapper {
+          opacity: 1;
+        }
       }
     }
 
     .navigation-wrapper {
-      position: fixed;
-      z-index: 1000;
-      top: 50%;
+      position: absolute;
       display: flex;
       justify-content: space-between;
-      right: 0;
-      left: 0;
+      bottom: 0px;
+      right: 0px;
+      left: 0px;
+      padding: 10px;
+      z-index: 1000;
+      transition: opacity 0.3s ease;
+      opacity: 0;
+      background-color: white;
+      border-top: 1px solid black;
       .arrow {
       }
     }
@@ -687,12 +711,34 @@ body {
     min-height: unset !important;
   }
   display: flex;
+  flex-direction: column;
+  @media (min-width: 700px) {
+    flex-direction: row;
+  }
   &-one {
+    &__video {
+      width: 41vh;
+      height: 32vh;
+      @media (min-width: 700px) {
+        width: 55vh;
+        height: 50vh;
+      }
+    }
   }
   &-two {
-    flex-direction: row-reverse;
+    @media (min-width: 700px) {
+      flex-direction: row-reverse;
+    }
     .caption-wrapper {
       margin-right: 20px;
+    }
+    &__video {
+      width: 41vh;
+      height: 32vh;
+      @media (min-width: 700px) {
+        width: 55vh;
+        height: 50vh;
+      }
     }
   }
   &-four {

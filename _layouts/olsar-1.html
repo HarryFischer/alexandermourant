@@ -7,7 +7,16 @@ layout: default
     {%- for content in page.Content -%}
     <div class="olsar olsar-one {{ content.image-position }}">
       <div class="image-wrapper">
+        {%- if content.image -%}
         <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
+        {%- endif -%}
+        {%- if content.video -%}
+        <iframe class="{{ content.image-size }} olsar-one__video"
+          src="{{ content.video }}" frameborder="0"
+          allow="autoplay; fullscreen; picture-in-picture">
+        </iframe>
+        <script src="https://player.vimeo.com/api/player.js"></script>
+        {%- endif -%}
       </div>
       <div class="caption-wrapper">
         {{ content.caption-text | markdownify }}
