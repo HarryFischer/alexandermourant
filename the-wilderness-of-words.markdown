@@ -1763,8 +1763,21 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: 
-  entry-body-text: 
+  entry-heading-text: 3/06/2020
+  entry-body-text: |-
+    I have burnt myself out through the pursuit of words and the conjuring of images. It often takes a dark magic to tempt them out, to make them feel welcome and safe. And that’s obliterated me. Truly. Whichever part of my brain controls images seems to be in total disarray. I’ve been overwhelmed by not just the realisation of my own limits of artistic expression, and what I feel are cliché, naive, and gaping holes in my logic, which riddle my text like pot holes along an old worn out road, but by the fact I can’t bring myself to say what I thought I needed to.<br>
+    <br>
+    I wished to bring you out of the ground slowly, resurfacing, contemplating much along the way, and to do so in a manner which would bring us to the sky, and the notion of it being the *first* image: *the image comes from the sky: it does not descend from it, it proceeds from it, it is of a celestial essence, and it contains the sky within itself. Every image has its sky, even if it is represented as outside the image or is not represented at all: the sky gives the image its light, but the light of an image comes from the image itself*. The sky is: *itself distinction and distance*, which analogously, are the attributes of an image. I’ve butchered the poetics of his explanation, but there, I’ve said it.<br>
+    <br>
+    <br>
+    *Moving on*.<br>
+    <br>
+    <br>
+    You would not notice this, of course, but I can barely copy out quotes, having to recheck them over and over. I miss words, I miss grammar, and I reconfigure letters to create words which weren’t meant to be there. For example: every time I wrote *from* above us, I wrote *form*. Why? I’m not sure. I literally did it four times. Each time it appeared as *form*, I had to consult the source, again and again, thinking myself mad to have done it over and over. Probably it’s something to do with the way I’m typing this. I’m being lazy and my fingers are lazy too. My brain which in a sense is a creative muscle, is stretched, overstretched, or even torn. Definitely it's fatigued. My self-diagnosis is simple: overreaching; my treatment: resting; but, believe it or not, that’s all I’ve done, over the past three days, and now I’m concerned that the muscle won’t ever repair itself. And I’ll just be a child again, having to learn to read and write. Which I was never any good at in the first place. I feel it: a hatred of writing.<br>
+    <br>
+    Someone once told me, that my writing is like a tableau: a stage, a play, so to speak, where I direct actors, and not just actors, but inanimate things too. The stool moves, with a table and the glasses clink on top of it. Or perhaps I am that nondescript person, the puppeteer, who pulls at strings. Nevertheless, I just hope, whatever it is, it isn’t one of those plays which I find, with every fibre of my being, loathsomely boring. Those ones where the interval never comes. Where the actors lack conviction, and you too, lack the strength to urge them on. Dullness and co-star boredom sweeping the stage. And I’m stuck in the middle of it, of my row, needing a piss.<br>
+    <br>
+    I am now anxious about all I have written and how I can’t go back and change it. I stupidly decided to print each day off as it comes, to instil it with the *gravitas of time*. I’d liked the sound of that; thought it was ever so clever. Not only are they marked with a date, you see, but they are also *from* it. That’s it: *from*; or was it *form*: they are both *from* and *formed* by time. That was the whole idea of it. I’m muddled by whether that was necessary at all.
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
