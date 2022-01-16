@@ -1782,6 +1782,23 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 4/06/2020
+  entry-body-text: |-
+    I’ve listened to the same piece of music (on repeat) every day since I began to write. It controls my internal weather. This music, at first, building, into a rhythm, a space itself where I could coax writing to fall from the sky, and land onto my page, has become a sequence of scratches, both jarring and unsettling. Nothing sounds right, and nothing gives me tempo. My weather is changing, turbulent, but not in a good way, it just lacks consistency.<br>
+    <br>
+    I write with the window to my bedroom open, and usually it’s left ajar by three pegs. Today it is hot and sunny, but it is windy. And it is only warm *in* the sun. My room is sheltered from the sun most of the day, other than the morning, and in the morning when it’s hot I normally, usually, have the window open. Today, as I mentioned, it is a hot, sunny day, but it is a windy day. And being sat at my desk with the window open is making me cold. The cold wind is not heated by the sun and gusts through my window like an icy breeze. I have no socks on and it’s chilling my feet beyond what I find comfortable. So it's distracting. And I cannot be distracted. So what I keep doing is getting up and closing the window down to just one peg. But inevitably, in the space of around five minutes, the room heats up, and my thighs begin to feel rather warm, so I have to get up again and open the window to three pegs. Repeat and repeat. Stupid thing. Cold breeze or hot thighs. The only thing that is keeping me talking to you now is the fact I get to express this internal rage or ambivalence I feel towards this whole process. To sitting down every day and writing to the image. I wish to sack it off. It's so hard, so *fucking* hard.<br>
+    <br>
+    My sister just suggested I stop it then, I can’t do any more and no one will know if I pretend to arrive at the image earlier than expected. And I guess you wouldn’t know. Actually, thinking on it, there’s no way you could tell. And even if I did the project properly, there’s no way you could tell if I did it right anyway. So what’s the point of any of it? It's my word against yours. But, we are forgetting there’s one person, *crucially*, who’ll know: me. Yes, *me!* I’ll fucking know and it’ll piss me off. You can’t go this far and not end it right. I wouldn’t be able to live with myself.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: olsar-5
 ---
 
