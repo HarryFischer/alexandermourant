@@ -2183,11 +2183,11 @@ Content:
     Claire-Louise Bennett, *Pond*<br>\n*I cannot trace my own ancestry in the male
     line beyond my…*, Arthur Ernest Mourant, *Blood and Stones*<br>\n*perhaps the
     most successful of all island breeders…*, Arthur Ernest Mourant, *Blood and Stones*<br>\n*Suffering,
-    like a stone…* (around my neck, deep inside me), Roland Barthes, Mourning Diary
-    \nIt will come, Rainer Maria Rilke, Letters to a Young Poet\nBut the wind does
-    not stop for my thoughts, Derek Jarman, Modern Nature\nTime is scattered, the
-    past and the future, the future past and present, Derek Jarman, Modern Nature\nIn
-    front of me a jade sea is running wild, Derek Jarman, Modern Nature\ncatch yourself
+    like a stone… (around my neck, deep inside me)*, Roland Barthes, *Mourning Diary*<br>\nIt
+    will come, Rainer Maria Rilke, Letters to a Young Poet\nBut the wind does not
+    stop for my thoughts, Derek Jarman, Modern Nature\nTime is scattered, the past
+    and the future, the future past and present, Derek Jarman, Modern Nature\nIn front
+    of me a jade sea is running wild, Derek Jarman, Modern Nature\ncatch yourself
     thinking, Alan Ginsberg, The Essential Ginsberg\nis literally and symbolically
     the ground of the events which are taking place…, John Berger, About Looking\na
     voice calling, John Berger, About Looking\ntwo horses grazing; an old woman looking
