@@ -62,6 +62,8 @@ body {
   }
   nav {
     font-size: 15px;
+    position: absolute;
+    right: 20px;
     @media (max-width: 700px) {
       // margin-left: auto;
     }
@@ -222,6 +224,7 @@ body {
   .inner-content {
     @media (min-width: 700px) {
       height: calc(100vh - 50px);
+      padding: 0 0 0 20px;
       // max-height: 80vh;
     }
     .link-container {
@@ -602,7 +605,9 @@ body {
       transition: scale 0.3s ease;
       &:hover {
         @media (min-width: 900px) {
-          transform: scale(1.5);
+          svg {
+            transform: scale(1.5);
+          }
         }
       }
     }
@@ -618,6 +623,7 @@ body {
     &.closed {
       @media (min-width: 900px) {
         width: 24px;
+        width: 44px;
       }
       .inner-wrapper {
         position: relative;
@@ -645,6 +651,7 @@ body {
       }
     }
   }
+
   &__right {
     // width: 100%;
     display: flex;
@@ -776,6 +783,12 @@ body {
   }
 }
 
+.farm-index .wrapper .inner-content {
+  @media (min-width: 700px) {
+    padding: 0;
+  }
+}
+
 .olsar-1,
 .olsar-2,
 .olsar-3,
@@ -784,4 +797,8 @@ body {
   header {
     display: none;
   }
+}
+.closed-nav-title {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
 }
