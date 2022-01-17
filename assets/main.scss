@@ -451,7 +451,7 @@ body {
         flex-direction: row;
         position: relative;
         .stick-me {
-          width: 50%;
+          width: calc(50% - 10px);
           position: sticky;
           top: 0;
           height: max-content;
