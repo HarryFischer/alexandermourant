@@ -453,9 +453,13 @@ body {
 }
 
 .about {
+  transition: background-color 0.3s ease;
   background-color: #306f5950;
   &:first-child {
     background-color: transparent;
+  }
+  &.show-nav {
+    background-color: white;
   }
 }
 
@@ -758,6 +762,10 @@ body {
         width: 300px;
         padding: 0;
         margin-right: 0;
+        h1,
+        p {
+          width: unset;
+        }
         .title-inner {
           margin: unset;
           align-items: unset;
