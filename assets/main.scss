@@ -276,7 +276,7 @@ body {
       .middle {
         margin-top: auto;
         margin-bottom: auto;
-        transform: translateY(20px);
+        // transform: translateY(20px);
       }
 
       .bottom {
@@ -912,5 +912,13 @@ body {
       // animation: addOpacity 0.2s ease;
       // animation-delay: 0.5s;
     }
+  }
+}
+
+.about .about,
+.video,
+.installations {
+  @media (min-width: 700px) {
+    padding-left: 20px;
   }
 }
