@@ -30,7 +30,7 @@ layout: default
   <div class="inner-content">
     <div class="split-wrapper">
       {%- for words in page.Words -%}
-      {{ if words.interview-text }}
+      {%- if words.interview-text -%}
       <div class="split-wrapper__left open">
         <span class="close">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
@@ -54,7 +54,7 @@ layout: default
           </div>
         </div>
       </div>
-      {{ endif }}
+      {%- endif -%}
       {%- endfor -%}
       <div class="split-wrapper__right">
           {%- for content in page.Content -%}
