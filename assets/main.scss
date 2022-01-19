@@ -276,6 +276,7 @@ body {
       .middle {
         margin-top: auto;
         margin-bottom: auto;
+        transform: translateY(20px);
       }
 
       .bottom {
@@ -323,7 +324,7 @@ body {
       padding-top: 8px;
       min-height: 32px;
       @media (min-width: 700px) {
-        min-height: 105px;
+        // min-height: 105px;
       }
       p {
         font-size: 14px;
