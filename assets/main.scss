@@ -916,8 +916,8 @@ body {
 }
 
 .about .about,
-.video,
-.installations {
+.video .wrapper,
+.installations .wrapper {
   @media (min-width: 700px) {
     padding-left: 20px;
   }
