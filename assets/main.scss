@@ -62,9 +62,9 @@ body {
   }
   nav {
     font-size: 15px;
-    position: absolute;
     right: 20px;
-    @media (max-width: 700px) {
+    @media (min-width: 700px) {
+      position: absolute;
       // margin-left: auto;
     }
   }
@@ -224,7 +224,7 @@ body {
   .inner-content {
     @media (min-width: 700px) {
       height: calc(100vh - 50px);
-      padding: 0 0 0 20px;
+      // padding: 0 0 0 20px;
       // max-height: 80vh;
     }
     .link-container {
@@ -463,7 +463,7 @@ body {
   .wrapper {
     .inner-content {
       height: unset;
-      @media (min-width: 900px) {
+      @media (min-width: 700px) {
         // margin-left: 50%;
         // transform: translateX(-50%);
         display: flex;
@@ -531,8 +531,6 @@ body {
 
 .project-title {
   display: block;
-  min-width: 60vw;
-  min-height: 85vh !important;
   .title-inner {
     margin: auto;
     display: flex;
@@ -549,7 +547,7 @@ body {
 .split-wrapper {
   display: flex;
   flex-direction: column;
-  @media (min-width: 900px) {
+  @media (min-width: 700px) {
     flex-direction: row;
     height: calc(100vh - 50px);
   }
@@ -559,7 +557,7 @@ body {
     overflow-y: scroll;
     width: 100%;
     // border-bottom: 1px solid black;
-    @media (min-width: 900px) {
+    @media (min-width: 700px) {
       border-bottom: none;
     }
   }
@@ -568,13 +566,13 @@ body {
     position: relative;
     display: flex;
     // transition: all 0.5s ease;
-    @media (min-width: 900px) {
+    @media (min-width: 700px) {
       width: 40%;
       border-right: 1px solid black;
     }
     .inner-wrapper {
       display: block;
-      @media (min-width: 900px) {
+      @media (min-width: 700px) {
         margin: auto;
       }
       h1 {
@@ -587,7 +585,7 @@ body {
         font-size: 15px;
         line-height: 135%;
         // text-align: center;
-        @media (min-width: 900px) {
+        @media (min-width: 700px) {
           max-width: 80%;
           margin: 0 auto;
         }
@@ -604,7 +602,7 @@ body {
       top: 10px;
       transition: scale 0.3s ease;
       &:hover {
-        @media (min-width: 900px) {
+        @media (min-width: 700px) {
           svg {
             transform: scale(1.5);
           }
@@ -621,7 +619,7 @@ body {
       }
     }
     &.closed {
-      @media (min-width: 900px) {
+      @media (min-width: 700px) {
         width: 24px;
         width: 44px;
       }
@@ -630,7 +628,7 @@ body {
         h1 {
           width: max-content;
           font-size: 20px;
-          @media (min-width: 900px) {
+          @media (min-width: 700px) {
             transform: rotate(90deg) translate(-50%);
             position: absolute;
             top: 33%;
@@ -668,7 +666,7 @@ body {
         color: black;
         margin: 0 auto;
         margin-bottom: 8px;
-        @media (min-width: 900px) {
+        @media (min-width: 700px) {
           text-align: center;
         }
       }
@@ -714,6 +712,65 @@ body {
       border-top: 1px solid black;
       .arrow {
       }
+    }
+  }
+}
+
+.project {
+  @media (min-width: 700px) {
+    .split-wrapper__left {
+      .close,
+      .open {
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        transition: scale 0.3s ease;
+        &:hover {
+          @media (min-width: 700px) {
+            svg {
+              transform: scale(1.5);
+            }
+          }
+        }
+      }
+      // show and hide svgs
+      &.open {
+        .close {
+          display: block;
+        }
+        .open {
+          display: none;
+        }
+      }
+      &.closed {
+        .close {
+          display: none;
+        }
+        .open {
+          display: block;
+        }
+        @media (min-width: 700px) {
+          width: 24px;
+          width: 44px;
+        }
+      }
+      .project-title {
+        width: 300px;
+        padding: 0;
+        margin-right: 0;
+        .title-inner {
+          margin: unset;
+          align-items: unset;
+
+          p {
+            margin: unset;
+          }
+        }
+      }
+    }
+    .split-wrapper__right {
+      padding-left: 20px;
+      flex-direction: row;
     }
   }
 }

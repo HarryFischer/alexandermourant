@@ -2,14 +2,15 @@
 layout: default
 ---
 
-<div class="home scroll-horizontal">
+<!-- <div class="home scroll-horizontal">
   <div class="inner-content flex">
-    <!-- <div class="project-title link-container">
+    {%- for words in page.Words -%}
+    <div class="project-title link-container">
       <div class="title-inner">
-        <h1>Aomori</h1>
-        <p>Words</p>
+        {{ words.interview-text | markdownify }}
       </div>
-    </div> -->
+    </div>
+    {%- endfor -%}
     {%- for content in page.Content -%}
     <div class="link-container {{ content.image-margin-right }} {{ content.image-position }}">
       <div class="link-wrapper">
@@ -23,9 +24,54 @@ layout: default
     </div>
     {%- endfor -%}
   </div>
-  <!-- <div>
-    {% for words in page.Words %}
-    <p>{{ words.interview-text | markdownify }}</p>
-    {% endfor %}
-  </div> -->
+</div> -->
+
+<div class="home project scroll-horizontal">
+  <div class="inner-content">
+    <div class="split-wrapper">
+      {%- for words in page.Words -%}
+      {{ if words.interview-text }}
+      <div class="split-wrapper__left open">
+        <span class="close">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+            <path fill="none" d="M0 0h24v24H0z" />
+            <path
+              d="M12 10.586l4.95-4.95 1.414 1.414-4.95 4.95 4.95 4.95-1.414 1.414-4.95-4.95-4.95 4.95-1.414-1.414 4.95-4.95-4.95-4.95L7.05 5.636z" />
+          </svg>
+        </span>
+        <span class="open">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+            <path fill="none" d="M0 0h24v24H0z" />
+            <path d="M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2z" />
+          </svg>
+          <!-- <p class="closed-nav-title">On living stones and reaching</p> -->
+        </span>
+        <div class="inner-wrapper">
+          <div class="project-title link-container">
+            <div class="title-inner">
+              {{ words.interview-text | markdownify }}
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ endif }}
+      {%- endfor -%}
+      <div class="split-wrapper__right">
+          {%- for content in page.Content -%}
+          <div class="link-container {{ content.image-margin-right }} {{ content.image-position }}">
+            <div class="link-wrapper">
+              <div class="image-wrapper">
+                <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
+              </div>
+              <div class="caption-wrapper">
+                {{ content.caption-text | markdownify }}
+              </div>
+            </div>
+          </div>
+          {%- endfor -%}
+      </div>
+    </div>
+    {%- for content in page.Content -%}
+    {%- endfor -%}
+  </div>
 </div>

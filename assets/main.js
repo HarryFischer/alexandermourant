@@ -75,6 +75,22 @@ if (iO) {
 // }
 // }
 
+// close farm left nav
+const leftPanel = document.querySelector(".split-wrapper__left")
+console.log(leftPanel)
+
+leftPanel.addEventListener(("click"), () => {
+  console.log("clicked")
+  if (!leftPanel.classList.contains("closed")) {
+    leftPanel.classList.add("closed")
+    console.log("open")
+  } else {
+    leftPanel.classList.remove("closed")
+    iframe.style.display = 'none'
+    console.log("closed")
+  }
+})
+
 
 
 
@@ -131,14 +147,3 @@ nextArrow.addEventListener('click', (event) => {
   // })
 })
 
-// close farm left nav
-const leftPanel = document.querySelector(".split-wrapper__left")
-leftPanel.addEventListener(("click"), () => {
-  if (!leftPanel.classList.contains("closed")) {
-    leftPanel.classList.add("closed")
-    addCss()
-  } else {
-    leftPanel.classList.remove("closed")
-    iframe.style.display = 'none'
-  }
-})
