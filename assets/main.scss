@@ -325,6 +325,8 @@ body {
       min-height: 32px;
       @media (min-width: 700px) {
         // min-height: 105px;
+        position: absolute;
+        min-width: 200px;
       }
       p {
         font-size: 14px;
@@ -917,7 +919,8 @@ body {
 
 .about .about,
 .video .wrapper,
-.installations .wrapper {
+.installations .wrapper,
+.home .wrapper {
   @media (min-width: 700px) {
     padding-left: 20px;
   }
