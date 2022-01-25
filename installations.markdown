@@ -5,7 +5,12 @@ position: 18
 Content:
 - image: "/uploads/Five-Sketches-2-spotted.jpg"
   video: 
-  caption-text: 
+  caption-text: |-
+    Mont au Prêtre Farm
+
+    **[On Living Stones and Reaching](/on-living-stones-and-reaching)**
+
+    Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
