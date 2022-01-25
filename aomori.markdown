@@ -195,4 +195,3 @@ Words:
 layout: project
 ---
 
-Monocle ipsum dolor sit amet exquisite iconic Ginza Nordic uniforms international lovely classic izakaya remarkable Swiss bespoke punctual intricate essential. Airport liveable the highest quality, Marylebone Nordic izakaya handsome Beams flat white. Asia-Pacific soft power bulletin delightful hub, boutique hand-crafted cosy carefully curated espresso. Extraordinary Washlet Toto Boeing 787 exquisite Scandinavian bulletin exclusive emerging eclectic St Moritz first-class. Finest Toto essential concierge artisanal boutique, cutting-edge Winkreative smart. Pintxos handsome Tsutaya Helsinki iconic sophisticated.
