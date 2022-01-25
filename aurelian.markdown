@@ -95,6 +95,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+Words:
+- interview-text: 
 layout: project
 ---
 
