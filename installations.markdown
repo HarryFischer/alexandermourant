@@ -14,12 +14,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: On Living Stones and Reaching
-  caption-year: 2020
-  caption-extras: Five Furrows, 2020
-  link-url: "/on-living-stones-and-reaching"
 - image: "/uploads/Five-Furrows-Alexander-Mourant-2020-ADJUSTED-LQ.jpg"
+  caption-text: 
   caption-title: Mont au Prêtre Farm
   caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
@@ -28,8 +24,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Five-Sketches-7.jpg"
+  caption-text: 
   caption-title: Mont au Prêtre Farm
   caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
@@ -38,8 +34,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020-4af8cd.jpg"
+  caption-text: 
   caption-title: Mont au Prêtre Farm
   caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
@@ -48,8 +44,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Five-Sketches-13.jpg"
+  caption-text: 
   caption-title: Mont au Prêtre Farm
   caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
@@ -58,8 +54,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Five-Sketches-12.jpg"
+  caption-text: 
   caption-title: Mont au Prêtre Farm
   caption-subtitle: On Living Stones and Reaching
   link-url: "/on-living-stones-and-reaching"
@@ -68,8 +64,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-  ignore: 
 - image: "/uploads/The-Eye-Sees,-Arles-2---Alexander-Mourant---2020.jpg"
+  caption-text: 
   caption-title: The Eye Sees, Arles
   caption-subtitle: 'Entractes 14: When the Image Returns to Glass'
   link-url: "/aomori"
@@ -78,8 +74,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/The-Eye-Sees,-Arles---Alexander-Mourant---2020.jpg"
+  caption-text: 
   caption-title: The Eye Sees, Arles
   caption-subtitle: 'Entractes 14: When the Image Returns to Glass'
   link-url: "/aomori"
@@ -88,8 +84,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-  ignore: 
 - image: "/uploads/Vitrum-IX,-2019---Edel-Assanti.jpg"
+  caption-text: 
   caption-title: Edel Assanti
   caption-subtitle: With fists, it kicks, it bites
   link-url: "/i-could-not-tell-glass-from-air"
@@ -98,8 +94,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Vitrum-I,-2019---Edel-Assanti.jpg"
+  caption-text: 
   caption-title: Edel Assanti
   caption-subtitle: With fists, it kicks, it bites
   link-url: "/i-could-not-tell-glass-from-air"
@@ -108,8 +104,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-  ignore: 
 - image: "/uploads/Shelter---Alexnder-Mourant---2020.jpg"
+  caption-text: 
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -118,8 +114,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Shelter-3---Alexnder-Mourant---2020.jpg"
+  caption-text: 
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -128,8 +124,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Shelter-2---Alexnder-Mourant---2020-a9259c.jpg"
+  caption-text: 
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -138,8 +134,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/A-Gesture-of-Brambles---Alexander-Mourant---2020.jpg"
+  caption-text: 
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -148,8 +144,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/A-Gesture-of-Brambles-2---Alexander-Mourant---2020.jpg"
+  caption-text: 
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -158,8 +154,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/ICNTGFA---Alexander-Mourant---2020.jpg"
+  caption-text: 
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -168,8 +164,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/ICNTGFA-2---Alexander-Mourant---2020.jpg"
+  caption-text: 
   caption-title: Royal College of Art
   caption-subtitle: I Could Not Tell Glass From Air
   link-url: "/i-could-not-tell-glass-from-air"
@@ -179,8 +175,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-  ignore: 
 - image: "/uploads/Unseen-2019-1.jpg"
+  caption-text: 
   caption-title: Unseen Amsterdam
   caption-subtitle: Seen Fifteen Gallery presents To Feel Its Touch
   link-url: "/to-feel-its-touch"
@@ -189,8 +185,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Unseen-2019-2.jpg"
+  caption-text: 
   caption-title: Chiswick II (ii) & (iii)
   caption-subtitle: 
   link-url: 
@@ -199,8 +195,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Unseen-2019-3.jpg"
+  caption-text: 
   caption-title: Chiswick II (i) & (vi)
   caption-subtitle: 
   link-url: 
@@ -209,8 +205,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-  ignore: 
 - image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
+  caption-text: 
   caption-title: Peckham 24, Copeland Gallery
   caption-subtitle: For Those Who Could See Beyond the Surface
   link-url: "/to-feel-its-touch"
@@ -219,8 +215,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
+  caption-text: 
   caption-title: 
   caption-subtitle: 
   link-url: 
@@ -229,8 +225,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-  ignore: 
 - image: "/uploads/Aomori-Install-8.jpg"
+  caption-text: 
   caption-title: Unseen Amsterdam
   caption-subtitle: Seen Fifteen Gallery presents Aomori
   link-url: "/aomori"
@@ -239,8 +235,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Aomori-Install-6.jpg"
+  caption-text: 
   caption-title: 
   caption-subtitle: 
   link-url: 
@@ -249,8 +245,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-  ignore: 
 - image: "/uploads/Copeland-Gallery-3---Alexander-Mourant---2019-ca7a3a.jpg"
+  caption-text: 
   caption-title: Copeland Gallery
   caption-subtitle: Where You Are Not
   link-url: "/aomori"
@@ -260,8 +256,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019.jpg"
+  caption-text: 
   caption-title: Copeland Gallery
   caption-subtitle: Where You Are Not
   link-url: "/aomori"
@@ -270,8 +266,8 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 - image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019%202.jpg"
+  caption-text: 
   caption-title: Copeland Gallery
   caption-subtitle: Where You Are Not
   link-url: "/aomori"
@@ -280,7 +276,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-  ignore: 
 Words:
 - interview text: 
 layout: installations
