@@ -725,7 +725,8 @@ body {
   }
 }
 
-.project {
+.project,
+.installations {
   @media (min-width: 700px) {
     .split-wrapper__left {
       .close,
