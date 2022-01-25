@@ -276,6 +276,8 @@ Content:
   image-position: middle
   image-margin-right: xsmall
   ignore: 
+Words:
+- interview text: 
 layout: installations
 ---
 
