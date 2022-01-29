@@ -180,102 +180,86 @@ Content:
     **[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)**
 
     Peckham I, 2019; Chiswick II, 2019
-  caption-title: Unseen Amsterdam
-  caption-subtitle: Seen Fifteen Gallery presents To Feel Its Touch
-  link-url: "/to-feel-its-touch"
-  caption-year: 2019
-  caption-extras: Peckham I, 2019; Chiswick II, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Unseen-2019-2.jpg"
-  caption-text: 
-  caption-title: Chiswick II (ii) & (iii)
-  caption-subtitle: 
-  link-url: 
-  caption-year: 2019
-  caption-extras: 
+  caption-text: |-
+    Unseen Amsterdam
+
+    **[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)**
+
+    Chiswick II (ii) & (iii), 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Unseen-2019-3.jpg"
-  caption-text: 
-  caption-title: Chiswick II (i) & (vi)
-  caption-subtitle: 
-  link-url: 
-  caption-year: 2019
-  caption-extras: 
+  caption-text: |-
+    Unseen Amsterdam
+
+    **[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)**
+
+    Chiswick II (i) & (vi), 2019
   image-size: medium
   image-position: middle
   image-margin-right: medium
 - image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
-  caption-text: 
-  caption-title: Peckham 24, Copeland Gallery
-  caption-subtitle: For Those Who Could See Beyond the Surface
-  link-url: "/to-feel-its-touch"
-  caption-year: 2019
-  caption-extras: Peckham I, To Feel Its Touch, 2019
+  caption-text: |-
+    Peckham 24, Copeland Gallery
+
+    **[For Those Who Could See Beyond the Surface](/to-feel-its-touch)**
+
+    Peckham I, To Feel Its Touch, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
   caption-text: 
-  caption-title: 
-  caption-subtitle: 
-  link-url: 
-  caption-year: 
-  caption-extras: 
   image-size: medium
   image-position: middle
   image-margin-right: medium
 - image: "/uploads/Aomori-Install-8.jpg"
-  caption-text: 
-  caption-title: Unseen Amsterdam
-  caption-subtitle: Seen Fifteen Gallery presents Aomori
-  link-url: "/aomori"
-  caption-year: 2018
-  caption-extras: Dissipate I, 2017; Dissipate II, 2017; Forest IV, 2017
+  caption-text: |-
+    Unseen Amsterdam
+
+    **[Seen Fifteen Gallery presents Aomori](/aomori)**
+
+    Dissipate I, 2017; Dissipate II, 2017; Forest IV, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Aomori-Install-6.jpg"
   caption-text: 
-  caption-title: 
-  caption-subtitle: 
-  link-url: 
-  caption-year: 
-  caption-extras: 
   image-size: medium
   image-position: middle
   image-margin-right: medium
 - image: "/uploads/Copeland-Gallery-3---Alexander-Mourant---2019-ca7a3a.jpg"
-  caption-text: 
-  caption-title: Copeland Gallery
-  caption-subtitle: Where You Are Not
-  link-url: "/aomori"
-  caption-year: 2019
-  caption-extras: Waterfall I, 2017; Blue Tree, 2017; Dissipate I, 2017; Forest V,
-    2017
+  caption-text: |-
+    Copeland Gallery
+
+    **[Where You Are Not](/aomori)**
+
+    Waterfall I, 2017; Blue Tree, 2017; Dissipate I, 2017; Forest V, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019.jpg"
-  caption-text: 
-  caption-title: Copeland Gallery
-  caption-subtitle: Where You Are Not
-  link-url: "/aomori"
-  caption-year: 2019
-  caption-extras: Forest III, 2017; Dissipate II, 2017; City II, 2017
+  caption-text: |-
+    Copeland Gallery
+
+    **[Where You Are Not](/aomori)**
+
+    Forest III, 2017; Dissipate II, 2017; City II, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019%202.jpg"
-  caption-text: 
-  caption-title: Copeland Gallery
-  caption-subtitle: Where You Are Not
-  link-url: "/aomori"
-  caption-year: 2019
-  caption-extras: Forest III, 2017; Dissipate II, 2017; City II, 2017
+  caption-text: |-
+    Copeland Gallery
+
+    **[Where You Are Not](/aomori)**
+
+    Forest III, 2017; Dissipate II, 2017; City II, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
