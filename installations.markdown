@@ -4,7 +4,6 @@ date: 2021-03-01 17:53:00 Z
 position: 18
 Content:
 - image: "/uploads/Five-Sketches-2-spotted.jpg"
-  video: 
   caption-text: |-
     Mont au Prêtre Farm
 
@@ -15,168 +14,172 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Five-Furrows-Alexander-Mourant-2020-ADJUSTED-LQ.jpg"
-  caption-text: 
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: On Living Stones and Reaching
-  link-url: "/on-living-stones-and-reaching"
-  caption-year: 2020
-  caption-extras: Five Furrows, 2020
+  caption-text: |-
+    Mont au Prêtre Farm
+
+    **[On Living Stones and Reaching](/on-living-stones-and-reaching)**
+
+    Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Five-Sketches-7.jpg"
-  caption-text: 
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: On Living Stones and Reaching
-  link-url: "/on-living-stones-and-reaching"
-  caption-year: 2020
-  caption-extras: Five Furrows, 2020
+  caption-text: |-
+    Mont au Prêtre Farm
+
+    **[On Living Stones and Reaching](/on-living-stones-and-reaching)**
+
+    Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020-4af8cd.jpg"
-  caption-text: 
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: On Living Stones and Reaching
-  link-url: "/on-living-stones-and-reaching"
-  caption-year: 2020
-  caption-extras: Five Furrows, 2020
+  caption-text: |-
+    Mont au Prêtre Farm
+
+    **[On Living Stones and Reaching](/on-living-stones-and-reaching)**
+
+    Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Five-Sketches-13.jpg"
-  caption-text: 
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: On Living Stones and Reaching
-  link-url: "/on-living-stones-and-reaching"
-  caption-year: 2020
-  caption-extras: Five Furrows, 2020
+  caption-text: |-
+    Mont au Prêtre Farm
+
+    **[On Living Stones and Reaching](/on-living-stones-and-reaching)**
+
+    Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Five-Sketches-12.jpg"
-  caption-text: 
-  caption-title: Mont au Prêtre Farm
-  caption-subtitle: On Living Stones and Reaching
-  link-url: "/on-living-stones-and-reaching"
-  caption-year: 2020
-  caption-extras: Five Furrows, 2020
+  caption-text: |-
+    Mont au Prêtre Farm
+
+    **[On Living Stones and Reaching](/on-living-stones-and-reaching)**
+
+    Five Furrows, 2020
   image-size: medium
   image-position: middle
   image-margin-right: medium
 - image: "/uploads/The-Eye-Sees,-Arles-2---Alexander-Mourant---2020.jpg"
-  caption-text: 
-  caption-title: The Eye Sees, Arles
-  caption-subtitle: 'Entractes 14: When the Image Returns to Glass'
-  link-url: "/aomori"
-  caption-year: 2020
-  caption-extras: Waterfall III, 2017
+  caption-text: |-
+    The Eye Sees, Arles
+
+    **[Entractes 14: When the Image Returns to Glass](/aomori)**
+
+    Waterfall III, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/The-Eye-Sees,-Arles---Alexander-Mourant---2020.jpg"
-  caption-text: 
-  caption-title: The Eye Sees, Arles
-  caption-subtitle: 'Entractes 14: When the Image Returns to Glass'
-  link-url: "/aomori"
-  caption-year: 2020
-  caption-extras: Waterfall III, 2017
+  caption-text: |-
+    The Eye Sees, Arles
+
+    **[Entractes 14: When the Image Returns to Glass](/aomori)**
+
+    Waterfall III, 2017
   image-size: medium
   image-position: middle
   image-margin-right: medium
 - image: "/uploads/Vitrum-IX,-2019---Edel-Assanti.jpg"
-  caption-text: 
-  caption-title: Edel Assanti
-  caption-subtitle: With fists, it kicks, it bites
-  link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 2020
-  caption-extras: Vitrum IX, 2019
+  caption-text: |-
+    Edel Assanti
+
+    **[With fists, it kicks, it bites](/i-could-not-tell-glass-from-air)**
+
+    Vitrum IX, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Vitrum-I,-2019---Edel-Assanti.jpg"
-  caption-text: 
-  caption-title: Edel Assanti
-  caption-subtitle: With fists, it kicks, it bites
-  link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 2020
-  caption-extras: Vitrum I, 2019
+  caption-text: |-
+    Edel Assanti
+
+    **[With fists, it kicks, it bites](/i-could-not-tell-glass-from-air)**
+
+    Vitrum IX, 2019
   image-size: medium
   image-position: middle
   image-margin-right: medium
 - image: "/uploads/Shelter---Alexnder-Mourant---2020.jpg"
-  caption-text: 
-  caption-title: Royal College of Art
-  caption-subtitle: I Could Not Tell Glass From Air
-  link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 2020
-  caption-extras: Shelter, 2020
+  caption-text: |-
+    Royal College of Art
+
+    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+
+    Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Shelter-3---Alexnder-Mourant---2020.jpg"
-  caption-text: 
-  caption-title: Royal College of Art
-  caption-subtitle: I Could Not Tell Glass From Air
-  link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 2020
-  caption-extras: Shelter, 2020
+  caption-text: |-
+    Royal College of Art
+
+    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+
+    Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Shelter-2---Alexnder-Mourant---2020-a9259c.jpg"
-  caption-text: 
-  caption-title: Royal College of Art
-  caption-subtitle: I Could Not Tell Glass From Air
-  link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 2020
-  caption-extras: Shelter, 2020
+  caption-text: |-
+    Royal College of Art
+
+    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+
+    Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/A-Gesture-of-Brambles---Alexander-Mourant---2020.jpg"
-  caption-text: 
-  caption-title: Royal College of Art
-  caption-subtitle: I Could Not Tell Glass From Air
-  link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 2020
-  caption-extras: A Gesture of Brambles, 2019
+  caption-text: |-
+    Royal College of Art
+
+    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+
+    Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/A-Gesture-of-Brambles-2---Alexander-Mourant---2020.jpg"
-  caption-text: 
-  caption-title: Royal College of Art
-  caption-subtitle: I Could Not Tell Glass From Air
-  link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 2020
-  caption-extras: A Gesture of Brambles, 2019
+  caption-text: |-
+    Royal College of Art
+
+    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+
+    Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/ICNTGFA---Alexander-Mourant---2020.jpg"
-  caption-text: 
-  caption-title: Royal College of Art
-  caption-subtitle: I Could Not Tell Glass From Air
-  link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 2020
-  caption-extras: Vitrum VI, 2019; Fall I & II (diptych), 2019; Vitrum VIII, 2019
+  caption-text: |-
+    Royal College of Art
+
+    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+
+    Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/ICNTGFA-2---Alexander-Mourant---2020.jpg"
-  caption-text: 
-  caption-title: Royal College of Art
-  caption-subtitle: I Could Not Tell Glass From Air
-  link-url: "/i-could-not-tell-glass-from-air"
-  caption-year: 2020
-  caption-extras: Vitrum X, 2019; Vitrum IX, 2019; Fall I & II, 2019; Vitrum VIII,
-    2019; Vitrum XI, 2018
+  caption-text: |-
+    Royal College of Art
+
+    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+
+    Shelter, 2020
   image-size: medium
   image-position: middle
   image-margin-right: medium
 - image: "/uploads/Unseen-2019-1.jpg"
-  caption-text: 
+  caption-text: |-
+    Unseen Amsterdam
+
+    **[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)**
+
+    Peckham I, 2019; Chiswick II, 2019
   caption-title: Unseen Amsterdam
   caption-subtitle: Seen Fifteen Gallery presents To Feel Its Touch
   link-url: "/to-feel-its-touch"
