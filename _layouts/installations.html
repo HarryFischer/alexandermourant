@@ -2,24 +2,8 @@
 layout: default
 ---
 
-<div class="home scroll-horizontal testy">
+<div class="home installations scroll-horizontal testy">
   <div class="inner-content flex">
-    <!-- {%- for content in page.Content -%}
-    <div class="link-container {{ content.image-margin-right }} {{ content.image-position }}">
-      <div class="link-wrapper">
-        <div class="image-wrapper">
-          <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
-        </div>
-        <div class="caption-wrapper">
-          <p class="caption caption-title">{{ content.caption-title }} <span>{{ content.caption-year }}</span></p>
-          <a class="caption caption-subtitle caption-link-style" href="{{ site.baseurl }}{{ content.link-url }}">{{ content.caption-subtitle }}</a>
-          <p class="caption caption-size">{{ content.caption-size }} {{ content.caption-medium }}</p>
-          <p class="caption caption-extras">{{ content.caption-extras }}</p>
-          <p class="caption caption-edition">{{ content.caption-edition }}</p>
-        </div>
-      </div>
-    </div>
-    {%- endfor -%} -->
     {%- for words in page.Words -%}
     {%- if words.interview-text -%}
     <div class="split-wrapper__left open">

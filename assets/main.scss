@@ -571,6 +571,9 @@ body {
     // border-bottom: 1px solid black;
     @media (min-width: 700px) {
       border-bottom: none;
+      // .link-container {
+      //   transform: translateY(-25px);
+      // }
     }
   }
 
@@ -726,7 +729,8 @@ body {
 }
 
 .project,
-.installations {
+.installations,
+.home {
   @media (min-width: 700px) {
     .split-wrapper__left {
       .close,
