@@ -3,7 +3,6 @@ title: Home
 position: 16
 Content:
 - image: "/uploads/Portrait-of-the-artist-repeating-himself-2020.jpg"
-  video: 
   caption-text: "**On Living Stones and Reaching, *2020***"
   image-size: medium
   image-position: middle
