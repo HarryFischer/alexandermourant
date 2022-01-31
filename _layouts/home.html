@@ -3,20 +3,6 @@ layout: default
 ---
 
 <div class="home scroll-horizontal">
-  <!-- <div class="inner-content flex">
-    {%- for content in page.Content -%}
-    <a class="link-container {{content.image-margin-right}} {{ content.image-position }}" href="{{ site.baseurl }}{{ content.page-url }}">
-      <div class="link-wrapper">
-        <div class="image-wrapper">
-          <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
-        </div>
-        <div class="caption-wrapper">
-          <p class="caption caption-link-style">{{content.caption-title}} <span>{{ content.caption-year }}</span></p>
-        </div>
-      </div>
-    </a>
-    {%- endfor -%}
-  </div> -->
     <div class="inner-content flex">
       {%- for words in page.Words -%}
       {%- if words.interview-text -%}

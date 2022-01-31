@@ -192,6 +192,21 @@ body {
           @media (max-width: 700px) {
             margin: 0 0px 10px 0px;
           }
+          $animationDelay: 1;
+          @for $i from 1 through 15 {
+            &:nth-of-type(#{$i}) {
+              animation-delay: #{0.3+ ($i)/30}s;
+            }
+          }
+
+          @keyframes fade-in {
+            0% {
+              opacity: 0;
+            }
+            100% {
+              opacity: 1;
+            }
+          }
         }
       }
     }
@@ -318,6 +333,9 @@ body {
           width: 100%;
         }
       }
+      & + .caption-wrapper {
+        position: absolute;
+      }
     }
 
     .caption-wrapper {
@@ -325,20 +343,21 @@ body {
       min-height: 32px;
       @media (min-width: 700px) {
         // min-height: 105px;
-        position: absolute;
         min-width: 100%;
       }
-      p {
+      p,
+      a {
         font-size: 14px;
-        line-height: 1;
+        line-height: 1.2;
         margin-bottom: 5px;
-        color: #767676;
+        // color: #767676;
         // color: black;
         font-variant-numeric: lining-nums;
         margin-bottom: 3px;
         display: block;
         &:nth-child(1) {
           color: black;
+          // font-size: 20px;
           // margin-bottom: 7px;
         }
       }
@@ -616,15 +635,8 @@ body {
     .open {
       position: absolute;
       right: 10px;
-      top: 10px;
+      top: 15px;
       transition: scale 0.3s ease;
-      &:hover {
-        @media (min-width: 700px) {
-          svg {
-            transform: scale(1.5);
-          }
-        }
-      }
     }
     // show and hide svgs
     &.open {
@@ -706,6 +718,9 @@ body {
         & ~ .navigation-wrapper {
           opacity: 1;
         }
+        & ~ .inner-wrapper {
+          opacity: 0;
+        }
       }
     }
 
@@ -723,6 +738,23 @@ body {
       background-color: white;
       border-top: 1px solid black;
       .arrow {
+        color: black;
+        &:hover {
+          cursor: pointer;
+          text-decoration: none;
+          svg {
+            width: 20px;
+          }
+        }
+        svg {
+          transition: width 0.3s ease;
+          height: 12px;
+          width: 0;
+          margin-bottom: -1px;
+        }
+        &.next {
+          margin-left: auto;
+        }
       }
     }
   }
@@ -730,6 +762,7 @@ body {
 
 .project,
 .installations,
+.farm-index,
 .home {
   @media (min-width: 700px) {
     .split-wrapper__left {
@@ -738,19 +771,11 @@ body {
         position: absolute;
         right: 10px;
         top: 10px;
-        transition: scale 0.3s ease;
-        &:hover {
-          @media (min-width: 700px) {
-            svg {
-              transform: scale(1.5);
-            }
-          }
-        }
       }
       // show and hide svgs
       &.open {
         .close {
-          display: block;
+          display: flex;
         }
         .open {
           display: none;
@@ -761,11 +786,16 @@ body {
           display: none;
         }
         .open {
-          display: block;
+          display: flex;
         }
         @media (min-width: 700px) {
           width: 24px;
           width: 44px;
+        }
+        .inner-wrapper {
+          h2 {
+            display: none;
+          }
         }
       }
       .project-title {
@@ -783,6 +813,27 @@ body {
           p {
             margin: unset;
           }
+        }
+      }
+      .nav-text {
+        color: black;
+        display: flex;
+        flex-direction: column;
+        &:hover {
+          cursor: pointer;
+          text-decoration: none;
+          svg {
+            height: 26px;
+          }
+        }
+        svg {
+          transition: height 0.3s ease;
+          width: 24px;
+          height: 0;
+          margin-bottom: -1px;
+        }
+        .closed-nav-title {
+          color: black;
         }
       }
     }

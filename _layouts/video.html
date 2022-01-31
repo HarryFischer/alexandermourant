@@ -4,27 +4,6 @@ layout: default
 
 <div class="home scroll-horizontal">
   <div class="inner-content">
-    <!-- {%- for content in page.Content -%}
-    <div class="link-container {{ content.image-position }}">
-      <div class="link-wrapper">
-        <div class="image-wrapper" style="position:relative;">
-          <iframe 
-            class="{{ content.image-size }}"
-            src="{{ content.video }}"  
-            frameborder="0" 
-            allow="autoplay; fullscreen; picture-in-picture">
-          </iframe>
-          <script src="https://player.vimeo.com/api/player.js"></script>
-        </div>
-        <div class="caption-wrapper" style="position:relative;">
-            {{ content.caption-text | markdownify }}
-        </div>
-      </div>
-    </div>
-    {%- endfor -%} -->
-
-
-
     {%- for words in page.Words -%}
     {%- if words.interview-text -%}
     <div class="split-wrapper__left open">
@@ -65,9 +44,8 @@ layout: default
             {{ content.caption-text | markdownify }}
           </div>
         </div>
-      </div> -->
+      </div>
       {%- endfor -%}
-      
     </div>
     </div>
     {%- for content in page.Content -%}
