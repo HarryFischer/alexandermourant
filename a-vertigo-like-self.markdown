@@ -100,7 +100,7 @@ Words:
     temporality comes into being - the narrative, made up by segments of time, and
     the film falling uninterruptedly. An insular time takes shape out of this ambivalence,
     one that allows the experience of duration without shock, granting consciousness
-    the solid ground from where to simply perceive the flow.*\n<br>\n<br>\n- *Insular
+    the solid ground from where to simply perceive the flow.*\n<br>\n<br>\n*Insular
     Time: Cinematic Duration and the Enduring Self* by Laura Bivolaru, 2021, originally
     published on Revolv Collective"
 layout: video
