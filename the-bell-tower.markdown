@@ -146,7 +146,8 @@ Words:
     to surprise and support me, as though, when I uncover another facet of its character,
     I discover something new about myself. To ring a bell, is to awaken a memory,
     and to make a photograph, is to live it.*\n<br>\n<br>\n*The Sound Floods,*<br>
-    \n*My Body,*<br>\n*My Vessel*\n\nText written by Alexander Mourant, 2020 "
+    \n*My Body,*<br>\n*My Vessel*\n<br>\n<br>\nText written by Alexander Mourant,
+    2020 "
 layout: project
 ---
 
