@@ -116,7 +116,7 @@ Words:
     # The Lightness
     <br>
     <br>
-    Interview originally published on *WHYNOW*, 2020, Eva Clifford interviews Alexander Mourant:<br>
+    Interview originally published on WhyNow, 2020, Eva Clifford interviews Alexander Mourant:<br>
     <br>
     ***Birds, fragments, abstract forms and nature are characteristic elements of Alexander Mourant’s work and they appear throughout this project, as he investigates the nature of weight / weightlessness in photographs.***
     <br>
@@ -149,13 +149,13 @@ Words:
     <br>
     <br>
     I noticed that too, when I stepped back, after completing the work. You might be disappointed to hear, that unlike Aomori, I didn’t have a specific reasoning for the colour. And maybe that’s a failure. But again, I think this leads into a more intuitive way of making photographs. Aomori had a set of parameters, or rules, so to speak, like a game. And this game, which instructs them (the photographs), on who or what to be, can sometimes become frustrating. Whereas the photographs in The Lightness, emerged, as most images should, in a way that most suits them. I feel as the maker, you often get a sense of how an image would like to carry
-    itself. Perhaps, they gravitated towards each other, towards green, as they were made in quick succession. They came from the same place; one after the other. Like tones, or moods, they built upon each other, to make an aroma, or a totality of the ***thing***. And the ***thing*** we arrive at is ***The Lightness***.*
+    itself. Perhaps, they gravitated towards each other, towards green, as they were made in quick succession. They came from the same place; one after the other. Like tones, or moods, they built upon each other, to make an aroma, or a totality of the ***thing***. And the ***thing*** we arrive at is ***The Lightness***. *
     <br>
     <br>
     ***Before you make work, do you often have a fixed idea of how you want a photo to look, or is your artistic process more spontaneous?***
     <br>
     <br>
-    *Generally, I do have a fixed idea that I work towards. My practice is not spontaneous. Although, I may be contradicting myself, as I just proposed a way of making which suggests ***the image approaches me***. Let’s put that idea aside, as The Lightness is unique in that respect, and that’s the purpose of a creative commission, to work in a way which you wouldn’t normally—well, that’s how I utilise them. Anyway, because I’m very conceptually driven, I construct the entire work, in my head: how it should look, feel and exist. My work often goes through a rigorous process of ticking boxes, or meeting requirements, before I make it. It has to work on many levels before I decide to produce it. And that’s a hard thing to do. Having said that, I try to stay open to unforeseen happenings within the process.*
+    *Generally, I do have a fixed idea that I work towards. My practice is not spontaneous. Although, I may be contradicting myself, as I just proposed a way of making which suggests* ***the image approaches me***. *Let’s put that idea aside, as The Lightness is unique in that respect, and that’s the purpose of a creative commission, to work in a way which you wouldn’t normally—well, that’s how I utilise them. Anyway, because I’m very conceptually driven, I construct the entire work, in my head: how it should look, feel and exist. My work often goes through a rigorous process of ticking boxes, or meeting requirements, before I make it. It has to work on many levels before I decide to produce it. And that’s a hard thing to do. Having said that, I try to stay open to unforeseen happenings within the process.*
     <br>
     <br>
     ***Lastly, we're interested to hear about your personal journey into photography. Can you remember the first time a photograph had an impact on you?***
