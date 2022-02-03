@@ -156,7 +156,7 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 Words:
-- interview-text: "# To Feel Its Touch\n<br>\n<br>\nExcerpt of press release for Unseen
+- interview-text: "# To Feel Its Touch\n<br>\n<br>\nExcerpt of press release, Unseen
     Amsterdam 2019, written by Vivienne Gamble, Founder & Director Seen Fifteen Gallery:\n<br>\n<br>\n*Alexander
     Mourant presents a new series of abstract works which respond to the ubiquitous
     cycle of urban renewal and regeneration. To Feel Its Touch began as a commission
