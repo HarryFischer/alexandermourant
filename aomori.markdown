@@ -188,7 +188,8 @@ Content:
 Words:
 - interview-text: |-
     # Aomori
-
+    <br>
+    <br>
     *Taken in Japan, Aomori follows a consistent trajectory in the history of art, where the colour blue is used as a demarcation of distance. Here, distance is not only visible through sweeping vistas and dense forests, but also reverberates in the knowledge that the artist worked in a country that was not his own. This results in a paradox, where spatial remoteness and distance simultaneously evoke an emotional closeness, for both the artist and the viewer.*<br>
     <br>
     *Just as you enter a forest and become surrounded by ancient branches and roots, the photographs by Alexander Mourant engulf you in a similar way, taking you on a mysterious voyage where both sorrow and beauty are tied together. The result is a silent mediation on space, both physically, in what is being photographed, and also in regard to time. These photographs feel ancient and respectful, just as the forests and hills have taken centuries to form. It seems as though their very essence has taken a physical form.*<br>
