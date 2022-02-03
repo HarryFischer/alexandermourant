@@ -189,7 +189,13 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 Words:
-- interview-text: 
+- interview-text: |-
+    # I Could Not Tell Glass From Air
+    <br>
+    <br>
+    The following body of work, *I Could Not Tell Glass From Air*, finds its roots in the surrealist novel, *Nadja*, by André Breton; a story, where we meet a rather bemused and infatuated protagonist, who desires to live, entirely, in a glass house, for all the clarity and cohesion it would bring to the character which was himself. In a similar vein, Alexander Mourant employs the subject of derelict greenhouses, artefacts from the 1960s agricultural era, to muse on history and culture; moreover, the artist renders the site as an anthropomorphised sculpture; an apparatus, where the photographic medium and his research practice, becomes interrogated and disseminated. The following themes reverberate within his work: reflexivity, temporality and metamorphosis.<br>
+    <br>
+    The title points towards the notion, or the experience, of double taking: a glance, which often reveals something unexpected, or overlooked. This evokes the artist’s deep interest in the phenomena of sight, and provides us with a doorway, to enter his concerns regarding the nature of disbelief and the liminal, contained within the site, and the medium itself. Mourant continuously draws on the nuanced oeuvre of Marcel Duchamp and Robert Smithson, to probe the ruin as a place of entropic energy; and to form analogous relationships between materials, both literal and metaphysical: glass and negatives; life and images; death and transfiguration. Through this consideration, the work feels as if contemporary archaeology; a vessel, where the shattering, and alchemic qualities of glass, become a breeding ground, suggestive of a grander metaphor, for the world and images we inhabit.  
 layout: project
 ---
 
