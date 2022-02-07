@@ -5,7 +5,7 @@ permalink: "/on-living-stones-and-reaching/artists-sister-among-the-image"
 position: 8
 Content:
 - image: "/uploads/olsar-p6-01.jpg"
-  caption-text: "Artist’s Sister Amongst the Image, 2020 \n34 x 40 in. (86cm x 106cm)"
+  caption-text: Artist’s Sister Amongst the Image, 2020
   image-size: medium
   image-position: middle
 layout: olsar-2
