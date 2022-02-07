@@ -5,7 +5,7 @@ permalink: "/on-living-stones-and-reaching/to-grasp-the-miraculous-as-twilight"
 position: 9
 Content:
 - image: "/uploads/olsar-p7-01.jpg"
-  caption-text: To Grasp the Miraculous As Twilight, 2020 62 x 50 in. (156cm x 126cm)
+  caption-text: To Grasp the Miraculous As Twilight, 2020
   image-size: medium
   image-position: middle
 layout: olsar-1
