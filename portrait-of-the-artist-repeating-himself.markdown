@@ -133,39 +133,39 @@ Content:
   image-margin-right: 
 - image: "/uploads/olsar-p1-06-6cac3b.jpg"
   video: 
-  caption-text: 
-  image-size: 
-  image-position: 
+  caption-text: 5:48pm, 25/03/2020
+  image-size: medium
+  image-position: middle
   image-margin-right: 
 - image: "/uploads/olsar-p1-05-a34e88.jpg"
   video: 
-  caption-text: 
-  image-size: 
-  image-position: 
+  caption-text: 4:40pm, 25/03/2020
+  image-size: medium
+  image-position: middle
   image-margin-right: 
 - image: "/uploads/olsar-p1-04-006ef2.jpg"
   video: 
-  caption-text: 
-  image-size: 
-  image-position: 
+  caption-text: 3:40pm, 25/03/2020
+  image-size: medium
+  image-position: middle
   image-margin-right: 
 - image: "/uploads/olsar-p1-03-70fa78.jpg"
   video: 
-  caption-text: 
-  image-size: 
-  image-position: 
+  caption-text: 2:49pm, 25/03/2020
+  image-size: medium
+  image-position: middle
   image-margin-right: 
 - image: "/uploads/olsar-p1-02-277c88.jpg"
   video: 
-  caption-text: 
-  image-size: 
-  image-position: 
+  caption-text: 12:13pm, 25/03/2020
+  image-size: medium
+  image-position: middle
   image-margin-right: 
 - image: "/uploads/olsar-p1-01-69a235.jpg"
   video: 
-  caption-text: 
-  image-size: 
-  image-position: 
+  caption-text: 11:18am, 25/03/2020
+  image-size: medium
+  image-position: middle
   image-margin-right: 
 layout: olsar-3
 ---
