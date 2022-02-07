@@ -6,7 +6,7 @@ position: 3
 Content:
 - image: 
   video: 
-  caption-text: Teaching the Camera How to Carry (Right), 2020
+  caption-text: "*Teaching the Camera How to Carry (Right)*, 2020"
   image-size: 
   image-position: middle
   image-margin-right: 
