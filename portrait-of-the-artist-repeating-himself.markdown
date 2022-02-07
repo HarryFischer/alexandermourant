@@ -9,7 +9,8 @@ Content:
   caption-text: |-
     Portrait of the Artist Repeating Himself<br>
     25th March - 1st April, 2020<br>
-    Trinity, Jersey
+    Trinity, Jersey<br>
+    Photo-series of 26 archival Giclée prints
   image-size: medium
   image-position: middle
   image-margin-right: 
