@@ -6,8 +6,10 @@ position: 1
 Content:
 - image: 
   video: 
-  caption-text: "Portrait of the Artist Repeating Himself <br>\n25th March - 1st April,
-    2020 \nTrinity, Jersey"
+  caption-text: |-
+    Portrait of the Artist Repeating Himself<br>
+    25th March - 1st April, 2020<br>
+    Trinity, Jersey
   image-size: medium
   image-position: middle
   image-margin-right: 
