@@ -131,8 +131,8 @@ Content:
 - image: "/uploads/olsar-p1-07-092467.jpg"
   video: 
   caption-text: 10:45am, 26/03/2020
-  image-size: 
-  image-position: 
+  image-size: medium
+  image-position: middle
   image-margin-right: 
 - image: "/uploads/olsar-p1-06-6cac3b.jpg"
   video: 
