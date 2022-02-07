@@ -6,8 +6,7 @@ position: 4
 Content:
 - image: 
   video: 
-  caption-text: Teaching the Camera How to Carry (Left), 2020 Each 16 x 20 in. (40.64cm
-    x 50.8cm)
+  caption-text: Teaching the Camera How to Carry (Left), 2020
   image-size: 
   image-position: middle
   image-margin-right: 
