@@ -250,7 +250,7 @@ Education:
 
     PhotoVoice: Cairo to Cape Town: Africa's Plastic Footprint
 - title: Experience
-  year-text: "2021 - Wandsworth Council Art's Service / Creative Director & Lead Artist,
+  year-text: "2021 - Wandsworth Council Arts Service / Creative Director & Lead Artist,
     *A Place to Call Home* \n\n2021 - Open Doors Gallery / Creative Consultant\n\n2018
     - Bill Brandt Archive / Archivist\n\n2017 - Michael Hoppen Gallery / Archivist\n\n2017
     - Todd Hido, JH Engström and Margot Wallard. Atelier Smedsby / Paris\n\n2016 -
