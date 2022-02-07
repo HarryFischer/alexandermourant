@@ -7,7 +7,7 @@ Content:
 - image: 
   video: 
   caption-text: |-
-    The Harvesters<br>
+    *The Harvesters*<br>
     15:27 - 15:45, 24th June, 2020<br>
     Trinity, Jersey<br>
     Photo-series of 12 archival Giclée prints<br>
