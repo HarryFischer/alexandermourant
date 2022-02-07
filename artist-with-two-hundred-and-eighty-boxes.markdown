@@ -5,7 +5,7 @@ permalink: "/on-living-stones-and-reaching/artist-with-two-hundred-and-eighty-bo
 position: 2
 Content:
 - image: "/uploads/olsar-p2-01.jpg"
-  caption-text: Artist with Two Hundred and Eighty Boxes, 2020
+  caption-text: "*Artist with Two Hundred and Eighty Boxes*, 2020"
   image-size: medium
   image-position: middle
 layout: olsar-2
