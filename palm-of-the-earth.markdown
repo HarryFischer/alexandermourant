@@ -5,9 +5,7 @@ permalink: "/on-living-stones-and-reaching/palm-of-the-earth"
 position: 13
 Content:
 - image: "/uploads/olsar-p10-01.jpg"
-  caption-text: |-
-    Palm of the Earth, 2020
-    50 x 62 in. (126cm x 156cm)
+  caption-text: Palm of the Earth, 2020<br>
   image-size: medium
   image-position: middle
 layout: olsar-2
