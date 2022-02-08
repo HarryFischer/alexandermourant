@@ -92,6 +92,7 @@ body {
       position: absolute;
       left: 40%;
       @media (min-width: 700px) {
+        left: unset;
         position: relative;
       }
       ul:first-child {

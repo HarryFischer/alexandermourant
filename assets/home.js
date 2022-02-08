@@ -36,9 +36,11 @@ if (iO) {
   };
     
   let observer = new IntersectionObserver(function(entries) {
-    entries.forEach(function(item) {
+    entries.forEach(function (item) {
+      // item.src = item.dataset.src
       if (item.intersectionRatio > .1) {
         item.target.classList.add("active")
+        // item.src = item.dataset.src
       } else {
         // item.target.classList.remove("active");
       }
