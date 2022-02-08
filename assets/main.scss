@@ -717,7 +717,7 @@ body {
       right: 0;
       bottom: 0;
       width: 100%;
-      height: 100vh;
+      height: calc(100vh - 50px);
       // z-index: -1;
       visibility: hidden;
       z-index: 3;
@@ -752,7 +752,8 @@ body {
       opacity: 0;
       background-color: white;
       border-top: 1px solid black;
-      .arrow {
+      .arrow,
+      .index {
         color: black;
         &:hover {
           cursor: pointer;
@@ -770,6 +771,10 @@ body {
         &.next {
           margin-left: auto;
         }
+      }
+      .index {
+        margin-left: 50%;
+        transform: translateX(-50%);
       }
     }
   }
