@@ -34,6 +34,6 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
-layout: olsar-5
+layout: proposals
 ---
 
