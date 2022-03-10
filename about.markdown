@@ -11,7 +11,7 @@ Content:
     ArtHouse Jersey, Jersey Bursary and Arts Council England. He has won the Free
     Range Award and was nominated for Foam Paul Huf Award. In 2020, Mourant became
     a member of Revolv Collective. He achieved BA Photography at Falmouth University,
-    and MA Photography at Royal College of Art, London.\n\nContact: alexander@alexandermourant.com "
+    and MA Photography at Royal College of Art, London.\n<br>\n<br>\nContact: alexander@alexandermourant.com "
 Education:
 - title: Education
   year-text: |-
