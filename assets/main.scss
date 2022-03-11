@@ -197,6 +197,40 @@ body {
           right: 0;
           bottom: 0;
         }
+
+
+        $timeOffset: 0.5s;
+        $aniLength: 1s;
+        // 0.5s in, 1s solid, 0.5s out = 2sec
+
+        .artwork-link {
+            opacity:0;
+            animation-name: animation;
+            animation-duration: $aniLength;
+            animation-timing-function: ease-in-out;
+            animation-fill-mode: forwards;
+            animation-iteration-count: 1;
+        }
+
+        @for $i from 1 through 20 {
+            .item:nth-child(#{$i}){
+                // units are in the variable so SCSS just does math
+                animation-delay: $i * $timeOffset;
+            }
+        }
+
+        @keyframes animation {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+
+
+
         .artwork-link {
           margin: 10px 0;
           text-align: center;
@@ -1021,6 +1055,10 @@ body {
 }
 
 .video {
+  .link-container {
+    margin-left: auto!important;
+    margin-right: auto!important;
+  }
   // .wrapper .inner-content .link-container {
   //   margin-top: 50vh;
   //   transform: translateY(-50%);
