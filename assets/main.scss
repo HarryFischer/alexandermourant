@@ -602,6 +602,7 @@ body {
         margin: 60px 0;
         @media (min-width: 700px) {
           max-width: 600px;
+          padding: 0 20px;
           margin-top: 100px;
           margin-bottom: 15%;
         }
@@ -863,6 +864,9 @@ body {
         max-width: 480px;
         padding: 20px 0;
         margin-right: 0;
+        @media (min-width: 700px) {
+          padding: 20px;
+        }
         h1,
         p {
           width: unset;
