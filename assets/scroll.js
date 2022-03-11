@@ -1,5 +1,5 @@
 // const scrollWrapper = document.getElementById('content-wrapper');
-// const mq = window.matchMedia('(min-width: 700px)');
+
 // const pageType = document.querySelector('.home');
 // console.log(pageType)
 
@@ -26,3 +26,32 @@
 
 // import * as HorizontalScroll from '@oberon-amsterdam/horizontal';
 // new HorizontalScroll({ container: scrollWrapper });
+
+
+    // /* We define our function 🕹 */
+    // function replaceVerticalScrollByHorizontal(event) {
+    // 	if (event.deltaY != 0) {
+    //   	// manually scroll horizonally instead
+    //     const scrollWrapper = document.querySelector('.split-wrapper__right')
+    //     scrollWrapper.scroll(window.scrollX + event.deltaY * 5, window.scrollY);
+        
+    //     // prevent vertical scroll
+    //     // console.log("event", event)
+    //   	// event.preventDefault();
+    //   }
+    //   return;
+    // }
+
+    // /* Listener on window once we start scrolling, we run our function 💨 */
+    // window.addEventListener('wheel', replaceVerticalScrollByHorizontal, {passive: true});
+
+
+    const mq = window.matchMedia('(min-width: 700px)');
+    const scrollContainer = document.querySelector(".split-wrapper__right");
+
+if(mq.matches) {
+  scrollContainer.addEventListener("wheel", (evt) => {
+    evt.preventDefault();
+    scrollContainer.scrollLeft += evt.deltaY;
+  })
+}
