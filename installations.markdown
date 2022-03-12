@@ -219,7 +219,6 @@ Content:
     <br>
     <br>
     <br>
-    <br>
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -235,7 +234,6 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Aomori-Install-6.jpg"
   caption-text: |-
-    <br>
     <br>
     <br>
     <br>
