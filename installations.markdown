@@ -178,7 +178,7 @@ Content:
   caption-text: |-
     Unseen Amsterdam
 
-    *[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)*
+    *[Seen Fifteen Gallery, To Feel Its Touch](/to-feel-its-touch)*
 
     *Peckham I*, 2019; *Chiswick II*, 2019
   image-size: medium
@@ -188,7 +188,7 @@ Content:
   caption-text: |-
     Unseen Amsterdam
 
-    *[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)*
+    *[Seen Fifteen Gallery, To Feel Its Touch](/to-feel-its-touch)*
 
     *Chiswick II* (ii) & (iii), 2019
   image-size: medium
@@ -198,7 +198,7 @@ Content:
   caption-text: |-
     Unseen Amsterdam
 
-    *[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)*
+    *[Seen Fifteen Gallery, To Feel Its Touch](/to-feel-its-touch)*
 
     *Chiswick II* (i) & (vi), 2019
   image-size: medium
@@ -223,9 +223,9 @@ Content:
   caption-text: |-
     Unseen Amsterdam
 
-    *[Seen Fifteen Gallery presents Aomori](/aomori)*
+    *[Seen Fifteen Gallery, Aomori](/aomori)*
 
-    *Dissipate I*, 2017; *Dissipate II*, 2017; *Forest IV*, 2017
+    *Dissipate I*, *Dissipate II*, *Forest IV*, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
