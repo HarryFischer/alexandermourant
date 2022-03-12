@@ -4,7 +4,7 @@ permalink: "/about/"
 position: 17
 Content:
 - about-text: |-
-    Contact: alexander@alexandermourant.com
+    Contact: alexander@alexandermourant.com<br>
     Instagram: @alexandermourant
     <br>
     <br>
