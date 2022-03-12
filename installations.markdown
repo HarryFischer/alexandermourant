@@ -4,12 +4,13 @@ date: 2021-03-01 17:53:00 Z
 position: 18
 Content:
 - image: "/uploads/Five-Sketches-2-spotted.jpg"
+  video: 
   caption-text: |-
     Mont au Prêtre Farm
 
-    **[On Living Stones and Reaching](/on-living-stones-and-reaching)**
+    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
 
-    Five Furrows, 2020
+    *Five Furrows*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -17,9 +18,9 @@ Content:
   caption-text: |-
     Mont au Prêtre Farm
 
-    **[On Living Stones and Reaching](/on-living-stones-and-reaching)**
+    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
 
-    Five Furrows, 2020
+    *Five Furrows*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -27,9 +28,9 @@ Content:
   caption-text: |-
     Mont au Prêtre Farm
 
-    **[On Living Stones and Reaching](/on-living-stones-and-reaching)**
+    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
 
-    Five Furrows, 2020
+    *Five Furrows*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -37,9 +38,9 @@ Content:
   caption-text: |-
     Mont au Prêtre Farm
 
-    **[On Living Stones and Reaching](/on-living-stones-and-reaching)**
+    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
 
-    Five Furrows, 2020
+    *Five Furrows*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -47,9 +48,9 @@ Content:
   caption-text: |-
     Mont au Prêtre Farm
 
-    **[On Living Stones and Reaching](/on-living-stones-and-reaching)**
+    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
 
-    Five Furrows, 2020
+    *Five Furrows*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -57,9 +58,9 @@ Content:
   caption-text: |-
     Mont au Prêtre Farm
 
-    **[On Living Stones and Reaching](/on-living-stones-and-reaching)**
+    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
 
-    Five Furrows, 2020
+    *Five Furrows*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -67,9 +68,9 @@ Content:
   caption-text: |-
     The Eye Sees, Arles
 
-    **[Entractes 14: When the Image Returns to Glass](/aomori)**
+    *[Entractes 14: When the Image Returns to Glass](/aomori)*
 
-    Waterfall III, 2017
+    *Waterfall III*, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -77,9 +78,9 @@ Content:
   caption-text: |-
     The Eye Sees, Arles
 
-    **[Entractes 14: When the Image Returns to Glass](/aomori)**
+    *[Entractes 14: When the Image Returns to Glass](/aomori)*
 
-    Waterfall III, 2017
+    *Waterfall III*, 2017
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -87,9 +88,9 @@ Content:
   caption-text: |-
     Edel Assanti
 
-    **[With fists, it kicks, it bites](/i-could-not-tell-glass-from-air)**
+    *[With fists, it kicks, it bites](/i-could-not-tell-glass-from-air)*
 
-    Vitrum IX, 2019
+    *Vitrum IX*, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -97,9 +98,9 @@ Content:
   caption-text: |-
     Edel Assanti
 
-    **[With fists, it kicks, it bites](/i-could-not-tell-glass-from-air)**
+    *[With fists, it kicks, it bites](/i-could-not-tell-glass-from-air)*
 
-    Vitrum IX, 2019
+    *Vitrum IX*, 2019
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -107,9 +108,9 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    Shelter, 2020
+    *Shelter*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -117,9 +118,9 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    Shelter, 2020
+    *Shelter*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -127,9 +128,9 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    Shelter, 2020
+    *Shelter*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -137,9 +138,9 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    Shelter, 2020
+    *Shelter*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -147,9 +148,9 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    Shelter, 2020
+    *Shelter*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -157,9 +158,9 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    Shelter, 2020
+    *Shelter*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -167,9 +168,9 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    **[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)**
+    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    Shelter, 2020
+    *Shelter*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -177,9 +178,9 @@ Content:
   caption-text: |-
     Unseen Amsterdam
 
-    **[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)**
+    *[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)*
 
-    Peckham I, 2019; Chiswick II, 2019
+    *Peckham I*, 2019; *Chiswick II*, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -187,9 +188,9 @@ Content:
   caption-text: |-
     Unseen Amsterdam
 
-    **[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)**
+    *[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)*
 
-    Chiswick II (ii) & (iii), 2019
+    *Chiswick II* (ii) & (iii), 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -197,9 +198,9 @@ Content:
   caption-text: |-
     Unseen Amsterdam
 
-    **[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)**
+    *[Seen Fifteen Gallery presents To Feel Its Touch](/to-feel-its-touch)*
 
-    Chiswick II (i) & (vi), 2019
+    *Chiswick II* (i) & (vi), 2019
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -207,9 +208,9 @@ Content:
   caption-text: |-
     Peckham 24, Copeland Gallery
 
-    **[For Those Who Could See Beyond the Surface](/to-feel-its-touch)**
+    *[For Those Who Could See Beyond the Surface](/to-feel-its-touch)*
 
-    Peckham I, To Feel Its Touch, 2019
+    *Peckham I*, *To Feel Its Touch*, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -222,9 +223,9 @@ Content:
   caption-text: |-
     Unseen Amsterdam
 
-    **[Seen Fifteen Gallery presents Aomori](/aomori)**
+    *[Seen Fifteen Gallery presents Aomori](/aomori)*
 
-    Dissipate I, 2017; Dissipate II, 2017; Forest IV, 2017
+    *Dissipate I*, 2017; *Dissipate II*, 2017; *Forest IV*, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -237,9 +238,9 @@ Content:
   caption-text: |-
     Copeland Gallery
 
-    **[Where You Are Not](/aomori)**
+    *[Where You Are Not](/aomori)*
 
-    Waterfall I, 2017; Blue Tree, 2017; Dissipate I, 2017; Forest V, 2017
+    *Waterfall I*, 2017; *Blue Tree*, 2017; *Dissipate I*, 2017; *Forest V*, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -247,9 +248,9 @@ Content:
   caption-text: |-
     Copeland Gallery
 
-    **[Where You Are Not](/aomori)**
+    *[Where You Are Not](/aomori)*
 
-    Forest III, 2017; Dissipate II, 2017; City II, 2017
+    *Forest III*, 2017; *Dissipate II*, 2017; *City II*, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -257,9 +258,9 @@ Content:
   caption-text: |-
     Copeland Gallery
 
-    **[Where You Are Not](/aomori)**
+    *[Where You Are Not](/aomori)*
 
-    Forest III, 2017; Dissipate II, 2017; City II, 2017
+    *Forest III*, 2017; *Dissipate II*, 2017; *City II*, 2017
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
