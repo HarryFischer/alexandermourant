@@ -34,8 +34,38 @@ Content:
   image-position: 
   image-margin-right: 
   entry-heading-text: TRIPOD (after Lew Thomas) (2020)
-  entry-body-text: 
+  entry-body-text: 'On a bright summer’s day, place a camera on a tripod onto a large
+    sheet of cyanotype sensitised paper (approximately 3 x 2m). Point the camera downwards,
+    towards the paper, and take a photograph. The camera will photograph its own shadow
+    and that of the tripod’s on the paper. As the apparatus continues to create a
+    shadow on the paper, the cyanotype will expose and record its presence as a photogram.
+    After the exposure, remove the camera and tripod and wash / fix the paper. Once
+    dry, place the paper on the floor, then place the camera and tripod back on the
+    same spot it once stood (indicated by the recorded shadow on the cyanotype). This
+    setup now becomes a permanent sculpture - the camera, tripod and cyanotype paper
+    are never to be separated. On the wall behind the sculpture, place the framed
+    photograph that the camera took when initially recording its own shadow exposing
+    on the cyanotype. With an additonal camera, photograph this sculpture/installation
+    as a work in its own right. Frame and place this installation photograph on the
+    wall directly next to the original photograph made by the camera which has now
+    become a sculpture. Every time the work is shown in an exhibition, an additional
+    installation photograph must be taken, framed, and then placed on the wall, next
+    to the original photographs, which then in turn becomes a part of the piece. '
   entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: Part of a Whole (2020)
+  entry-body-text: "Greenhouse glass photogram diptych. This piece is 50% completed
+    and awaits framing. It's an additonal work that joins the ongoing series, *I Could
+    Not Tell Glass from Air*. \n"
+  entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ.jpg"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
