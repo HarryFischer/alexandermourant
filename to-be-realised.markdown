@@ -122,7 +122,7 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: 
+  entry-heading-text: A Performance to Ask the Image to Collaborate (2020)
   entry-body-text: |-
     Artist to place a steel vitrine (approximately 2m x 90cm) in a studio space. Ensure the base of the vitrine is replaced with a sheet of clear rigid acrylic. Prepare hundreds of collodion plate negatives that depict the subject of the greenhouse. To record the following performance, position a camera with a view of the vitrine with space either side for the Artist to walk. Over an unspecified length of time, the Artist will throw and drop collodion plate negatives into the vitrine. It is expected the glass plates will shatter, causing shards and fragments of images to scatter at random across the base of the vitrine. Artist to continue dropping negatives until every negative is shattered. Once complete, stop the camera from filming.<br>
     <br>
