@@ -69,6 +69,70 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: An Image That Holds Its Heat (2020)
+  entry-body-text: Purchase or construct a large Victorian cloche. Remove the glass
+    panels and print images of the greenhouses onto the glass plates via collodion
+    process. Alternatively, lay ivy or other flora found at the greenhouses onto sensitised
+    collodion glass plates and create a photogram. Reassemble cloche with collodion
+    glass plates. Present collodion cloche as sculpture on thin steel plinth.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: A Cluster of Cloches (2020)
+  entry-body-text: Multiple miniature collodion cloches with a panel of glass making
+    up each of its four sides with additional four triangle sections for the “roof”.
+    Place groups of these cloches, forming clusters, around the exhibition space,
+    in the corners and centre of the space.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 'The Pyramid (2020) '
+  entry-body-text: 'Thin steel pyramid frame sculpture (approximately 2m H x 60cm
+    W). Place small triangular piece of glass that has an image printed on it via
+    collodion process at the top. At the base of the pyramid, place a triangular silver
+    gelatin print that has been exposed by using the small triangular piece of glass
+    as a negative. '
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 
+  entry-body-text: |-
+    Artist to place a steel vitrine (approximately 2m x 90cm) in a studio space. Ensure the base of the vitrine is replaced with a sheet of clear rigid acrylic. Prepare hundreds of collodion plate negatives that depict the subject of the greenhouse. To record the following performance, position a camera with a view of the vitrine with space either side for the Artist to walk. Over an unspecified length of time, the Artist will throw and drop collodion plate negatives into the vitrine. It is expected the glass plates will shatter, causing shards and fragments of images to scatter at random across the base of the vitrine. Artist to continue dropping negatives until every negative is shattered. Once complete, stop the camera from filming.<br>
+    <br>
+    In the darkroom, the Artist will create a large photogram on silver gelatin paper that records the chance shapes and interactions created by the glass shards falling into the vitrine. After developing a successful print, the Artist is then required to collect all the shattered glass negatives from the vitrine, and reperform the process. The Artist continuously reorders the images in the vitrine through the medium of chance, and documents the iterations generated via silver gelatin photogram prints.<br>
+    <br>
+    The resulting prints should be exhibited hung in a line on a wall. The vitrine with remaining glass shards sits in the centre of the exhibition space. The walls are painted dark grey of black with soft spotlights, bathing the interior of the vitrine and silver gelatine prints with light. The installation is accompanied by the original sound recordings of the greenhouse site by musician Lorenzo Burgio.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: proposals
 ---
 
