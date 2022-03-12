@@ -29,11 +29,11 @@ Content:
   text-margin-right: 
 - image: 
   video: 
-  caption-text: TRIPOD (after Lew Thomas) (2020)
+  caption-text: 
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: 
+  entry-heading-text: TRIPOD (after Lew Thomas) (2020)
   entry-body-text: 
   entry-image: 
   entry-two-image: 
