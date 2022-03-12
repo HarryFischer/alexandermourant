@@ -215,7 +215,10 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
-  caption-text: 
+  caption-text: |-
+    <br>
+    <br>
+    <br>
   image-size: medium
   image-position: middle
   image-margin-right: medium
