@@ -64,6 +64,36 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
+- image: "/uploads/BellTowerNew-1.jpg"
+  caption-text: |-
+    The Old Rectory
+
+    *[The Bell Tower](/the-bell-tower)*
+
+    *An Attempt to Flood the Photograph*, 2020
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/BellTowerNew-2.jpg"
+  caption-text: |-
+    The Old Rectory
+
+    *[The Bell Tower](/the-bell-tower)*
+
+    *Mechanism*, 2020
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Mechanism-3.jpg"
+  caption-text: |-
+    The Old Rectory
+
+    *[The Bell Tower](/the-bell-tower)*
+
+    *AATFTP*, 2020; *Mechanism*, 2020
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 - image: "/uploads/The-Eye-Sees,-Arles-2---Alexander-Mourant---2020.jpg"
   caption-text: |-
     The Eye Sees, Arles
