@@ -133,6 +133,39 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: An Image Emerges from the Forest (2020)
+  entry-body-text: Durational assemblage silver gelatin photogram piece (1.2 x 3m)
+    with ivy, framed in steel. In the darkroom, hang a sheet of fibre-based paper
+    (1.2 x 3m) on the wall. Next, layer a “curtain” of ivy on top of the paper. Once
+    completed, stand back and make an exposure using torch lights. An image of the
+    ivy will be recorded as a photogram on the paper. To finish the work, frame the
+    print in a large steel frame and place the curtain of ivy hanging, within the
+    frame, but 8cm away from the print. The ivy object will obscure its own image.
+    Photograph the work installed on a gallery wall. During the exhibition and lifespan
+    of the work, the hanging ivy will decay and rot slowly over time, eventually falling
+    from the piece and revealing its image in its wake.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 
+  entry-body-text: 
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: proposals
 ---
 
