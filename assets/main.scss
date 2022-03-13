@@ -40,7 +40,7 @@ body {
   border-bottom: 1px solid black;
   min-height: 43px;
   @media (min-width: 700px) {
-    min-height: 50px;
+    min-height: 55px;
   }
   .site-title {
     font-size: 15px;
@@ -198,38 +198,34 @@ body {
           bottom: 0;
         }
 
-
         $timeOffset: 0.5s;
         $aniLength: 1s;
         // 0.5s in, 1s solid, 0.5s out = 2sec
 
         .artwork-link {
-            opacity:0;
-            animation-name: animation;
-            animation-duration: $aniLength;
-            animation-timing-function: ease-in-out;
-            animation-fill-mode: forwards;
-            animation-iteration-count: 1;
+          opacity: 0;
+          animation-name: animation;
+          animation-duration: $aniLength;
+          animation-timing-function: ease-in-out;
+          animation-fill-mode: forwards;
+          animation-iteration-count: 1;
         }
 
         @for $i from 1 through 20 {
-            .item:nth-child(#{$i}){
-                // units are in the variable so SCSS just does math
-                animation-delay: $i * $timeOffset;
-            }
+          .item:nth-child(#{$i}) {
+            // units are in the variable so SCSS just does math
+            animation-delay: $i * $timeOffset;
+          }
         }
 
         @keyframes animation {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
+          0% {
+            opacity: 0;
+          }
+          100% {
+            opacity: 1;
+          }
         }
-
-
-
 
         .artwork-link {
           margin: 10px 0;
@@ -284,7 +280,7 @@ body {
   }
   .inner-content {
     @media (min-width: 700px) {
-      height: calc(100vh - 50px);
+      height: calc(100vh - 55px);
       // padding: 0 0 0 20px;
       // max-height: 80vh;
     }
@@ -351,6 +347,7 @@ body {
 
     .image-wrapper {
       // image size
+      transform: translateY(-20px);
       .xsmall {
         width: auto;
         height: 30vh;
@@ -380,7 +377,9 @@ body {
         }
       }
       & + .caption-wrapper {
-        // position: absolute;
+        position: absolute;
+        transform: translateY(-20px);
+        width: 300px;
       }
     }
 
@@ -445,7 +444,7 @@ body {
       padding-right: 10px;
       padding-bottom: 100px;
       &__heading {
-        font-size: 30px;
+        font-size: 25px;
       }
       &__body {
       }
@@ -636,7 +635,7 @@ body {
   flex-direction: column;
   @media (min-width: 700px) {
     flex-direction: row;
-    height: calc(100vh - 50px);
+    height: calc(100vh - 55px);
   }
   &__left,
   &__right {
@@ -759,7 +758,7 @@ body {
       right: 0;
       bottom: 0;
       width: 100%;
-      height: calc(100vh - 50px);
+      height: calc(100vh - 55px);
       // z-index: -1;
       visibility: hidden;
       z-index: 3;
@@ -973,20 +972,26 @@ body {
 .olsar {
   margin-left: auto;
   margin-right: auto;
+  &.link-container {
+    margin-left: 20px;
+  }
   .caption-wrapper {
     margin: auto;
     margin-left: 20px;
     // width: 190px;
     min-height: unset !important;
-     
-      @media (min-width: 700px) {
-        // min-height: 105px;
-        // min-width: 100%;
-        width: 270px;
-        margin-left: 20px;
-        margin-right: 20px;
-      }
-    
+    &.olsar {
+      margin-left: 0;
+    }
+
+    @media (min-width: 700px) {
+      // min-height: 105px;
+      // min-width: 100%;
+      width: 270px;
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+
     p {
       margin-bottom: 0;
     }
@@ -1030,6 +1035,9 @@ body {
   &-five {
     margin-left: 10px;
     margin-right: unset;
+    &:nth-child(1) {
+      margin-left: 0;
+    }
   }
 }
 
@@ -1060,8 +1068,8 @@ body {
 
 .video {
   .link-container {
-    margin-left: auto!important;
-    margin-right: auto!important;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
   // .wrapper .inner-content .link-container {
   //   margin-top: 50vh;
@@ -1093,6 +1101,7 @@ body {
   // transition: opacity 0.2s ease;
   .inner-wrapper {
     transition: opacity 0.2s ease;
+    transition-delay: 0.5s;
     // animation: addOpacity 0.2s ease;
   }
   .inner-wrapper.closed {

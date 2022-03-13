@@ -33,19 +33,19 @@ window.addEventListener("load", function(){
 
 
 
-if(window.parent.document.querySelector("iframe").classList.contains("fill-me")) {
-  console.log("true")
-  const mq = window.matchMedia('(min-width: 700px)');
-  // const scrollContainer = document.getElementById("#content-wrapper")
-  const scrollContainer = document.querySelector(".wrapper")
-  console.log(scrollContainer)
+// if(window.parent.document.querySelector("iframe").classList.contains("fill-me")) {
+//   console.log("true")
+//   const mq = window.matchMedia('(min-width: 700px)');
+//   // const scrollContainer = document.getElementById("#content-wrapper")
+//   const scrollContainer = document.querySelector(".wrapper")
+//   console.log(scrollContainer)
 
-  if(mq.matches) {
-    console.log("TRUE")
-    scrollContainer.addEventListener("wheel", (evt) => {
-      // evt.preventDefault();
-      scrollContainer.scrollLeft += evt.deltaY;
-    })
-  }
-}
+//   if(mq.matches) {
+//     console.log("TRUE")
+//     scrollContainer.addEventListener("wheel", (evt) => {
+//       // evt.preventDefault();
+//       scrollContainer.scrollLeft += evt.deltaY;
+//     })
+//   }
+// }
 
