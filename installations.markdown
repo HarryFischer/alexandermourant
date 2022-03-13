@@ -270,6 +270,30 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/BellTowerNew-1.jpg"
+  caption-text: |-
+    The Old Rectory
+    *[The Bell Tower](/the-bell-tower)*
+    *An Attempt to Flood the Photograph*, 2020
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/BellTowerNew-2.jpg"
+  caption-text: |-
+    The Old Rectory
+    *[The Bell Tower](/the-bell-tower)*
+    *Mechanism*, 2020
+  image-size: 
+  image-position: 
+  image-margin-right: 
+- image: "/uploads/Mechanism-3.jpg"
+  caption-text: |-
+    The Old Rectory
+    *[The Bell Tower](/the-bell-tower)*
+    *An Attempt to Flood the Photograph*, 2020; *Mechanism*, 2020
+  image-size: 
+  image-position: 
+  image-margin-right: 
 Words:
 - interview text: 
 layout: installations
