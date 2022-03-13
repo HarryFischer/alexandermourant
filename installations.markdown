@@ -67,7 +67,9 @@ Content:
 - image: "/uploads/BellTowerNew-1.jpg"
   caption-text: |-
     The Old Rectory
+
     *[The Bell Tower](/the-bell-tower)*
+
     *An Attempt to Flood the Photograph*, 2020
   image-size: medium
   image-position: middle
@@ -75,7 +77,9 @@ Content:
 - image: "/uploads/BellTowerNew-2.jpg"
   caption-text: |-
     The Old Rectory
+
     *[The Bell Tower](/the-bell-tower)*
+
     *Mechanism*, 2020
   image-size: medium
   image-position: middle
@@ -83,7 +87,9 @@ Content:
 - image: "/uploads/Mechanism-3.jpg"
   caption-text: |-
     The Old Rectory
+
     *[The Bell Tower](/the-bell-tower)*
+
     *An Attempt to Flood the Photograph*, 2020; *Mechanism*, 2020
   image-size: medium
   image-position: middle
