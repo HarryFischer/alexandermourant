@@ -90,7 +90,7 @@ Content:
 
     *[The Bell Tower](/the-bell-tower)*
 
-    *An Attempt to Flood the Photograph*, 2020; *Mechanism*, 2020
+    *AATFTP*, 2020; *Mechanism*, 2020
   image-size: medium
   image-position: middle
   image-margin-right: medium
