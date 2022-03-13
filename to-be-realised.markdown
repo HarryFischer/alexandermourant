@@ -160,8 +160,19 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: 
-  entry-body-text: 
+  entry-heading-text: The Instant and Its Shadow (2020)
+  entry-body-text: 'This work is related to An Image Emerges from the Forest (2020)
+    but utilises other flora to create a photogram assemblage work. For this piece,
+    take a branch from a fallen tree, and create a photogram of it on a large sheet
+    of silver gelatin paper (approx 2m x 5m). Scale for this piece will vary depending
+    on the resources available and feasibility of creation. Once the photogram is
+    made, place it inside a large steel vitrine, or low lying tray frame. This installation
+    can be displayed in two ways: first, place the print on the floor of the space,
+    and hang the branch horizontally from the roof, directly above the print, leaving
+    approximately an 80cm gap; second, frame the print in a large, vertical, floor
+    standing vitrine / tray frame, and place in the exhibition space, then position
+    the branch upright too, with the help of steel supports directly in front of the
+    print, leaving an 80cm gap.'
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
