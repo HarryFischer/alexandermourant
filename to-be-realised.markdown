@@ -177,6 +177,70 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: A Sculpture That Sees (2020)
+  entry-body-text: Wide reaching multiple arm interconnecting sculpture that has a
+    mixture of collodion plate photographs, organic materials and silver gelatin photograms,
+    arranged in such a way that the movement around, and through the sculpture, brings
+    into view the alignment and potential ‘formation’ of images. This work seeks to
+    materialise the physical equivalence of a mental image process when visiting and
+    photographing a given space.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 'Under the Earth Lies a Glass Shelf (2021) '
+  entry-body-text: 'Dig a large hole in the earth, approximately 8-10m deep and 2m
+    x 1.6m in size. On the base of the hole, layer sheets of glass. Photograph the
+    sculpture from outside looking down into the hole, attempt to catch the shimmer
+    of glass or a subtle refection. '
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 'Island of Misplaced Dreams (2021) '
+  entry-body-text: 'Assemblage sculpture on pallet board. Place a large wooden central
+    support column in the centre of the pallet, use this as the core of the sculpture
+    and build outwards. Collect and assemble sporadic materials found on the farmyard
+    to place onto the island. '
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: That Image of You Is All That I’ve Known (2021)
+  entry-body-text: Performance sculpture using glass splashback (approximately 50cm
+    x 3m) from the Artist’s family kitchen. In the studio space, the Artist will place
+    the glass on the floor, and gently lift one end, slowly increasing the gradient
+    of the glass until it’s almost vertical, but continuously held by the support
+    of the Artist. Take a photograph to document the Artist supporting the weight
+    of the glass.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: proposals
 ---
 
