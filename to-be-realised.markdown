@@ -241,6 +241,36 @@ Content:
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: The Painter’s Painter (2021)
+  entry-body-text: Super 8mm short film portrait of painter Quentin Martin. Following
+    Quentin at home, packing the car, ready to drive to a location in which to paint.
+    The film is to follow the entire process or driving, arriving, setting up an easel
+    and priming the canvas in the landscape, to the end of the finished painting.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 'The Sculptor’s Sculptor (2021) '
+  entry-body-text: Super 8mm short film portrait of sculptor Rufus Martin. Following
+    Rufus at home, in the studio, sketching a life model and preparing clay to sculpt.
+    The film is to follow the entire process of sculpting the model’s bust, to the
+    creation of a wax mould, and the eventual casting of the bust in bronze.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
 layout: proposals
 ---
 
