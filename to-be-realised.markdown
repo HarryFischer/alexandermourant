@@ -9,20 +9,21 @@ Content:
   image-position: 
   image-margin-right: 
   entry-heading-text: To Be Realised
-  entry-body-text: "This section puts forwards proposals for artworks that I am currently
+  entry-body-text: "*This section puts forwards proposals for artworks that I am currently
     unable to create, due to time pressures, space requirements or lack of funds.
     Often, for emerging artists, the ability to create artworks requires the harmonious
     meeting of not just one, but all three of these elements simultaneously: time,
-    space and money.<br> \n<br>\nAs a conceptual artist, many of my works are rigorously
+    space and money.*<br> \n<br>\n*As a conceptual artist, many of my works are rigorously
     considered, and have references and meaning already assigned before creation.
     It is frustrating that these works live within my mind, and in a sense, are already
     created, it’s just I cannot yet transfer them to you without a physical materialisation.
-    Each work is marked by the year it was conceived.<br> \n<br>\nIt is my hope this
-    page will serve as a catalogue, representing the artworks I intend to create in
-    the future. If you are interested in learning more about a particular work, or
-    wish to commission or help realise the production of a piece, please do get in
-    touch. I am very open to collaboration and dedicated to the creation of these
-    works for exhibitions or private collections.<br>\n<br> \nContact: alexander@alexandermourant.com "
+    Each work is marked by the year it was conceived.*<br> \n<br>\n*It is my hope
+    this page will serve as a catalogue, representing the artworks I intend to create
+    in the future. If you are interested in learning more about a particular work,
+    or wish to commission or help realise the production of a piece, please do get
+    in touch. I am very open to collaboration and dedicated to the creation of these
+    works for exhibitions or private collections.*<br>\n<br> \n**Contact: alexander@alexandermourant.com
+    **"
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
