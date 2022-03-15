@@ -47,32 +47,7 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: North East South West (2020)
-  entry-body-text: Place a camera on a tripod in the centre of a field with long grass,
-    ideally in summer, just before the grass is harvested. Point the camera towards
-    north. The artist holding a strimmer and a 10m shutter release (attached to the
-    camera), must walk away from the camera in a straight line whilst strimming. The
-    artist must walk as far away as the shutter cable will allow. Once maximum extension
-    is reached, the artist must face right, and take a photograph. Whilst strimming,
-    the artist must then walk in a clockwise direction, around the camera, guided
-    by, and at full extension of, the shutter cable, in order to create a perfect
-    circle around the camera at a 10m distance. Artist must stop at each quarter of
-    the circle to take a photograph (east, south and west, before returning to north).
-    An assistant must swivel the camera on its tripod head to point the lens towards
-    the artist. Once the outer circle line is completed, remove the camera from the
-    centre, and strim the remaining grass and inner area of the circle. To finish,
-    photograph the circle from outside the circle.
-  entry-image: 
-  entry-two-image: 
-  entry-meta-text: 
-  text-margin-right: 
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
-  entry-heading-text: TRIPOD (after Lew Thomas) (2020)
+  entry-heading-text: Tripod (after Lew Thomas) (2020)
   entry-body-text: 'On a bright summer’s day, place a camera on a tripod onto a large
     sheet of cyanotype sensitised paper (approximately 3 x 2m). Point the camera downwards,
     towards the paper, and take a photograph. The camera will photograph its own shadow
@@ -93,6 +68,31 @@ Content:
   entry-image: "/uploads/IMG_4150.jpg"
   entry-two-image: 
   entry-meta-text: Lew Thomas, *Tripod*, 1972.
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: North East South West (2020)
+  entry-body-text: Place a camera on a tripod in the centre of a field with long grass,
+    ideally in summer, just before the grass is harvested. Point the camera towards
+    north. The artist holding a strimmer and a 10m shutter release (attached to the
+    camera), must walk away from the camera in a straight line whilst strimming. The
+    artist must walk as far away as the shutter cable will allow. Once maximum extension
+    is reached, the artist must face right, and take a photograph. Whilst strimming,
+    the artist must then walk in a clockwise direction, around the camera, guided
+    by, and at full extension of, the shutter cable, in order to create a perfect
+    circle around the camera at a 10m distance. Artist must stop at each quarter of
+    the circle to take a photograph (east, south and west, before returning to north).
+    An assistant must swivel the camera on its tripod head to point the lens towards
+    the artist. Once the outer circle line is completed, remove the camera from the
+    centre, and strim the remaining grass and inner area of the circle. To finish,
+    photograph the circle from outside the circle.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
   text-margin-right: 
 - image: 
   video: 
@@ -186,7 +186,7 @@ Content:
   image-position: 
   image-margin-right: 
   entry-heading-text: The Instant and Its Shadow (2020)
-  entry-body-text: 'This work is related to An Image Emerges from the Forest (2020)
+  entry-body-text: 'This work is related to *An Image Emerges from the Forest* (2020)
     but utilises other flora to create a photogram assemblage work. For this piece,
     take a branch from a fallen tree, and create a photogram of it on a large sheet
     of silver gelatin paper (approx 2m x 5m). Scale for this piece will vary depending
@@ -216,6 +216,36 @@ Content:
     materialise the physical equivalence of a mental image process when visiting and
     photographing a given space.
   entry-image: "/uploads/JournalSketches-AlexanderMourant-1.jpg"
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: The Painter’s Painter (2021)
+  entry-body-text: Super 8mm short film portrait of painter Quentin Martin. Following
+    Quentin at home, packing the car, ready to drive to a location in which to paint.
+    The film is to follow the entire process or driving, arriving, setting up an easel
+    and priming the canvas in the landscape, to the end of the finished painting.
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 'The Sculptor’s Sculptor (2021) '
+  entry-body-text: Super 8mm short film portrait of sculptor Rufus Martin. Following
+    Rufus at home, in the studio, sketching a life model and preparing clay to sculpt.
+    The film is to follow the entire process of sculpting the model’s bust, to the
+    creation of a wax mould, and the eventual casting of the bust in bronze.
+  entry-image: 
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
@@ -263,36 +293,6 @@ Content:
     of the Artist. Take a photograph to document the Artist supporting the weight
     of the glass.
   entry-image: "/uploads/JournalSketches-AlexanderMourant-2.jpg"
-  entry-two-image: 
-  entry-meta-text: 
-  text-margin-right: 
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
-  entry-heading-text: The Painter’s Painter (2021)
-  entry-body-text: Super 8mm short film portrait of painter Quentin Martin. Following
-    Quentin at home, packing the car, ready to drive to a location in which to paint.
-    The film is to follow the entire process or driving, arriving, setting up an easel
-    and priming the canvas in the landscape, to the end of the finished painting.
-  entry-image: 
-  entry-two-image: 
-  entry-meta-text: 
-  text-margin-right: 
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
-  entry-heading-text: 'The Sculptor’s Sculptor (2021) '
-  entry-body-text: Super 8mm short film portrait of sculptor Rufus Martin. Following
-    Rufus at home, in the studio, sketching a life model and preparing clay to sculpt.
-    The film is to follow the entire process of sculpting the model’s bust, to the
-    creation of a wax mould, and the eventual casting of the bust in bronze.
-  entry-image: 
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
