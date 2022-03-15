@@ -39,7 +39,7 @@ Content:
     Not Tell Glass from Air*. \n"
   entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ.jpg"
   entry-two-image: 
-  entry-meta-text: "*Part of a Whole* render, 2020"
+  entry-meta-text: "*Part of a Whole*, Artist's Render, 2020"
   text-margin-right: 
 - image: 
   video: 
@@ -108,7 +108,7 @@ Content:
     glass plates. Present collodion cloche as sculpture on thin steel plinth.
   entry-image: "/uploads/JournalSketches-AlexanderMourant-5.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*An Image That Holds Its Heat*, Artist's Sketch, 2022"
   text-margin-right: 
 - image: 
   video: 
@@ -123,7 +123,7 @@ Content:
     in the corners and centre of the space.
   entry-image: "/uploads/JournalSketches-AlexanderMourant-7.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*A Cluster of Cloches*, Artist's Sketch, 2022"
   text-margin-right: 
 - image: 
   video: 
@@ -139,7 +139,7 @@ Content:
     as a negative. '
   entry-image: "/uploads/JournalSketches-AlexanderMourant-3.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*The Pyramid*, Artist's Sketch, 2022"
   text-margin-right: 
 - image: 
   video: 
@@ -177,7 +177,7 @@ Content:
     from the piece and revealing its image in its wake.
   entry-image: "/uploads/JournalSketches-AlexanderMourant-4.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*An Image Emerges from the Forest*, Artist's Sketch, 2022"
   text-margin-right: 
 - image: 
   video: 
@@ -200,7 +200,7 @@ Content:
     print, leaving an 80cm gap.'
   entry-image: "/uploads/JournalSketches-AlexanderMourant-6.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*The Instant and Its Shadow*, Artist's Sketch, 2022"
   text-margin-right: 
 - image: 
   video: 
@@ -217,7 +217,7 @@ Content:
     photographing a given space.
   entry-image: "/uploads/JournalSketches-AlexanderMourant-1.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*A Sculpture That Sees*, Artist's Sketch, 2022"
   text-margin-right: 
 - image: 
   video: 
@@ -262,7 +262,7 @@ Content:
     of glass or a subtle refection. '
   entry-image: "/uploads/JournalSketches-AlexanderMourant-9.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*Under the Earth Lies a Glass Shelf*, Artist's Sketch, 2021"
   text-margin-right: 
 - image: 
   video: 
@@ -277,7 +277,7 @@ Content:
     to place onto the island. '
   entry-image: "/uploads/JournalSketches-AlexanderMourant-8.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*Island of Misplaced Dreams*, Artist's Sketch, 2021"
   text-margin-right: 
 - image: 
   video: 
@@ -294,7 +294,7 @@ Content:
     of the glass.
   entry-image: "/uploads/JournalSketches-AlexanderMourant-2.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*That Image of You Is All That I’ve Known*, Artist's Sketch, 2021"
   text-margin-right: 
 layout: proposals
 ---
