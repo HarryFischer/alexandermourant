@@ -22,7 +22,7 @@ Content:
     future. If you are interested in learning more about a particular work, or wish
     to commission or help realise the production of a piece, please do get in touch.
     I am very open to collaboration and dedicated to the creation of these works for
-    exhibitions or private collections.*<br>\n<br> \n**Contact: alexander@alexandermourant.com**"
+    exhibitions or collections.*<br>\n<br> \n**Contact: alexander@alexandermourant.com**"
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
