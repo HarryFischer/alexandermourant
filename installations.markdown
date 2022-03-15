@@ -170,7 +170,7 @@ Content:
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    *A Gesture of Brambles*, 2020
+    *A Gesture of Brambles*, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -180,7 +180,7 @@ Content:
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    *A Gesture of Brambles*, 2020
+    *A Gesture of Brambles*, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
