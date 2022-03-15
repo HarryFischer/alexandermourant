@@ -39,7 +39,7 @@ Content:
     Not Tell Glass from Air*. \n"
   entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*Part of a Whole* render, 2020"
   text-margin-right: 
 - image: 
   video: 
