@@ -33,6 +33,20 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
+  entry-heading-text: Part of a Whole (2020)
+  entry-body-text: "Greenhouse glass photogram diptych. This piece is 50% completed
+    and awaits framing. It's an additonal work that joins the ongoing series, *I Could
+    Not Tell Glass from Air*. \n"
+  entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ.jpg"
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
   entry-heading-text: North East South West (2020)
   entry-body-text: Place a camera on a tripod in the centre of a field with long grass,
     ideally in summer, just before the grass is harvested. Point the camera towards
@@ -76,23 +90,9 @@ Content:
     become a sculpture. Every time the work is shown in an exhibition, an additional
     installation photograph must be taken, framed, and then placed on the wall, next
     to the original photographs, which then in turn becomes a part of the piece. '
-  entry-image: 
+  entry-image: "/uploads/IMG_4150.jpg"
   entry-two-image: 
-  entry-meta-text: 
-  text-margin-right: 
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
-  entry-heading-text: Part of a Whole (2020)
-  entry-body-text: "Greenhouse glass photogram diptych. This piece is 50% completed
-    and awaits framing. It's an additonal work that joins the ongoing series, *I Could
-    Not Tell Glass from Air*. \n"
-  entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ.jpg"
-  entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: Lew Thomas, *Tripod*, 1972.
   text-margin-right: 
 - image: 
   video: 
