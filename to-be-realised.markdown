@@ -15,14 +15,14 @@ Content:
     of not just one, but all three of these elements simultaneously: time, space and
     money.*<br> \n<br>\n*As a conceptual artist, many of my works are rigorously considered,
     and have references and meaning already assigned before creation. It is frustrating
-    that these works live within my mind, and in a sense, are already created, it’s
-    just I cannot yet transfer them to you without a physical materialisation. Each
-    work is marked by the year it was conceived.*<br> \n<br>\n*It is my hope this
-    page will serve as a catalogue, representing the artworks I intend to create in
-    the future. If you are interested in learning more about a particular work, or
-    wish to commission or help realise the production of a piece, please do get in
-    touch. I am very open to collaboration and dedicated to the creation of these
-    works for exhibitions or private collections.*<br>\n<br> \n**Contact: alexander@alexandermourant.com**"
+    that these works live within my mind, and in a sense, are already created, but
+    I cannot yet transfer them to you, without a physical manifestation. Each work
+    is marked by the year it was conceived.*<br> \n<br>\n*It is my hope this page
+    will serve as a catalogue, representing the artworks I intend to create in the
+    future. If you are interested in learning more about a particular work, or wish
+    to commission or help realise the production of a piece, please do get in touch.
+    I am very open to collaboration and dedicated to the creation of these works for
+    exhibitions or private collections.*<br>\n<br> \n**Contact: alexander@alexandermourant.com**"
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
