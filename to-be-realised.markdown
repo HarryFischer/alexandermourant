@@ -106,7 +106,7 @@ Content:
     process. Alternatively, lay ivy or other flora found at the greenhouses onto sensitised
     collodion glass plates and create a photogram. Reassemble cloche with collodion
     glass plates. Present collodion cloche as sculpture on thin steel plinth.
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-5.jpg"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
@@ -121,7 +121,7 @@ Content:
     up each of its four sides with additional four triangle sections for the “roof”.
     Place groups of these cloches, forming clusters, around the exhibition space,
     in the corners and centre of the space.
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-7.jpg"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
@@ -137,7 +137,7 @@ Content:
     collodion process at the top. At the base of the pyramid, place a triangular silver
     gelatin print that has been exposed by using the small triangular piece of glass
     as a negative. '
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-3.jpg"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
@@ -175,7 +175,7 @@ Content:
     Photograph the work installed on a gallery wall. During the exhibition and lifespan
     of the work, the hanging ivy will decay and rot slowly over time, eventually falling
     from the piece and revealing its image in its wake.
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-4.jpg"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
@@ -198,7 +198,7 @@ Content:
     standing vitrine / tray frame, and place in the exhibition space, then position
     the branch upright too, with the help of steel supports directly in front of the
     print, leaving an 80cm gap.'
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-6.jpg"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
@@ -215,7 +215,7 @@ Content:
     into view the alignment and potential ‘formation’ of images. This work seeks to
     materialise the physical equivalence of a mental image process when visiting and
     photographing a given space.
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-1.jpg"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
@@ -230,7 +230,7 @@ Content:
     x 1.6m in size. On the base of the hole, layer sheets of glass. Photograph the
     sculpture from outside looking down into the hole, attempt to catch the shimmer
     of glass or a subtle refection. '
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-9.jpg"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
@@ -245,7 +245,7 @@ Content:
     support column in the centre of the pallet, use this as the core of the sculpture
     and build outwards. Collect and assemble sporadic materials found on the farmyard
     to place onto the island. '
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-8.jpg"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
@@ -262,7 +262,7 @@ Content:
     of the glass until it’s almost vertical, but continuously held by the support
     of the Artist. Take a photograph to document the Artist supporting the weight
     of the glass.
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-2.jpg"
   entry-two-image: 
   entry-meta-text: 
   text-margin-right: 
