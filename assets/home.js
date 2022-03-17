@@ -97,12 +97,12 @@ links.forEach((el, i) => {
       iframe.style.display = 'block'
       prevIndex = i;
       if (prevIndex <= 0) {
-        document.querySelector('.prev').style.display = "none";
+        document.querySelector('.prev').style.opacity = "0";
       } else if (prevIndex >= links.length -1) {
-         document.querySelector('.next').style.display = "none";
+         document.querySelector('.next').style.opacity = "0";
       } else {
-        document.querySelector('.next').style.display = "block";
-        document.querySelector('.prev').style.display = "block";
+        document.querySelector('.next').style.opacity = "1";
+        document.querySelector('.prev').style.opacity = "1";
       }
     } else {
       leftPanel.classList.remove("closed")
@@ -120,15 +120,15 @@ function nextURL(count) {
   }
   
   if (prevIndex <= 0) {
-    document.querySelector('.prev').style.display = "none";
+    document.querySelector('.prev').style.opacity = "0";
     document.querySelector('.prev').style['pointer-events'] = 'none';
   } else if (prevIndex === links.length -1) {
-    document.querySelector('.next').style.display = "none";
+    document.querySelector('.next').style.opacity = "0";
     document.querySelector('.next').style['pointer-events'] = 'none';
   } else {
-    document.querySelector('.next').style.display = "block";
+    document.querySelector('.next').style.opacity = "1";
     document.querySelector('.next').style['pointer-events'] = 'auto';
-    document.querySelector('.prev').style.display = "block";
+    document.querySelector('.prev').style.opacity = "1";
     document.querySelector('.prev').style['pointer-events'] = 'auto';
   }
   
