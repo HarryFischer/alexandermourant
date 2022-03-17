@@ -39,6 +39,11 @@ body {
   position: relative;
   border-bottom: 1px solid black;
   min-height: 43px;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  background-color: white;
   @media (min-width: 700px) {
     min-height: 55px;
   }
@@ -526,12 +531,6 @@ body {
 }
 
 .about {
-  .site-header {
-    position: fixed;
-    width: 100%;
-    z-index: 100;
-    background-color: white;
-  }
   // transition: background-color 0.3s ease;
   // background-color: #c2d1ca;
   &:first-child {
