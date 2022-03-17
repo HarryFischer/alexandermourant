@@ -130,7 +130,7 @@ Content:
 
     *[With fists, it kicks, it bites](/i-could-not-tell-glass-from-air)*
 
-    *Vitrum IX*, 2019
+    *Vitrum I*, 2019
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -170,7 +170,7 @@ Content:
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    *Shelter*, 2020
+    *A Gesture of Brambles*, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -180,7 +180,7 @@ Content:
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    *Shelter*, 2020
+    *A Gesture of Brambles*, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -190,7 +190,7 @@ Content:
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    *Shelter*, 2020
+    *Vitrum VI*, 2019; *Fall I & II* (diptych), 2019; *Vitrum VIII*, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -200,7 +200,7 @@ Content:
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
-    *Shelter*, 2020
+    *Vitrum X*, 2019; *Vitrum IX*, 2019; *Fall I & II* (diptych), 2019; *Vitrum VIII*, 2019; *Vitrum XI*, 2018
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -210,7 +210,7 @@ Content:
 
     *[Seen Fifteen Gallery, To Feel Its Touch](/to-feel-its-touch)*
 
-    *Peckham I*, 2019; *Chiswick II*, 2019
+    *Peckham I*, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall

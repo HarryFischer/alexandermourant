@@ -914,7 +914,7 @@ Content:
   entry-body-text: 
   entry-image: "/uploads/ClaudeCahun.png"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: 'Image: Claude Cahun'
   text-margin-right: 
 - image: 
   video: 

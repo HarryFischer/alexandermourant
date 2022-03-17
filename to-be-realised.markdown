@@ -8,6 +8,45 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
+  entry-heading-text: To Be Realised
+  entry-body-text: "*This section presents artworks that I am currently unable to
+    create, due to time pressures, space requirements or lack of funds. Often, for
+    emerging artists, the ability to create artworks requires the harmonious meeting
+    of not just one, but all three of these elements simultaneously: time, space and
+    money.*<br> \n<br>\n*As a conceptual artist, many of my works are rigorously considered,
+    and have references and meaning already assigned before creation. It is frustrating
+    that these works live within my mind, and in a sense, are already created, but
+    I cannot yet transfer them to you, without a physical manifestation. Each work
+    is marked by the year it was conceived.*<br> \n<br>\n*It is my hope this page
+    will serve as a catalogue, representing the artworks I intend to create in the
+    future. If you are interested in learning more about a particular work, or wish
+    to commission or help realise the production of a piece, please do get in touch.
+    I am very open to collaboration and dedicated to the creation of these works for
+    exhibitions or collections.*<br>\n<br> \n**Contact: alexander@alexandermourant.com**"
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: Part of a Whole (2020)
+  entry-body-text: "Greenhouse glass photogram diptych. This piece is 50% completed
+    and awaits framing. It's an additonal work that joins the ongoing series, *I Could
+    Not Tell Glass from Air*. \n"
+  entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ.jpg"
+  entry-two-image: 
+  entry-meta-text: "*Part of a Whole*, Artist's Render, 2020"
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
   entry-heading-text: North East South West (2020)
   entry-body-text: Place a camera on a tripod in the centre of a field with long grass,
     ideally in summer, just before the grass is harvested. Point the camera towards
@@ -33,7 +72,7 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: TRIPOD (after Lew Thomas) (2020)
+  entry-heading-text: Tripod (after Lew Thomas) (2020)
   entry-body-text: 'On a bright summer’s day, place a camera on a tripod onto a large
     sheet of cyanotype sensitised paper (approximately 3 x 2m). Point the camera downwards,
     towards the paper, and take a photograph. The camera will photograph its own shadow
@@ -51,23 +90,9 @@ Content:
     become a sculpture. Every time the work is shown in an exhibition, an additional
     installation photograph must be taken, framed, and then placed on the wall, next
     to the original photographs, which then in turn becomes a part of the piece. '
-  entry-image: 
+  entry-image: "/uploads/IMG_4150.jpg"
   entry-two-image: 
-  entry-meta-text: 
-  text-margin-right: 
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
-  entry-heading-text: Part of a Whole (2020)
-  entry-body-text: "Greenhouse glass photogram diptych. This piece is 50% completed
-    and awaits framing. It's an additonal work that joins the ongoing series, *I Could
-    Not Tell Glass from Air*. \n"
-  entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ.jpg"
-  entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: Lew Thomas, *Tripod*, 1972.
   text-margin-right: 
 - image: 
   video: 
@@ -81,9 +106,9 @@ Content:
     process. Alternatively, lay ivy or other flora found at the greenhouses onto sensitised
     collodion glass plates and create a photogram. Reassemble cloche with collodion
     glass plates. Present collodion cloche as sculpture on thin steel plinth.
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-5.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*An Image That Holds Its Heat*, Artist's Sketch, 2022"
   text-margin-right: 
 - image: 
   video: 
@@ -96,9 +121,9 @@ Content:
     up each of its four sides with additional four triangle sections for the “roof”.
     Place groups of these cloches, forming clusters, around the exhibition space,
     in the corners and centre of the space.
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-7.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*A Cluster of Cloches*, Artist's Sketch, 2022"
   text-margin-right: 
 - image: 
   video: 
@@ -112,9 +137,9 @@ Content:
     collodion process at the top. At the base of the pyramid, place a triangular silver
     gelatin print that has been exposed by using the small triangular piece of glass
     as a negative. '
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-3.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*The Pyramid*, Artist's Sketch, 2022"
   text-margin-right: 
 - image: 
   video: 
@@ -150,9 +175,9 @@ Content:
     Photograph the work installed on a gallery wall. During the exhibition and lifespan
     of the work, the hanging ivy will decay and rot slowly over time, eventually falling
     from the piece and revealing its image in its wake.
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-4.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*An Image Emerges from the Forest*, Artist's Sketch, 2022"
   text-margin-right: 
 - image: 
   video: 
@@ -161,7 +186,7 @@ Content:
   image-position: 
   image-margin-right: 
   entry-heading-text: The Instant and Its Shadow (2020)
-  entry-body-text: 'This work is related to An Image Emerges from the Forest (2020)
+  entry-body-text: 'This work is related to *An Image Emerges from the Forest* (2020)
     but utilises other flora to create a photogram assemblage work. For this piece,
     take a branch from a fallen tree, and create a photogram of it on a large sheet
     of silver gelatin paper (approx 2m x 5m). Scale for this piece will vary depending
@@ -173,9 +198,9 @@ Content:
     standing vitrine / tray frame, and place in the exhibition space, then position
     the branch upright too, with the help of steel supports directly in front of the
     print, leaving an 80cm gap.'
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-6.jpg"
   entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*The Instant and Its Shadow*, Artist's Sketch, 2022"
   text-margin-right: 
 - image: 
   video: 
@@ -190,56 +215,9 @@ Content:
     into view the alignment and potential ‘formation’ of images. This work seeks to
     materialise the physical equivalence of a mental image process when visiting and
     photographing a given space.
-  entry-image: 
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-1.jpg"
   entry-two-image: 
-  entry-meta-text: 
-  text-margin-right: 
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
-  entry-heading-text: 'Under the Earth Lies a Glass Shelf (2021) '
-  entry-body-text: 'Dig a large hole in the earth, approximately 8-10m deep and 2m
-    x 1.6m in size. On the base of the hole, layer sheets of glass. Photograph the
-    sculpture from outside looking down into the hole, attempt to catch the shimmer
-    of glass or a subtle refection. '
-  entry-image: 
-  entry-two-image: 
-  entry-meta-text: 
-  text-margin-right: 
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
-  entry-heading-text: 'Island of Misplaced Dreams (2021) '
-  entry-body-text: 'Assemblage sculpture on pallet board. Place a large wooden central
-    support column in the centre of the pallet, use this as the core of the sculpture
-    and build outwards. Collect and assemble sporadic materials found on the farmyard
-    to place onto the island. '
-  entry-image: 
-  entry-two-image: 
-  entry-meta-text: 
-  text-margin-right: 
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
-  entry-heading-text: That Image of You Is All That I’ve Known (2021)
-  entry-body-text: Performance sculpture using glass splashback (approximately 50cm
-    x 3m) from the Artist’s family kitchen. In the studio space, the Artist will place
-    the glass on the floor, and gently lift one end, slowly increasing the gradient
-    of the glass until it’s almost vertical, but continuously held by the support
-    of the Artist. Take a photograph to document the Artist supporting the weight
-    of the glass.
-  entry-image: 
-  entry-two-image: 
-  entry-meta-text: 
+  entry-meta-text: "*A Sculpture That Sees*, Artist's Sketch, 2022"
   text-margin-right: 
 - image: 
   video: 
@@ -270,6 +248,53 @@ Content:
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 'Under the Earth Lies a Glass Shelf (2021) '
+  entry-body-text: 'Dig a large hole in the earth, approximately 8-10m deep and 2m
+    x 1.6m in size. On the base of the hole, layer sheets of glass. Photograph the
+    sculpture from outside looking down into the hole, attempt to catch the shimmer
+    of glass or a subtle refection. '
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-9.jpg"
+  entry-two-image: 
+  entry-meta-text: "*Under the Earth Lies a Glass Shelf*, Artist's Sketch, 2021"
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: 'Island of Misplaced Dreams (2021) '
+  entry-body-text: 'Assemblage sculpture on pallet board. Place a large wooden central
+    support column in the centre of the pallet, use this as the core of the sculpture
+    and build outwards. Collect and assemble sporadic materials found on the farmyard
+    to place onto the island. '
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-8.jpg"
+  entry-two-image: 
+  entry-meta-text: "*Island of Misplaced Dreams*, Artist's Sketch, 2021"
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: That Image of You Is All That I’ve Known (2021)
+  entry-body-text: Performance sculpture using glass splashback (approximately 50cm
+    x 3m) from the Artist’s family kitchen. In the studio space, the Artist will place
+    the glass on the floor, and gently lift one end, slowly increasing the gradient
+    of the glass until it’s almost vertical, but continuously held by the support
+    of the Artist. Take a photograph to document the Artist supporting the weight
+    of the glass.
+  entry-image: "/uploads/JournalSketches-AlexanderMourant-2.jpg"
+  entry-two-image: 
+  entry-meta-text: "*That Image of You Is All That I’ve Known*, Artist's Sketch, 2021"
   text-margin-right: 
 layout: proposals
 ---
