@@ -568,6 +568,12 @@ body {
       }
     }
     overflow: visible;
+    .education-wrapper {
+      @media (max-width: 700px) {
+        width: calc(50% - 10px);
+        margin-left: 15px;
+      }
+    }
     .education-block {
       margin-top: 40px;
 
