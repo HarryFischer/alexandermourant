@@ -10,11 +10,13 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 Words:
-- interview-text: "# A Vertigo Like Self\n<br>\n<br>\n*The boat leaves a foamy trail
-    behind it as it arrives one morning to the Island. Some come here to forget about
-    the rest of the world, while for others this land is their whole world – fertile
-    soil inhaling salty air, exhaling sweet water. Some visit and others never float
-    away, some take the Island’s likeness, while others only hold it in their memories.
+- interview-text: "# A Vertigo Like Self\n<br>\n<br>\n*Insular Time: Cinematic Duration
+    and the Enduring Self* by Laura Bivolaru on *A Vertigo Like Self*, 2021, originally
+    published on Revolv Collective:\n<br>\n<br>\n*The boat leaves a foamy trail behind
+    it as it arrives one morning to the Island. Some come here to forget about the
+    rest of the world, while for others this land is their whole world – fertile soil
+    inhaling salty air, exhaling sweet water. Some visit and others never float away,
+    some take the Island’s likeness, while others only hold it in their memories.
     In the meantime, water moves around the Island, inside the earth, across the sky.*\n<br>\n<br>\n*Even
     after satellites mapped the entire surface of the earth and didn’t leave any land
     to be discovered, islands have remained in the collective imagination somewhere
@@ -100,9 +102,7 @@ Words:
     temporality comes into being - the narrative, made up by segments of time, and
     the film falling uninterruptedly. An insular time takes shape out of this ambivalence,
     one that allows the experience of duration without shock, granting consciousness
-    the solid ground from where to simply perceive the flow.*\n<br>\n<br>\n*Insular
-    Time: Cinematic Duration and the Enduring Self* by Laura Bivolaru, 2021, originally
-    published on Revolv Collective"
+    the solid ground from where to simply perceive the flow.* - Laura Bivolaru"
 layout: video
 ---
 
