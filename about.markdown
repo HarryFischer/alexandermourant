@@ -117,7 +117,7 @@ Education:
 
     2017 - South West Graduate Photography Prize - Finalist
 
-    2016 - The National Council for Voluntary Organisations and PhotoVoice Photography Prize - Finalist
+    2016 - NCVO and PhotoVoice Photography Prize - Finalist
 
     2015 - Jersey Arts Centre's, Original Student Art Award - Winner
 
