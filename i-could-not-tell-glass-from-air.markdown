@@ -287,7 +287,7 @@ Words:
     it was the surreality of it, of learning that which surrounds you, was a clear,
     glass box, the atmosphere of which compresses you, until at last, you were urged
     by your last breath, to reach out, and touch the surface. When you went to touch
-    the glass you realised it was not glass at all, but air.*\n<br>\n<br>\nI suspect,
+    the glass you realised it was not glass at all, but air.*\n<br>\n<br>\n*I suspect,
     without knowing it, I’ve found myself in the midst of it, in an ever expanding,
     ever turning, spectrum of research. I’ve learnt many others have found a solitude
     in it, lying, comforted, underneath sheets of glass: Derek Jarman, use to literally
