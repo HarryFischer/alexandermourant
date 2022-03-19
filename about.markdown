@@ -151,7 +151,7 @@ Education:
 
     2020 - Dulwich Picture Gallery, In View, *The Lightness*, Summer
 
-    2020 - Folium Publishing, foreword by Tom Lovelace and Penelope Umbrico, *fall into place*
+    2020 - Folium Publishing, *fall into place*, foreword by Tom Lovelace and Penelope Umbrico
 
     2019 - Photograph, Jan/Feb, 30th Anniversary Special
 
