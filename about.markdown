@@ -8,7 +8,10 @@ Content:
     Instagram: @alexandermourant
     <br>
     <br>
-    Alexander Mourant is an artist based in London. He is currently a Visiting Lecturer and Tutor on BA (Hons) Photography at University of Westminster. His work has been included in publications such as FT Weekend Magazine, British Journal of Photography, Photograph, Unseen Magazine and The Greatest Magazine. Solo shows include Aomori at The Old Truman Brewery and Unseen Amsterdam, alongside group shows at Edel Assanti, Saatchi Gallery and Peckham 24. Mourant is a recipient of grants from ArtHouse Jersey, Jersey Bursary and Arts Council England. He has won the Free Range Award and was nominated for Foam Paul Huf Award. In 2020, Mourant became a member of Revolv Collective. He achieved BA Photography at Falmouth University, and MA Photography at Royal College of Art, London.
+    Alexander Mourant is an artist based in London. His work has been included in publications such as FT Weekend Magazine, British Journal of Photography, Photograph, Unseen Magazine and The Greatest Magazine. Solo shows include Aomori at The Old Truman Brewery and Unseen Amsterdam, alongside group shows at Edel Assanti, Saatchi Gallery and Peckham 24. Mourant is a recipient of grants from ArtHouse Jersey, Jersey Bursary and Arts Council England. He has won the Free Range Award and was nominated for Foam Paul Huf Award. In 2020, Mourant became a member of Revolv Collective. He achieved BA Photography at Falmouth University, and MA Photography at Royal College of Art, London.
+    <br>
+    <br>
+    In addition to his practice, Alexander Mourant is a Visiting Lecturer and Tutor on BA (Hons) Photography at University of Westminster. Recently, in 2022, he worked as Lead Artist and Creative Director for *A Place to Call Home*, a landmark schools collaboration project created with Wandsworth Council’s Children’s and Arts Service. The project saw 2,216 pupils, 123 teachers and 51 schools in the borough of Wandsworth, participate in a series of expanded art sessions exploring the subject of community, and resulted in a large-scale architectural installation.
 Education:
 - title: Education
   year-text: |-
