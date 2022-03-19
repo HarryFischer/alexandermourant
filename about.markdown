@@ -224,13 +224,6 @@ Education:
     PYLOT Magazine
 
     TRIP Magazine
-- title: Experience
-  year-text: "2021 - Wandsworth Council Arts Service / Creative Director & Lead Artist,
-    *A Place to Call Home* \n\n2021 - Open Doors Gallery / Creative Consultant\n\n2018
-    - Bill Brandt Archive / Archivist\n\n2017 - Michael Hoppen Gallery / Archivist\n\n2017
-    - Todd Hido, JH Engström and Margot Wallard. Atelier Smedsby / Paris\n\n2016 -
-    Simon Roberts / Studio Assistant intern\n\n2015 - Nadav Kander / Studio Assistant
-    intern\n\n2014 - 2017 Andy Le Gresley / Assistant and Digital Editor"
 layout: about
 ---
 
