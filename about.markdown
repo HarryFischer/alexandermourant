@@ -142,7 +142,7 @@ Education:
   year-text: |-
     2021 - The Ivy Press, Gemma Padley, *Look At This If You Love Great Photography*
 
-    2020 - The RIBA Journal, November, *City I *
+    2020 - The RIBA Journal, November, *City I*
 
     2020 - FotoFilmic, *JRNL 6*, Autumn
 
