@@ -4,7 +4,7 @@ date: 2021-02-20 10:45:00 Z
 position: 26
 Words:
 - interview-text: |-
-    On Living Stones and Reaching
+    # On Living Stones and Reaching
     <br>
     <br>
     *To speak of this work, is to attempt to do something quite strange. You see, to speak, or to articulate, is very often than not, a means of defining something: to make it known, recognised, to form boundaries of what it is and how it works; seemingly satisfying for both I, the artist, and you, the reader. And it is only now that I recognise, after quite a few years of thinking the opposite, of how troublesome that can be, how dissatisfying, for the work to be betrothed to words before it is even felt on its own; and feeling, or rather, sometimes, the lack of it, is what drives us forward.*
