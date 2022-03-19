@@ -95,7 +95,7 @@ Words:
     were ‘fear, revulsion and horror’, the urban environment turning its inhabitants
     into isolated savages. He associates the technology of this era (the telephone,
     photography) with shock, writing that later on it was film that ‘established perception
-    in the form of shocks as a formal principle’.\n<br>\n<br>\n*On the Island, moving
+    in the form of shocks as a formal principle’.*\n<br>\n<br>\n*On the Island, moving
     away from the world and the crowd, Mourant is seeking stillness, questioning whether
     it’s still possible to achieve it. By deconstructing the shock-inducing mechanism
     of cinema, he allows the viewer to observe both movement and its making. A double
