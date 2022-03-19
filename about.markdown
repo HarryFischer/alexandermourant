@@ -123,10 +123,10 @@ Education:
 
     2015 - theprintspace, PhotoVoice Awards - Finalist
 - title: Writing
-  year-text: "2022 - C4 Journal, Review: *This Creaking Floor and All the Ceilings
-    Below by Bart Lunenburg* \n\n2021 - C4 Journal, Review: *Furze* by Jack Whitefield\n\n2020
-    - On Living Stones and Reaching\n\n2019 - The Journal: On Being Someone Other\n\n2017
-    - Land Art, Photography and Time"
+  year-text: "2022 - C4 Journal, Photobook Review: *This Creaking Floor and All the
+    Ceilings Below* by Bart Lunenburg \n\n2021 - C4 Journal, Photobook Review: *Furze*
+    by Jack Whitefield\n\n2020 - On Living Stones and Reaching\n\n2019 - The Journal:
+    On Being Someone Other\n\n2017 - Land Art, Photography and Time"
 - title: Grants
   year-text: |-
     2021 - ArtHouse Jersey - www.arthouse.je
