@@ -169,6 +169,7 @@ body {
         height: 100vh;
         @media (min-width: 700px) {
           border-bottom: 1px solid rgba(207, 207, 207, 0.2);
+          top: 56px;
         }
         @media (max-width: 700px) {
           width: unset;
@@ -189,6 +190,7 @@ body {
           width: fit-content;
           margin-top: 50vh;
           transform: translateY(-50%);
+          transform: translateY(calc(-50% - 20px));
         }
       }
       .show-nav {
@@ -737,13 +739,18 @@ body {
       @media (min-width: 700px) {
         width: 24px;
         width: 44px;
+        h1 {
+          display: none;
+        }
       }
       .inner-wrapper {
         position: relative;
         h1 {
           width: max-content;
           font-size: 20px;
-          // display: none;
+          @media (min-width: 700px) {
+            display: none;
+          }
         }
         p {
           opacity: 0;
@@ -1111,8 +1118,12 @@ body {
   &-five {
     // margin-left: 10px;
     margin-right: unset;
-    &:nth-child(1) {
-      margin-left: 0;
+    margin-left: unset;
+      padding-left: 10px;
+    @media (min-width: 700px) {
+      &:nth-child(1) {
+        margin-left: 0;
+      }
     }
     .entry-wrapper {
       @media (max-width: 700px) {
@@ -1149,13 +1160,26 @@ body {
 }
 
 .olsar-5 {
-  .olsar-five:nth-child(1) {
-    padding-left: 10px;
+  @media (min-width: 700px) {
+    .olsar-five:nth-child(1) {
+      padding-left: 20px;
+    }
   }
-}
+ }
 .closed-nav-title {
   writing-mode: vertical-rl;
   text-orientation: mixed;
+}
+
+.proposals {
+  .olsar-five:nth-child(1) {
+    padding-left: 0px;
+  }
+  @media (max-width: 700px) {
+    .olsar-five {
+      padding-left: 0
+    }
+  }
 }
 
 .video {
