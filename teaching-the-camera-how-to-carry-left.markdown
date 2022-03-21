@@ -15,25 +15,25 @@ Content:
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p3-02.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p3-03.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p3-04.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 layout: olsar-4
 ---
 
