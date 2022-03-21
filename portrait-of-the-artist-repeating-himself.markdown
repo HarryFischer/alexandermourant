@@ -13,7 +13,7 @@ Content:
     Photo-series of 26 archival Giclée prints
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: 
 - image: "/uploads/olsar-p1-26.jpg"
   video: 
   caption-text: 11:04am, 1/04/2020
