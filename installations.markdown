@@ -8,7 +8,7 @@ Content:
   caption-text: |-
     Mont au Prêtre Farm
 
-    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
+    *[On Living Stones and Reaching](/alexandermourant/on-living-stones-and-reaching)*
 
     *Five Furrows*, 2020
   image-size: medium
@@ -88,7 +88,7 @@ Content:
   caption-text: |-
     The Old Rectory
 
-    *[The Bell Tower](/the-bell-tower)*
+    *[The Bell Tower](/alexandermourant/the-bell-tower)*
 
     *AATFTP*, 2020; *Mechanism*, 2020
   image-size: medium
