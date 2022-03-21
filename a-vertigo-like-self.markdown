@@ -8,7 +8,6 @@ Content:
     projection, digitised HD \n\nDuration: 6 minutes, 50 seconds"
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
 Words:
 - interview-text: "# A Vertigo Like Self\n<br>\n<br>\n*Insular Time: Cinematic Duration
     and the Enduring Self* by Laura Bivolaru on *A Vertigo Like Self*, 2021, originally
