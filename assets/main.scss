@@ -162,7 +162,7 @@ body {
         // padding: 5px 10px;
         // margin-right: -10px;
         width: 100vw;
-        top: 51px;
+        top: 44px;
         left: 0;
         right: 0;
         position: fixed;
@@ -388,7 +388,7 @@ body {
         }
       }
       & + .caption-wrapper {
-        // position: absolute;
+        position: absolute;
         transform: translateY(-20px);
         width: 300px;
         width: max-content;
@@ -396,14 +396,14 @@ body {
       }
     }
 
+
+    
+
     .caption-wrapper {
-      padding-top: 8px;
       min-height: 32px;
-      // @media (min-width: 700px) {
-      //   width: 270px;
-      //   margin-left: 20px;
-      //   margin-right: 20px;
-      // }
+      @media (min-width: 700px) {
+        padding-top: 8px;
+      }
       p,
       a {
         font-size: 14px;
@@ -835,7 +835,7 @@ body {
       right: 0px;
       left: 0px;
       padding: 10px;
-      z-index: 1000;
+      z-index: 10;
       transition: opacity 0.3s ease;
       opacity: 0;
       background-color: white;
@@ -1239,3 +1239,9 @@ body {
 //     padding-left: 20px;
 //   }
 // }
+
+.wrapper .inner-content .olsar-one, .wrapper .inner-content .olsar-two {
+  .image-wrapper + .caption-wrapper {
+    position: relative;
+  }
+}
