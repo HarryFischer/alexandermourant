@@ -387,6 +387,8 @@ body {
         // position: absolute;
         transform: translateY(-20px);
         width: 300px;
+        width: max-content;
+        margin-right: 100px;
       }
     }
 
@@ -1018,7 +1020,9 @@ body {
   &.link-container {
     margin-left: 10px;
     @media (min-width: 700px) {
-      margin-left: 100px;
+      &:nth-child(1) {
+        margin-left: 100px;
+      }
     }
   }
   .caption-wrapper {
@@ -1080,6 +1084,7 @@ body {
     }
     .caption-wrapper {
       margin-right: 20px;
+      width: max-content;
     }
     &__video {
       width: 93vw;
