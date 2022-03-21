@@ -50,7 +50,7 @@ Content:
   page-url: "/aurelian"
   image-size: medium
   image-position: middle
-  image-margin-right: small
+  image-margin-right: 
 Words:
 - interview-text: 
 layout: home
