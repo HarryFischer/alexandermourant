@@ -59,7 +59,7 @@ body {
     color: #000;
     height: max-content;
     transition: border-bottom 0.3s ease;
-    // border-bottom: 1px solid white;
+    border-bottom: 1px solid transparent;
     margin-right: auto;
 
     &:hover {
@@ -72,9 +72,10 @@ body {
   }
   nav {
     font-size: 15px;
-    right: 20px;
     position: absolute;
+    right: 10px;
     @media (min-width: 700px) {
+      right: 20px;
       // margin-left: auto;
     }
   }
@@ -101,7 +102,7 @@ body {
       display: flex;
       position: absolute;
       // left: 40%;
-      right: 70px;
+      right: 65px;
       @media (min-width: 700px) {
        right: unset;
         position: relative;
@@ -241,6 +242,8 @@ body {
         }
 
         .artwork-link {
+          $timeOffset: 0.5s;
+          $aniLength: 1s;
           margin: 10px 0;
           text-align: center;
           font-size: 20px;
@@ -414,6 +417,10 @@ body {
       min-height: 32px;
       @media (min-width: 700px) {
         padding-top: 8px;
+      }
+      &.olsar {
+        padding-top: 0;
+        transform: translateY(-20px);
       }
       p,
       a {
@@ -757,26 +764,35 @@ body {
         opacity: 0;
       }
     }
+    .inner-wrapper {
+      transition: opacity 5s ease;
+    }
     &.closed {
       @media (min-width: 700px) {
         width: 24px;
         width: 44px;
-        h1 {
-          display: none;
-        }
+        // h1 {
+        //   display: none;
+        // }
       }
       .inner-wrapper {
         position: relative;
         h1 {
+          
           width: max-content;
           font-size: 20px;
+          // display: none;
           @media (min-width: 700px) {
-            display: none;
+            opacity: 0;
+            // visibility: hidden;
           }
         }
         p {
-          opacity: 0;
           display: none;
+          @media (min-width: 700px) {
+            opacity: 0;
+
+          }
           // visibility: hidden;
         }
       }
@@ -816,6 +832,63 @@ body {
           text-align: center;
         }
       }
+      $timeOffset: 0.5s;
+      $aniLength: 1s;
+       .olsar-link {
+        transition: border-bottom 0.3s ease;
+        border-bottom: 1px solid transparent;
+        @media (min-width: 700px) {
+          width: max-content;
+        }
+        &:hover {
+          border-bottom: 1px solid black;
+          text-decoration: none;
+          cursor: pointer;
+        }
+        opacity: 0;
+        animation-name: animation;
+        animation-duration: $aniLength;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: forwards;
+        animation-iteration-count: 1;
+      }
+
+      @for $i from 1 through 20 {
+        .item:nth-child(#{$i}) {
+          // units are in the variable so SCSS just does math
+          animation-delay: $i * $timeOffset;
+        }
+      }
+
+      @keyframes animation {
+        0% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 1;
+        }
+      }
+
+      .olsar-link {
+        $timeOffset: 0.5s;
+        $aniLength: 1s;
+        $animationDelay: 1;
+        @for $i from 1 through 15 {
+          &:nth-of-type(#{$i}) {
+            animation-delay: #{0.3+ ($i)/30}s;
+          }
+        }
+
+        @keyframes fade-in {
+          0% {
+            opacity: 0;
+          }
+          100% {
+            opacity: 1;
+          }
+        }
+      }
+
     }
     .fill-me {
       position: absolute;
@@ -1051,6 +1124,10 @@ body {
   }
 }
 
+.link-wrapper {
+  position: relative;
+}
+
 .olsar {
   margin-left: auto;
   margin-right: auto;
@@ -1194,6 +1271,8 @@ body {
 .closed-nav-title {
   writing-mode: vertical-rl;
   text-orientation: mixed;
+  position: relative;
+  z-index: 10;
 }
 
 .proposals {
@@ -1237,33 +1316,18 @@ body {
 }
 
 .split-wrapper__left {
-  transition: all 0.5s ease;
+  transition: width 0.5s ease;
   transition-delay: 0.2s;
-  // transition: opacity 0.2s ease;
-  .inner-wrapper {
+  .inner-wrapper h1, .inner-wrapper p {
     transition: opacity 0.2s ease;
-    transition-delay: 0.5s;
-    // animation: addOpacity 0.2s ease;
   }
-  .inner-wrapper.closed {
-    // animation: removeOpacity 0.2s ease;
-    transition: opacity 0.2s ease;
-    transition-delay: 0.5s;
-    .open {
-      // animation: addOpacity 0.2s ease;
-      // animation-delay: 0.5s;
+  &.closed {
+    transition: width 0.5s ease;
+    .inner-wrapper h1, .inner-wrapper p {
+      transition: opacity 0.2s ease;
     }
   }
 }
-
-// .about .about,
-// .video .wrapper,
-// .installations .wrapper,
-// .home .wrapper {
-//   @media (min-width: 700px) {
-//     padding-left: 20px;
-//   }
-// }
 
 .wrapper .inner-content .olsar-one, .wrapper .inner-content .olsar-two {
   .image-wrapper + .caption-wrapper {

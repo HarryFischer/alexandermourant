@@ -105,7 +105,7 @@ links.forEach((el, i) => {
         document.querySelector('.prev').style.opacity = "1";
       }
     } else {
-      leftPanel.classList.remove("closed")
+      // leftPanel.classList.remove("closed")
       prevIndex = i;
     }
   })
@@ -115,7 +115,9 @@ links.forEach((el, i) => {
 function nextURL(count) {
   prevIndex += count;
 
-  if (prevIndex >= links.length - 1) {
+  console.log(links.length)
+
+  if (prevIndex >= links.length) {
     prevIndex = 0;
   }
   
@@ -132,7 +134,8 @@ function nextURL(count) {
     document.querySelector('.prev').style['pointer-events'] = 'auto';
   }
   
-  iframe.src = links[prevIndex]?.dataset?.link;
+  // iframe.src = links[prevIndex]?.dataset?.link;
+  iframe.src = links[prevIndex].dataset.link;
 }
 
 const changeUrl = (direction) => {
