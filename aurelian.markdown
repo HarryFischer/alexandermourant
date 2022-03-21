@@ -94,7 +94,7 @@ Content:
     *Container With Atmospere* & *Untitled VI*, 2017
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: 
 Words:
 - interview-text: "# Aurelian\n<br>\n<br>\nArticle originally published in *British
     Journal of Photography*, Issue 7862, 2017: \n<br>\n<br>\n*The classic British
