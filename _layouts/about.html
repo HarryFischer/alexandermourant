@@ -6,7 +6,7 @@ layout: default
   <div class="inner-content">
     {%- for content in page.Content -%}
     <div class="stick-me">
-        <p>{{ content.about-text }}</p>
+        {{ content.about-text | markdownify }}
     </div>
     {%- endfor -%}
     <div class="education-wrapper">
