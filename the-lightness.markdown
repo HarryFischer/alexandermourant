@@ -110,7 +110,7 @@ Content:
     *The Lightness*, Issue #14
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: 
 Words:
 - interview-text: |-
     # The Lightness
