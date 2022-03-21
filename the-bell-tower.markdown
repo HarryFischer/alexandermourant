@@ -57,7 +57,7 @@ Content:
     white box frame \n\nEdition of 3 \\+ 1AP"
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: 
 Words:
 - interview-text: "# The Bell Tower\n<br>\n<br>\n*The works presented in The Bell
     Tower, draw on the notion, or the experience, of something profoundly simple:
