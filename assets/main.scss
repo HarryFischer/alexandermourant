@@ -95,9 +95,10 @@ body {
       margin: 0 auto;
       display: flex;
       position: absolute;
-      left: 40%;
+      // left: 40%;
+      right: 70px;
       @media (min-width: 700px) {
-        left: unset;
+       right: unset;
         position: relative;
       }
       ul:first-child {
@@ -294,6 +295,7 @@ body {
       height: max-content;
       margin-bottom: 60px;
       margin-top: 80px;
+      margin-top: 10px;
       text-decoration: none;
       @media (min-width: 700px) {
         margin-bottom: 0;
@@ -446,12 +448,14 @@ body {
     }
 
     .entry-wrapper {
-      width: 400px;
       overflow-y: scroll;
-      padding-top: 5px;
-      border-right: 1px solid #121212;
+      // padding-top: 5px;
       padding-right: 10px;
       padding-bottom: 100px;
+      @media (min-width: 700px) {
+        width: 400px;
+        border-right: 1px solid #121212;
+      }
       &__heading p {
         padding-top: 8px;
         font-size: 25px;
@@ -584,9 +588,9 @@ body {
     .education-wrapper {
       padding-left: 13px;
       @media (max-width: 700px) {
-        width: calc(50% - 10px);
-        margin-left: 15px;
-        
+        // width: calc(50% - 10px);
+        // margin-left: 15px;
+        padding-left: 0;
       }
     }
     .education-block {
@@ -739,7 +743,7 @@ body {
         h1 {
           width: max-content;
           font-size: 20px;
-          display: none;
+          // display: none;
         }
         p {
           opacity: 0;
@@ -792,6 +796,7 @@ body {
       bottom: 0;
       width: calc(100% + 10px);
       min-height: calc(100vh - 55px);
+      min-height: calc(100vh - 140px);
       visibility: hidden;
       z-index: 3;
       overflow-x: scroll;
@@ -931,7 +936,7 @@ body {
 
         @media (max-width: 700px) {
           right: 0px;
-          top: 8px;
+          top: 2px;
           .closed-nav-title {
             display: none;
           }
@@ -978,7 +983,7 @@ body {
       overflow: scroll;
       margin-bottom: 20px;
       .nav-text {
-        top: 8px;
+        top: 2px;
         right: 0;
         p {
           display: none;
@@ -1020,6 +1025,7 @@ body {
   &.link-container {
     margin-left: 10px;
     @media (min-width: 700px) {
+      margin-left: 0px;
       &:nth-child(1) {
         margin-left: 100px;
       }
@@ -1037,7 +1043,7 @@ body {
     @media (min-width: 700px) {
       // min-height: 105px;
       // min-width: 100%;
-      width: 270px;
+      width: 290px;
       margin-left: 20px;
       margin-right: 20px;
     }
@@ -1068,8 +1074,9 @@ body {
       }
     }
     .caption-wrapper {
+      margin-left: 0;
       @media (min-width: 700px) {
-        margin-left: 170px;
+        margin-left: 100px;
       }
     }
   }
@@ -1102,10 +1109,15 @@ body {
     }
   }
   &-five {
-    margin-left: 10px;
+    // margin-left: 10px;
     margin-right: unset;
     &:nth-child(1) {
       margin-left: 0;
+    }
+    .entry-wrapper {
+      @media (max-width: 700px) {
+        padding-right: 0!important;
+      }
     }
   }
 }
