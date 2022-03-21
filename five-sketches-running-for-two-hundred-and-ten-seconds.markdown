@@ -23,37 +23,37 @@ Content:
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p5-02.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p5-04.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p5-03.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p5-05.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p5-06.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 layout: olsar-4
 ---
 
