@@ -55,8 +55,6 @@ Content:
 
     Print: 25.4cm x 20.32cm
 
-    Frame: 44.5cm x 38cm
-
     Digital silver gelatin print
 
     Mount \+ black aluminium frame
@@ -71,8 +69,6 @@ Content:
     *Vitrum IX*, 2019
 
     Print: 25.4cm x 20.32cm
-
-    Frame: 44.5cm x 38cm
 
     Digital silver gelatin print
 
