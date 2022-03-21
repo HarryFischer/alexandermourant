@@ -184,7 +184,7 @@ Content:
     *Forest III*, 2017; *Dissipate II*, 2017; *City II*, 2017
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: 
 Words:
 - interview-text: |-
     # Aomori
