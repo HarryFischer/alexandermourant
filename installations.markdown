@@ -18,7 +18,7 @@ Content:
   caption-text: |-
     Mont au Prêtre Farm
 
-    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
+    *[On Living Stones and Reaching](/alexandermourant/on-living-stones-and-reaching)*
 
     *Five Furrows*, 2020
   image-size: medium
@@ -28,7 +28,7 @@ Content:
   caption-text: |-
     Mont au Prêtre Farm
 
-    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
+    *[On Living Stones and Reaching](/alexandermourant/on-living-stones-and-reaching)*
 
     *Five Furrows*, 2020
   image-size: medium
@@ -38,7 +38,7 @@ Content:
   caption-text: |-
     Mont au Prêtre Farm
 
-    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
+    *[On Living Stones and Reaching](/alexandermourant/on-living-stones-and-reaching)*
 
     *Five Furrows*, 2020
   image-size: medium
@@ -48,7 +48,7 @@ Content:
   caption-text: |-
     Mont au Prêtre Farm
 
-    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
+    *[On Living Stones and Reaching](/alexandermourant/on-living-stones-and-reaching)*
 
     *Five Furrows*, 2020
   image-size: medium
@@ -58,7 +58,7 @@ Content:
   caption-text: |-
     Mont au Prêtre Farm
 
-    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
+    *[On Living Stones and Reaching](/alexandermourant/on-living-stones-and-reaching)*
 
     *Five Furrows*, 2020
   image-size: medium
@@ -68,7 +68,7 @@ Content:
   caption-text: |-
     The Old Rectory
 
-    *[The Bell Tower](/the-bell-tower)*
+    *[The Bell Tower](/alexandermourant/the-bell-tower)*
 
     *An Attempt to Flood the Photograph*, 2020
   image-size: medium
@@ -78,7 +78,7 @@ Content:
   caption-text: |-
     The Old Rectory
 
-    *[The Bell Tower](/the-bell-tower)*
+    *[The Bell Tower](/alexandermourant/the-bell-tower)*
 
     *Mechanism*, 2020
   image-size: medium
@@ -98,7 +98,7 @@ Content:
   caption-text: |-
     The Eye Sees, Arles
 
-    *[Entractes 14: When the Image Returns to Glass](/aomori)*
+    *[Entractes 14: When the Image Returns to Glass](/alexandermourant/aomori)*
 
     *Waterfall III*, 2017
   image-size: medium
@@ -108,7 +108,7 @@ Content:
   caption-text: |-
     The Eye Sees, Arles
 
-    *[Entractes 14: When the Image Returns to Glass](/aomori)*
+    *[Entractes 14: When the Image Returns to Glass](/alexandermourant/aomori)*
 
     *Waterfall III*, 2017
   image-size: medium
@@ -118,7 +118,7 @@ Content:
   caption-text: |-
     Edel Assanti
 
-    *[With fists, it kicks, it bites](/i-could-not-tell-glass-from-air)*
+    *[With fists, it kicks, it bites](/alexandermourant/i-could-not-tell-glass-from-air)*
 
     *Vitrum IX*, 2019
   image-size: medium
@@ -128,7 +128,7 @@ Content:
   caption-text: |-
     Edel Assanti
 
-    *[With fists, it kicks, it bites](/i-could-not-tell-glass-from-air)*
+    *[With fists, it kicks, it bites](/alexandermourant/i-could-not-tell-glass-from-air)*
 
     *Vitrum I*, 2019
   image-size: medium
@@ -138,7 +138,7 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
+    *[I Could Not Tell Glass From Air](/alexandermourant/i-could-not-tell-glass-from-air)*
 
     *Shelter*, 2020
   image-size: medium
@@ -148,7 +148,7 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
+    *[I Could Not Tell Glass From Air](/alexandermourant/i-could-not-tell-glass-from-air)*
 
     *Shelter*, 2020
   image-size: medium
@@ -158,7 +158,7 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
+    *[I Could Not Tell Glass From Air](/alexandermourant/i-could-not-tell-glass-from-air)*
 
     *Shelter*, 2020
   image-size: medium
@@ -168,7 +168,7 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
+    *[I Could Not Tell Glass From Air](/alexandermourant/i-could-not-tell-glass-from-air)*
 
     *A Gesture of Brambles*, 2019
   image-size: medium
@@ -178,7 +178,7 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
+    *[I Could Not Tell Glass From Air](/alexandermourant/i-could-not-tell-glass-from-air)*
 
     *A Gesture of Brambles*, 2019
   image-size: medium
@@ -188,7 +188,7 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
+    *[I Could Not Tell Glass From Air](/alexandermourant/i-could-not-tell-glass-from-air)*
 
     *Vitrum VI*, 2019; *Fall I & II* (diptych), 2019; *Vitrum VIII*, 2019
   image-size: medium
@@ -198,7 +198,7 @@ Content:
   caption-text: |-
     Royal College of Art
 
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
+    *[I Could Not Tell Glass From Air](/alexandermourant/i-could-not-tell-glass-from-air)*
 
     *Vitrum X*, 2019; *Vitrum IX*, 2019; *Fall I & II* (diptych), 2019; *Vitrum VIII*, 2019; *Vitrum XI*, 2018
   image-size: medium
@@ -208,7 +208,7 @@ Content:
   caption-text: |-
     Unseen Amsterdam
 
-    *[Seen Fifteen Gallery, To Feel Its Touch](/to-feel-its-touch)*
+    *[Seen Fifteen Gallery, To Feel Its Touch](/alexandermourant/to-feel-its-touch)*
 
     *Peckham I*, 2019
   image-size: medium
@@ -218,7 +218,7 @@ Content:
   caption-text: |-
     Unseen Amsterdam
 
-    *[Seen Fifteen Gallery, To Feel Its Touch](/to-feel-its-touch)*
+    *[Seen Fifteen Gallery, To Feel Its Touch](/alexandermourant/to-feel-its-touch)*
 
     *Chiswick II* (ii) & (iii), 2019
   image-size: medium
@@ -228,7 +228,7 @@ Content:
   caption-text: |-
     Unseen Amsterdam
 
-    *[Seen Fifteen Gallery, To Feel Its Touch](/to-feel-its-touch)*
+    *[Seen Fifteen Gallery, To Feel Its Touch](/alexandermourant/to-feel-its-touch)*
 
     *Chiswick II* (i) & (vi), 2019
   image-size: medium
@@ -238,7 +238,7 @@ Content:
   caption-text: |-
     Peckham 24, Copeland Gallery
 
-    *[For Those Who Could See Beyond the Surface](/to-feel-its-touch)*
+    *[For Those Who Could See Beyond the Surface](/alexandermourant/to-feel-its-touch)*
 
     *Peckham I*, *To Feel Its Touch*, 2019
   image-size: medium
@@ -256,7 +256,7 @@ Content:
   caption-text: |-
     Unseen Amsterdam
 
-    *[Seen Fifteen Gallery, Aomori](/aomori)*
+    *[Seen Fifteen Gallery, Aomori](/alexandermourant/aomori)*
 
     *Dissipate I*, *Dissipate II*, *Forest IV*, 2017
   image-size: medium
@@ -274,7 +274,7 @@ Content:
   caption-text: |-
     Copeland Gallery
 
-    *[Where You Are Not](/aomori)*
+    *[Where You Are Not](/alexandermourant/aomori)*
 
     *Waterfall I*, 2017; *Blue Tree*, 2017; *Dissipate I*, 2017; *Forest V*, 2017
   image-size: medium
@@ -284,7 +284,7 @@ Content:
   caption-text: |-
     Copeland Gallery
 
-    *[Where You Are Not](/aomori)*
+    *[Where You Are Not](/alexandermourant/aomori)*
 
     *Forest III*, 2017; *Dissipate II*, 2017; *City II*, 2017
   image-size: medium
@@ -294,7 +294,7 @@ Content:
   caption-text: |-
     Copeland Gallery
 
-    *[Where You Are Not](/aomori)*
+    *[Where You Are Not](/alexandermourant/aomori)*
 
     *Forest III*, 2017; *Dissipate II*, 2017; *City II*, 2017
   image-size: medium
