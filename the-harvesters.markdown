@@ -19,67 +19,67 @@ Content:
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p8-09.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p8-08.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p8-02.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p8-06.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p8-07.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p8-10.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p8-05.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p8-01.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p8-04.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p8-03.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 layout: olsar-4
 ---
 
