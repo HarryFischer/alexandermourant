@@ -392,7 +392,9 @@ body {
         }
       }
       & + .caption-wrapper {
-        position: absolute;
+        @media (min-width: 700px) {
+          position: absolute;
+        }
         transform: translateY(-20px);
         width: 300px;
         width: max-content;
@@ -665,6 +667,9 @@ body {
     margin: auto;
     display: flex;
     flex-direction: column;
+    @media (min-width: 700px) {
+      padding-bottom: 40px;
+    }
     // align-items: center;
     h1 {
       // padding: 20px;
