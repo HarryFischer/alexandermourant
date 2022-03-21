@@ -9,7 +9,7 @@ Content:
   caption-text: "*Teaching the Camera How to Carry (Right)*, 2020"
   image-size: 
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: 
 - image: "/uploads/olsar-p3-05.jpg"
   video: 
   caption-text: 
