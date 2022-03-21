@@ -154,7 +154,7 @@ Content:
     Seen Fifteen Gallery
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: 
 Words:
 - interview-text: "# To Feel Its Touch\n<br>\n<br>\nExcerpt of press release, Unseen
     Amsterdam 2019, written by Vivienne Gamble, Founder & Director Seen Fifteen Gallery:\n<br>\n<br>\n*Alexander
