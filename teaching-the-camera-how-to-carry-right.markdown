@@ -9,31 +9,31 @@ Content:
   caption-text: "*Teaching the Camera How to Carry (Right)*, 2020"
   image-size: 
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p3-05.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p3-06.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p3-07.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 - image: "/uploads/olsar-p3-08.jpg"
   video: 
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: xsmall
 layout: olsar-4
 ---
 
