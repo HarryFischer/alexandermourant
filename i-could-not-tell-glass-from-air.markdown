@@ -183,7 +183,7 @@ Content:
     \n\nWalnut frame \n\nEdition of 5 \\+ 2AP"
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: 
 Words:
 - interview-text: "# I Could Not Tell Glass From Air\n<br>\n<br>\n*To speak of this
     work, is to attempt to do something quite strange. You see, to speak, or to articulate,
