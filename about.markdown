@@ -77,11 +77,9 @@ Education:
     Kingston University\n\n2018 - Guest Lecturer, Bryanston School"
 - title: Workshops
   year-text: |-
-    2021 - St Cecilia's School, Southside Shopping Centre, *Reflecting on A Place to Call Home*, Workshop Lead
+    2021 - Heathmere School, Southside Shopping Centre, *A Place to Call Home*, Workshop Lead
 
-    2021 - Heathmere School, Southside Shopping Centre, *Reflecting on A Place to Call Home*, Workshop Lead
-
-    2021 - Penwortham School, Southside Shopping Centre, *Reflecting on A Place to Call Home*, Workshop Lead
+    2021 - Penwortham School, Southside Shopping Centre, *A Place to Call Home*, Workshop Lead
 
     2021 - Chestnut Grove Academy, *A Place to Call Home*, Artist Talk & CPD Workshop Lead
 
