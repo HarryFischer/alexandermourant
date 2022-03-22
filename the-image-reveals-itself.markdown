@@ -5,7 +5,7 @@ permalink: "/on-living-stones-and-reaching/the-image-reveals-itself"
 position: 6
 Content:
 - image: "/uploads/olsar-p4-01.jpg"
-  caption-text: "*The Image Reveals Itself*<br>\n9:57 am, 24th June, 2020 \nArchival
+  caption-text: "*The Image Reveals Itself*<br>\n9:57 am, 24th June, 2020<br> \nArchival
     Giclée print\n"
   image-size: medium
   image-position: middle
