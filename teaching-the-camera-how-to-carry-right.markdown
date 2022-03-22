@@ -9,7 +9,7 @@ Content:
   caption-text: |-
     *Teaching the Camera How to Carry (Right)*, 2020<br>
     Photo-series of 4 archival Giclée prints<br>
-    Est. 16 x 20 in. each, (40.64cm x 50.8cm)
+    Est. 16 x 20 in. each, (40.64cm x 50.8cm)<br>
     Est. Edition 3 + 2AP
   image-size: 
   image-position: middle
