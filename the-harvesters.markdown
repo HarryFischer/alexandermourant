@@ -10,7 +10,8 @@ Content:
     *The Harvesters*<br>
     15:27 - 15:45, 24th June, 2020<br>
     Trinity, Jersey<br>
-    Photo-series of 12 archival Giclée prints<br>
+    Photo-series of 11 archival Giclée prints<br>
+    Est. 20 x 16 in. each (50.8 x 40.64 cm)<br>
   image-size: 
   image-position: middle
   image-margin-right: 
