@@ -6,11 +6,9 @@ position: 1
 Content:
 - image: 
   video: 
-  caption-text: |-
-    *Portrait of the Artist Repeating Himself*<br>
-    25th March - 1st April, 2020<br>
-    Trinity, Jersey<br>
-    Photo-series of 26 archival Giclée prints
+  caption-text: "*Portrait of the Artist Repeating Himself*<br>\nPhoto-series of 26
+    archival Giclée prints<br>\n25th March - 1st April, 2020<br>\nTrinity, Jersey<br>\nEst.
+    20 x 16 in. (50.8 x 40.64 cm)\nEst. Edition 3 + 2AP \n"
   image-size: medium
   image-position: middle
   image-margin-right: 
