@@ -6,7 +6,7 @@ position: 9
 Content:
 - image: "/uploads/olsar-p7-01.jpg"
   caption-text: |-
-    *To Grasp the Miraculous as Twilight*, 2020br>
+    *To Grasp the Miraculous as Twilight*, 2020<br>
     Archival Giclée print<br>
     Est. 60 x 48 in. (152cm x 122cm)<br>
     Est. Edition 3 + 2AP
