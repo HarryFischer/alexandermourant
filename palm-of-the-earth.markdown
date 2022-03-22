@@ -6,7 +6,7 @@ position: 13
 Content:
 - image: "/uploads/olsar-p10-01.jpg"
   caption-text: |-
-    *Palm of the Earth*, 2020
+    *Palm of the Earth*, 2020<br>
     Archival Giclée print<br>
     Est. 48 x 60 in. (122cm x 152cm)<br>
     Est. Edition 3 + 2AP
