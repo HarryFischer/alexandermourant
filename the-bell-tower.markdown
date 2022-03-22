@@ -17,8 +17,8 @@ Content:
   image-margin-right: medium
 - image: "/uploads/An-Attempt-to-Flood-the-Photograph,-Alexander-Mourant,-2020.jpg"
   video: 
-  caption-text: "*An Attempt to Flood the Photograph*, 2020\n\n168cm x 116cm \n\nDigital
-    silver gelatin print  \n\nEdition of 3 + 1AP"
+  caption-text: "*An Attempt to Flood the Photograph*, 2020\n\n168cm x 116cm | Ed.
+    3 + 1AP\n\nDigital silver gelatin print  \n\n"
   image-size: large
   image-position: middle
   image-margin-right: medium
