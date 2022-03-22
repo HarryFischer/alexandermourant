@@ -87,10 +87,10 @@ Education:
 
     2021 - Emanuel School, *A Place to Call Home*, Artist Talk & CPD Workshop Lead
 
-    2021 - Hillbrook School, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
+    2021 - Hillbrook School, *A Greener Picture: Photography and Climate Change*, Workshop Lead
 
     2021 - Hotham School, *A Greener Picture: Photography and Climate Change*, Workshop Lead
-     
+
     2021 - Earlsfield Primary, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
 
     2021 - St Faith’s, *A Greener Picture: Photography and Climate Change*, Workshop Lead
