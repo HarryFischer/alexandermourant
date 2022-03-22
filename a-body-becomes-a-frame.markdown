@@ -8,6 +8,7 @@ Content:
   caption-text: |-
     *A Body Becomes a Frame*<br>
     15:52, 24th June, 2020<br>
+    Archival Giclée print
   image-size: medium
   image-position: middle
 layout: olsar-2
