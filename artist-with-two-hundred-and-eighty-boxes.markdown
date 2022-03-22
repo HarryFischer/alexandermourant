@@ -7,7 +7,7 @@ Content:
 - image: "/uploads/olsar-p2-01.jpg"
   caption-text: |-
     *Artist with Two Hundred and Eighty Boxes*, 2020<br>
-    Est. 86cm x 106cm<br>
+    Est. 34 x 40 in. (86cm x 102cm<br>
     Est. Edition 3 + 2AP
   image-size: medium
   image-position: middle
