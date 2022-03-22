@@ -14,7 +14,8 @@ Content:
     5: 400cm x 40cm x 5cm steel trays<br>
     Artwork scale: 400cm x 260cm<br>
     <br>
-    Cyanotype, photogram, watercolour paper, unique
+    Cyanotype, photogram, watercolour paper<br>
+    Unique
   image-size: 
   image-position: middle
   image-margin-right: 
