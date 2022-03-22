@@ -83,7 +83,7 @@ body {
     display: flex;
     margin-top: auto;
     margin-bottom: auto;
-    padding: 10px 10px 0 10px;
+    padding: 13px 10px 0 10px;
     max-width: 100vw;
     text-align: right;
     justify-content: space-between;
@@ -102,8 +102,10 @@ body {
       display: flex;
       position: absolute;
       // left: 40%;
-      right: 65px;
+      right: 63px;
+      top: 11px;
       @media (min-width: 700px) {
+        top: unset;
        right: unset;
         position: relative;
       }
@@ -279,7 +281,7 @@ body {
   }
   .home {
     @media (max-width: 700px) {
-      margin-top: 20px;
+      // margin-top: 20px;
     }
     img {
       transition: opacity 0.3s ease;
@@ -304,10 +306,14 @@ body {
       display: flex;
       height: max-content;
       margin-bottom: 60px;
-      margin-top: 80px;
       margin-top: 10px;
       text-decoration: none;
-      
+      @media (max-width: 700px) {
+        &:nth-child(1) {
+          margin-top: 10vh;
+          margin-bottom: 10vh;
+        }
+      }
       @media (min-width: 700px) {
         margin-bottom: 0;
         margin-top: 0px;
@@ -370,7 +376,9 @@ body {
 
     .image-wrapper {
       // image size
-      transform: translateY(-20px);
+      @media (min-width: 700px) {
+        transform: translateY(-20px);
+      }
       .xsmall {
         width: auto;
         height: 30vh;
@@ -400,10 +408,14 @@ body {
         }
       }
       & + .caption-wrapper {
+        padding-top: 8px;
         @media (min-width: 700px) {
+          padding-top: 0;
           position: absolute;
         }
-        transform: translateY(-20px);
+        @media (min-width: 700px) {
+          transform: translateY(-20px);
+        }
         width: 300px;
         width: max-content;
         margin-right: 100px;
@@ -419,8 +431,10 @@ body {
         padding-top: 8px;
       }
       &.olsar {
-        padding-top: 0;
-        transform: translateY(-20px);
+        padding-top: 8px;
+        @media (min-width: 700px) {
+          transform: translateY(-20px);
+        }
       }
       p,
       a {
@@ -752,7 +766,7 @@ body {
     .open {
       position: absolute;
       right: 10px;
-      top: 15px;
+      top: 14px;
       transition: scale 0.3s ease;
     }
     // show and hide svgs
@@ -1072,14 +1086,14 @@ body {
   }
 }
 
-.project {
-  .nav-text {
+
+  .nav-text p {
     display: none;
     @media (min-width: 700px) {
       display: flex;
     }
   }
-}
+
 
 .farm-index {
   .split-wrapper__left {
@@ -1168,7 +1182,8 @@ body {
   }
   &-one {
     @media (max-width: 700px) {
-      margin-top: 11vh;
+      // margin-top: 11vh;
+      margin-top: 10vh;
       padding: 10px;
       width: calc(100% - 10px);
     }
@@ -1176,7 +1191,7 @@ body {
       // width: 41vh;
       // height: 32vh;
       width: 93vw;
-      height: 71vw;
+      height: 72vw;
       @media (min-width: 700px) {
         width: 70vh;
         height: 55vh;
@@ -1191,7 +1206,8 @@ body {
   }
   &-two {
     @media (max-width: 700px) {
-      margin-top: 11vh;
+      // margin-top: 11vh;
+      margin-top: 10vh;
       padding: 10px;
       width: calc(100% - 10px);
     }
