@@ -7,7 +7,7 @@ Content:
 - image: 
   video: 
   caption-text: |-
-    *Five Sketches Running for Two Hundred and Ten Seconds or Five Furrows*, 2020<br>
+    *Five Sketches Running for Two Hundred and Ten Seconds* or *Five Furrows*, 2020<br>
     <br>
     Dimensions:<br>
     5: 398cm x 39cm prints<br>
