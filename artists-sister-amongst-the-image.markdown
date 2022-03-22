@@ -8,7 +8,7 @@ Content:
   caption-text: |-
     *Artist’s Sister Amongst the Image*, 2020<br>
     Archival Giclée print<br>
-    Est. 34 x 40 in. (86cm x 102cm<br>
+    Est. 34 x 40 in. (86cm x 102cm)<br>
     Est. Edition 3 + 2AP
   image-size: medium
   image-position: middle
