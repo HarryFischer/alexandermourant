@@ -27,6 +27,13 @@ window.addEventListener("load", function(){
   
 var iO = "IntersectionObserver" in window; /* true if supported */
 var box = document.querySelectorAll('.link-container');
+
+// box[0].classList.add('active')
+// box[0].querySelector("img").src = box[0].querySelector("img").dataset.src
+// box[1].classList.add('active')
+// box[1].querySelector("img").src = box[1].querySelector("img").dataset.src
+// box[2].classList.add('active')
+// box[2].querySelector("img").src = box[2].querySelector("img").dataset.src
   
 if (iO) {
   const config = {
@@ -40,7 +47,8 @@ if (iO) {
       // item.src = item.dataset.src
       if (item.intersectionRatio > .1) {
         item.target.classList.add("active")
-        // item.src = item.dataset.src
+        // const itemInnerImage = item.target.querySelector("img")
+        // itemInnerImage.src = itemInnerImage.dataset.src
       } else {
         // item.target.classList.remove("active");
       }
