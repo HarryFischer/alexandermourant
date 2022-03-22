@@ -5,7 +5,7 @@ position: 21
 Content:
 - video: https://player.vimeo.com/video/666478226?autoplay=1&loop=1&controls=false
   caption-text: |-
-    *[A Vertigo Like Self](https://vimeo.com/666478226),* 2019<br>
+    *[A Vertigo Like Self,](https://vimeo.com/666478226)* 2019<br>
     Super 8 film, colour, silent<br>
     For projection, digitised HD<br>
     Duration: 6 minutes, 50 seconds
