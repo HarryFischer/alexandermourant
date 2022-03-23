@@ -176,6 +176,8 @@ Education:
     2014 - Gallery Magazine: Jersey Style Magazine no.110, *Blue Railing*
 - title: Selected Press
   year-text: |-
+    [SW Londoner](https://www.swlondoner.co.uk/news/19032022-artwork-of-wandsworth-schoolchildren-on-show-in-southside-shopping-centre)
+
     Revolv Collective
 
     grandmama’s print
