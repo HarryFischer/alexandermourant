@@ -175,58 +175,21 @@ Education:
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, *Blue Railing*
 - title: Selected Press
-  year-text: |-
-    [SW Londoner](https://www.swlondoner.co.uk/news/19032022-artwork-of-wandsworth-schoolchildren-on-show-in-southside-shopping-centre)
-
-    Revolv Collective
-
-    grandmama’s print
-
-    whynow
-
-    Der Greif
-
-    COS magazine
-
-    photograph
-
-    METAL Magazine
-
-    Culture Trip
-
-    It's Nice That
-
-    Unseen Amsterdam
-
-    Photoworks
-
-    NOWNESS
-
-    Splash and Grab
-
-    Palm Studios\*
-
-    Unveil'd
-
-    British Journal of Photography
-
-    The Plantation Journal
-
-    iGNANT
-
-    AINT-BAD
-
-    Photograd
-
-    losthenfound
-
-    SIGH Journal
-
-    Source Magazine
-
-    PYLOT Magazine
-
-    TRIP Magazine
+  year-text: "[SW Londoner](https://www.swlondoner.co.uk/news/19032022-artwork-of-wandsworth-schoolchildren-on-show-in-southside-shopping-centre)\n\n[Revolv
+    Collective](https://revolv.org.uk/Insular-Time)\n\n[grandmama’s print](https://grandmamasmag.com/en/projects/36/)\n\n[whynow](https://whynow.co.uk/read/i-was-interested-in-the-body-as-both-a-literal-and-metaphysical-object-the-lightness-by-alexander-mourant)\n\n[Der
+    Greif](https://dergreif-online.de/guest-room/emma-bowkett/)\n\nCOS magazine\n\n[Financial
+    Times](https://www.ft.com/content/a6ccdf0e-6a1c-11e9-80c7-60ee53e6681d)\n\n[photograph](https://photographmag.com/photograph-is-30/)\n\n[METAL
+    Magazine](https://metalmagazine.eu/bi/post/interview/alexander-mourant-materiality-and-metaphysics)\n\n[Culture
+    Trip](https://theculturetrip.com/africa/articles/photographer-alexander-mourant-captures-his-trip-from-cairo-to-cape-town/)\n\n[It's
+    Nice That](https://www.itsnicethat.com/articles/alexander-mourant-odyssey-photography-180518)\n\nUnseen
+    Amsterdam\n\n[Photoworks](https://photoworks.org.uk/interview-alexander-mourant/)\n\n[NOWNESS](https://nowness.tumblr.com/post/170266864445/alexander-mourant-fr-awards-solo-exhibitions-at)\n\n[Splash
+    and Grab](https://www.splashandgrab.co.uk/features/2018/1/23/alexander-mourant-aomori)\n\nPalm
+    Studios\n\n[Unveil'd](https://unveild.online/feature/aomori)\n\n[British Journal
+    of Photography](https://www.1854.photography/2018/01/mourantaomori/), *Aomori*\n\n[British
+    Journal of Photography](https://www.1854.photography/2017/07/alexander-mourants-aurelian-study-of-time-and-memory-via-classic-butterfly-houses/),
+    *Aurelian* \n\n[The Plantation Journal](http://www.acornerwith.com/contributors)\n\n[iGNANT](https://www.ignant.com/submissions/aurelian-by-alexander-mourant/)\n\n[AINT-BAD](https://www.aint-bad.com/article/2017/06/21/alexander-mourant/)\n\n[Photograd](https://www.photograd.co.uk/alexander-mourant-2/)\n\nlosthenfound\n\nSIGH
+    Journal\n\n[Source Magazine](https://www.source.ie/graduate/2017/falmunivba/falmunivba_student_17_49_47_10-05-17/falmunivba_student_17_49_47_10-05-17.php)\n\n[PYLOT
+    Magazine](https://www.pylotmagazine.com/field-visit/)\n\nTRIP Magazine"
 layout: about
 ---
 
