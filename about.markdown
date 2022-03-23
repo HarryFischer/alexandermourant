@@ -179,9 +179,8 @@ Education:
     Collective](https://revolv.org.uk/Insular-Time)\n\n[grandmama’s print](https://grandmamasmag.com/en/projects/36/)\n\n[whynow](https://whynow.co.uk/read/i-was-interested-in-the-body-as-both-a-literal-and-metaphysical-object-the-lightness-by-alexander-mourant)\n\n[Der
     Greif](https://dergreif-online.de/guest-room/emma-bowkett/)\n\nCOS magazine\n\n[Financial
     Times](https://www.ft.com/content/a6ccdf0e-6a1c-11e9-80c7-60ee53e6681d)\n\n[photograph](https://photographmag.com/photograph-is-30/)\n\n[METAL
-    Magazine](https://metalmagazine.eu/bi/post/interview/alexander-mourant-materiality-and-metaphysics)\n\n[Culture
-    Trip](https://theculturetrip.com/africa/articles/photographer-alexander-mourant-captures-his-trip-from-cairo-to-cape-town/)\n\n[It's
-    Nice That](https://www.itsnicethat.com/articles/alexander-mourant-odyssey-photography-180518)\n\nUnseen
+    Magazine](https://metalmagazine.eu/bi/post/interview/alexander-mourant-materiality-and-metaphysics)\n\nCulture
+    Trip\n\n[It's Nice That](https://www.itsnicethat.com/articles/alexander-mourant-odyssey-photography-180518)\n\nUnseen
     Amsterdam\n\n[Photoworks](https://photoworks.org.uk/interview-alexander-mourant/)\n\n[NOWNESS](https://nowness.tumblr.com/post/170266864445/alexander-mourant-fr-awards-solo-exhibitions-at)\n\n[Splash
     and Grab](https://www.splashandgrab.co.uk/features/2018/1/23/alexander-mourant-aomori)\n\nPalm
     Studios\n\n[Unveil'd](https://unveild.online/feature/aomori)\n\n[British Journal
