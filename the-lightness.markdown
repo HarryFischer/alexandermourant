@@ -121,7 +121,7 @@ Words:
     forests, this commissioned series gravitates towards the colour green.\n<br>\n<br>\nIn
     this interview, we chat with Alexander to find out more about his influences and
     his creative process.\n<br>\n<br>\nAlexander, tell us about your series *The Lightness*...
-    (What is it about, how did the idea come about, how/ where were the images taken...)\n<br>\n<br>\n*This
+    (What is it about, how did the idea come about, how/ where were the images taken...?)\n<br>\n<br>\n*This
     project originally came as a commission from The Greatest Magazine. The theme
     was, coincidentally, The Lightness, which I found to be an extremely open brief,
     allowing for both freedom and experimentation. Fortunately, at the time, I had
