@@ -10,11 +10,16 @@ Content:
     *Five Sketches Running for Two Hundred and Ten Seconds* or *Five Furrows*, 2020<br>
     <br>
     Dimensions:<br>
+
     5: 398cm x 39cm prints<br>
+
     5: 400cm x 40cm x 5cm steel trays<br>
+
     Artwork scale: 400cm x 260cm<br>
     <br>
+
     Cyanotype, photogram, watercolour paper<br>
+
     Unique
   image-size: 
   image-position: middle
