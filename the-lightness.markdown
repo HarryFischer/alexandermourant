@@ -137,7 +137,7 @@ Words:
     shouts; anything that doesn’t think; anything that doesn’t feel. I guess I’m interested
     in something fundamental, or essential, which I’ve never before realised, until
     I’m making the work. In terms of inspiration, I’ve found artists who aren’t in
-    my field to be the most stimulating; and writing, writing is everything.\n<br>\n<br>\nYour
+    my field to be the most stimulating; and writing, writing is everything.*\n<br>\n<br>\nYour
     work often leaves a lot open to the viewer's imagination. Did you make this work
     with a particular narrative in mind, or are metaphor and mystery always your intention?\n<br>\n<br>\n*Thank
     you, I’m really glad this work has an openness, as it’s often very hard to keep
@@ -184,7 +184,7 @@ Words:
     things. It was an interest which just grew naturally from there. Now it’s crazy
     to think of how much I’ve learnt. I don’t think I had an experience of seeing
     a famous photograph, and being moved to such an extent, that I needed to replicate
-    it, or take pictures because of it. I think photography just attracts some people.*\n\nEva
+    it, or take pictures because of it. I think photography just attracts some people.*\n<br>\n<br>\nEva
     Clifford interviews Alexander Mourant, originally published on WhyNow, 2020. "
 layout: project
 ---
