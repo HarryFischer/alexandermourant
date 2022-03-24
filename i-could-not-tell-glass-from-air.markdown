@@ -235,7 +235,7 @@ Words:
     and distance provided by it, in order to see the outside for what it is. And somehow
     it's the distance, mediated by the glass, by not touching it, that makes the sensation
     of seeing, seem further; moreover, glass is a material which exists in the in-between,
-    it is liminal (a term born in The Forest of Symbols by Victor Turner): dividing
+    it is liminal (a term born in *The Forest of Symbols* by Victor Turner): dividing
     interior and exterior; inside and outside; here and there. It exists in a grey
     space, but it is a threshold too. And does this description not remind you of
     another? For me, I felt it analogous to the camera; more so, the children of it:
