@@ -204,8 +204,9 @@ Words:
     - the spiritual history of the process seeps through into the image, to a time
     when the land was a place of worship. The blue is therefore not just for aesthetic
     effect, but pulses the landscapes. As the American writer Rebecca Solnit writes,
-    ‘The world is blue at its edges and in its depths’. \n\nIntroduction written by
-    Susan Bright, originally included in *Aomori*, The Old Truman Brewery, 2018. "
+    ‘The world is blue at its edges and in its depths’. \n<br>\n<br>\nIntroduction
+    by Susan Bright, originally for the solo exhibition *Aomori*, The Old Truman Brewery,
+    2018. "
 layout: project
 ---
 
