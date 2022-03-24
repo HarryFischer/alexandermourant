@@ -174,9 +174,9 @@ Words:
     For *To Feel Its Touch* he created an abstract, interconnecting photogram using
     nine large format negatives. The material from the London excavations was suspended
     in a large tank of water. Taken during one exposure, this intensely physical process
-    imbues itself with suggestive qualities and personal memory.\n\nExcerpt of press
-    release, Unseen Amsterdam 2019, written by Vivienne Gamble, Founder & Director
-    of Seen Fifteen Gallery."
+    imbues itself with suggestive qualities and personal memory.\n<br>\n<br>\nExcerpt
+    of press release, Unseen Amsterdam 2019, written by Vivienne Gamble, Founder &
+    Director of Seen Fifteen Gallery."
 layout: project
 ---
 
