@@ -59,15 +59,15 @@ Content:
   image-position: middle
   image-margin-right: 
 Words:
-- interview-text: "# The Bell Tower\n<br>\n<br>\n*The works presented in The Bell
-    Tower, draw on the notion, or the experience, of something profoundly simple:
+- interview-text: "# The Bell Tower\n<br>\n<br>\nThe works presented in *The Bell
+    Tower*, draw on the notion, or the experience, of something profoundly simple:
     sound. It is a subject, which, I’ll be the first to admit, does not readily lend
     itself to such a famously silent, stealthy and still medium; which, of course,
     is photography. But it is a subject, which I felt, couldn’t be escaped; it seemed
     to claw away at me, at my thoughts and feelings, as if it were something which
     sought to devour and assimilate me—it demanded I enter it, into its cave, constructed
     of a dark, eternal echo; an embrace, so strong and absolute, that I feared, if
-    I did not accept it, I would lose the breath which gave rise to my voice.* \n<br>\n<br>\n*The
+    I did not accept it, I would lose the breath which gave rise to my voice.\n<br>\n<br>\nThe
     source of this sound, is, of course, that moulded piece of metal, found at the
     top of the bell tower; the bell I found there, hung, dusty and grey, when I first
     laid my eyes upon it. It was coarse, like a raw and overused throat; I imagined
@@ -83,7 +83,7 @@ Words:
     They were all sorts of kind of’s: kind of lost; kind of sad; kind of not really
     there; just floating, latent; kind of dead behind the eyes. It was poignant, and
     I couldn’t help but think of a doctor, who is attracted to broken things, which
-    he cannot ever fix. I left with that sense, welling up inside of me.* \n<br>\n<br>\n*I
+    he cannot ever fix. I left with that sense, welling up inside of me. \n<br>\n<br>\nI
     went home that afternoon and began to contemplate that building which laid bare,
     bereft of the thingness which once made itself, itself. The bell has not rung
     for many years, I was told, when I first attempted to seek it out. That knowledge
@@ -100,10 +100,10 @@ Words:
     You may also be sat there thinking: when does a sound, become music? When does
     a noise, become Art? These are very valid questions, and they produce, like most
     things, gaping holes in my logic. And I think, perhaps, I’ll leave them for you
-    to answer.* \n<br>\n<br>\n*Now, my curiosity has got the better of me, and I’ve
-    lead us down a path— although, closely related—which would eventually lead us
-    to the wrong wood. What is important is the idea of the bell as an object. Keep
-    hold of that. And what, may I ask you, is the most common attribute among objects?
+    to answer.\n<br>\n<br>\nNow, my curiosity has got the better of me, and I’ve lead
+    us down a path— although, closely related—which would eventually lead us to the
+    wrong wood. What is important is the idea of the bell as an object. Keep hold
+    of that. And what, may I ask you, is the most common attribute among objects?
     They have a function. This glass, which sits next to me, as I write, has a function:
     to hold liquid. This pen, too, naturally, does its thing: it writes. So what does
     it mean for a thing to no longer do what it was born to do? A ship out of water.
@@ -116,7 +116,7 @@ Words:
     a fugitive from my grasp, as my thoughts, flipped and turned; but, I could not
     escape the deepest of my thoughts that night: a question, as to whether, or not,
     the bell, may make music once again. It was like a children’s story, reaching
-    the end of a tape; or sand, running out, in an hourglass.* \n<br>\n<br>\n*In any
+    the end of a tape; or sand, running out, in an hourglass. \n<br>\n<br>\nIn any
     case, before it is lost to the sea of time, might we, briefly, consider what the
     bell brought us. It is believed to come from the Old English, bellan, meaning
     to roar, and from this, grew a word which we have already used, bellow (a loud
@@ -135,19 +135,19 @@ Words:
     spoke of: the bells represent language, a magnified human voice—and the enthusiastic
     roar of liberation. They are not only found amongst our cities, but lie, hidden
     away, like acorns, in the earth, in the ground of our art and our stories; such
-    as Macbeth by William Shakespeare, Peter Pan by JM Barrie, The Bell by Iris Murdoch
-    and Notre Dame de Paris by Victor Hugo. They ignite adventure, and have followed
-    us across oceans.* \n<br>\n<br>\n*This might all be a rather roundabout way of
-    saying something which I’d decided, a couple days after my initial visit. I’d
-    landed on a direction, one I was intent on following; the course was calculated,
+    as *Macbeth* by William Shakespeare, *Peter Pan* by JM Barrie, *The Bell* by Iris
+    Murdoch and *Notre Dame de Paris* by Victor Hugo. They ignite adventure, and have
+    followed us across oceans. \n<br>\n<br>\nThis might all be a rather roundabout
+    way of saying something which I’d decided, a couple days after my initial visit.
+    I’d landed on a direction, one I was intent on following; the course was calculated,
     and the path was set. I was interested, you see, in listening; in hearing the
     sound the bell makes, for all those reasons I just mentioned. However, as it happens,
     that wasn’t entirely possible. So, I set about working with a medium that continues
     to surprise and support me, as though, when I uncover another facet of its character,
     I discover something new about myself. To ring a bell, is to awaken a memory,
-    and to make a photograph, is to live it.*\n<br>\n<br>\n*The Sound Floods,*<br>
+    and to make a photograph, is to live it.\n<br>\n<br>\n*The Sound Floods,*<br>
     \n*My Body,*<br>\n*My Vessel*\n<br>\n<br>\nText written by Alexander Mourant,
-    2020 "
+    2020."
 layout: project
 ---
 
