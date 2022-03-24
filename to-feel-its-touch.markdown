@@ -156,27 +156,27 @@ Content:
   image-position: middle
   image-margin-right: 
 Words:
-- interview-text: "# To Feel Its Touch\n<br>\n<br>\nExcerpt of press release, Unseen
-    Amsterdam 2019, written by Vivienne Gamble, Founder & Director Seen Fifteen Gallery:\n<br>\n<br>\n*Alexander
-    Mourant presents a new series of abstract works which respond to the ubiquitous
-    cycle of urban renewal and regeneration. To Feel Its Touch began as a commission
-    by the Financial Times to make a body of work reflecting the artist’s feelings
-    about London and his place within it. On an early morning walk, Mourant was struck
-    by the sight of an area \nof the city being excavated and unearthed. A section
-    of the city appeared before him as a void, ruptured as if it had an open wound:*\n<br>\n<br>
-    \n***“I realised that London is essentially an interwoven lattice of materials
-    - combining and dividing - instigating our meeting and plotting our separation.”
-    Alexander Mourant***\n<br>\n<br>\n*Inspired by ideas around memory and the city,
-    Mourant retraced areas of London he had known during childhood which were now
-    undergoing change. Where he found major works he removed some excavated earth
-    and took it back to the darkroom.*\n<br>\n<br> \n*Alexander Mourant’s practice
-    is concerned with the metaphysical nature of photography. He experiments with
-    the photographic process to find new ways to draw attention to and question our
-    relationship to our environment. For To Feel Its Touch he created an abstract,
-    interconnecting photogram using nine large format negatives. The material from
-    the London excavations was suspended in a large tank of water. Taken during one
-    exposure, this intensely physical process imbues itself with suggestive qualities
-    and personal memory.* - Vivienne Gamble, 2019"
+- interview-text: "# To Feel Its Touch\n<br>\n<br>\nAlexander Mourant presents a new
+    series of abstract works which respond to the ubiquitous cycle of urban renewal
+    and regeneration. *To Feel Its Touch* began as a commission by the Financial Times
+    to make a body of work reflecting the artist’s feelings about London and his place
+    within it. On an early morning walk, Mourant was struck by the sight of an area
+    \nof the city being excavated and unearthed. A section of the city appeared before
+    him as a void, ruptured as if it had an open wound:\n<br>\n<br> \n*“I realised
+    that London is essentially an interwoven lattice of materials - combining and
+    dividing - instigating our meeting and plotting our separation.”* - Alexander
+    Mourant\n<br>\n<br>\nInspired by ideas around memory and the city, Mourant retraced
+    areas of London he had known during childhood which were now undergoing change.
+    Where he found major works he removed some excavated earth and took it back to
+    the darkroom.\n<br>\n<br> \nAlexander Mourant’s practice is concerned with the
+    metaphysical nature of photography. He experiments with the photographic process
+    to find new ways to draw attention to and question our relationship to our environment.
+    For *To Feel Its Touch* he created an abstract, interconnecting photogram using
+    nine large format negatives. The material from the London excavations was suspended
+    in a large tank of water. Taken during one exposure, this intensely physical process
+    imbues itself with suggestive qualities and personal memory.\n\nExcerpt of press
+    release, Unseen Amsterdam 2019, written by Vivienne Gamble, Founder & Director
+    of Seen Fifteen Gallery."
 layout: project
 ---
 
