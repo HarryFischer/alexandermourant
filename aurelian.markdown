@@ -112,7 +112,8 @@ Words:
     <br>
     *Aurelian* marks a change from Mourant’s previous projects, which are more documentary in nature. *“In the process of reviewing my recent photographs, I grew frustrated with the lack of interaction between the work and the viewers; there was no sensation, the photographs felt soulless,”* he comments.
     Working solely with medium and large format film for this project, he chose to experiment with a slower-paced, more conceptual approach that explores the metaphysical qualities of photography, one that he plans to continue on a trip to Japan.
-
+    <br>
+    <br>
     Article originally published in *British Journal of Photography*, Issue 7862, 2017, written by Sophie Wright.
 layout: project
 ---
