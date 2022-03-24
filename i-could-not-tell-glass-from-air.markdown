@@ -185,7 +185,7 @@ Content:
   image-position: middle
   image-margin-right: 
 Words:
-- interview-text: "# I Could Not Tell Glass From Air\n<br>\n<br>\n*To speak of this
+- interview-text: "# I Could Not Tell Glass From Air\n<br>\n<br>\nTo speak of this
     work, is to attempt to do something quite strange. You see, to speak, or to articulate,
     is very often than not, a means of defining something: to make it known, recognised,
     to form boundaries of what it is and how it works; seemingly satisfying for both
@@ -193,7 +193,7 @@ Words:
     quite a few years of thinking the opposite, of how troublesome that can be, how
     dissatisfying, for the work to be betrothed to words before it is even felt on
     its own; and feeling, or rather, sometimes, the lack of it, is what drives us
-    forward.*\n<br>\n<br>\n*Let me put it in another way: what I’ve never really understood,
+    forward.\n<br>\n<br>\nLet me put it in another way: what I’ve never really understood,
     as a young artist, when mingling, say at a gallery opening, or at a talk, is when
     someone would utter the illustrious phrase: it’s a research project; firstly,
     it’s normally said in a tone designed to condescend, as if I just wouldn’t get
@@ -210,12 +210,12 @@ Words:
     you’d be interested in navigating us a little differently: instead of reciting
     what I think, and lying in the process, might we choose to discuss what surrounds
     it? I feel them shimmering like stars, as these clusters of thoughts, spin, orbiting
-    around us. Through them I have learnt to see further and deeper than ever before.*\n<br>\n<br>\n*The
+    around us. Through them I have learnt to see further and deeper than ever before.\n<br>\n<br>\nThe
     title draws from the notion, or the experience, of double taking: a glance, which
     often reveals something unsuspected, or overlooked. What I thought I saw is not
     what I thought I saw. It reminded me of my initial visit to the site of the work,
     the greenhouse, and to the trickery its glass panels played, on my mind and my
-    eyes. To \nvisit it, was to enter a world of appearances, a curiously fractured
+    eyes. To visit it, was to enter a world of appearances, a curiously fractured
     and refracted world of sight; a field of disbelief, and illusion. This sensation
     was supported by decades of decay, as the greenhouse, fallen into disrepair, only
     faintly resembled itself, like a face, or a body, withering, sixty years on from
@@ -228,7 +228,7 @@ Words:
     akin to André Breton, who desired to live, entirely, in a glasshouse, for all
     the clarity and cohesion it would bring to the character which was himself. I
     sensed I would find things there, or an inquiry as to why it is, and how I perhaps,
-    came to be there.* \n<br>\n<br>\n*It dawned on me a while ago that the greenhouse
+    came to be there. \n<br>\n<br>\nIt dawned on me a while ago that the greenhouse
     is essentially a house of windows. A structure, or a sculpture, for seeing, and
     seeing through. Baudelaire speaks about windows, and how the world can only, truly,
     be seen through windows, and this seeing needs glass, it needs the separation
@@ -246,7 +246,7 @@ Words:
     a space of neither day nor night. Of neither life nor death. It’s a twilight art,
     as Sontag said: it’s a marker for a reality within itself. And I found that intoxicating.
     To be walking inside it, amid photographs and a structure, which I came to see
-    as the apparatus of seeing, rupturing, in front of my eyes.* \n<br>\n<br>\n*Frustratingly,
+    as the apparatus of seeing, rupturing, in front of my eyes. \n<br>\n<br>\nFrustratingly,
     I've found just one reading will never do; it's constantly reread, like my favourite,
     battered, old novel, thrown to the floor; the ink on the page, so damaged by light
     and touch, begins to fade—the text is no longer black. That path became grey and
@@ -254,10 +254,10 @@ Words:
     see the reverse, and justify the opposite. Perhaps, I thought, I had absorbed
     the entropy of it, the energy of the site itself, to live as the structure, whose
     images faded inside of me. Robert Smithson frequently discussed the idea of energy
-    transfer, but there was one comment in particular, upon producing Glue Pour (1969),
-    which struck a chord with me. He spoke of the decisive event which solidified
-    Duchamp’s Large Glass (1915–1923): the cracking of it. During the movement of
-    the work from A to B, the work though carefully packaged, famously, shattered
+    transfer, but there was one comment in particular, upon producing *Glue Pour*
+    (1969), which struck a chord with me. He spoke of the decisive event which solidified
+    Duchamp’s *The Large Glass* (1915–1923): the cracking of it. During the movement
+    of the work from A to B, the work though carefully packaged, famously, shattered
     in transit. Smithson saw Duchamp’s attempt to safely transport the work as being
     an endeavour to overcome entropy; however, against your greatest efforts, it's
     the destiny of glass, to eventually break. He aligned it with the entropy found
@@ -265,10 +265,10 @@ Words:
     association to the art object, and Duchamp too, embraced it, realising his glass
     only became the Large Glass, on experiencing its change into something similar,
     but again, decidedly other. And what they touched upon, I feel is what art is:
-    the energy of something, changing into something else.*\n<br>\n<br>\n*Through
-    my work, I began to realise the materials which made up this ruin, had departed
-    the realm of the functional, operational, and in doing so, had entered a world
-    of the pure and absolute. Here we could deal with the fundamental nature of things:
+    the energy of something, changing into something else.\n<br>\n<br>\nThrough my
+    work, I began to realise the materials which made up this ruin, had departed the
+    realm of the functional, operational, and in doing so, had entered a world of
+    the pure and absolute. Here we could deal with the fundamental nature of things:
     the enduring absence and presence of it, and of us. As it oscillated between the
     two, between life and death, we weren’t witnessing the loss of images, and the
     loss of meaning, rather, the breeding of things, and the presence of the energy
@@ -277,29 +277,29 @@ Words:
     or a crystallisation of things, into minerals, light and time. So the site became
     a paradox for me. At first, I sought to enter a world of obliterated images, the
     end of the image, you could say, and time itself, a void, an abyss, much like
-    Klein’s The Void (1958), but what precipitated, through traversing the abyss,
+    Klein’s *The Void* (1958), but what precipitated, through traversing the abyss,
     through the image of it, was an action not too dissimilar to Alice falling into
     Wonderland: I learnt a way of feeling which was beyond my apprehension. I guess,
     it was the surreality of it, of learning that which surrounds you, was a clear,
     glass box, the atmosphere of which compresses you, until at last, you were urged
     by your last breath, to reach out, and touch the surface. When you went to touch
-    the glass you realised it was not glass at all, but air.*\n<br>\n<br>\n*I suspect,
+    the glass you realised it was not glass at all, but air.\n<br>\n<br>\nI suspect,
     without knowing it, I’ve found myself in the midst of it, in an ever expanding,
     ever turning, spectrum of research. I’ve learnt many others have found a solitude
     in it, lying, comforted, underneath sheets of glass: Derek Jarman, use to literally
     sleep inside a greenhouse in his cold, lofty flat, an emblem of his undying love
     for the botanical, and the distance he felt between his identity and social acceptance;
-    Agnès Varda’s piece, The Greenhouse of Happiness (2018), was constructed entirely
+    Agnès Varda’s piece, *The Greenhouse of Happiness* (2018), was constructed entirely
     out of original 35mm negatives, and mused on the nature of nostalgia, as her work
     underwent a metamorphosis, becoming a literal house of cinema; Maurice Maeterlinck,
-    the Belgian playwright, released a book of poems, titled Hothouses (1889), which
+    the Belgian playwright, released a book of poems, titled *Hothouses* (1889), which
     delved into the nature of the soul, and the subconscious under glass; and lastly,
     Léon Spilliaert, the symbolist painter, who was greatly influenced by the aforementioned
     writer, became infatuated by their contained atmosphere, filling his depictions
     with a strong brooding colour and subtle luminescence. As many others have before
-    me, I shall continue to learn from it.*\n<br> \n<br>\n*Falling through;*<br> \n*falling
+    me, I shall continue to learn from it.\n<br> \n<br>\n*Falling through;*<br> \n*falling
     through;*<br> \n*falling onto glass.*\n<br> \n<br>\nText written by Alexander
-    Mourant, 2020 "
+    Mourant, 2020. "
 layout: project
 ---
 
