@@ -13,7 +13,7 @@ Content:
     Est. 48 x 60 in. each, (122cm x 152cm)<br>
 
     Est. Edition 3 + 2AP
-  image-size: medium
+  image-size: small
   image-position: middle
 layout: olsar-1
 ---
