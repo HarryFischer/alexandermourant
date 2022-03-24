@@ -7,8 +7,11 @@ Content:
 - image: "/uploads/olsar-p11-01.jpg"
   caption-text: |-
     *Two Tracks Lead Away*, 2020<br>
+
     Diptych, archival Giclée prints<br>
+
     Est. 48 x 60 in. each, (122cm x 152cm)<br>
+
     Est. Edition 3 + 2AP
   image-size: medium
   image-position: middle
