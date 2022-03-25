@@ -103,55 +103,55 @@ Content:
 - image: "/uploads/FT-Weekend-Magazine,-Alexander-Mourant-1.jpg"
   video: 
   caption-text: |-
-    *To Feel Its Touch*, 2019
+    *My London*, FT Weekend Magazine<br>
 
-    *My London*, FT Weekend Magazine
+    Photo London issue curated by Emma Bowkett<br>
 
-    Photo London
+    *To Feel Its Touch*, 2019<br>
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
   video: 
   caption-text: |-
-    *Peckham I*, 2019
+    Copeland Gallery, Peckham 24, 2019<br>
 
-    *For Those Who Could See Beyond the Surface*
+    *For Those Who Could See Beyond the Surface*<br>
 
-    Curated by Emma Bowkett
+    *Peckham I*, 2019<br>
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
   video: 
-  caption-text: |-
-    *Peckham I*, 2019
+  caption-text: |
+    Copeland Gallery, Peckham 24, 2019<br>
 
-    *For Those Who Could See Beyond the Surface*
+    *For Those Who Could See Beyond the Surface*<br>
 
-    Curated by Emma Bowkett
+    *Peckham I*, 2019<br>
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Unseen-2019-2.jpg"
   video: 
   caption-text: |-
+    Unseen Amsterdam, 2019<br>
+
+    Seen Fifteen Gallery<br>
+
     *Chiswick II (ii) & (iii)*, 2019
-
-    Unseen Amsterdam
-
-    Seen Fifteen Gallery
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Unseen-2019-3.jpg"
   video: 
   caption-text: |-
+    Unseen Amsterdam, 2019<br>
+
+    Seen Fifteen Gallery<br>
+
     *Chiswick II (i) & (vi)*, 2019
-
-    Unseen Amsterdam
-
-    Seen Fifteen Gallery
   image-size: medium
   image-position: middle
   image-margin-right: 
