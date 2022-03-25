@@ -128,7 +128,7 @@ Education:
     Below* by Bart Lunenburg](https://c4journal.com/bart-lunenburg-this-creaking-floor-and-all-the-ceilings-below/)
     \n\n2021 - [C4 Journal, Review: *Furze* by Jack Whitefield](https://c4journal.com/jack-whitefield-furze/)\n\n2020
     - [On Living Stones and Reaching: *The Wilderness of Words*](https://www.alexandermourant.com/on-living-stones-and-reaching)\n\n2019
-    - The Journal: On Being Someone Other\n\n2017 - Land Art, Photography and Time"
+    - *The Journal: On Being Someone Other*\n\n2017 - *Land Art, Photography and Time*"
 - title: Grants
   year-text: |-
     2021 - ArtHouse Jersey - www.arthouse.je
