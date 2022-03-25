@@ -14,7 +14,7 @@ Content:
   page-url: "/i-could-not-tell-glass-from-air"
   image-size: small
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: xxsmall
 - image: "/uploads/5x3.8%20-%20Alexander%20Mourant%20-%20A%20Vertigo%20Like%20Self%20-%203.jpg"
   caption-text: "*A Vertigo Like Self*, 2019"
   page-url: "/a-vertigo-like-self"
