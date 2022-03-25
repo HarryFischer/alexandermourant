@@ -12,18 +12,18 @@ Content:
 - image: "/uploads/Vitrum-IX,-2019.jpg"
   caption-text: "*I Could Not Tell Glass From Air*, 2020"
   page-url: "/i-could-not-tell-glass-from-air"
-  image-size: medium
-  image-position: middle
-  image-margin-right: medium
-- image: "/uploads/An-Attempt-to-Flood-the-Photograph,-Alexander-Mourant,-2020.jpg"
-  caption-text: "*The Bell Tower*, 2020"
-  page-url: "/the-bell-tower"
-  image-size: medium
-  image-position: middle
-  image-margin-right: small
+  image-size: small
+  image-position: top
+  image-margin-right: xsmall
 - image: "/uploads/5x3.8%20-%20Alexander%20Mourant%20-%20A%20Vertigo%20Like%20Self%20-%203.jpg"
   caption-text: "*A Vertigo Like Self*, 2019"
   page-url: "/a-vertigo-like-self"
+  image-size: small
+  image-position: bottom
+  image-margin-right: small
+- image: "/uploads/An-Attempt-to-Flood-the-Photograph,-Alexander-Mourant,-2020.jpg"
+  caption-text: "*The Bell Tower*, 2020"
+  page-url: "/the-bell-tower"
   image-size: medium
   image-position: middle
   image-margin-right: small
