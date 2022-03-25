@@ -7,14 +7,14 @@ Content:
   caption-text: "*On Living Stones and Reaching*, 2020"
   image-size: medium
   image-position: middle
-  image-margin-right: small
+  image-margin-right: medium
   page-url: "/on-living-stones-and-reaching"
 - image: "/uploads/Vitrum-IX,-2019.jpg"
   caption-text: "*I Could Not Tell Glass From Air*, 2020"
   page-url: "/i-could-not-tell-glass-from-air"
   image-size: medium
   image-position: middle
-  image-margin-right: small
+  image-margin-right: medium
 - image: "/uploads/An-Attempt-to-Flood-the-Photograph,-Alexander-Mourant,-2020.jpg"
   caption-text: "*The Bell Tower*, 2020"
   page-url: "/the-bell-tower"
