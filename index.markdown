@@ -7,7 +7,7 @@ Content:
   caption-text: "*On Living Stones and Reaching*, 2020"
   image-size: medium
   image-position: middle
-  image-margin-right: large
+  image-margin-right: xlarge
   page-url: "/on-living-stones-and-reaching"
 - image: "/uploads/Vitrum-IX,-2019.jpg"
   caption-text: "*I Could Not Tell Glass From Air*, 2020"
