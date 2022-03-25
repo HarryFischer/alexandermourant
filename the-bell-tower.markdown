@@ -3,6 +3,39 @@ title: The Bell Tower
 date: 2021-02-20 10:40:00 Z
 position: 23
 Content:
+- image: "/uploads/BellTowerNew-1.jpg"
+  video: 
+  caption-text: |-
+    The Old Rectory, 2021<br>
+
+    *The Bell Tower*<br>
+
+    *An Attempt to Flood the Photograph*, 2020
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/BellTowerNew-2.jpg"
+  video: 
+  caption-text: |-
+    The Old Rectory, 2021<br>
+
+    *The Bell Tower*<br>
+
+    *Mechanism*, 2020
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Mechanism-3.jpg"
+  video: 
+  caption-text: |-
+    The Old Rectory, 2021<br>
+
+    *The Bell Tower*<br>
+
+    *AATFTP* & *Mechanism*, 2020
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 - image: "/uploads/6.jpg"
   video: 
   caption-text: "*Movement VI*, 2020"
