@@ -7,14 +7,14 @@ Content:
   caption-text: "*On Living Stones and Reaching*, 2020"
   image-size: medium
   image-position: middle
-  image-margin-right: xlarge
+  image-margin-right: large
   page-url: "/on-living-stones-and-reaching"
 - image: "/uploads/Vitrum-IX,-2019.jpg"
   caption-text: "*I Could Not Tell Glass From Air*, 2020"
   page-url: "/i-could-not-tell-glass-from-air"
   image-size: small
   image-position: middle
-  image-margin-right: xxsmall
+  image-margin-right: xsmall
 - image: "/uploads/5x3.8%20-%20Alexander%20Mourant%20-%20A%20Vertigo%20Like%20Self%20-%203.jpg"
   caption-text: "*A Vertigo Like Self*, 2019"
   page-url: "/a-vertigo-like-self"
