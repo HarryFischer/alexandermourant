@@ -36,13 +36,13 @@ Content:
 - image: "/uploads/Lightness-Alexander-Mourant-5.jpg"
   caption-text: "*The Lightness*, 2019"
   page-url: "/the-lightness"
-  image-size: medium
+  image-size: xsmall
   image-position: middle
   image-margin-right: small
 - image: "/uploads/Blue-Tree-2017.jpg"
   caption-text: "*Aomori*, 2017"
   page-url: "/aomori"
-  image-size: medium
+  image-size: small
   image-position: middle
   image-margin-right: small
 - image: "/uploads/Display-dome-with-atmosphere---Alexander-Mourant.jpg"
@@ -50,7 +50,7 @@ Content:
   page-url: "/aurelian"
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: medium
 Words:
 - interview-text: 
 layout: home
