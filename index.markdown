@@ -20,7 +20,7 @@ Content:
   page-url: "/a-vertigo-like-self"
   image-size: small
   image-position: middle
-  image-margin-right: small
+  image-margin-right: medium
 - image: "/uploads/An-Attempt-to-Flood-the-Photograph,-Alexander-Mourant,-2020.jpg"
   caption-text: "*The Bell Tower*, 2020"
   page-url: "/the-bell-tower"
