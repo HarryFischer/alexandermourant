@@ -8,7 +8,7 @@ Content:
   caption-text: |-
     *Palm of the Earth*, 2020<br>
 
-    Archival Giclée print<br>
+    Silver gelatin print<br>
 
     Est. 48 x 60 in. (122cm x 152cm)<br>
 
