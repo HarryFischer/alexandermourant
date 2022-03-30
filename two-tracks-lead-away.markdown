@@ -8,7 +8,7 @@ Content:
   caption-text: |-
     *Two Tracks Lead Away*, 2020<br>
 
-    Diptych, archival Giclée prints<br>
+    Diptych, silver gelatin prints<br>
 
     Est. 48 x 60 in. each, (122cm x 152cm)<br>
 
