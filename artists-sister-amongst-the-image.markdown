@@ -8,7 +8,7 @@ Content:
   caption-text: |-
     *Artist’s Sister Amongst the Image*, 2020<br>
 
-    Archival Giclée print<br>
+    Silver gelatin print<br>
 
     Est. 32 x 40 in. (81cm x 102cm)<br>
 
