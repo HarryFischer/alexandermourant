@@ -11,7 +11,7 @@ Content:
     15:27 - 15:45, 24th June, 2020<br>
     Trinity, Jersey<br>
     Photo-series of 11 archival Giclée prints<br>
-    Est. 16 x 12.5 in. (40.6 x 32.5 cm)
+    Est. 16 x 12.5 in. (40.6 x 31.7 cm)
   image-size: 
   image-position: middle
   image-margin-right: 
