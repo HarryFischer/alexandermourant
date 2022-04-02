@@ -35,9 +35,8 @@ Content:
   image-margin-right: 
   entry-heading-text: Part of a Whole (2020)
   entry-body-text: "Greenhouse glass photogram diptych. This piece is 50% complete
-    and awaits framing. It's an additonal work that joins the ongoing series, *[I
-    Could Not Tell Glass From Air](https://www.alexandermourant.com/i-could-not-tell-glass-from-air)*.
-    \n"
+    and awaits framing. It's an additonal work that joins the ongoing series, *I Could
+    Not Tell Glass From Air*. \n"
   entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ-2.jpg"
   entry-two-image: 
   entry-meta-text: |
