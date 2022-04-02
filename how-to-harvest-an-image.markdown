@@ -4,7 +4,7 @@ date: 2021-11-15 17:58:00 Z
 permalink: "/on-living-stones-and-reaching/how-to-harnes-an-image"
 position: 10
 Content:
-- video: https://player.vimeo.com/video/666506790?autoplay=1&loop=1&controls=false
+- video: https://player.vimeo.com/video/666506790?autoplay=1&loop=1&controls=false&muted=1
   caption-text: |-
     *[How to Harvest an Image,](https://vimeo.com/666506790){:target="_blank"}* 2020<br>
 
