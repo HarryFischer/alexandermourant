@@ -280,7 +280,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019.jpg"
+- image: "/uploads/Installations-AlexanderMourant-7.jpg"
   caption-text: |-
     Copeland Gallery
 
