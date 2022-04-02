@@ -13,7 +13,6 @@ Content:
     For projection, digitised HD<br>
 
     Duration: 7 minutes, 53 seconds
-  image-size: large
   image-position: middle
 layout: olsar-2
 ---
