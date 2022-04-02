@@ -24,7 +24,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-26.jpg"
+- image: "/uploads/Installations-AlexanderMourant-5.jpg"
   caption-text: |-
     Mont au Prêtre Farm
 
@@ -34,7 +34,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-5.jpg"
+- image: "/uploads/Installations-AlexanderMourant-26.jpg"
   caption-text: |-
     Mont au Prêtre Farm
 
