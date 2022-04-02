@@ -174,7 +174,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/A-Gesture-of-Brambles-2---Alexander-Mourant---2020.jpg"
+- image: "/uploads/Installations-AlexanderMourant-2.jpg"
   caption-text: |-
     Royal College of Art
 
@@ -290,7 +290,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Copeland-Gallery---Alexander-Mourant---2019%202.jpg"
+- image: "/uploads/Installations-AlexanderMourant-7.jpg"
   caption-text: |-
     Copeland Gallery
 
