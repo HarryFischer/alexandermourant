@@ -378,6 +378,9 @@ body {
       // image size
       @media (min-width: 700px) {
         transform: translateY(-20px);
+        .image-wrapper {
+          transform: none;
+        }
       }
       .xsmall {
         width: auto;
@@ -412,7 +415,6 @@ body {
         width: max-content;
         margin-right: 100px;
         @media (min-width: 700px) {
-          padding-top: 0;
           position: absolute;
           transform: translateY(-20px);
         }

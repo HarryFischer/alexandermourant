@@ -38,6 +38,7 @@ var box = document.querySelectorAll('.link-container');
 // click and drag
 
 const dragMe = document.querySelector('.split-wrapper__right');
+// const dragMe = document.querySelector('.wrapper');
 let isDown = false;
 let startX;
 let scrollLeft;
@@ -65,27 +66,10 @@ dragMe.addEventListener('mousemove', (e) => {
   console.log(walk);
 });
 
+
+
 // END
 
-var player = document.getElementById('#player')
-const playVideo = (() => {
-  player.on('ready', function () { player.play(); });
-})
-
-setTimeout(() => {
-  playVideo()
-}, 5000)
-
-  // force video autoplay
-  if(document.getElementById('#player')) {
-    console.log("1234")
-    player = new Plyr('#player', {
-      debug: true,
-      volume: 0,
-      autoplay: true,
-      muted: true
-    });
-  } else {}
   
 if (iO) {
   const config = {
