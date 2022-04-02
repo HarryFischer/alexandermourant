@@ -36,10 +36,15 @@ Content:
   entry-heading-text: Part of a Whole (2020)
   entry-body-text: "Greenhouse glass photogram diptych. This piece is 50% completed
     and awaits framing. It's an additonal work that joins the ongoing series, *I Could
-    Not Tell Glass from Air*. \n"
+    Not Tell Glass From Air*. \n"
   entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ.jpg"
   entry-two-image: 
-  entry-meta-text: "*Part of a Whole*, Artist's Render, 2020"
+  entry-meta-text: |
+    *Part of a Whole*, Artist's Render, 2020<br>
+    Diptych, 24 x 20” each<br>
+    Silver gelatin hand print, photogram<br>
+    Plant life, glass, walnut<br>
+    Unique<br>
   text-margin-right: 
 - image: 
   video: 
