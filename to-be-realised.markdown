@@ -37,7 +37,7 @@ Content:
   entry-body-text: "Greenhouse glass photogram diptych. This piece is 50% completed
     and awaits framing. It's an additonal work that joins the ongoing series, *I Could
     Not Tell Glass From Air*. \n"
-  entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ.jpg"
+  entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ-2.jpg"
   entry-two-image: 
   entry-meta-text: |
     *Part of a Whole*, Artist's Render, 2020<br>
