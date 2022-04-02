@@ -3,7 +3,7 @@ title: To Feel Its Touch
 date: 2021-03-17 18:33:00 Z
 position: 24
 Content:
-- image: "/uploads/(ONLINE)-Peckham-I---Alexander-Mourant---2019.jpg"
+- image: "/uploads/Peckham-I-AlexanderMourant-2019.jpg"
   video: 
   caption-text: "*Peckham I*, 2019 \n\n51\\.4cm x 40.6cm (each work)\n\nGiclée photogram,
     9 individual negatives\n\nAluminium frame, sprayed white\n\nEdition of 5 \\+ 1AP"
@@ -40,7 +40,7 @@ Content:
   image-size: small
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/(ONLINE)-Chiswick-II---Alexander-Mourant---2019.jpg"
+- image: "/uploads/Chiswick-II-AlexanderMourant-2019.jpg"
   video: 
   caption-text: |-
     *Chiswick II*, 2019
@@ -85,7 +85,7 @@ Content:
   image-size: small
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/(ONLINE)-Chiswick-I---Alexander-Mourant---2019.jpg"
+- image: "/uploads/Chiswick-I-AlexanderMourant-2019.jpg"
   video: 
   caption-text: |-
     *Chiswick I*, 2019
