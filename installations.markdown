@@ -3,7 +3,7 @@ title: Installations
 date: 2021-03-01 17:53:00 Z
 position: 18
 Content:
-- image: "/uploads/Five-Sketches-2-spotted.jpg"
+- image: "/uploads/Installations-AlexanderMourant-6.jpg"
   video: 
   caption-text: |-
     Mont au Prêtre Farm
@@ -14,7 +14,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-6.jpg"
+- image: "/uploads/Installations-AlexanderMourant-34.jpg"
   caption-text: |-
     Mont au Prêtre Farm
 
@@ -24,7 +24,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Five-Sketches-7.jpg"
+- image: "/uploads/Installations-AlexanderMourant-26.jpg"
   caption-text: |-
     Mont au Prêtre Farm
 
@@ -34,7 +34,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Five-Furrows-3---Alexander-Mourant---2020-4af8cd.jpg"
+- image: "/uploads/Installations-AlexanderMourant-5.jpg"
   caption-text: |-
     Mont au Prêtre Farm
 
@@ -44,7 +44,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Five-Sketches-13.jpg"
+- image: "/uploads/Installations-AlexanderMourant-25.jpg"
   caption-text: |-
     Mont au Prêtre Farm
 
@@ -54,7 +54,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Five-Sketches-12.jpg"
+- image: "/uploads/Installations-AlexanderMourant-24.jpg"
   caption-text: |-
     Mont au Prêtre Farm
 
@@ -64,7 +64,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/BellTowerNew-1.jpg"
+- image: "/uploads/Installations-AlexanderMourant-37.jpg"
   caption-text: |-
     The Old Rectory
 
@@ -74,7 +74,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-37.jpg"
+- image: "/uploads/Installations-AlexanderMourant-35.jpg"
   caption-text: |-
     The Old Rectory
 
@@ -84,7 +84,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Mechanism-3.jpg"
+- image: "/uploads/Installations-AlexanderMourant-36.jpg"
   caption-text: |-
     The Old Rectory
 
@@ -94,7 +94,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/The-Eye-Sees,-Arles-2---Alexander-Mourant---2020.jpg"
+- image: "/uploads/Installations-AlexanderMourant-14.jpg"
   caption-text: |-
     The Eye Sees, Arles
 
@@ -104,7 +104,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/The-Eye-Sees,-Arles---Alexander-Mourant---2020.jpg"
+- image: "/uploads/Installations-AlexanderMourant-13.jpg"
   caption-text: |-
     The Eye Sees, Arles
 
@@ -114,7 +114,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/Vitrum-IX,-2019---Edel-Assanti.jpg"
+- image: "/uploads/Installations-AlexanderMourant-17.jpg"
   caption-text: |-
     Edel Assanti
 
@@ -124,7 +124,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Vitrum-I,-2019---Edel-Assanti.jpg"
+- image: "/uploads/Installations-AlexanderMourant-18.jpg"
   caption-text: |-
     Edel Assanti
 
@@ -134,7 +134,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/Shelter---Alexnder-Mourant---2020.jpg"
+- image: "/uploads/Installations-AlexanderMourant-11.jpg"
   caption-text: |-
     Royal College of Art
 
@@ -144,7 +144,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Shelter-3---Alexnder-Mourant---2020.jpg"
+- image: "/uploads/Installations-AlexanderMourant-15.jpg"
   caption-text: |-
     Royal College of Art
 
@@ -154,23 +154,13 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Shelter-2---Alexnder-Mourant---2020-a9259c.jpg"
+- image: "/uploads/Installations-AlexanderMourant-10.jpg"
   caption-text: |-
     Royal College of Art
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
     *Shelter*, 2020
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/A-Gesture-of-Brambles---Alexander-Mourant---2020.jpg"
-  caption-text: |-
-    Royal College of Art
-
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
-
-    *A Gesture of Brambles*, 2019
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -184,7 +174,17 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/ICNTGFA---Alexander-Mourant---2020.jpg"
+- image: "/uploads/Installations-AlexanderMourant-3.jpg"
+  caption-text: |-
+    Royal College of Art
+
+    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
+
+    *A Gesture of Brambles*, 2019
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Installations-AlexanderMourant-9.jpg"
   caption-text: |-
     Royal College of Art
 
@@ -194,7 +194,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/ICNTGFA-2---Alexander-Mourant---2020.jpg"
+- image: "/uploads/Installations-AlexanderMourant-12.jpg"
   caption-text: |-
     Royal College of Art
 
@@ -204,7 +204,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/Unseen-2019-1.jpg"
+- image: "/uploads/Installations-AlexanderMourant-31.jpg"
   caption-text: |-
     Unseen Amsterdam
 
@@ -214,7 +214,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Unseen-2019-2.jpg"
+- image: "/uploads/Installations-AlexanderMourant-32.jpg"
   caption-text: |-
     Unseen Amsterdam
 
@@ -224,7 +224,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Unseen-2019-3.jpg"
+- image: "/uploads/Installations-AlexanderMourant-33.jpg"
   caption-text: |-
     Unseen Amsterdam
 
@@ -234,7 +234,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/Peckham24-2-AlexanderMourant.jpg"
+- image: "/uploads/Installations-AlexanderMourant-28.jpg"
   caption-text: |-
     Peckham 24, Copeland Gallery
 
@@ -244,7 +244,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Peckham24-1-AlexanderMourant.jpg"
+- image: "/uploads/Installations-AlexanderMourant-27.jpg"
   caption-text: |-
     <br>
     <br>
@@ -252,7 +252,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/Aomori-Install-8.jpg"
+- image: "/uploads/Installations-AlexanderMourant-29.jpg"
   caption-text: |-
     Unseen Amsterdam
 
@@ -262,7 +262,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Aomori-Install-6.jpg"
+- image: "/uploads/Installations-AlexanderMourant-30.jpg"
   caption-text: |-
     <br>
     <br>
@@ -270,7 +270,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/Copeland-Gallery-3---Alexander-Mourant---2019-ca7a3a.jpg"
+- image: "/uploads/Installations-AlexanderMourant-7.jpg"
   caption-text: |-
     Copeland Gallery
 
@@ -280,7 +280,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-7.jpg"
+- image: "/uploads/Installations-AlexanderMourant-22.jpg"
   caption-text: |-
     Copeland Gallery
 
@@ -290,7 +290,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-7.jpg"
+- image: "/uploads/Installations-AlexanderMourant-21.jpg"
   caption-text: |-
     Copeland Gallery
 
