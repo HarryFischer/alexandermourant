@@ -14,7 +14,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Five-Furrows-Alexander-Mourant-2020-ADJUSTED-LQ.jpg"
+- image: "/uploads/Installations-AlexanderMourant-6.jpg"
   caption-text: |-
     Mont au Prêtre Farm
 
@@ -74,7 +74,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/BellTowerNew-2.jpg"
+- image: "/uploads/Installations-AlexanderMourant-37.jpg"
   caption-text: |-
     The Old Rectory
 
