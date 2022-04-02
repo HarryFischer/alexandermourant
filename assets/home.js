@@ -35,6 +35,38 @@ var box = document.querySelectorAll('.link-container');
 // box[2].classList.add('active')
 // box[2].querySelector("img").src = box[2].querySelector("img").dataset.src
 
+// click and drag
+
+const dragMe = document.querySelector('.split-wrapper__right');
+let isDown = false;
+let startX;
+let scrollLeft;
+
+dragMe.addEventListener('mousedown', (e) => {
+  isDown = true;
+  dragMe.classList.add('active');
+  startX = e.pageX - dragMe.offsetLeft;
+  scrollLeft = dragMe.scrollLeft;
+});
+dragMe.addEventListener('mouseleave', () => {
+  isDown = false;
+  dragMe.classList.remove('active');
+});
+dragMe.addEventListener('mouseup', () => {
+  isDown = false;
+  dragMe.classList.remove('active');
+});
+dragMe.addEventListener('mousemove', (e) => {
+  if(!isDown) return;
+  e.preventDefault();
+  const x = e.pageX - dragMe.offsetLeft;
+  const walk = (x - startX) * 2; //scroll-fast
+  dragMe.scrollLeft = scrollLeft - walk;
+  console.log(walk);
+});
+
+// END
+
 var player = document.getElementById('#player')
 const playVideo = (() => {
   player.on('ready', function () { player.play(); });

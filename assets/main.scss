@@ -310,7 +310,7 @@ body {
       text-decoration: none;
       @media (max-width: 700px) {
         &:nth-child(1) {
-          margin-top: 10vh;
+          // margin-top: 10vh;
           margin-bottom: 10vh;
         }
       }
@@ -409,15 +409,13 @@ body {
       }
       & + .caption-wrapper {
         padding-top: 8px;
-        @media (min-width: 700px) {
-          position: absolute;
-        }
-        @media (min-width: 700px) {
-          transform: translateY(-20px);
-        }
-        width: 300px;
         width: max-content;
         margin-right: 100px;
+        @media (min-width: 700px) {
+          padding-top: 0;
+          position: absolute;
+          transform: translateY(-20px);
+        }
       }
     }
 
@@ -816,6 +814,9 @@ body {
 
           }
           // visibility: hidden;
+        }
+        .link-container {
+          margin-bottom: 0;
         }
       }
       .close {
@@ -1236,6 +1237,7 @@ body {
       @media (min-width: 700px) {
         width: 70vh;
         height: 55vh;
+    }
       }
     }
   }

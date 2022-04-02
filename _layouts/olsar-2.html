@@ -5,7 +5,7 @@ layout: default-2
 <div class="home scroll-horizontal">
   <div class="inner-content flex">
     {%- for content in page.Content -%}
-    <div class="olsar olsar-two {{ content.image-position }}">
+    <div class="olsar olsar-two image-wrapper {{ content.image-position }}">
       {%- if content.image -%}
       <div class="image-wrapper">
         <img class="{{ content.image-size }}" src="{{ site.baseurl }}{{ content.image }}" alt="">
