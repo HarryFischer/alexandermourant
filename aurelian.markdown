@@ -80,7 +80,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Container-With-Atmosphere.jpg"
   video: 
-  caption-text: "*Container With Atmosphere*, 2017"
+  caption-text: "*Container with Atmosphere*, 2017"
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -91,7 +91,7 @@ Content:
 
     The Old Truman Brewery
 
-    *Container With Atmospere* & *Untitled VI*, 2017
+    *Container with Atmosphere* & *Untitled VI*, 2017
   image-size: medium
   image-position: middle
   image-margin-right: 
