@@ -48,7 +48,7 @@ layout: default
        {%- for content in page.Content -%}
       <div class="link-container {{ content.image-margin-right }} {{ content.image-position }}">
         <div class="link-wrapper">
-          <div class="image-wrapper" style="position:relative;">
+          <div id="player" class="image-wrapper" style="position:relative;">
             <iframe class="{{ content.image-size }}" src="{{ content.video }}" frameborder="0"
               allow="autoplay; fullscreen; picture-in-picture" muted=1>
             </iframe>

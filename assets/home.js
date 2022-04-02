@@ -34,6 +34,26 @@ var box = document.querySelectorAll('.link-container');
 // box[1].querySelector("img").src = box[1].querySelector("img").dataset.src
 // box[2].classList.add('active')
 // box[2].querySelector("img").src = box[2].querySelector("img").dataset.src
+
+var player = document.getElementById('#player')
+const playVideo = (() => {
+  player.on('ready', function () { player.play(); });
+})
+
+setTimeout(() => {
+  playVideo()
+}, 5000)
+
+  // force video autoplay
+  if(document.getElementById('#player')) {
+    console.log("1234")
+    player = new Plyr('#player', {
+      debug: true,
+      volume: 0,
+      autoplay: true,
+      muted: true
+    });
+  } else {}
   
 if (iO) {
   const config = {
@@ -59,6 +79,8 @@ if (iO) {
   }) 
 }
 })
+
+
 
 const leftPanel = document.querySelector(".split-wrapper__left")
 console.log(leftPanel)
@@ -165,3 +187,6 @@ document
     console.log(prevIndex)
 
   });
+
+
+

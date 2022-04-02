@@ -1204,6 +1204,11 @@ body {
     }
   }
   &-two {
+    .caption-wrapper {
+      margin-right: 20px;
+      width: max-content;
+      margin-left: 0;
+    }
     @media (max-width: 700px) {
       // margin-top: 11vh;
       margin-top: 10vh;
@@ -1212,11 +1217,9 @@ body {
     }
     @media (min-width: 700px) {
       flex-direction: row-reverse;
-    }
-    .caption-wrapper {
-      margin-right: 20px;
-      width: max-content;
-      margin-left: 0;
+      .caption-wrapper {
+        margin-right: 100px;
+      }
     }
     &__video {
       width: 93vw;
