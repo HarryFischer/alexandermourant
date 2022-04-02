@@ -36,13 +36,13 @@ Content:
 - image: "/uploads/Lightness-Alexander-Mourant-5.jpg"
   caption-text: "*The Lightness*, 2019"
   page-url: "/the-lightness"
-  image-size: xsmall
+  image-size: medium
   image-position: middle
   image-margin-right: small
 - image: "/uploads/Blue-Tree-2017.jpg"
   caption-text: "*Aomori*, 2017"
   page-url: "/aomori"
-  image-size: small
+  image-size: medium
   image-position: middle
   image-margin-right: small
 - image: "/uploads/Display-dome-with-atmosphere---Alexander-Mourant.jpg"
