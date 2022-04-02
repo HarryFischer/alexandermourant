@@ -6,7 +6,7 @@ position: 10
 Content:
 - video: https://player.vimeo.com/video/666506790?autoplay=1&loop=1&controls=false
   caption-text: |-
-    *[How to Harvest an Image,](https://vimeo.com/666506790)* 2020<br>
+    *[How to Harvest an Image,](https://vimeo.com/666506790){:target="_blank"}* 2020<br>
 
     Super 8 film, colour, silent<br>
 
