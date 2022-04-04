@@ -10,7 +10,7 @@ Content:
 
     Archival Giclée print<br>
 
-    Est. 60 x 48 in. (152cm x 122cm)<br>
+    Est. 50 x 40 in. (127cm x 102cm)<br>
 
     Est. Edition 3 + 2AP
   image-size: medium
