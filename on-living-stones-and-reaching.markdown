@@ -3,8 +3,9 @@ title: On Living Stones and Reaching
 date: 2021-02-20 10:45:00 Z
 position: 26
 Words:
-- interview-text: |
+- interview-text: |-
     # On Living Stones and Reaching
+
     <br>
     <br>
     On Living Stones and Reaching is a multidisciplinary artwork rooted in the theory of photography and earthworks. Over a period of five gruelling days, I planted 30,000 potatoes, across 52 furrows, on just under an acre of land, on the island of Jersey (Channel Islands, UK). I did so with the simple intent of reaching **one** pure image, 83 days later, of the field matured; rich, green and ready for harvest.
@@ -17,6 +18,8 @@ Words:
     <br>
     <br>
     Text written by Alexander Mourant, 2022
+
+    <sup>1</sup> Test
 layout: farm-index
 ---
 
