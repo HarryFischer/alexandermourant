@@ -21,7 +21,7 @@ Words:
     ‘nature’s marvels’ appear among spring’s unfurling leaves.<sup>2</sup> Propagated
     on paper, images gestate and grow; are cultivated and shared.\n<br>\n<br>\nTo
     behold Fox Talbot’s later folio of lens-based calotypes, *The Pencil of Nature*
-    (1844), is, writes Jean-Christophe Bailly in *The Instant and its Shadow*, to
+    (1844), is, writes Jean-Christophe Bailly in *The Instant and Its Shadow*, to
     be:\n<br>\n<br>\nat the source of a new art, and what *The Pencil of Nature* allows
     us to hear or grasp is indeed the sound of that source, at the place where it
     is wholly originated, if not regulated by some scheme of nature at work, functioning
