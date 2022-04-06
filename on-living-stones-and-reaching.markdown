@@ -9,7 +9,7 @@ Words:
     these two words derive, according to Wikipedia, from the Greek meaning ‘light’
     and ‘drawing’. And yet it is ‘*Words of light*’ – straitening the difference between
     drawing and script – that William Henry Fox Talbot named photography in notebook
-    ‘P’ on 3 March 1839\n<br>\n<br>\nBotanical specimens were one of Fox Talbot’s
+    ‘P’ on 3 March 1839.\n<br>\n<br>\nBotanical specimens were one of Fox Talbot’s
     most repeated subjects of the early ‘photogenic drawings’ and is said to have
     inspired Anna Atkins’ taxonomical cyanotypes of ferns and algae. The early abundance
     of contact prints using flora and fauna, requiring sun and water for processing,
