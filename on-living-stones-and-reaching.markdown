@@ -5,7 +5,7 @@ position: 26
 Words:
 - interview-text: "# On Living Stones and Reaching\n\n<br>\n<br>\n*How to Plant an
     Image: Growing, Photographing, Writing* an introduction to *On Living Stones and
-    Reaching* by Jonathan P. Watts:\n<br>\n<br>\n*Photo-graphy*, grafted. Individually
+    Reaching* by Jonathan P. Watts:\n<br>\n<br>\n* *Photo-graphy*, grafted. Individually
     these two words derive, according to Wikipedia, from the Greek meaning ‘light’
     and ‘drawing’. And yet it is ‘*Words of light*’ – straitening the difference between
     drawing and script – that William Henry Fox Talbot named photography in notebook
@@ -114,32 +114,32 @@ Words:
     posted the Jersey Royals that he grew – the material substrate of the image –
     to his friends, the artists Victoria Louise Doyle and Krasimira Butseva. Planted
     or boiled, contemplated or eaten, the image is cultivated and shared, and begins
-    anew.\n<br>\n<br>\n– Born in Great Yarmouth, Jonathan P. Watts lives in Norwich.\n<br>\n<br>\n---------<br>\n<sup>1</sup>
-    Larry J. Schaaf, *Sun Gardens: The Cyanotypes of Anna Atkins*, Prestel, 2018.<br>
-    \n<sup>2</sup> Larry J. Schaaf (ed.), *Selected Correspondence of William Henry
-    Fox Talbot 1823–1874*, London: Science Museum, 1994.<br>\n<sup>3</sup> *The Instant
-    and Its Shadow: A Story of Photography*, Fordham University Press, 2020, p.6.<br>
-    \n<sup>4</sup> Author in conversation with Mourant, Friday 25 March 2022.<br>\n<sup>5</sup>
-    The early colour photographic process known as the ‘autochrome’ was developed
-    by the Lumière brothers by coating a glass plate with a wash of potato starch
-    grains. This curio is missed by Rebecca Earle in the book *potato* (ObjectLessons,
-    Bloomsbury, 2019), which opens with Kevin Abosch, an Irish artist who produces
-    photographic portraits of potatoes ‘as a proxy for the ontological study of human
-    experience’.<br>\n<sup>6</sup> Author in conversation with Mourant, Friday 25
-    March 2022.<br> \n<sup>7</sup> Artist’s statement in Tate summary. Accessed at
-    tate.org.uk, Monday 4 April 2022.<br>\n<sup>8</sup> See Leigh Claire La Berge,
-    *Wages Against Artwork: Decommodified Labor and the Claims of Socially Engaged
-    Art*, Duke University Press, 2019.<br><sup>9</sup> Joanna Zylinska, Nonhuman Photography,
-    The MIT Press, 2017, p.3.<br><sup>10</sup> Eduardo Cadava, *Words of Light: Theses
-    on the Photography of History*, Princeton University Press, Princeton University
-    Press, XVIU.<br>\n<sup>11</sup> Ibid.<br>\n<sup>12</sup> ‘The Disturbances of
-    the Garden’, *The New Yorker*, 31 August 2020.<br>\n<sup>13</sup> Much of everyday
-    instrumental photography of the land has become a drone’s eye view of a topographical
-    quanta. Electronic and digital images open up any image as a multitude of scales
-    of references, zooming in and out, across pixel spaces, a multitude of combinatorial
-    possibilities. Data for harvesting. See Jussi Parikka and Tomáš Dvorák (eds.),
-    *Photography off the Scale: Technologies and Theories of the Mass Image*, Edinburgh
-    University Press, 2021, p.14.\n<br>\n<br>"
+    anew.\n<br>\n<br>\n– Born in Great Yarmouth, Jonathan P. Watts lives in Norwich.\n<br>\n*
+    <br>\n---------<br>\n<sup>1</sup> Larry J. Schaaf, *Sun Gardens: The Cyanotypes
+    of Anna Atkins*, Prestel, 2018.<br> \n<sup>2</sup> Larry J. Schaaf (ed.), *Selected
+    Correspondence of William Henry Fox Talbot 1823–1874*, London: Science Museum,
+    1994.<br>\n<sup>3</sup> *The Instant and Its Shadow: A Story of Photography*,
+    Fordham University Press, 2020, p.6.<br> \n<sup>4</sup> Author in conversation
+    with Mourant, Friday 25 March 2022.<br>\n<sup>5</sup> The early colour photographic
+    process known as the ‘autochrome’ was developed by the Lumière brothers by coating
+    a glass plate with a wash of potato starch grains. This curio is missed by Rebecca
+    Earle in the book *potato* (ObjectLessons, Bloomsbury, 2019), which opens with
+    Kevin Abosch, an Irish artist who produces photographic portraits of potatoes
+    ‘as a proxy for the ontological study of human experience’.<br>\n<sup>6</sup>
+    Author in conversation with Mourant, Friday 25 March 2022.<br> \n<sup>7</sup>
+    Artist’s statement in Tate summary. Accessed at tate.org.uk, Monday 4 April 2022.<br>\n<sup>8</sup>
+    See Leigh Claire La Berge, *Wages Against Artwork: Decommodified Labor and the
+    Claims of Socially Engaged Art*, Duke University Press, 2019.<br><sup>9</sup>
+    Joanna Zylinska, Nonhuman Photography, The MIT Press, 2017, p.3.<br><sup>10</sup>
+    Eduardo Cadava, *Words of Light: Theses on the Photography of History*, Princeton
+    University Press, Princeton University Press, XVIU.<br>\n<sup>11</sup> Ibid.<br>\n<sup>12</sup>
+    ‘The Disturbances of the Garden’, *The New Yorker*, 31 August 2020.<br>\n<sup>13</sup>
+    Much of everyday instrumental photography of the land has become a drone’s eye
+    view of a topographical quanta. Electronic and digital images open up any image
+    as a multitude of scales of references, zooming in and out, across pixel spaces,
+    a multitude of combinatorial possibilities. Data for harvesting. See Jussi Parikka
+    and Tomáš Dvorák (eds.), *Photography off the Scale: Technologies and Theories
+    of the Mass Image*, Edinburgh University Press, 2021, p.14.\n<br>\n<br>"
 layout: farm-index
 ---
 
