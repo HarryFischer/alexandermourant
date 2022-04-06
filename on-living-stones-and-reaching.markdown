@@ -130,8 +130,8 @@ Words:
     Author in conversation with Mourant, Friday 25 March 2022.<br> \n<sup>7</sup>
     Artist’s statement in Tate summary. Accessed at tate.org.uk, Monday 4 April 2022.<br>\n<sup>8</sup>
     See Leigh Claire La Berge, *Wages Against Artwork: Decommodified Labor and the
-    Claims of Socially Engaged Art*, Duke University Press, 2019.<br>  \n<sup>9</sup>
-    Joanna Zylinska, Nonhuman Photography, The MIT Press, 2017, p.3.<br>\n<sup>10</sup>
+    Claims of Socially Engaged Art*, Duke University Press, 2019.<br><sup>9</sup>
+    Joanna Zylinska, Nonhuman Photography, The MIT Press, 2017, p.3.<br><sup>10</sup>
     Eduardo Cadava, *Words of Light: Theses on the Photography of History*, Princeton
     University Press, Princeton University Press, XVIU.<br>\n<sup>11</sup> Ibid.<br>\n<sup>12</sup>
     ‘The Disturbances of the Garden’, *The New Yorker*, 31 August 2020.<br>\n<sup>13</sup>
