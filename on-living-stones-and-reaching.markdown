@@ -140,7 +140,7 @@ Words:
     of references, zooming in and out, across pixel spaces, a multitude of combinatorial
     possibilities. Data for harvesting. See Jussi Parikka and Tomáš Dvorák (eds.),
     *Photography off the Scale: Technologies and Theories of the Mass Image*, Edinburgh
-    University Press, 2021, p.14.\n<br>\n<br>"
+    University Press, 2021, p.14.\n<br>\n<br>\n<br>"
 layout: farm-index
 ---
 
