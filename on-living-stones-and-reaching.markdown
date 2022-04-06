@@ -114,7 +114,7 @@ Words:
     posted the Jersey Royals that he grew – the material substrate of the image –
     to his friends, the artists Victoria Louise Doyle and Krasimira Butseva. Planted
     or boiled, contemplated or eaten, the image is cultivated and shared, and begins
-    anew.\n<br>\n<br>\n– Born in Great Yarmouth, Jonathan P. Watts lives in Norwich.\n<br>\n<br>\n---------<br>\n<sup>1</sup>
+    anew.\n<br>\n<br>\n– Born in Great Yarmouth, Jonathan P. Watts lives in Norwich.\n<br>\n<br>\n<br>\n-------------<br>\n<sup>1</sup>
     Larry J. Schaaf, *Sun Gardens: The Cyanotypes of Anna Atkins*, Prestel, 2018.<br>
     \n<sup>2</sup> Larry J. Schaaf (ed.), *Selected Correspondence of William Henry
     Fox Talbot 1823–1874*, London: Science Museum, 1994.<br>\n<sup>3</sup> *The Instant
