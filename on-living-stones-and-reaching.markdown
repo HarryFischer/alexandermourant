@@ -3,21 +3,20 @@ title: On Living Stones and Reaching
 date: 2021-02-20 10:45:00 Z
 position: 26
 Words:
-- interview-text: "# On Living Stones and Reaching\n\n<br>\n<br>\n*How to Plant an
-    Image: Growing, Photographing, Writing* an introduction to *On Living Stones and
-    Reaching* by Jonathan P. Watts:\n<br>\n<br>\n<br>\n*Photo-graphy*, grafted. Individually
-    these two words derive, according to Wikipedia, from the Greek meaning ‘light’
-    and ‘drawing’. And yet it is ‘*Words of light*’ – straitening the difference between
-    drawing and script – that William Henry Fox Talbot named photography in notebook
-    ‘P’ on 3 March 1839.\n<br>\n<br>\nBotanical specimens were one of Fox Talbot’s
-    most repeated subjects of the early ‘photogenic drawings’ and is said to have
-    inspired Anna Atkins’ taxonomical cyanotypes of ferns and algae. The early abundance
-    of contact prints using flora and fauna, requiring sun and water for processing,
-    has led some to suggest that photography was ‘born in the garden’.<sup>1</sup>\n<br>\n<br>\nElsewhere
-    in notebook ‘P’, methodically kept throughout March and April of that year, photography
-    is understood as an occult medium for the automatic self-portraiture of nature:
-    ‘magic pictures’ and ‘nature’s marvels’ appear among spring’s unfurling leaves.<sup>2</sup>
-    Propagated on paper, images gestate and grow; are cultivated and shared.\n<br>\n<br>\nTo
+- interview-text: "# On Living Stones and Reaching\n\n<br>\n<br>\n*Photo-graphy*,
+    grafted. Individually these two words derive, according to Wikipedia, from the
+    Greek meaning ‘light’ and ‘drawing’. And yet it is ‘*Words of light*’ – straitening
+    the difference between drawing and script – that William Henry Fox Talbot named
+    photography in notebook ‘P’ on 3 March 1839.\n<br>\n<br>\nBotanical specimens
+    were one of Fox Talbot’s most repeated subjects of the early ‘photogenic drawings’
+    and is said to have inspired Anna Atkins’ taxonomical cyanotypes of ferns and
+    algae. The early abundance of contact prints using flora and fauna, requiring
+    sun and water for processing, has led some to suggest that photography was ‘born
+    in the garden’.<sup>1</sup>\n<br>\n<br>\nElsewhere in notebook ‘P’, methodically
+    kept throughout March and April of that year, photography is understood as an
+    occult medium for the automatic self-portraiture of nature: ‘magic pictures’ and
+    ‘nature’s marvels’ appear among spring’s unfurling leaves.<sup>2</sup> Propagated
+    on paper, images gestate and grow; are cultivated and shared.\n<br>\n<br>\nTo
     behold Fox Talbot’s later folio of lens-based calotypes, *The Pencil of Nature*
     (1844), is, writes Jean-Christophe Bailly in *The Instant and its Shadow*, to
     be:\n<br>\n<br>\nat the source of a new art, and what *The Pencil of Nature* allows
@@ -114,7 +113,9 @@ Words:
     posted the Jersey Royals that he grew – the material substrate of the image –
     to his friends, the artists Victoria Louise Doyle and Krasimira Butseva. Planted
     or boiled, contemplated or eaten, the image is cultivated and shared, and begins
-    anew.\n<br>\n<br>\n– Born in Great Yarmouth, Jonathan P. Watts lives in Norwich.\n<br>\n<br>\n<br>\n-------------<br>\n<sup>1</sup>
+    anew.\n<br>\n<br>\n<br>\n<br>\n***How to Plant an Image: Growing, Photographing,
+    Writing*** an introduction to *On Living Stones and Reaching* by Jonathan P. Watts.
+    Born in Great Yarmouth, Jonathan P. Watts lives in Norwich.\n<br>\n<br>\n<br>\n<br>\n-------------<br>\n<sup>1</sup>
     Larry J. Schaaf, *Sun Gardens: The Cyanotypes of Anna Atkins*, Prestel, 2018.<br>
     \n<sup>2</sup> Larry J. Schaaf (ed.), *Selected Correspondence of William Henry
     Fox Talbot 1823–1874*, London: Science Museum, 1994.<br>\n<sup>3</sup> *The Instant
