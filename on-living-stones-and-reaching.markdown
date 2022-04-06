@@ -6,7 +6,7 @@ Words:
 - interview-text: "# On Living Stones and Reaching\n\n<br>\n<br>\n***How to Plant
     an Image: Growing, Photographing, Writing*** an introduction to *On Living Stones
     and Reaching* by Jonathan P. Watts. Born in Great Yarmouth, Jonathan P. Watts
-    is a a contemporary art critic and editor who lives in Norwich.\n<br>\n<br>\n<br>\n*Photo-graphy*,
+    is a contemporary art critic and editor who lives in Norwich.\n<br>\n<br>\n<br>\n*Photo-graphy*,
     grafted. Individually these two words derive, according to Wikipedia, from the
     Greek meaning ‘light’ and ‘drawing’. And yet it is ‘*Words of light*’ – straitening
     the difference between drawing and script – that William Henry Fox Talbot named
