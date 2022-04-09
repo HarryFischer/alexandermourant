@@ -32,7 +32,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Untitled-IV.jpg"
   video: 
-  caption-text: "*Untitled IV, *2017"
+  caption-text: "*Untitled IV*, 2017"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
