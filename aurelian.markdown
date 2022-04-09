@@ -26,7 +26,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Display-Dome-With-Atmosphere.jpg"
   video: 
-  caption-text: "*Display Dome With Atmosphere*, 2017"
+  caption-text: "*Display Dome with Atmosphere*, 2017"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
