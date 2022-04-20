@@ -176,7 +176,8 @@ Education:
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, *Blue Railing*
 - title: Selected Press
-  year-text: "[SW Londoner](https://www.swlondoner.co.uk/news/19032022-artwork-of-wandsworth-schoolchildren-on-show-in-southside-shopping-centre)\n\n[Revolv
+  year-text: "[The Guardian](https://www.theguardian.com/artanddesign/gallery/2022/apr/20/horse-cults-and-explosives-images-inspired-by-islands-in-pictures)\n\n[SW
+    Londoner](https://www.swlondoner.co.uk/news/19032022-artwork-of-wandsworth-schoolchildren-on-show-in-southside-shopping-centre)\n\n[Revolv
     Collective](https://revolv.org.uk/Insular-Time)\n\n[grandmama’s print](https://grandmamasmag.com/en/projects/36/)\n\n[whynow](https://whynow.co.uk/read/i-was-interested-in-the-body-as-both-a-literal-and-metaphysical-object-the-lightness-by-alexander-mourant)\n\n[Der
     Greif](https://dergreif-online.de/guest-room/emma-bowkett/)\n\nCOS magazine\n\n[Financial
     Times](https://www.ft.com/content/a6ccdf0e-6a1c-11e9-80c7-60ee53e6681d)\n\n[photograph](https://photographmag.com/photograph-is-30/)\n\n[METAL
