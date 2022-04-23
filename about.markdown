@@ -50,6 +50,8 @@ Education:
     Student Awards, Jersey, UK"
 - title: Talks
   year-text: |-
+    2022 - Artist Talk, Livingmaps Network, *A Place to Call Home*
+
     2021 - Artist Talk, Four Corners, London Creative Network
 
     2021 - Artist Talk, Revolv Collective, Conversations with Artists, Laura Bivolaru x Alexander Mourant, *A Vertigo Like Self*
