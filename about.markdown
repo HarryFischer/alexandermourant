@@ -108,7 +108,7 @@ Education:
   year-text: |-
     2022 - BarrowFull, Artist in Residence, *Earnse Bay Exhibition*
 
-    2021 - Wandsworth Council's Children's and Arts Service, Concept Creator and Lead Artist, *A Place to Call Home*
+    2021 - Wandsworth Council's Children's and Arts Service, Lead Artist, *A Place to Call Home*
 
     2020 - The Eye Sees, Arles, Entractes 14, *When the Image Returns to Glass*
 
