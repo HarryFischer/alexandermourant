@@ -106,6 +106,10 @@ Education:
     2021 - Mosaic School, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
 - title: Awards / Commissions
   year-text: |-
+    2022 - BarrowFull, Artist in Residence, *Earnse Bay Exhibition*
+
+    2021 - Wandsworth Council's Children's and Arts Service, Concept Creator and Lead Artist, *A Place to Call Home*
+
     2020 - The Eye Sees, Arles, Entractes 14, *When the Image Returns to Glass*
 
     2020 - HGG London, *The Bell Tower*
