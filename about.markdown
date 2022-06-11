@@ -79,6 +79,8 @@ Education:
     Kingston University\n\n2018 - Guest Lecturer, Bryanston School"
 - title: Workshops
   year-text: |-
+    2022 - Greengate School, Earnse Bay, *Whistle for the Wind*, Workshop Lead
+
     2022 - Heathmere School, Southside Shopping Centre, *A Place to Call Home*, Workshop Lead
 
     2022 - Penwortham School, Southside Shopping Centre, *A Place to Call Home*, Workshop Lead
