@@ -50,25 +50,25 @@ Education:
     Student Awards, Jersey, UK"
 - title: Talks
   year-text: |-
-    2022 - Artist Talk, Livingmaps Network, *A Place to Call Home*
+    2022 - Livingmaps Network, *A Place to Call Home*
 
-    2021 - Artist Talk, Four Corners, London Creative Network
+    2021 - Four Corners, London Creative Network
 
-    2021 - Artist Talk, Revolv Collective, Conversations with Artists, Laura Bivolaru x Alexander Mourant, *A Vertigo Like Self*
+    2021 - Revolv Collective, Conversations with Artists, Laura Bivolaru x Alexander Mourant, *A Vertigo Like Self*
 
-    2021 - Artist Talk, VOID Collective, *Digital Futures among an Earthly Land*
+    2021 - VOID Collective, *Digital Futures among an Earthly Land*
 
-    2020 - Artist Talk & Panel Discussion, Royal College of Art, *On Borders and Being*, with Julia Crabtree, Katie Bret-Day and Roei Greenberg
+    2020 - Royal College of Art, *On Borders and Being*, with Julia Crabtree, Katie Bret-Day and Roei Greenberg
 
-    2020 - Artist Talk & Panel Discussion, Seen Fifteen, *Time Light Chance*, with Lina Ivanova and Victoria Doyle
+    2020 - Seen Fifteen, *Time Light Chance*, with Lina Ivanova and Victoria Doyle
 
-    2020 - In Conversation, ArtLacuna, *What’s a Can of Worms Between Mates?* with Victoria Doyle, Krasimira Butseva and Harry Gammer-Flitcroft
+    2020 - ArtLacuna, *What’s a Can of Worms Between Mates?* with Victoria Doyle, Krasimira Butseva and Harry Gammer-Flitcroft
 
-    2019 - Panel Discussion, Copeland Gallery, *On Blue and Photography*, with Duncan Wooldridge, Tom Pope and Simone Mudde
+    2019 - Copeland Gallery, *On Blue and Photography*, with Duncan Wooldridge, Tom Pope and Simone Mudde
 
-    2019 -  Artist Talk & Panel Discussion, Peckham 24, *Visualising Community*, with Karen McQuaid, Marianne Bjørnmyr, D Wiafe and Max Miechowski
+    2019 - Peckham 24, *Visualising Community*, with Karen McQuaid, Marianne Bjørnmyr, D Wiafe and Max Miechowski
 
-    2018 - In Conversation, The Old Truman Brewery, *Aomori*, with Professor Steve Macleod
+    2018 - The Old Truman Brewery, *Aomori*, with Professor Steve Macleod
 - title: Teaching
   year-text: "2022 - Visiting Lecturer and Tutor, BA (Hons) Photography, University
     of Westminster\n\n2021 - Guest Lecturer, Kingston University\n\n2021 - Guest Lecturer,
