@@ -28,7 +28,7 @@ Education:
     by Rodrigo Orrantia, with John MacLean, Eva Stenram, Dafna Talmor, Martin Seeds,
     Tom Hunter, Tom Lovelace, Andy Sewell, Aliki Braine, Esther Teichmann, Bindi Vora,
     Shepherd Manyika, Alexander Mourant, Sarah Pickering and Hannah Hughes, London,
-    UK \n\n2021 - Tor Art Space, *+1*, Frankfurt, Germany\n\n2020 - Photo London Digital,
+    UK \n\n2021 - Tor Art Space, *+1*, Frankfurt, DE\n\n2020 - Photo London Digital,
     Seen Fifteen Gallery, London, UK\n\n2020 - Saatchi Gallery, *London Grads Now*,
     curated by Mandy Franca, London, UK\n\n2020 - Edel Assanti, *with fists, it kicks,
     it bites*, curated by Edward Thomasson, London, UK\n\n2020 - Unit 1 Gallery, *Final,
