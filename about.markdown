@@ -71,12 +71,15 @@ Education:
     2018 - The Old Truman Brewery, *Aomori*, with Professor Steve Macleod
 - title: Teaching
   year-text: "2022 - Visiting Lecturer and Tutor, BA (Hons) Photography, University
-    of Westminster\n\n2021 - Guest Lecturer, Kingston University\n\n2021 - Guest Lecturer,
-    Arts University Bournemouth\n\n2021 - Guest Lecturer, Swansea College of Art\n\n2020
-    - Guest Lecturer, Kingston University\n\n2019 - Guest Lecturer, Kingston University
-    \n\n2019 - Guest Lecturer, Falmouth University\n\n2019 - Guest Lecturer, University
-    of Huddersfield, *Photography and Lived Experience*\n\n2018 - Guest Lecturer,
-    Kingston University\n\n2018 - Guest Lecturer, Bryanston School"
+    of Westminster\n\n2022 - Guest Lecturer, Falmouth University, MA Photography \n\n2021
+    - Guest Lecturer, Kingston University, BA Photography\n\n2021 - Guest Lecturer,
+    Arts University Bournemouth, BA Photography\n\n2021 - Guest Lecturer, Swansea
+    College of Art, BA Photography\n\n2020 - Guest Lecturer, Kingston University,
+    BA Photography\n\n2019 - Guest Lecturer, Kingston University, BA Photography\n\n2019
+    - Guest Lecturer, Falmouth University, BA Photography\n\n2019 - Guest Lecturer,
+    University of Huddersfield, *Photography and Lived Experience*, BA Photography\n\n2018
+    - Guest Lecturer, Kingston University, BA Photography\n\n2018 - Guest Lecturer,
+    Bryanston School, BA Photography"
 - title: Workshops
   year-text: |-
     2022 - Greengate School, Earnse Bay, *Whistle for the Wind*, Workshop Lead
