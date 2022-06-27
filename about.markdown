@@ -119,13 +119,18 @@ Education:
     2021 - Mosaic School, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
 - title: Awards / Commissions
   year-text: "2022 - Hapax Magazine, Artist Commission, Issue 3 (2022/2023), *North
-    East South West* \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the Image
-    Returns to Glass*\n\n2020 - HGG London, *The Bell Tower*\n\n2019 - FT Weekend
-    Magazine / Photo London, *My London*\n\n2019 - Foam Paul Huf Award - Nomination\n\n2017
-    - Free Range Award - Winner\n\n2017 - Metro Imaging Award - Winner\n\n2017 - South
-    West Graduate Photography Prize - Finalist\n\n2016 - NCVO and PhotoVoice Photography
-    Prize - Finalist\n\n2015 - Jersey Arts Centre's, Original Student Art Award -
-    Winner\n\n2015 - theprintspace, PhotoVoice Awards - Finalist"
+    East South West* \n2022 - ArtHouse Jersey, Artist Educator, *MAPS*\n\n2022 - BarrowFull
+    and Greengate School, Artist in Residence, *A Trip to Earnse Bay*\n\n2022 - Wandsworth
+    Council's Children's and Arts Service, Lead Artist, *A Place to Call Home*\n\n2021
+    - Wandsworth Council's Children's and Arts Service and Royal College of Art, *A
+    Greener Picture: Photography and Climate Change*\n\n2020 - The Eye Sees, Arles,
+    Entractes 14, *When the Image Returns to Glass*\n\n2020 - HGG London, *The Bell
+    Tower*\n\n2019 - FT Weekend Magazine / Photo London, *My London*\n\n2019 - Foam
+    Paul Huf Award - Nomination\n\n2017 - Free Range Award - Winner\n\n2017 - Metro
+    Imaging Award - Winner\n\n2017 - South West Graduate Photography Prize - Finalist\n\n2016
+    - NCVO and PhotoVoice Photography Prize - Finalist\n\n2015 - Jersey Arts Centre's,
+    Original Student Art Award - Winner\n\n2015 - theprintspace, PhotoVoice Awards
+    - Finalist"
 - title: Writing
   year-text: "2022 - [C4 Journal, Review: *This Creaking Floor and All the Ceilings
     Below* by Bart Lunenburg](https://c4journal.com/bart-lunenburg-this-creaking-floor-and-all-the-ceilings-below/)
@@ -194,15 +199,6 @@ Education:
     *Aurelian* \n\n[The Plantation Journal](http://www.acornerwith.com/contributors)\n\n[iGNANT](https://www.ignant.com/submissions/aurelian-by-alexander-mourant/)\n\n[AINT-BAD](https://www.aint-bad.com/article/2017/06/21/alexander-mourant/)\n\n[Photograd](https://www.photograd.co.uk/alexander-mourant-2/)\n\nlosthenfound\n\nSIGH
     Journal\n\n[Source Magazine](https://www.source.ie/graduate/2017/falmunivba/falmunivba_student_17_49_47_10-05-17/falmunivba_student_17_49_47_10-05-17.php)\n\n[PYLOT
     Magazine](https://www.pylotmagazine.com/field-visit/)\n\nTRIP Magazine"
-- title: Education Commissions
-  year-text: |-
-    2022 - ArtHouse Jersey, Artist Educator, *MAPS*
-
-    2022 - BarrowFull and Greengate School, Artist in Residence, *A Trip to Earnse Bay*
-
-    2022 - Wandsworth Council's Children's and Arts Service, Lead Artist, *A Place to Call Home*
-
-    2021 - Wandsworth Council's Children's and Arts Service and Royal College of Art, *A Greener Picture: Photography and Climate Change*
 layout: about
 ---
 
