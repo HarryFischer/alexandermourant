@@ -82,11 +82,9 @@ Education:
     BA Photography"
 - title: Workshops
   year-text: |-
-    2022 - Greengate School, Earnse Bay, *
-    A House by the Sea II*, Workshop Lead
+    2022 - Greengate School, Earnse Bay, *A House by the Sea II*, Workshop Lead
 
-    2022 - Greengate School, Earnse Bay, *
-    A House by the Sea I*, Workshop Lead
+    2022 - Greengate School, Earnse Bay, *A House by the Sea I*, Workshop Lead
 
     2022 - Greengate School, Earnse Bay, *Whistle for the Wind*, Workshop Lead
 
