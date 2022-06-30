@@ -265,7 +265,8 @@ Content:
     annotations. Use those scans to make a physical embodiment (metal, casting, laser
     cut material, bronze, wood etc) with depth of the shape of the annotation. Varying
     sizes for different books of varying importance. Expand out to a life-scale floor
-    work which can be moved around. '
+    work which can be moved around. Alternative titles: *Materialising the Space of
+    Literature*, *The Terrain on the Page and the Apprehension of Meaning*'
   entry-image: 
   entry-two-image: 
   entry-meta-text: 
