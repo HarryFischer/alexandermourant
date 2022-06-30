@@ -260,6 +260,22 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
+  entry-heading-text: Marginalia As Sculpture (2021)
+  entry-body-text: 'Scan or take copies of pages from books that contain the Artist''s
+    annotations. Use those scans to make a physical embodiment (metal, casting, laser
+    cut material, bronze, wood etc) with depth of the shape of the annotation. Varying
+    sizes for different books of varying importance. Expand out to a life-scale floor
+    work which can be moved around. '
+  entry-image: 
+  entry-two-image: 
+  entry-meta-text: 
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
   entry-heading-text: 'Under the Earth Lies a Glass Shelf (2021) '
   entry-body-text: 'Dig a large hole in the earth, approximately 8-10m deep and 2m
     x 1.6m in size. On the base of the hole, layer sheets of glass. Photograph the
