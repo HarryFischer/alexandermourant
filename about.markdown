@@ -53,7 +53,7 @@ Education:
   year-text: |-
     2022 - Livingmaps Network, *A Place to Call Home*
 
-    2021 - Four Corners, London Creative Network
+    2021 - Four Corners, London Creative Network, *On Collective Practice*
 
     2021 - Revolv Collective, Conversations with Artists, Laura Bivolaru x Alexander Mourant, *A Vertigo Like Self*
 
