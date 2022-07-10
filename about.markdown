@@ -24,8 +24,8 @@ Education:
 
     2018 - The Old Truman Brewery, *Aomori*, London, UK
 - title: Selected Group Exhibitions
-  year-text: "2022 - Seen Fifteen Gallery, Revolv Collective, London, UK\n\n2022 -
-    London Art Fair, Photo 50, *No Place is an Island*, curated by Rodrigo Orrantia,
+  year-text: "2022 - Seen Fifteen Gallery, *Orbits*, Revolv Collective, London, UK\n\n2022
+    - London Art Fair, Photo 50, *No Place is an Island*, curated by Rodrigo Orrantia,
     with John MacLean, Eva Stenram, Dafna Talmor, Martin Seeds, Tom Hunter, Tom Lovelace,
     Andy Sewell, Aliki Braine, Esther Teichmann, Bindi Vora, Shepherd Manyika, Alexander
     Mourant, Sarah Pickering and Hannah Hughes, London, UK \n\n2021 - Tor Art Space,
