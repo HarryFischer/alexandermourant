@@ -79,8 +79,7 @@ Education:
     BA Photography\n\n2019 - Guest Lecturer, Kingston University, BA Photography\n\n2019
     - Guest Lecturer, Falmouth University, BA Photography\n\n2019 - Guest Lecturer,
     University of Huddersfield, All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer,
-    Kingston University, BA Photography\n\n2018 - Guest Lecturer, Bryanston School,
-    BA Photography"
+    Kingston University, BA Photography\n\n2018 - Guest Lecturer, Bryanston School"
 - title: Workshops
   year-text: |-
     2022 - Greengate School, *A House by the Sea II*, Workshop Lead
