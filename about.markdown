@@ -148,6 +148,17 @@ Education:
     2015 - Jersey Arts Centre's, Original Student Art Award - Winner
 
     2015 - theprintspace, PhotoVoice Awards - Finalist
+- title: Grants
+  year-text: |-
+    2021 - ArtHouse Jersey - www.arthouse.je
+
+    2018 - ArtHouse Jersey - www.arthouse.je
+
+    2018 - Jersey Bursary - www.gov.je
+
+    2018 - Arts Council England - www.artscouncil.org.uk
+
+    2017 - ArtHouse Jersey - www.arthouse.je
 - title: Publications
   year-text: |-
     2021 - The Ivy Press, Gemma Padley, *Look At This If You Love Great Photography*
@@ -183,17 +194,6 @@ Education:
     2015 - Gallery Magazine: Evolution Issue no. 116, *Beauty in Rumination*
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, *Blue Railing*
-- title: Grants
-  year-text: |-
-    2021 - ArtHouse Jersey - www.arthouse.je
-
-    2018 - ArtHouse Jersey - www.arthouse.je
-
-    2018 - Jersey Bursary - www.gov.je
-
-    2018 - Arts Council England - www.artscouncil.org.uk
-
-    2017 - ArtHouse Jersey - www.arthouse.je
 - title: Selected Press
   year-text: "[The Guardian](https://www.theguardian.com/artanddesign/gallery/2022/apr/20/horse-cults-and-explosives-images-inspired-by-islands-in-pictures)\n\n[SW
     Londoner](https://www.swlondoner.co.uk/news/19032022-artwork-of-wandsworth-schoolchildren-on-show-in-southside-shopping-centre)\n\n[Revolv
