@@ -88,7 +88,7 @@ Education:
 
     2022 - Wandsworth Council's Children's and Arts Service, Project Lead, *A Place to Call Home*
 
-    2021 - Wandsworth Council and Royal College of Art, Artist Educator, *A Greener Picture: Photography and Climate Change*
+    2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Workshops
   year-text: |-
     2022 - Greengate School, *A House by the Sea II*, Workshop Lead
