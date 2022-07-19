@@ -35,20 +35,20 @@ Education:
     Thomasson, London, UK\n\n2020 - Unit 1 Gallery, *Final, not Over*, London, UK\n\n2020
     - Royal College of Art, *SHOW 2020*, London, UK\n\n2019 - Copeland Gallery, *Where
     You Are Not*, with Maddie Rose Hills, Matilda Little, Florence Sweeney, Tom Pope,
-    Simone Mudde and Katrina Russell-Adams, London, UK\n\n2019 - Unseen Amsterdam,
-    *To Feel Its Touch*, Seen Fifteen Gallery, Amsterdam, NL\n \n2019 - Peckham 24,
-    *For Those Who Could See Beyond The Surface*, curated by Emma Bowkett, with Marianne
-    Bjørnmyr, Tenzing Dakpa, Maja Daniels, Katrin Koenning, Raymond Meeks and Alexander
-    Mourant, London, UK\n \n2019 - Royal College of Art, *WIP*, London, UK\n\n2018 -
-    Jersey Arts Centre, *Anniversary Exhibition*, Jersey, UK\n \n2018 - The Old Truman
-    Brewery, Photoworks presents *Collaborate* at Free Range, London, UK\n\n2017 - The
-    Old Truman Brewery, South West Graduate Photography Prize, London, UK\n\n2017
-    - CCA Galleries International, Summer Exhibition, Jersey, UK\n\n2017 - The Old
-    Truman Brewery, Free Range, London, UK\n\n2015 - Berni Gallery, Jersey Arts Centre,
-    The Original Student Art Exhibition, Jersey, UK\n \n2015 - The Poly, End of Year
-    Show, Falmouth, Cornwall, UK\n\n2015 - theprintspace, PhotoVoice Awards, London,
-    UK\n \n2014 - CCA Galleries International, Jersey, Gallery Magazine: Student Awards,
-    Jersey, UK"
+    Simone Mudde, Katrina Russell-Adams and Alexander Mourant, London, UK\n\n2019
+    - Unseen Amsterdam, *To Feel Its Touch*, Seen Fifteen Gallery, Amsterdam, NL\n
+    \n2019 - Peckham 24, *For Those Who Could See Beyond The Surface*, curated by
+    Emma Bowkett, with Marianne Bjørnmyr, Tenzing Dakpa, Maja Daniels, Katrin Koenning,
+    Raymond Meeks and Alexander Mourant, London, UK\n \n2019 - Royal College of Art,
+    *WIP*, London, UK\n\n2018 - Jersey Arts Centre, *Anniversary Exhibition*, Jersey,
+    UK\n \n2018 - The Old Truman Brewery, Photoworks presents *Collaborate* at Free
+    Range, London, UK\n\n2017 - The Old Truman Brewery, South West Graduate Photography
+    Prize, London, UK\n\n2017 - CCA Galleries International, Summer Exhibition, Jersey,
+    UK\n\n2017 - The Old Truman Brewery, Free Range, London, UK\n\n2015 - Berni Gallery,
+    Jersey Arts Centre, The Original Student Art Exhibition, Jersey, UK\n \n2015 - The
+    Poly, End of Year Show, Falmouth, Cornwall, UK\n\n2015 - theprintspace, PhotoVoice
+    Awards, London, UK\n \n2014 - CCA Galleries International, Jersey, Gallery Magazine:
+    Student Awards, Jersey, UK"
 - title: Talks
   year-text: |-
     2022 - Livingmaps Network, *A Place to Call Home*
