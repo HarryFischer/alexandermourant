@@ -80,6 +80,15 @@ Education:
     - Guest Lecturer, Falmouth University, BA Photography\n\n2019 - Guest Lecturer,
     University of Huddersfield, All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer,
     Kingston University, BA Photography\n\n2018 - Guest Lecturer, Bryanston School"
+- title: Education Commissions
+  year-text: |-
+    2022 - ArtHouse Jersey, Artist Educator, *MAPS*
+
+    2022 - BarrowFull and Greengate School, Artist in Residence, *A Trip to Earnse Bay*
+
+    2022 - Wandsworth Council's Children's and Arts Service, Project Lead, *A Place to Call Home*
+
+    2021 - Wandsworth Council and Royal College of Art, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Workshops
   year-text: |-
     2022 - Greengate School, *A House by the Sea II*, Workshop Lead
@@ -113,20 +122,15 @@ Education:
     2021 - Smallwood School, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
 
     2021 - Mosaic School, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
-- title: Awards / Commissions
+- title: Awards / Personal Commissions
   year-text: "2022 - Hapax Magazine, Artist Commission, Issue 3 (2022/2023), *North
-    East South West* \n\n2022 - ArtHouse Jersey, Artist Educator, *MAPS*\n\n2022 -
-    BarrowFull and Greengate School, Artist in Residence, *A Trip to Earnse Bay*\n\n2022
-    - Wandsworth Council's Children's and Arts Service, Lead Artist, *A Place to Call
-    Home*\n\n2021 - Wandsworth Council's Children's and Arts Service and Royal College
-    of Art, *A Greener Picture: Photography and Climate Change*\n\n2020 - The Eye
-    Sees, Arles, Entractes 14, *When the Image Returns to Glass*\n\n2020 - HGG London,
-    *The Bell Tower*\n\n2019 - FT Weekend Magazine / Photo London, *My London*\n\n2019
-    - Foam Paul Huf Award - Nomination\n\n2017 - Free Range Award - Winner\n\n2017
-    - Metro Imaging Award - Winner\n\n2017 - South West Graduate Photography Prize
-    - Finalist\n\n2016 - NCVO and PhotoVoice Photography Prize - Finalist\n\n2015
-    - Jersey Arts Centre's, Original Student Art Award - Winner\n\n2015 - theprintspace,
-    PhotoVoice Awards - Finalist"
+    East South West* \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the Image
+    Returns to Glass*\n\n2020 - HGG London, *The Bell Tower*\n\n2019 - FT Weekend
+    Magazine / Photo London, *My London*\n\n2019 - Foam Paul Huf Award - Nomination\n\n2017
+    - Free Range Award - Winner\n\n2017 - Metro Imaging Award - Winner\n\n2017 - South
+    West Graduate Photography Prize - Finalist\n\n2016 - NCVO and PhotoVoice Photography
+    Prize - Finalist\n\n2015 - Jersey Arts Centre's, Original Student Art Award -
+    Winner\n\n2015 - theprintspace, PhotoVoice Awards - Finalist"
 - title: Writing
   year-text: "2022 - [C4 Journal, Review: *This Creaking Floor and All the Ceilings
     Below* by Bart Lunenburg](https://c4journal.com/bart-lunenburg-this-creaking-floor-and-all-the-ceilings-below/)
