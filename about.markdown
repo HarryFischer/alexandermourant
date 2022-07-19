@@ -122,32 +122,32 @@ Education:
     2021 - Smallwood School, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
 
     2021 - Mosaic School, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
-- title: Awards / Personal Commissions
-  year-text: "2022 - Hapax Magazine, Artist Commission, Issue 3 (2022/2023), *North
-    East South West* \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the Image
-    Returns to Glass*\n\n2020 - HGG London, *The Bell Tower*\n\n2019 - FT Weekend
-    Magazine / Photo London, *My London*\n\n2019 - Foam Paul Huf Award - Nomination\n\n2017
-    - Free Range Award - Winner\n\n2017 - Metro Imaging Award - Winner\n\n2017 - South
-    West Graduate Photography Prize - Finalist\n\n2016 - NCVO and PhotoVoice Photography
-    Prize - Finalist\n\n2015 - Jersey Arts Centre's, Original Student Art Award -
-    Winner\n\n2015 - theprintspace, PhotoVoice Awards - Finalist"
 - title: Writing
   year-text: "2022 - [C4 Journal, Review: *This Creaking Floor and All the Ceilings
     Below* by Bart Lunenburg](https://c4journal.com/bart-lunenburg-this-creaking-floor-and-all-the-ceilings-below/)
     \n\n2021 - [C4 Journal, Review: *Furze* by Jack Whitefield](https://c4journal.com/jack-whitefield-furze/)\n\n2020
     - [On Living Stones and Reaching: *The Wilderness of Words*](https://www.alexandermourant.com/on-living-stones-and-reaching)\n\n2019
     - *The Journal: On Being Someone Other*\n\n2017 - *Land Art, Photography and Time*"
-- title: Grants
+- title: Commissions
+  year-text: "2022 - Hapax Magazine, Artist Commission, Issue 3 (2022/2023), *North
+    East South West* \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the Image
+    Returns to Glass*\n\n2020 - HGG London, *The Bell Tower*\n\n2019 - FT Weekend
+    Magazine / Photo London, *My London*"
+- title: Awards
   year-text: |-
-    2021 - ArtHouse Jersey - www.arthouse.je
+    2019 - Foam Paul Huf Award - Nomination
 
-    2018 - ArtHouse Jersey - www.arthouse.je
+    2017 - Free Range Award - Winner
 
-    2018 - Jersey Bursary - www.gov.je
+    2017 - Metro Imaging Award - Winner
 
-    2018 - Arts Council England - www.artscouncil.org.uk
+    2017 - South West Graduate Photography Prize - Finalist
 
-    2017 - ArtHouse Jersey - www.arthouse.je
+    2016 - NCVO and PhotoVoice Photography Prize - Finalist
+
+    2015 - Jersey Arts Centre's, Original Student Art Award - Winner
+
+    2015 - theprintspace, PhotoVoice Awards - Finalist
 - title: Publications
   year-text: |-
     2021 - The Ivy Press, Gemma Padley, *Look At This If You Love Great Photography*
@@ -183,6 +183,17 @@ Education:
     2015 - Gallery Magazine: Evolution Issue no. 116, *Beauty in Rumination*
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, *Blue Railing*
+- title: Grants
+  year-text: |-
+    2021 - ArtHouse Jersey - www.arthouse.je
+
+    2018 - ArtHouse Jersey - www.arthouse.je
+
+    2018 - Jersey Bursary - www.gov.je
+
+    2018 - Arts Council England - www.artscouncil.org.uk
+
+    2017 - ArtHouse Jersey - www.arthouse.je
 - title: Selected Press
   year-text: "[The Guardian](https://www.theguardian.com/artanddesign/gallery/2022/apr/20/horse-cults-and-explosives-images-inspired-by-islands-in-pictures)\n\n[SW
     Londoner](https://www.swlondoner.co.uk/news/19032022-artwork-of-wandsworth-schoolchildren-on-show-in-southside-shopping-centre)\n\n[Revolv
