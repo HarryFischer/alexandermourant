@@ -129,10 +129,10 @@ Education:
     - [On Living Stones and Reaching: *The Wilderness of Words*](https://www.alexandermourant.com/on-living-stones-and-reaching)\n\n2019
     - *The Journal: On Being Someone Other*\n\n2017 - *Land Art, Photography and Time*"
 - title: Commissions
-  year-text: "2022 - Hapax Magazine, Artist Commission, Issue 3 (2022/2023), *North
-    East South West* \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the Image
-    Returns to Glass*\n\n2020 - HGG London, *The Bell Tower*\n\n2019 - FT Weekend
-    Magazine / Photo London, *My London*"
+  year-text: "2022 - Hapax Magazine, Issue 3 (2022/2023), *North East South West*
+    \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the Image Returns to Glass*\n\n2020
+    - HGG London, *The Bell Tower*\n\n2019 - FT Weekend Magazine / Photo London, *My
+    London*"
 - title: Awards
   year-text: |-
     2019 - Foam Paul Huf Award - Nomination
