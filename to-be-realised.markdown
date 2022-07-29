@@ -33,25 +33,6 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: Part of a Whole (2020)
-  entry-body-text: "Greenhouse glass photogram diptych. This piece is 50% complete
-    and awaits framing. It's an additonal work that joins the ongoing series, *I Could
-    Not Tell Glass From Air*. \n"
-  entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ-2.jpg"
-  entry-two-image: 
-  entry-meta-text: |
-    *Part of a Whole*, Artist's Render, 2020<br>
-    Diptych, 24 x 20” each<br>
-    Silver gelatin hand print, photogram<br>
-    Plant life, glass, walnut<br>
-    Unique<br>
-  text-margin-right: 
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
   entry-heading-text: North East South West (2020)
   entry-body-text: Place a camera on a tripod in the centre of a field with long grass,
     ideally in summer, just before the grass is harvested. Point the camera towards
@@ -317,6 +298,25 @@ Content:
   entry-image: "/uploads/JournalSketches-AlexanderMourant-2.jpg"
   entry-two-image: 
   entry-meta-text: "*That Image of You Is All That I’ve Known*, Artist's Sketch, 2021"
+  text-margin-right: 
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+  entry-heading-text: Part of a Whole (2020)
+  entry-body-text: "REALISED, 25/07/2022\n\nGreenhouse glass photogram diptych. This
+    piece is 50% complete and awaits framing. It's an additonal work that joins the
+    ongoing series, *I Could Not Tell Glass From Air*. \n"
+  entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ-2.jpg"
+  entry-two-image: 
+  entry-meta-text: |
+    *Part of a Whole*, Artist's Render, 2020<br>
+    Diptych, 24 x 20” each<br>
+    Silver gelatin hand print, photogram<br>
+    Plant life, glass, walnut<br>
+    Unique<br>
   text-margin-right: 
 layout: proposals
 ---
