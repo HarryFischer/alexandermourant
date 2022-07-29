@@ -3,6 +3,13 @@ title: I Could Not Tell Glass From Air
 date: 2021-02-20 10:33:00 Z
 position: 25
 Content:
+- image: "/uploads/Orbits-31%20copy.jpg"
+  video: 
+  caption-text: "*Part of a Whole*, 2020/2022\n\nDiptych, 24 x 20” each\n\nSilver
+    gelatin hand print \n\nMoss, glass, walnut\n\nUnique"
+  image-size: 
+  image-position: 
+  image-margin-right: 
 - image: "/uploads/Installations-AlexanderMourant-11.jpg"
   video: 
   caption-text: |-
