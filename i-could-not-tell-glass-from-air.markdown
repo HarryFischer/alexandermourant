@@ -7,9 +7,9 @@ Content:
   video: 
   caption-text: "*Part of a Whole*, 2020/2022\n\nDiptych, 24 x 20” each\n\nSilver
     gelatin hand print \n\nMoss, glass, walnut\n\nUnique"
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: large
 - image: "/uploads/Installations-AlexanderMourant-11.jpg"
   video: 
   caption-text: |-
