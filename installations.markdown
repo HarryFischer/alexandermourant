@@ -3,6 +3,16 @@ title: Installations
 date: 2021-03-01 17:53:00 Z
 position: 18
 Content:
+- image: "/uploads/Orbits-31%20copy.jpg"
+  caption-text: |-
+    Seen Fifteen Gallery
+
+    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
+
+    *Part of a Whole*, 2020/2022
+  image-size: medium
+  image-position: middle
+  image-margin-right: 
 - image: "/uploads/Installations-AlexanderMourant-6.jpg"
   video: 
   caption-text: |-
@@ -300,8 +310,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: 
-Words:
-- interview text: 
 layout: installations
 ---
 
