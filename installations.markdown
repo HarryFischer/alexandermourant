@@ -4,6 +4,7 @@ date: 2021-03-01 17:53:00 Z
 position: 18
 Content:
 - image: "/uploads/Orbits-31%20copy.jpg"
+  video: 
   caption-text: |-
     Seen Fifteen Gallery
 
@@ -12,7 +13,7 @@ Content:
     *Part of a Whole*, 2020/2022
   image-size: medium
   image-position: middle
-  image-margin-right: 
+  image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-6.jpg"
   video: 
   caption-text: |-
