@@ -123,7 +123,7 @@ Education:
 
     2021 - Mosaic School, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
 - title: Writing
-  year-text: "2022 - [C4 Journal, Review: *those eyes - these eyes - they fade*] (https://c4journal.com/valletta-malta/)\n\n2022
+  year-text: "2022 - [C4 Journal, Review: *those eyes - these eyes - they fade*](https://c4journal.com/valletta-malta/)\n\n2022
     - [C4 Journal, Review: *This Creaking Floor and All the Ceilings Below* by Bart
     Lunenburg](https://c4journal.com/bart-lunenburg-this-creaking-floor-and-all-the-ceilings-below/)
     \n\n2021 - [C4 Journal, Review: *Furze* by Jack Whitefield](https://c4journal.com/jack-whitefield-furze/)\n\n2020
