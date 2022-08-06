@@ -91,6 +91,8 @@ Education:
     2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Workshops
   year-text: |-
+    2022 - FORMAT, East Meets West Masterclass, Revolv Collective, *On Collective Working*, Workshop Facilitator
+
     2022 - Greengate School, *A House by the Sea II*, Workshop Lead
 
     2022 - Greengate School, *A House by the Sea I*, Workshop Lead
