@@ -3,7 +3,7 @@ title: Installations
 date: 2021-03-01 17:53:00 Z
 position: 18
 Content:
-- image: "/uploads/Orbits-31%20copy.jpg"
+- image: "/uploads/Orbit-31-REEDIT-1800%20LQ.jpg"
   video: 
   caption-text: |-
     Seen Fifteen Gallery
