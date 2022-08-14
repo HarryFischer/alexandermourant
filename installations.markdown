@@ -13,7 +13,18 @@ Content:
     *Part of a Whole*, 2020/2022
   image-size: medium
   image-position: middle
-  image-margin-right: medium
+  image-margin-right: xsmall
+- image: "/uploads/Orbits-21%20copy.jpg"
+  video: 
+  caption-text: |-
+    Seen Fifteen Gallery
+
+    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
+
+    *Part of a Whole*, 2020/2022
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-6.jpg"
   video: 
   caption-text: |-
