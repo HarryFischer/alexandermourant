@@ -48,7 +48,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: large
-- image: "/uploads/Orbits-31%20copy.jpg"
+- image: "/uploads/Orbit-31-REEDIT-1800%20LQ.jpg"
   video: 
   caption-text: "*Part of a Whole*, 2020/2022\n\nDiptych, 24 x 20” each\n\nSilver
     gelatin hand print \n\nMoss, glass, walnut\n\nUnique"
