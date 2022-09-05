@@ -13,7 +13,7 @@ Content:
     Gallery, Seen Fifteen Gallery, Peckham 24, and Photo50, London Art Fair. Mourant is a
     recipient of grants from ArtHouse Jersey, Jersey Bursary and Arts Council England. He has won the Free Range Award
     and was nominated for the Foam Paul Huf Award. Mourant is a member of [Revolv Collective](https://revolv.org.uk), an arts organisation
-    established in 2017 which champions art pedagogy, and he is a Contributor at [C4 Journal](https://c4journal.com), a platform dedicated to
+    established in 2017 which champions art pedagogy, he is also a Contributor at [C4 Journal](https://c4journal.com), a platform dedicated to
     writing about photography and the various incarnations of the photobook. He achieved BA Photography at Falmouth
     University, and MA Photography at Royal College of Art, London.
     <br>
