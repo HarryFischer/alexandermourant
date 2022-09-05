@@ -13,12 +13,12 @@ Content:
     Gallery, Seen Fifteen Gallery, Peckham 24, and Photo50, London Art Fair. Mourant is a
     recipient of grants from ArtHouse Jersey, Jersey Bursary and Arts Council England. He has won the Free Range Award
     and was nominated for the Foam Paul Huf Award. Mourant is a member of [Revolv Collective](https://revolv.org.uk), an arts organisation
-    established in 2017 which champions art pedagogy, and he is a Contributor at [C4 Journal] (https://c4journal.com), a platform dedicated to
+    established in 2017 which champions art pedagogy, and he is a Contributor at [C4 Journal](https://c4journal.com), a platform dedicated to
     writing about photography and the various incarnations of the photobook. He achieved BA Photography at Falmouth
     University, and MA Photography at Royal College of Art, London.
     <br>
     <br>
-    Alexander Mourant embraces autobiography, literature and reference-based thinking, to create narratives and analogies that explore the relationship between the body and the photographic medium. His work is a deeply rooted investigation into photography, writing, performance and sculpture, and it participates in a variety of activities, such as digging, planting and harvesting, in an attempt to uncover a parallelism between action and theoretical discourse. Known for his post-conceptual approach and expanded [research] (https://www.instagram.com/alexandermourant/), he often utilises methodologies cultivated by the 1960s-70s Land Art movement, Performance and Arte Povera, to help question, or push, our understanding of the photographic. Mourant proposes how images may deal with temporality, spatiality and reflexivity, through new ways of thinking, and alludes to the photographic becoming a space among space, and ultimately, a place we traverse.
+    Alexander Mourant embraces autobiography, literature and reference-based thinking, to create narratives and analogies that explore the relationship between the body and the photographic medium. His work is a deeply rooted investigation into photography, writing, performance and sculpture, and it participates in a variety of activities, such as digging, planting and harvesting, in an attempt to uncover a parallelism between action and theoretical discourse. Known for his post-conceptual approach and expanded [research](https://www.instagram.com/alexandermourant/), he often utilises methodologies cultivated by the 1960s-70s Land Art movement, Performance and Arte Povera, to help question, or push, our understanding of the photographic. Mourant proposes how images may deal with temporality, spatiality and reflexivity, through new ways of thinking, and alludes to the photographic becoming a space among space, and ultimately, a place we traverse.
 Education:
 - title: Education
   year-text: |-
