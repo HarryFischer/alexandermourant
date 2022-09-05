@@ -8,9 +8,9 @@ Content:
     Instagram: [@alexandermourant](http://www.instagram.com/alexandermourant)
     <br>
     <br>
-    Alexander Mourant is an artist, writer and educator based in London. He has been commissioned by FT Weekend Magazine, Hapax Magazine and Te Greatest Magazine, and included in publications such as British Journal of Photography, The Guardian, Photograph, Unseen Magazine and Photomonitor. Solo shows include Aomori at Te
-    Old Truman Brewery (2018) and Unseen Amsterdam (2018), alongside group shows at Edel Assanti (2020), Saatchi
-    Gallery (2020), Seen Fifeen Gallery (2022), Peckham 24 (2019), and Photo50, London Art Fair (2022). Mourant is a
+    Alexander Mourant is an artist, writer and educator based in London. He has been commissioned by FT Weekend Magazine, Hapax Magazine and The Greatest Magazine, and included in publications such as British Journal of Photography, The Guardian, Photograph, Unseen Magazine and Photomonitor. Solo shows include Aomori at The
+    Old Truman Brewery and Unseen Amsterdam, alongside group shows at Edel Assanti, Saatchi
+    Gallery, Seen Fifteen Gallery, Peckham 24, and Photo50, London Art Fair. Mourant is a
     recipient of grants from ArtHouse Jersey, Jersey Bursary and Arts Council England. He has won the Free Range Award
     and was nominated for the Foam Paul Huf Award. Mourant is a member of [Revolv Collective](https://revolv.org.uk), an arts organisation
     established in 2017 which champions art pedagogy, and he is a Contributor at [C4 Journal] (https://c4journal.com), a platform dedicated to
