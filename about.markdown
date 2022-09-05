@@ -8,9 +8,7 @@ Content:
     Instagram: [@alexandermourant](http://www.instagram.com/alexandermourant)
     <br>
     <br>
-    Alexander Mourant (b.1994) is an artist, writer and educator based in London. He has been commissioned by FT
-    Weekend Magazine, Hapax Magazine and Te Greatest Magazine, and included in publications such as British Journal
-    of Photography, Te Guardian, Photograph, Unseen Magazine and Photomonitor. Solo shows include Aomori at Te
+    Alexander Mourant is an artist, writer and educator based in London. He has been commissioned by FT Weekend Magazine, Hapax Magazine and Te Greatest Magazine, and included in publications such as British Journal of Photography, The Guardian, Photograph, Unseen Magazine and Photomonitor. Solo shows include Aomori at Te
     Old Truman Brewery (2018) and Unseen Amsterdam (2018), alongside group shows at Edel Assanti (2020), Saatchi
     Gallery (2020), Seen Fifeen Gallery (2022), Peckham 24 (2019), and Photo50, London Art Fair (2022). Mourant is a
     recipient of grants from ArtHouse Jersey, Jersey Bursary and Arts Council England. He has won the Free Range Award
