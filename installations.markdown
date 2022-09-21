@@ -14,7 +14,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Orbits-21%20copy.jpg"
+- image: "/uploads/Orbits-21%20NEW.jpg"
   video: 
   caption-text: |-
     Seen Fifteen Gallery
