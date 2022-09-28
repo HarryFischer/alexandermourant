@@ -1,6 +1,6 @@
 ---
 title: Home
-position: 16
+position: 17
 Content:
 - image: "/uploads/Portrait-of-the-artist-repeating-himself-2020.jpg"
   video: 

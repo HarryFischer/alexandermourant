@@ -1,7 +1,7 @@
 ---
 title: A Vertigo Like Self
 date: 2021-02-20 10:36:00 Z
-position: 21
+position: 22
 Content:
 - video: https://player.vimeo.com/video/666478226?autoplay=1&loop=1&controls=false&muted=1
   caption-text: |-

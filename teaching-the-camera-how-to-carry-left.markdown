@@ -2,7 +2,7 @@
 title: 5 Teaching the Camera How to Carry (Left)
 date: 2021-11-15 17:37:00 Z
 permalink: "/on-living-stones-and-reaching/teaching-the-camera-how-to-carry-left"
-position: 4
+position: 6
 Content:
 - image: 
   video: 
