@@ -6,11 +6,11 @@ Content:
 - image: "/uploads/APlacetoCallHome-30.jpg"
   video: 
   caption-text: |-
-    Southside Shopping Centre<br>
+    *A Place to Call Home*, 2021-2022
 
     In collaboration with Wandsworth Council's Children's and Arts Service<br>
 
-    *A Place to Call Home*, 2021-2022
+    Southside Shopping Centre<br>
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -27,6 +27,12 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/APlacetoCallHome-AlexanderMourant-11.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/APlacetoCallHome-AlexanderMourant-7.jpg"
   video: 
   caption-text: 
   image-size: medium
@@ -68,6 +74,53 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: small
+- image: "/uploads/FNbdcz0UcAAmbCM.jpeg"
+  video: 
+  caption-text: |-
+    *A Place to Call Home*, School Visits, 2021-2022
+
+    In collaboration with Wandsworth Council's Children's and Arts Service<br>
+
+    Southside Shopping Centre<br>
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/FOjCI0iXEAUz01L-2.jpeg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/FNZ92viWYAAp3Rz-2.jpeg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/FNZ92vfWUAEih9s-2.jpeg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/FOhG2ttXwAEEE01.jpeg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/FPAt6fuXoAATIzF.jpeg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/FOhG2s5XwAYxzmI-2.jpeg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 Words:
   interview-text: "# The Defence of Play\n<br>\n<br>\n**List of Education Commissions:**\n<br>\n2022
     - ArtHouse Jersey, Artist Educator, MAPS\n<br>\n2022 - BarrowFull and Greengate
