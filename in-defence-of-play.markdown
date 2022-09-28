@@ -109,7 +109,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: 
+- image: "/uploads/ATriptoEarnseBay-1.jpg"
   video: 
   caption-text: 
   image-size: 
