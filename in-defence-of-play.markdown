@@ -32,7 +32,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/APlacetoCallHome-AlexanderMourant-13.jpg"
+- image: "/uploads/APlacetoCallHome-AlexanderMourant-8.jpg"
   video: 
   caption-text: 
   image-size: medium
@@ -50,12 +50,24 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/APlacetoCallHome-AlexanderMourant-16.jpg"
+- image: "/uploads/APlacetoCallHome-AlexanderMourant-13.jpg"
   video: 
   caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/APlacetoCallHome-AlexanderMourant-23.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/APlacetoCallHome-25.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: small
 Words:
   interview-text: "# The Defence of Play\n<br>\n<br>\n**List of Education Commissions:**\n<br>\n2022
     - ArtHouse Jersey, Artist Educator, MAPS\n<br>\n2022 - BarrowFull and Greengate
