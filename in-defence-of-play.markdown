@@ -32,12 +32,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/APlacetoCallHome-AlexanderMourant-7.jpg"
-  video: 
-  caption-text: 
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/APlacetoCallHome-AlexanderMourant-8.jpg"
   video: 
   caption-text: 
@@ -115,6 +109,12 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
 Words:
   interview-text: "# The Defence of Play\n<br>\n<br>\n**List of Education Commissions:**\n<br>\n2022
     - ArtHouse Jersey, Artist Educator, MAPS\n<br>\n2022 - BarrowFull and Greengate
