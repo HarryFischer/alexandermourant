@@ -6,11 +6,11 @@ Content:
 - image: "/uploads/APlacetoCallHome-30.jpg"
   video: 
   caption-text: |-
-    *A Place to Call Home*, 2021-2022<br>
+    *A Place to Call Home*, 2021-2022
 
-    In collaboration with Wandsworth Council's Children's and Arts Service<br>
+    In collaboration with Wandsworth Council's Children's and Arts Service
 
-    Southside Shopping Centre<br>
+    Southside Shopping Centre
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -65,11 +65,11 @@ Content:
 - image: "/uploads/FNbdcz0UcAAmbCM.jpeg"
   video: 
   caption-text: |-
-    *A Place to Call Home*, School Visits, 2021-2022<br>
+    *A Place to Call Home*, School Visits, 2021-2022
 
-    In collaboration with Wandsworth Council's Children's and Arts Service<br>
+    In collaboration with Wandsworth Council's Children's and Arts Service
 
-    Southside Shopping Centre<br>
+    Southside Shopping Centre
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
