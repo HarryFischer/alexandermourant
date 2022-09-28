@@ -4,9 +4,58 @@ date: 2022-09-28 14:03:00 Z
 position: 1
 Content:
 - image: "/uploads/APlacetoCallHome-30.jpg"
+  video: 
+  caption-text: |-
+    Southside Shopping Centre<br>
+
+    In collaboration with Wandsworth Council's Children's and Arts Service<br>
+
+    *A Place to Call Home*, 2021-2022
   image-size: medium
   image-position: middle
-  image-margin-right: small
+  image-margin-right: xsmall
+- image: "/uploads/APlacetoCallHome-AlexanderMourant-1.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/APlacetoCallHome-AlexanderMourant-2.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/APlacetoCallHome-AlexanderMourant-11.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/APlacetoCallHome-AlexanderMourant-13.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/APlacetoCallHome-26.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/APlacetoCallHome-27.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/APlacetoCallHome-AlexanderMourant-16.jpg"
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
 Words:
   interview-text: "# The Defence of Play\n<br>\n<br>\n**List of Education Commissions:**\n<br>\n2022
     - ArtHouse Jersey, Artist Educator, MAPS\n<br>\n2022 - BarrowFull and Greengate
