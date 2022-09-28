@@ -6,7 +6,7 @@ Content:
 - image: "/uploads/APlacetoCallHome-30.jpg"
   video: 
   caption-text: |-
-    *A Place to Call Home*, 2021-2022
+    *A Place to Call Home*, 2021-2022<br>
 
     In collaboration with Wandsworth Council's Children's and Arts Service<br>
 
@@ -65,7 +65,7 @@ Content:
 - image: "/uploads/FNbdcz0UcAAmbCM.jpeg"
   video: 
   caption-text: |-
-    *A Place to Call Home*, School Visits, 2021-2022
+    *A Place to Call Home*, School Visits, 2021-2022<br>
 
     In collaboration with Wandsworth Council's Children's and Arts Service<br>
 
