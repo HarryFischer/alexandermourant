@@ -44,6 +44,12 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/APlacetoCallHome-AlexanderMourant-13.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/APlacetoCallHome-26.jpg"
   video: 
   caption-text: 
@@ -51,18 +57,6 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/APlacetoCallHome-27.jpg"
-  video: 
-  caption-text: 
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/APlacetoCallHome-AlexanderMourant-13.jpg"
-  video: 
-  caption-text: 
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/APlacetoCallHome-AlexanderMourant-23.jpg"
   video: 
   caption-text: 
   image-size: medium
