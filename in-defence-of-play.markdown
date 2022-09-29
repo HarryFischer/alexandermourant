@@ -164,18 +164,18 @@ Content:
   image-margin-right: medium
 - image: "/uploads/Class%20Trip%20-%20Earnse%20Bay.jpg"
   video: 
-  caption-text: 
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/BarrowFull-BTS-1.jpg"
-  video: 
   caption-text: |-
     *A Trip to Earnse Bay*, 2022
 
     Alexander Mourant x Greengate Junior School, produced by BarrowFull
 
     Cooke’s Studios, Barrow-in-Furness
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/BarrowFull-BTS-1.jpg"
+  video: 
+  caption-text: 
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
