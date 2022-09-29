@@ -227,13 +227,49 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: 
+- image: "/uploads/AGreenerPicture-BTS-11.jpg"
   video: 
   caption-text: "*A Greener Picture: Photography and Climate Change*, 2021\n\nWandsworth
     Council x Royal College of Art \n"
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-4.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-6.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-17.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-23.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-24.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-24-c74a27.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 Words:
   interview-text: "# The Defence of Play\n<br>\n<br>\n**List of Education Commissions:**\n<br>\n2022
     - ArtHouse Jersey, Artist Educator, MAPS\n<br>\n2022 - BarrowFull and Greengate
