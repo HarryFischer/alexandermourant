@@ -229,8 +229,9 @@ Content:
   image-margin-right: medium
 - image: "/uploads/AGreenerPicture-BTS-11.jpg"
   video: 
-  caption-text: "*A Greener Picture: Photography and Climate Change*, 2021\n\nWandsworth
-    Council x Royal College of Art \n"
+  caption-text: "*A Greener Picture: Photography and Climate Change*, 2021\n\nAlexander
+    Mourant x Wandsworth Council x Royal College of Art \n\nWandsworth Arts Fringe
+    2021\n"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -258,12 +259,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/AGreenerPicture-BTS-24.jpg"
-  video: 
-  caption-text: 
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/AGreenerPicture-BTS-24-c74a27.jpg"
   video: 
   caption-text: 
@@ -278,10 +273,9 @@ Content:
   image-margin-right: medium
 - image: "/uploads/AGreenerPicture-BTS-2.jpg"
   video: 
-  caption-text: |-
-    *A Greener Picture: Photography and Climate Change*, 2021
-
-    Wandsworth Council x Royal College of Art
+  caption-text: "*A Greener Picture: Photography and Climate Change*, 2021\n\nAlexander
+    Mourant x Wandsworth Council x Royal College of Art \n\nWandsworth Arts Fringe
+    2021"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
