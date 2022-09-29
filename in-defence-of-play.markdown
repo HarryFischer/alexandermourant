@@ -155,7 +155,7 @@ Content:
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: small
+  image-margin-right: xsmall
 - image: "/uploads/ATriptoEarnseBay-10.jpg"
   video: 
   caption-text: 
