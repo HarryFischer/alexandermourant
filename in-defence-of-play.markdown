@@ -229,7 +229,8 @@ Content:
   image-margin-right: medium
 - image: 
   video: 
-  caption-text: 
+  caption-text: "*A Greener Picture: Photography and Climate Change*, 2021\n\nWandsworth
+    Council x Royal College of Art \n"
   image-size: 
   image-position: 
   image-margin-right: 
