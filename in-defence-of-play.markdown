@@ -8,7 +8,7 @@ Content:
   caption-text: |-
     *A Place to Call Home*, 2021-2022
 
-    In collaboration with Wandsworth Council's Children's and Arts Service
+    Alexander Mourant x Wandsworth Council's Children's and Arts Service
 
     Southside Shopping Centre
   image-size: medium
@@ -108,8 +108,19 @@ Content:
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/ATriptoEarnseBay-1.jpg"
+  video: 
+  caption-text: |-
+    *A Trip to Earnse Bay*, 2022
+
+    Alexander Mourant x Greengate Junior School, produced by BarrowFull
+
+    Cooke’s Studios, Barrow-in-Furness
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: 
   video: 
   caption-text: 
   image-size: 
