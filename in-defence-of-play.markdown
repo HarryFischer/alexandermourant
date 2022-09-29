@@ -61,7 +61,7 @@ Content:
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: small
+  image-margin-right: medium
 - image: "/uploads/FNbdcz0UcAAmbCM.jpeg"
   video: 
   caption-text: |-
