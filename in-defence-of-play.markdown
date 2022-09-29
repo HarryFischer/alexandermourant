@@ -270,6 +270,90 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-25.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
+- image: "/uploads/AGreenerPicture-BTS-2.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-3.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-1.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-15.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-13.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-14.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-16.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-8.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-18.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-19.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-20.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-21.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-22.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 Words:
   interview-text: "# The Defence of Play\n<br>\n<br>\n**List of Education Commissions:**\n<br>\n2022
     - ArtHouse Jersey, Artist Educator, MAPS\n<br>\n2022 - BarrowFull and Greengate
