@@ -344,7 +344,7 @@ Content:
   caption-text: 
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: 
 Words:
   interview-text: "# The Defence of Play\n<br>\n<br>\n**List of Education Commissions:**\n<br>\n2022
     - ArtHouse Jersey, Artist Educator, MAPS\n<br>\n2022 - BarrowFull and Greengate
