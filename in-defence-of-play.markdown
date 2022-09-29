@@ -241,12 +241,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/AGreenerPicture-BTS-6.jpg"
-  video: 
-  caption-text: 
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/AGreenerPicture-BTS-17.jpg"
   video: 
   caption-text: 
