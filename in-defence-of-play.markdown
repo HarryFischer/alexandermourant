@@ -162,6 +162,12 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
+- image: "/uploads/Class%20Trip%20-%20Earnse%20Bay.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/BarrowFull-BTS-1.jpg"
   video: 
   caption-text: |-
@@ -221,6 +227,12 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
+- image: 
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
 Words:
   interview-text: "# The Defence of Play\n<br>\n<br>\n**List of Education Commissions:**\n<br>\n2022
     - ArtHouse Jersey, Artist Educator, MAPS\n<br>\n2022 - BarrowFull and Greengate
