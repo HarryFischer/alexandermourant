@@ -278,7 +278,10 @@ Content:
   image-margin-right: medium
 - image: "/uploads/AGreenerPicture-BTS-2.jpg"
   video: 
-  caption-text: 
+  caption-text: |-
+    *A Greener Picture: Photography and Climate Change*, 2021
+
+    Wandsworth Council x Royal College of Art
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -289,6 +292,12 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/AGreenerPicture-BTS-1.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/AGreenerPicture-BTS-8.jpg"
   video: 
   caption-text: 
   image-size: medium
@@ -313,12 +322,6 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/AGreenerPicture-BTS-16.jpg"
-  video: 
-  caption-text: 
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/AGreenerPicture-BTS-8.jpg"
   video: 
   caption-text: 
   image-size: medium
