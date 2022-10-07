@@ -29,7 +29,7 @@ Content:
   caption-text: |-
     Photo50, London Art Fair
 
-    *[No Man is and Island](/a-vertigo-like-self)*
+    *[No Place is and Island](/a-vertigo-like-self)*
 
     *A Vertigo Like Self*, 2019
   image-size: medium
