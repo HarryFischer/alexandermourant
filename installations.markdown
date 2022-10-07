@@ -25,6 +25,16 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
+- image: "/uploads/Vertigo%20I-IV)-LondonArtFair-AlexanderMourant.jpg"
+  caption-text: |-
+    Photo50, London Art Fair
+
+    *[No Man is and Island](/a-vertigo-like-self)*
+
+    *A Vertigo Like Self*, 2019
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-6.jpg"
   video: 
   caption-text: |-
