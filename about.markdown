@@ -72,16 +72,17 @@ Education:
 
     2018 - The Old Truman Brewery, *Aomori*, with Professor Steve Macleod
 - title: Teaching
-  year-text: "2022 - Visiting Lecturer and Tutor, BA (Hons) Photography, University
-    of Westminster\n\n2022 - Guest Lecturer, Kingston University, BA Photography\n\n2022
-    - Guest Lecturer, Falmouth University, MA Photography \n\n2021 - Guest Lecturer,
-    Kingston University, BA Photography\n\n2021 - Guest Lecturer, Arts University
-    Bournemouth, BA Photography\n\n2021 - Guest Lecturer, Swansea College of Art,
-    BA Photography\n\n2020 - Guest Lecturer, Kingston University, BA Photography\n\n2019
-    - Guest Lecturer, Kingston University, BA Photography\n\n2019 - Guest Lecturer,
-    Falmouth University, BA Photography\n\n2019 - Guest Lecturer, University of Huddersfield,
-    All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer, Kingston University, BA Photography\n\n2018
-    - Guest Lecturer, Bryanston School"
+  year-text: "2022 - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography
+    \n\n2022 - Visiting Lecturer and Tutor, University of Westminster, BA (Hons) Photography\n\n2022
+    - Guest Lecturer, Kingston University, BA Photography\n\n2022 - Guest Lecturer,
+    Falmouth University, MA Photography \n\n2021 - Guest Lecturer, Kingston University,
+    BA Photography\n\n2021 - Guest Lecturer, Arts University Bournemouth, BA Photography\n\n2021
+    - Guest Lecturer, Swansea College of Art, BA Photography\n\n2020 - Guest Lecturer,
+    Kingston University, BA Photography\n\n2019 - Guest Lecturer, Kingston University,
+    BA Photography\n\n2019 - Guest Lecturer, Falmouth University, BA Photography\n\n2019
+    - Guest Lecturer, University of Huddersfield, All Levels (BA, MA & PhD) \n\n2018
+    - Guest Lecturer, Kingston University, BA Photography\n\n2018 - Guest Lecturer,
+    Bryanston School"
 - title: Education Commissions
   year-text: |-
     2022 - ArtHouse Jersey, Artist Educator, *MAPS*
