@@ -87,9 +87,9 @@ Education:
   year-text: |-
     2022 - ArtHouse Jersey, Artist Educator, *MAPS*
 
-    2022 - BarrowFull and Greengate School, Artist in Residence, *A Trip to Earnse Bay*
+    2022 - BarrowFull and Greengate School, Artist Educator, *A Trip to Earnse Bay*
 
-    2022 - Wandsworth Council's Children's and Arts Service, Project Lead, *A Place to Call Home*
+    2022 - Wandsworth Council's Children's and Arts Service, Lead Artist Educator, *A Place to Call Home*
 
     2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Workshops
