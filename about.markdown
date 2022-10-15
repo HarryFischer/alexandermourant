@@ -85,6 +85,8 @@ Education:
     Bryanston School"
 - title: Education Commissions
   year-text: |-
+    2022 - Hayward Gallery, Artist Educator, Schools Takeovers, *Strange Clay*
+
     2022 - ArtHouse Jersey, Artist Educator, *MAPS*
 
     2022 - BarrowFull and Greengate School, Artist Educator, *A Trip to Earnse Bay*
