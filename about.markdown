@@ -140,7 +140,7 @@ Education:
   year-text: "2022 - Hapax Magazine, Issue 3 (2022/2023), *North East South West*
     \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the Image Returns to Glass*\n\n2020
     - HGG London, *The Bell Tower*\n\n2019 - FT Weekend Magazine / Photo London, *My
-    London*"
+    London*\n\n2018 - The Greatest Magazine, Issue 14, *The Lightness*"
 - title: Awards
   year-text: |-
     2019 - Foam Paul Huf Award - Nomination
