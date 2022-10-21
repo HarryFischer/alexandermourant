@@ -96,17 +96,27 @@ Education:
     2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Workshops
   year-text: |-
+    2022 - Hayward Gallery, *Strange Clay: Schools Takeovers Day*
+
+    2022 - Hayward Gallery, *Strange Clay IV*
+
+    2022 - Hayward Gallery, *Strange Clay III*
+
+    2022 - Hayward Gallery, *Strange Clay II*
+
+    2022 - Hayward Gallery, *Strange Clay I*
+
     2022 - Format Festival, East Meets West Masterclass, Revolv Collective, *On Collective Working*
 
-    2022 - Greengate School, *A House by the Sea II*, Workshop Lead
+    2022 - Greengate School, *A House by the Sea II*
 
-    2022 - Greengate School, *A House by the Sea I*, Workshop Lead
+    2022 - Greengate School, *A House by the Sea I*
 
-    2022 - Greengate School, Earnse Bay, *Whistle for the Wind*, Workshop Lead
+    2022 - Greengate School, Earnse Bay, *Whistle for the Wind*
 
-    2022 - Heathmere School, Southside Shopping Centre, *A Place to Call Home*, Workshop Lead
+    2022 - Heathmere School, Southside Shopping Centre, *A Place to Call Home*
 
-    2022 - Penwortham School, Southside Shopping Centre, *A Place to Call Home*, Workshop Lead
+    2022 - Penwortham School, Southside Shopping Centre, *A Place to Call Home*
 
     2021 - Chestnut Grove Academy, *A Place to Call Home*, Artist Talk & CPD Workshop Lead
 
@@ -114,21 +124,21 @@ Education:
 
     2021 - Emanuel School, *A Place to Call Home*, Artist Talk & CPD Workshop Lead
 
-    2021 - Hillbrook School, *A Greener Picture: Photography and Climate Change*, Workshop Lead
+    2021 - Hillbrook School, *A Greener Picture: Photography and Climate Change*
 
-    2021 - Hotham School, *A Greener Picture: Photography and Climate Change*, Workshop Lead
+    2021 - Hotham School, *A Greener Picture: Photography and Climate Change*
 
-    2021 - Earlsfield Primary, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
+    2021 - Earlsfield Primary, *A Greener Picture: Photography and Climate Change* 
 
-    2021 - St Faith’s, *A Greener Picture: Photography and Climate Change*, Workshop Lead
+    2021 - St Faith’s, *A Greener Picture: Photography and Climate Change*
 
-    2021 - West Hill Primary, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
+    2021 - West Hill Primary, *A Greener Picture: Photography and Climate Change*
 
-    2021 - Gatton School, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
+    2021 - Gatton School, *A Greener Picture: Photography and Climate Change*
 
-    2021 - Smallwood School, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
+    2021 - Smallwood School, *A Greener Picture: Photography and Climate Change* 
 
-    2021 - Mosaic School, *A Greener Picture: Photography and Climate Change*, Workshop Lead 
+    2021 - Mosaic School, *A Greener Picture: Photography and Climate Change*
 - title: Writing
   year-text: "2022 - [C4 Journal, Review: *those eyes - these eyes - they fade*](https://c4journal.com/valletta-malta/)\n\n2022
     - [C4 Journal, Review: *This Creaking Floor and All the Ceilings Below* by Bart
