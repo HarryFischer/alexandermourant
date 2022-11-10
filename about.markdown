@@ -101,9 +101,9 @@ Education:
 
     2022 - Hayward Gallery, *Strange Clay IV*
 
-    2022 - Hayward Gallery, *Strange Clay III*
+    2022 - Heathbrook Primary School, Hayward Gallery, *Strange Clay III*
 
-    2022 - Hayward Gallery, *Strange Clay II*
+    2022 - Heathbrook Primary School, Hayward Gallery, *Strange Clay II*
 
     2022 - Hayward Gallery, *Strange Clay I*
 
