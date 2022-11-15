@@ -143,7 +143,7 @@ Education:
 
     2021 - Earlsfield Primary, *A Greener Picture: Photography and Climate Change* 
 
-    2021 - St Faith’s, *A Greener Picture: Photography and Climate Change*
+    2021 - St Faith’s School, *A Greener Picture: Photography and Climate Change*
 
     2021 - West Hill Primary, *A Greener Picture: Photography and Climate Change*
 
