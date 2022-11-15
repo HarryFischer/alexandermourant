@@ -97,15 +97,27 @@ Education:
     2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Workshops
   year-text: |-
+    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands VI*
+
+    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands V*
+
+    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands IV*
+
+    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands III*
+
+    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands II*
+
+    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands I*
+
     2022 - Hayward Gallery, *Strange Clay: Schools Takeovers Day*
 
-    2022 - Hayward Gallery, *Strange Clay IV*
+    2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay IV*
 
-    2022 - Heathbrook Primary School, Hayward Gallery, *Strange Clay III*
+    2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay III*
 
-    2022 - Heathbrook Primary School, Hayward Gallery, *Strange Clay II*
+    2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay II*
 
-    2022 - Hayward Gallery, *Strange Clay I*
+    2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay I*
 
     2022 - Format Festival, East Meets West Masterclass, Revolv Collective, *On Collective Working*
 
