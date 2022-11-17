@@ -120,7 +120,7 @@ Education:
 
     2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay I*
 
-    2022 - Format Festival, East Meets West Masterclass, Revolv Collective, *On Collective Working*
+    2022 - GRAIN Projects, East Meets West Masterclass, Revolv Collective, *On Collective Working*
 
     2022 - Greengate School, *A House by the Sea II*
 
