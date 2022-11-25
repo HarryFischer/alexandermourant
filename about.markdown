@@ -195,6 +195,8 @@ Education:
     2017 - ArtHouse Jersey - www.arthouse.je
 - title: Publications
   year-text: |-
+    2022 - Hapax Magazine, Issue 3 (2022/2023), *North East South West*
+
     2021 - The Ivy Press, Gemma Padley, *Look At This If You Love Great Photography*
 
     2020 - The RIBA Journal, November, *City I*
