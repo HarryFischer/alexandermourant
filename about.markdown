@@ -30,7 +30,7 @@ Education:
     2018 - Unseen Amsterdam, *Aomori*, Seen Fifteen Gallery, Amsterdam, NL
 
     2018 - The Old Truman Brewery, *Aomori*, London, UK
-- title: Selected Group Exhibitions
+- title: Group Exhibitions
   year-text: "2023 - Lismore Castle Arts, *To Walk in the Image*, curated by Susan
     Bright, IE\n\n2022 - Seen Fifteen Gallery, *Orbits*, Revolv Collective, London,
     UK\n\n2022 - Photo50, London Art Fair,  *No Place is an Island*, curated by Rodrigo
