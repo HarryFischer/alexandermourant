@@ -31,25 +31,27 @@ Education:
 
     2018 - The Old Truman Brewery, *Aomori*, London, UK
 - title: Selected Group Exhibitions
-  year-text: "2022 - Seen Fifteen Gallery, *Orbits*, Revolv Collective, London, UK\n\n2022
-    - Photo50, London Art Fair,  *No Place is an Island*, curated by Rodrigo Orrantia,
-    UK \n\n2021 - Tor Art Space, *+1*, Frankfurt, DE\n\n2020 - Photo London Digital,
-    Seen Fifteen Gallery, London, UK\n\n2020 - Saatchi Gallery, *London Grads Now*,
-    curated by Mandy Franca, London, UK\n\n2020 - Edel Assanti, *with fists, it kicks,
-    it bites*, curated by Edward Thomasson, London, UK\n\n2020 - Unit 1 Gallery, *Final,
-    not Over*, London, UK\n\n2020 - Royal College of Art, *SHOW 2020*, London, UK\n\n2019
-    - Copeland Gallery, *Where You Are Not*, curated by Maddie Rose Hills, London,
-    UK\n\n2019 - Unseen Amsterdam, *To Feel Its Touch*, Seen Fifteen Gallery, Amsterdam,
-    NL\n \n2019 - Peckham 24, *For Those Who Could See Beyond The Surface*, curated
-    by Emma Bowkett\n \n2019 - Royal College of Art, *WIP*, London, UK\n\n2018 - Jersey
-    Arts Centre, *Anniversary Exhibition*, Jersey, UK\n \n2018 - The Old Truman Brewery, Photoworks
-    presents *Collaborate* at Free Range, London, UK\n\n2017 - The Old Truman Brewery,
-    South West Graduate Photography Prize, London, UK\n\n2017 - CCA Galleries International, Summer
-    Exhibition, Jersey, UK\n\n2017 - The Old Truman Brewery, Free Range, London, UK\n\n2015
-    - Berni Gallery, Jersey Arts Centre, The Original Student Art Exhibition, Jersey,
-    UK\n \n2015 - The Poly, End of Year Show, Falmouth, Cornwall, UK\n\n2015 - theprintspace,
-    PhotoVoice Awards, London, UK\n \n2014 - CCA Galleries International, Jersey, Gallery
-    Magazine: Student Awards, Jersey, UK"
+  year-text: "2023 - Lismore Castle Arts, *To Walk in the Image*, curated by Susan
+    Bright, IE\n\n2022 - Seen Fifteen Gallery, *Orbits*, Revolv Collective, London,
+    UK\n\n2022 - Photo50, London Art Fair,  *No Place is an Island*, curated by Rodrigo
+    Orrantia, UK \n\n2021 - Tor Art Space, *+1*, Frankfurt, DE\n\n2020 - Photo London
+    Digital, Seen Fifteen Gallery, London, UK\n\n2020 - Saatchi Gallery, *London Grads
+    Now*, curated by Mandy Franca, London, UK\n\n2020 - Edel Assanti, *with fists,
+    it kicks, it bites*, curated by Edward Thomasson, London, UK\n\n2020 - Unit 1
+    Gallery, *Final, not Over*, London, UK\n\n2020 - Royal College of Art, *SHOW 2020*,
+    London, UK\n\n2019 - Copeland Gallery, *Where You Are Not*, curated by Maddie
+    Rose Hills, London, UK\n\n2019 - Unseen Amsterdam, *To Feel Its Touch*, Seen Fifteen
+    Gallery, Amsterdam, NL\n \n2019 - Peckham 24, *For Those Who Could See Beyond
+    The Surface*, curated by Emma Bowkett\n \n2019 - Royal College of Art, *WIP*,
+    London, UK\n\n2018 - Jersey Arts Centre, *Anniversary Exhibition*, Jersey, UK\n
+    \n2018 - The Old Truman Brewery, Photoworks presents *Collaborate* at Free Range,
+    London, UK\n\n2017 - The Old Truman Brewery, South West Graduate Photography Prize,
+    London, UK\n\n2017 - CCA Galleries International, Summer Exhibition, Jersey, UK\n\n2017
+    - The Old Truman Brewery, Free Range, London, UK\n\n2015 - Berni Gallery, Jersey
+    Arts Centre, The Original Student Art Exhibition, Jersey, UK\n \n2015 - The Poly, End
+    of Year Show, Falmouth, Cornwall, UK\n\n2015 - theprintspace, PhotoVoice Awards,
+    London, UK\n \n2014 - CCA Galleries International, Jersey, Gallery Magazine: Student
+    Awards, Jersey, UK"
 - title: Talks
   year-text: |-
     2022 - Livingmaps Network, *A Place to Call Home*
