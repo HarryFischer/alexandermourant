@@ -34,31 +34,6 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-  entry-heading-text: North East South West (2020)
-  entry-body-text: Place a camera on a tripod in the centre of a field with long grass,
-    ideally in summer, just before the grass is harvested. Point the camera towards
-    north. The artist holding a strimmer and a 10m shutter release (attached to the
-    camera), must walk away from the camera in a straight line whilst strimming. The
-    artist must walk as far away as the shutter cable will allow. Once maximum extension
-    is reached, the artist must face right, and take a photograph. Whilst strimming,
-    the artist must then walk in a clockwise direction, around the camera, guided
-    by, and at full extension of, the shutter cable, in order to create a perfect
-    circle around the camera at a 10m distance. Artist must stop at each quarter of
-    the circle to take a photograph (east, south and west, before returning to north).
-    An assistant must swivel the camera on its tripod head to point the lens towards
-    the artist. Once the outer circle line is completed, remove the camera from the
-    centre, and strim the remaining grass and inner area of the circle. To finish,
-    photograph the circle from outside the circle.
-  entry-image: 
-  entry-two-image: 
-  entry-meta-text: 
-  text-margin-right: 
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
   entry-heading-text: Tripod (after Lew Thomas) (2020)
   entry-body-text: 'On a bright summer’s day, place a camera on a tripod onto a large
     sheet of cyanotype sensitised paper (approximately 3 x 2m). Point the camera downwards,
@@ -299,25 +274,6 @@ Content:
   entry-image: "/uploads/JournalSketches-AlexanderMourant-2.jpg"
   entry-two-image: 
   entry-meta-text: "*That Image of You Is All That I’ve Known*, Artist's Sketch, 2021"
-  text-margin-right: 
-- image: 
-  video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
-  entry-heading-text: Part of a Whole (2020)
-  entry-body-text: "REALISED, 25/07/2022\n\nGreenhouse glass photogram diptych. This
-    piece is 50% complete and awaits framing. It's an additonal work that joins the
-    ongoing series, *I Could Not Tell Glass From Air*. \n"
-  entry-image: "/uploads/Part%20of%20a%20Whole%20-%20Diptych%20-%202022%20-%20LQ-2.jpg"
-  entry-two-image: 
-  entry-meta-text: |
-    *Part of a Whole*, Artist's Render, 2020<br>
-    Diptych, 24 x 20” each<br>
-    Silver gelatin hand print, photogram<br>
-    Plant life, glass, walnut<br>
-    Unique<br>
   text-margin-right: 
 layout: proposals
 ---
