@@ -31,13 +31,12 @@ Education:
 
     2018 - The Old Truman Brewery, *Aomori*, London, UK
 - title: Group Exhibitions
-  year-text: "2023 - NŌUA, Arena for Photography as Contemporary Art, *At the Farthest
-    Edge: Rebuilding Photography*, curated by Alexander Mourant, Bodø, NO\n\n2023
-    - [Lismore Castle Arts, *To Walk in the Image*, curated by Susan Bright, Lismore,
-    IE](https://lismorecastlearts.ie/whats-on/to-walk-in-the-image)\n\n2022 - Seen
-    Fifteen Gallery, *Orbits*, Revolv Collective, London, UK\n\n2022 - Photo50, London
-    Art Fair,  *No Place is an Island*, curated by Rodrigo Orrantia, UK \n\n2021 -
-    Tor Art Space, *+1*, Frankfurt, DE\n\n2020 - Photo London Digital, Seen Fifteen
+  year-text: "2023 - NŌUA, *At the Farthest Edge: Rebuilding Photography*, curated
+    by Alexander Mourant, Bodø, NO\n\n2023 - [Lismore Castle Arts, *To Walk in the
+    Image*, curated by Susan Bright, Lismore, IE](https://lismorecastlearts.ie/whats-on/to-walk-in-the-image)\n\n2022
+    - Seen Fifteen Gallery, *Orbits*, Revolv Collective, London, UK\n\n2022 - Photo50,
+    London Art Fair,  *No Place is an Island*, curated by Rodrigo Orrantia, UK \n\n2021
+    - Tor Art Space, *+1*, Frankfurt, DE\n\n2020 - Photo London Digital, Seen Fifteen
     Gallery, London, UK\n\n2020 - Saatchi Gallery, *London Grads Now*, curated by
     Mandy Franca, London, UK\n\n2020 - Edel Assanti, *with fists, it kicks, it bites*,
     curated by Edward Thomasson, London, UK\n\n2020 - Unit 1 Gallery, *Final, not
