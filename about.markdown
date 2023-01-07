@@ -198,7 +198,7 @@ Education:
     2017 - ArtHouse Jersey - www.arthouse.je
 - title: Publications
   year-text: |-
-    2023 - Tall Poppy Press, *Site Specific: Photography Exhibitions from around the world*, edited by Matt Dunne
+    2023 - Tall Poppy Press, *Site Specific: Photography Exhibitions from around the World*, edited by Matt Dunne
     and Callum Beaney
 
     2022 - Hapax Magazine, Issue 3 (2022/2023), *North East South West*
