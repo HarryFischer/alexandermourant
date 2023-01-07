@@ -76,8 +76,9 @@ Education:
 
     2018 - The Old Truman Brewery, *Aomori*, with Professor Steve Macleod
 - title: Teaching
-  year-text: "2022 - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography
-    \n\n2022 - Visiting Lecturer and Tutor, University of Westminster, BA (Hons) Photography\n\n2022
+  year-text: "2023 - Visiting Lecturer, University of Westminster, BA (Hons) Photography\n\n2022
+    - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography \n\n2022
+    - Visiting Lecturer and Tutor, University of Westminster, BA (Hons) Photography\n\n2022
     - Guest Lecturer, University of Westminster, BA Photography, *Think Then Shoot*\n\n2022
     - Guest Lecturer, University of Westminster, BA Photography, *The Artist and the
     Universe*\n\n2022 - Guest Lecturer, Kingston University, BA Photography\n\n2022
