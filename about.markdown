@@ -93,6 +93,8 @@ Education:
     - Guest Lecturer, Bryanston School"
 - title: Creative Learning Projects
   year-text: |-
+    2023 - ArtHouse Jersey, Learning Curator, *The Land and Us*
+
     2022 - Hayward Gallery, Artist Educator, Schools Takeovers, *Strange Clay*
 
     2022 - ArtHouse Jersey, Artist Educator, *Making Art Partnerships in Schools*
