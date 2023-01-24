@@ -168,8 +168,9 @@ Education:
     \n\n2021 - [C4 Journal, Review: *Furze* by Jack Whitefield](https://c4journal.com/jack-whitefield-furze/)\n\n2020
     - [On Living Stones and Reaching: *The Wilderness of Words*](https://www.alexandermourant.com/on-living-stones-and-reaching)\n\n2019
     - *The Journal: On Being Someone Other*\n\n2017 - *Land Art, Photography and Time*"
-- title: Commissions
-  year-text: "2022 - Hapax Magazine, Issue 3 (2022/2023), *North East South West*
+- title: 'Commissions / Residencies '
+  year-text: "2023 - NŌUA, Arena for Photography as Contemporary Art, *Artist Project
+    Rooms*\n\n2022 - Hapax Magazine, Issue 3 (2022/2023), *North East South West*
     \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the Image Returns to Glass*\n\n2020
     - HGG London, *The Bell Tower*\n\n2019 - FT Weekend Magazine / Photo London, *My
     London*\n\n2018 - The Greatest Magazine, Issue 14, *The Lightness*"
