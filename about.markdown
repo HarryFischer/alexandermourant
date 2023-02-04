@@ -84,6 +84,8 @@ Education:
     2019 - Peckham 24, *Visualising Community*, with Karen McQuaid, Marianne Bjørnmyr, D Wiafe and Max Miechowski
 
     2018 - The Old Truman Brewery, *Aomori*, with Professor Steve Macleod
+
+    2018 - Bryanston School, Artist Talk
 - title: Teaching
   year-text: "2023 - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography
     \n\n2022 - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography
@@ -99,8 +101,7 @@ Education:
     BA Photography\n\n2020 - Guest Lecturer, Kingston University, BA Photography\n\n2019
     - Guest Lecturer, Kingston University, BA Photography\n\n2019 - Guest Lecturer,
     Falmouth University, BA Photography\n\n2019 - Guest Lecturer, University of Huddersfield,
-    All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer, Kingston University, BA Photography\n\n2018
-    - Guest Lecturer, Bryanston School"
+    All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer, Kingston University, BA Photography"
 - title: Creative Learning Projects
   year-text: |-
     2023 - ArtHouse Jersey, Learning Curator, *The Land and Us*
