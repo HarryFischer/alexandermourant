@@ -54,6 +54,15 @@ Education:
     UK\n \n2015 - The Poly, End of Year Show, Falmouth, Cornwall, UK\n\n2015 - theprintspace,
     PhotoVoice Awards, London, UK\n \n2014 - CCA Galleries International, Jersey, Gallery
     Magazine: Student Awards, Jersey, UK"
+- title: Curatorial
+  year-text: |-
+    2023 - *Clare Strand*, NŌUA, Arena for Photography as Contemporary Art, Bodø, NO
+
+    2023 - *At the Farthest Edge: Rebuilding Photography*, NŌUA, Arena for Photography as Contemporary Art, Bodø, NO
+
+    2022 - *A Trip to Earnse Bay*, Cooke’s Studios, Barrow-in-Furness, UK
+
+    2022 - *A Place to Call Home*, Southside Shopping Centre, Wandsworth, UK
 - title: Talks
   year-text: |-
     2022 - Livingmaps Network, *A Place to Call Home*
