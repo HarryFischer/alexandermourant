@@ -242,7 +242,7 @@ Education:
 
     2020 - Folium Publishing, *fall into place*, foreword by Tom Lovelace and Penelope Umbrico
 
-    2019 - Photograph, Jan/Feb, 30th Anniversary Special
+    2019 - Photograph, Jan/Feb, 30th Anniversary Special, *Blue Parrot*
 
     2018 - The Greatest Magazine, Issue 14, *The Lightness*
 
