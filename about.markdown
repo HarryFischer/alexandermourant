@@ -57,7 +57,7 @@ Education:
   year-text: |-
     2023 - *Clare Strand*, NŌUA, Arena for Photography as Contemporary Art, Bodø, NO
 
-    2023 - *At the Farthest Edge: Rebuilding Photography*, NŌUA, Arena for Photography as Contemporary Art, Bodø, NO
+    2023 - *At the Farthest Edge: Rebuilding Photography*, NŌUA, Bodø, NO
 
     2022 - *A Trip to Earnse Bay*, Cooke’s Studios, Barrow-in-Furness, UK
 
