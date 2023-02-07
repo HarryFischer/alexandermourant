@@ -104,8 +104,10 @@ Education:
     - Guest Lecturer, Kingston University, BA Photography\n\n2019 - Guest Lecturer,
     Falmouth University, BA Photography\n\n2019 - Guest Lecturer, University of Huddersfield,
     All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer, Kingston University, BA Photography"
-- title: Creative Learning Projects
+- title: Community & Creative Learning
   year-text: |-
+    2023 - Hayward Gallery, Artist Educator, *Mike Nelson: Extinction Beckons*
+
     2023 - ArtHouse Jersey, Learning Curator, *The Land and Us*
 
     2022 - Hayward Gallery, Artist Educator, Schools Takeovers, *Strange Clay*
@@ -131,7 +133,17 @@ Education:
 
     2023 - d'Auvergne School, *Portals: Towards Wizards and Islands I*
 
-    2022 - Hayward Gallery, *Strange Clay: Schools Takeovers Day*
+    2023 - Hayward Gallery, *Mike Nelson: Schools Takeover Day*
+
+    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons IV*
+
+    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons III*
+
+    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons II*
+
+    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons I*
+
+    2022 - Hayward Gallery, *Strange Clay: Schools Takeover Day*
 
     2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay IV*
 
