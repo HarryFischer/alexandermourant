@@ -133,7 +133,7 @@ Education:
 
     2023 - d'Auvergne School, *Portals: Towards Wizards and Islands I*
 
-    2023 - Hayward Gallery, *Mike Nelson: Schools Takeover Day*
+    2023 - Hayward Gallery, *Mike Nelson: Secondary Schools Takeover Day*
 
     2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons IV*
 
@@ -143,7 +143,7 @@ Education:
 
     2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons I*
 
-    2022 - Hayward Gallery, *Strange Clay: Schools Takeover Day*
+    2022 - Hayward Gallery, *Strange Clay: Primary Schools Takeover Day*
 
     2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay IV*
 
