@@ -236,7 +236,7 @@ Education:
 
     2020 - The RIBA Journal, November, *City I*
 
-    2020 - FotoFilmic, *JRNL 6*, Autumn
+    2020 - FotoFilmic, *JRNL 6*, Autumn, *I Could Not Tell Glass from Air*
 
     2020 - Dulwich Picture Gallery, In View, *The Lightness*, Summer
 
