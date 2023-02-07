@@ -65,6 +65,8 @@ Education:
     2022 - *A Place to Call Home*, Southside Shopping Centre, Wandsworth, UK
 - title: Talks
   year-text: |-
+    2023 - NŌUA, Arena for Photography as Contemporary Art, *On Living Stones and Reaching*
+
     2022 - Livingmaps Network, *A Place to Call Home*
 
     2021 - Four Corners, London Creative Network, *On Collective Practice*
