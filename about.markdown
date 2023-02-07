@@ -31,7 +31,8 @@ Education:
 
     2018 - The Old Truman Brewery, *Aomori*, London, UK
 - title: Group Exhibitions
-  year-text: "2023 - NŌUA, *At the Farthest Edge: Rebuilding Photography*, Bodø, NO\n\n2023
+  year-text: "2023 - [NŌUA, *At the Farthest Edge: Rebuilding Photography*, Bodø,
+    NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)\n\n2023
     - [Lismore Castle Arts, *To Walk in the Image*, curated by Susan Bright, Lismore,
     IE](https://lismorecastlearts.ie/whats-on/to-walk-in-the-image)\n\n2022 - Seen
     Fifteen Gallery, *Orbits*, Revolv Collective, London, UK\n\n2022 - Photo50, London
@@ -55,9 +56,9 @@ Education:
     Magazine: Student Awards, Jersey, UK"
 - title: Curatorial
   year-text: |-
-    2023 - *Clare Strand*, NŌUA, Arena for Photography as Contemporary Art, Bodø, NO
+    2023 - [*Clare Strand*, NŌUA, Arena for Photography as Contemporary Art, Bodø, NO](https://www.noua.no/en/exhibitions/clare-strand-uk-curator-alexander-mourant)
 
-    2023 - *At the Farthest Edge: Rebuilding Photography*, NŌUA, Bodø, NO
+    2023 - [*At the Farthest Edge: Rebuilding Photography*, NŌUA, Bodø, NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
 
     2022 - *A Trip to Earnse Bay*, Cooke’s Studios, Barrow-in-Furness, UK
 
