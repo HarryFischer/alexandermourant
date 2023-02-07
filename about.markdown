@@ -54,7 +54,7 @@ Education:
     UK\n \n2015 - The Poly, End of Year Show, Falmouth, Cornwall, UK\n\n2015 - theprintspace,
     PhotoVoice Awards, London, UK\n \n2014 - CCA Galleries International, Jersey, Gallery
     Magazine: Student Awards, Jersey, UK"
-- title: Curatorial
+- title: Curation
   year-text: |-
     2023 - [*Clare Strand*, NŌUA, Arena for Photography as Contemporary Art, Bodø, NO](https://www.noua.no/en/exhibitions/clare-strand-uk-curator-alexander-mourant)
 
