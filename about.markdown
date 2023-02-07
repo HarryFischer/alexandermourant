@@ -248,7 +248,7 @@ Education:
 
     2018 - Unseen Magazine, Issue 5, *Aomori*
 
-    2018 - Penguin Random House, *Notes from the Fog*: Ben Marcus
+    2018 - Penguin Random House, *Notes from the Fog*: Ben Marcus, *Display Dome with Atmosphere*
 
     2017 - Source Photographic Review, no. 90, *Aurelian*
 
