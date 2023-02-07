@@ -106,7 +106,7 @@ Education:
     All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer, Kingston University, BA Photography"
 - title: Community & Creative Learning Projects
   year-text: |-
-    2023 - Hayward Gallery, Artist Educator, Secondary Schools Takeover, *Mike Nelson: Extinction Beckons*
+    2023 - Hayward Gallery, Artist Educator, Secondary Schools Takeover, *Mike Nelson*
 
     2023 - ArtHouse Jersey, Learning Curator, *The Land and Us*
 
