@@ -104,7 +104,7 @@ Education:
     - Guest Lecturer, Kingston University, BA Photography\n\n2019 - Guest Lecturer,
     Falmouth University, BA Photography\n\n2019 - Guest Lecturer, University of Huddersfield,
     All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer, Kingston University, BA Photography"
-- title: Community & Creative Learning Projects
+- title: Community & Creative Learning
   year-text: |-
     2023 - Hayward Gallery, Artist Educator, Secondary Schools Takeover, *Mike Nelson*
 
