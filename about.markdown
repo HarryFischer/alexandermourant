@@ -133,6 +133,14 @@ Education:
 
     2023 - d'Auvergne School, *Portals: Towards Wizards and Islands I*
 
+    2023 – Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games IV*, BA Fine Art & Photography
+
+    2023 – Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games III*, BA Fine Art & Photography
+
+    2023 – Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games II*, BA Fine Art & Photography
+
+    2023 – Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games I*, BA Fine Art & Photography
+
     2023 - Hayward Gallery, *Mike Nelson: Secondary Schools Takeover Day*
 
     2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons IV*
