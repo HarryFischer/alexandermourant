@@ -216,6 +216,8 @@ Education:
     2015 - theprintspace, PhotoVoice Awards - Finalist
 - title: Grants
   year-text: |-
+    2023 – Arts Council Norway - www.kulturradet.no
+
     2021 - ArtHouse Jersey - www.arthouse.je
 
     2018 - ArtHouse Jersey - www.arthouse.je
