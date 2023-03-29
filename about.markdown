@@ -145,8 +145,6 @@ Education:
 
     2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons V*
 
-    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons V*
-
     2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons IV*
 
     2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons III*
