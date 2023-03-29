@@ -56,6 +56,8 @@ Education:
     Magazine: Student Awards, Jersey, UK"
 - title: Curation
   year-text: |-
+    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons V*
+
     2023 - [*Clare Strand*, NŌUA, Bodø, NO](https://www.noua.no/en/exhibitions/clare-strand-uk-curator-alexander-mourant)
 
     2023 - [*At the Farthest Edge: Rebuilding Photography*, NŌUA, Bodø, NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
