@@ -143,7 +143,7 @@ Education:
 
     2023 - Hayward Gallery, *Mike Nelson: Secondary Schools Takeover Day*
 
-    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons VI*
+    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons V*
 
     2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons IV*
 
