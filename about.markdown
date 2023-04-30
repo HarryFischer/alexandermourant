@@ -14,7 +14,7 @@ Content:
     Magazine, Hapax Magazine and The Greatest Magazine, and included in British Journal
     of Photography, The Guardian, Photograph, Photoworks, METAL Magazine and Photomonitor.
     He won the Free Range Award and was nominated for the Foam Paul Huf Award. Mourant
-    is a Visiting Tutor at Arts University Bournemouth, a Member of [Revolv Collective](https://revolv.org.uk)
+    is a Visiting Tutor at Arts University Bournemouth, Member of [Revolv Collective](https://revolv.org.uk)
     and Contributor at [C4 Journal](https://c4journal.com). He achieved BA Photography
     at Falmouth University, and MA Photography at Royal College of Art, London. \n<br>\n<br>\nThe
     work of Alexander Mourant embraces autobiography, literature and reference-based
