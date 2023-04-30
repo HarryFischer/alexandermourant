@@ -12,7 +12,7 @@ Content:
     Assanti, London (2020). Mourant is a recipient of grants from Arts Council Norway,
     Arts Council England, ArtHouse Jersey and Jersey Bursary. He has been commissioned
     by FT Weekend Magazine, Hapax Magazine and The Greatest Magazine, and included
-    in British Journal of Photography, The Guardian, Photograph, Photoworks, METAL
+    in the British Journal of Photography, The Guardian, Photograph, Photoworks, METAL
     Magazine and Photomonitor. He won the Free Range Award and was nominated for the
     Foam Paul Huf Award. Mourant is a Visiting Tutor at Arts University Bournemouth,
     a Member of [Revolv Collective](https://revolv.org.uk) and Contributor at [C4
