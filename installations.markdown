@@ -4,6 +4,7 @@ date: 2021-03-01 17:53:00 Z
 position: 19
 Content:
 - image: "/uploads/LIS0323AC073.jpg"
+  video: 
   caption-text: |-
     Lismore Castle Arts, 2023
 
@@ -40,6 +41,18 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/LIS0323AC087.jpg"
+  caption-text: |-
+    Lismore Castle Arts, 2023
+
+    *[To Walk in the Image](https://lismorecastlearts.ie/whats-on/to-walk-in-the-image)*
+
+    Curated by Susan Bright
+
+    Photo: Ros Kavanagh
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/LIS0323AC119%E2%80%932000px.jpg"
   caption-text: |-
     Lismore Castle Arts, 2023
 
