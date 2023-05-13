@@ -62,6 +62,60 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
+- image: "/uploads/Process-NESW-1.jpg"
+  video: 
+  caption-text: |-
+    *North East South West*, 2020/2022
+
+    Process documentation
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Process-NESW-3.jpg"
+  video: 
+  caption-text: |-
+    *North East South West*, 2020/2022
+
+    Process documentation
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Process-NESW-4.jpg"
+  video: 
+  caption-text: |-
+    *North East South West*, 2020/2022
+
+    Process documentation
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Process-NESW-2.jpg"
+  video: 
+  caption-text: |-
+    *North East South West*, 2020/2022
+
+    Process documentation
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
+- image: "/uploads/Process-NESW-9.jpg"
+  video: 
+  caption-text: |-
+    *North East South West*, 2020/2022
+
+    Process documentation
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Process-NESW-10.jpg"
+  video: 
+  caption-text: |-
+    *North East South West*, 2020/2022
+
+    Process documentation
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 Words:
 - interview-text: "# North East South West\n<br>\n<br>\nSome time ago my shutter release
     cable accidentally fused through a faulty mechanism to the port of my camera.
