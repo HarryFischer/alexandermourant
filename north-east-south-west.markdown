@@ -2,8 +2,18 @@
 title: North East South West
 date: 2023-05-13 10:42:00 Z
 Content:
-- image: "/uploads/LIS0323AC119%E2%80%932000px.jpg"
-  caption-text: caption
+- image: "/uploads/North%20East%20South%20West.jpg"
+  caption-text: |+
+    *North East South West*, 2020/2022
+
+    Archival Giclée print
+
+    Walnut frame
+
+    Est. 32 x 40 in. (81cm x 102cm)
+
+    Edition of 3 + 1AP
+
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
