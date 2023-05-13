@@ -65,13 +65,13 @@ Education:
     Magazine: Student Awards, Jersey, UK"
 - title: Curation
   year-text: |-
-    2023 - [*Clare Strand*, NŌUA, Bodø, NO](https://www.noua.no/en/exhibitions/clare-strand-uk-curator-alexander-mourant)
+    2023 - Curator: [*Clare Strand*, NŌUA, Bodø, NO](https://www.noua.no/en/exhibitions/clare-strand-uk-curator-alexander-mourant)
 
-    2023 - [*At the Farthest Edge: Rebuilding Photography*, NŌUA, Bodø, NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
+    2023 - Curator: [*At the Farthest Edge: Rebuilding Photography*, NŌUA, Bodø, NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
 
-    2022 - *A Trip to Earnse Bay*, Cooke’s Studios, Barrow-in-Furness, UK
+    2022 - Curator: *A Trip to Earnse Bay*, Cooke’s Studios, Barrow-in-Furness, UK
 
-    2022 - *A Place to Call Home*, Southside Shopping Centre, Wandsworth, UK
+    2022 - Curator: *A Place to Call Home*, Southside Shopping Centre, Wandsworth, UK
 - title: Talks
   year-text: |-
     2023 - NŌUA, Arena for Photography as Contemporary Art, *On Living Stones and Reaching*
