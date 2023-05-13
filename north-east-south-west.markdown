@@ -116,6 +116,60 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
+- image: "/uploads/Issue3-HapaxMagazine-1.jpg"
+  video: 
+  caption-text: |-
+    *Hapax Magazine*, Issue 3 (2022/2023)
+
+    *North East South West*, 2020/2022
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Issue3-HapaxMagazine-2.jpg"
+  video: 
+  caption-text: |-
+    *Hapax Magazine*, Issue 3 (2022/2023)
+
+    *North East South West*, 2020/2022
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Issue3-HapaxMagazine-3.jpg"
+  video: 
+  caption-text: |-
+    *Hapax Magazine*, Issue 3 (2022/2023)
+
+    *North East South West*, 2020/2022
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Issue3-HapaxMagazine-4.jpg"
+  video: 
+  caption-text: |-
+    *Hapax Magazine*, Issue 3 (2022/2023)
+
+    *North East South West*, 2020/2022
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Issue3-HapaxMagazine-5.jpg"
+  video: 
+  caption-text: |-
+    *Hapax Magazine*, Issue 3 (2022/2023)
+
+    *North East South West*, 2020/2022
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Issue3-HapaxMagazine-6.jpg"
+  video: 
+  caption-text: |-
+    *Hapax Magazine*, Issue 3 (2022/2023)
+
+    *North East South West*, 2020/2022
+  image-size: medium
+  image-position: middle
+  image-margin-right: 
 Words:
 - interview-text: "# North East South West\n<br>\n<br>\nSome time ago my shutter release
     cable accidentally fused through a faulty mechanism to the port of my camera.
