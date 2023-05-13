@@ -8,7 +8,9 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 Words:
-  interview-text: Text here
+  interview-text: |-
+    # Text here
+    text here
 layout: project
 ---
 
