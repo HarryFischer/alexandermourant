@@ -3,6 +3,7 @@ title: North East South West
 date: 2023-05-13 10:42:00 Z
 Content:
 - image: "/uploads/North%20East%20South%20West.jpg"
+  video: 
   caption-text: |+
     *North East South West*, 2020/2022
 
@@ -16,7 +17,13 @@ Content:
 
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
+- image: "/uploads/1.North.jpg"
+  video: 
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
 Words:
 - interview-text: "# North East South West\n<br>\n<br>\nSome time ago my shutter release
     cable accidentally fused through a faulty mechanism to the port of my camera.
