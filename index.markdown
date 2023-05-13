@@ -52,7 +52,7 @@ Content:
   image-position: middle
   image-margin-right: medium
 Words:
-- interview-text: 
+- interview-text: hello
 layout: home
 ---
 
