@@ -12,22 +12,21 @@ collections:
     title: Uploads
     output: true
 defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      Content:
-        - image:
-          video:
-          caption-text:
-          image-size:
-          image-position:
-          image-margin-right:
-      Words:
-        - interview-text:
+- scope:
+    path: ''
+    type: pages
+  values:
+    Content:
+    - image: 
+      video: 
+      caption-text: 
+      image-size: 
+      image-position: 
+      image-margin-right: 
+    Words:
+    - interview-text: 
 email: alexander-mourant@gmail.com
-description:
-  Alexander Mourant is an artist based in London. His practice utilises
+description: Alexander Mourant is an artist based in London. His practice utilises
   autobiography, literature and reference-based thinking, to create narratives that
   explore the relationship between the body and the photographic medium. He primarily
   draws on methodologies cultivated by the 1960s Land Art Movement, Performance and
@@ -40,6 +39,6 @@ sass:
   style: compressed
 markdown: kramdown
 plugins:
-  - jekyll-responsive-image
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-responsive-image
+- jekyll-seo-tag
+- jekyll-sitemap
