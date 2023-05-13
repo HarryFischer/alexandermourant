@@ -51,8 +51,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-Words:
-- interview-text: hello
 layout: home
 ---
 
