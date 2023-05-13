@@ -54,7 +54,7 @@ Content:
 - image: "/uploads/4.West.jpg"
   video: 
   caption-text: |-
-    *South*, 2020/2022
+    *West*, 2020/2022
 
     Farmer performing to the camera
 
