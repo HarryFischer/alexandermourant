@@ -20,10 +20,48 @@ Content:
   image-margin-right: medium
 - image: "/uploads/1.North.jpg"
   video: 
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  caption-text: |-
+    *North*, 2020/2022
+
+    Farmer performing to the camera
+
+    *North East South West*, 2020/2022
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/2.East.jpg"
+  video: 
+  caption-text: |-
+    *East*, 2020/2022
+
+    Farmer performing to the camera
+
+    *North East South West*, 2020/2022
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/3.South.jpg"
+  video: 
+  caption-text: |-
+    *South*, 2020/2022
+
+    Farmer performing to the camera
+
+    *North East South West*, 2020/2022
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/4.West.jpg"
+  video: 
+  caption-text: |-
+    *South*, 2020/2022
+
+    Farmer performing to the camera
+
+    *North East South West*, 2020/2022
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 Words:
 - interview-text: "# North East South West\n<br>\n<br>\nSome time ago my shutter release
     cable accidentally fused through a faulty mechanism to the port of my camera.
