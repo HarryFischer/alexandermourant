@@ -23,17 +23,6 @@ defaults:
           image-size:
           image-position:
           image-margin-right:
-  - scope:
-      path: ""
-      type: project
-    values:
-      Content:
-        - image:
-          video:
-          caption-text:
-          image-size:
-          image-position:
-          image-margin-right:
       Words:
         - interview-text:
 email: alexander-mourant@gmail.com
