@@ -2,12 +2,18 @@
 title: Home
 position: 17
 Content:
+- image: "/uploads/North%20East%20South%20West.jpg"
+  caption-text: "*North East South West*, 2020/2022"
+  page-url: "/north-east-south-west"
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 - image: "/uploads/Portrait-of-the-artist-repeating-himself-2020.jpg"
   video: 
   caption-text: "*On Living Stones and Reaching*, 2020"
   image-size: medium
   image-position: middle
-  image-margin-right: large
+  image-margin-right: medium
   page-url: "/on-living-stones-and-reaching"
 - image: "/uploads/Vitrum-IX,-2019.jpg"
   caption-text: "*I Could Not Tell Glass From Air*, 2020"
