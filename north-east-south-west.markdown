@@ -8,7 +8,10 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 Words:
-- interview-text: Left text
+- interview-text: |
+    # North East South West
+    <br>
+    <br>
 layout: project
 ---
 
