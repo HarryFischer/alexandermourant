@@ -119,7 +119,7 @@ Content:
 - image: "/uploads/Issue3-HapaxMagazine-1.jpg"
   video: 
   caption-text: |-
-    *Hapax Magazine*, Issue 3 (2022/2023)
+    Hapax Magazine, Issue 3 (2022/2023)
 
     *North East South West*, 2020/2022
   image-size: medium
@@ -128,7 +128,7 @@ Content:
 - image: "/uploads/Issue3-HapaxMagazine-2.jpg"
   video: 
   caption-text: |-
-    *Hapax Magazine*, Issue 3 (2022/2023)
+    Hapax Magazine, Issue 3 (2022/2023)
 
     *North East South West*, 2020/2022
   image-size: medium
@@ -137,7 +137,7 @@ Content:
 - image: "/uploads/Issue3-HapaxMagazine-3.jpg"
   video: 
   caption-text: |-
-    *Hapax Magazine*, Issue 3 (2022/2023)
+    Hapax Magazine, Issue 3 (2022/2023)
 
     *North East South West*, 2020/2022
   image-size: medium
@@ -146,7 +146,7 @@ Content:
 - image: "/uploads/Issue3-HapaxMagazine-4.jpg"
   video: 
   caption-text: |-
-    *Hapax Magazine*, Issue 3 (2022/2023)
+    Hapax Magazine, Issue 3 (2022/2023)
 
     *North East South West*, 2020/2022
   image-size: medium
@@ -155,7 +155,7 @@ Content:
 - image: "/uploads/Issue3-HapaxMagazine-5.jpg"
   video: 
   caption-text: |-
-    *Hapax Magazine*, Issue 3 (2022/2023)
+    Hapax Magazine, Issue 3 (2022/2023)
 
     *North East South West*, 2020/2022
   image-size: medium
@@ -164,7 +164,7 @@ Content:
 - image: "/uploads/Issue3-HapaxMagazine-6.jpg"
   video: 
   caption-text: |-
-    *Hapax Magazine*, Issue 3 (2022/2023)
+    Hapax Magazine, Issue 3 (2022/2023)
 
     *North East South West*, 2020/2022
   image-size: medium
