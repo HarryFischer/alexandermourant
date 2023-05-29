@@ -142,6 +142,8 @@ Education:
 
     2023 - d'Auvergne School, *Portals: Towards Wizards and Islands I*
 
+    2023 - Eyecan, ArtHouse Jersey, *Sensory Redirection: The Sound of a Leaf Falling*
+
     2023 - Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games IV*
 
     2023 - Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games III*
