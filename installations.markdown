@@ -108,7 +108,7 @@ Content:
 
     Curated by Alexander Mourant
 
-    Alexander Mourant: *An Image That Holds Its Heat* I, II, III, 2023
+    Alexander Mourant: *An Image That Holds Its Heat I, II, III*, 2023
   image-size: medium
   image-position: middle
   image-margin-right: medium
