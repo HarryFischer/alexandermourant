@@ -3,6 +3,114 @@ title: Installations
 date: 2021-03-01 17:53:00 Z
 position: 19
 Content:
+- image: "/uploads/NOUA-7.jpg"
+  caption-text: |-
+    NŌUA, 2023
+
+    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
+
+    Curated by Alexander Mourant
+
+    Bart Lunenburg, Jan McCullough & Alexander Mourant
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/NOUA-3.jpg"
+  caption-text: |-
+    NŌUA, 2023
+
+    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
+
+    Curated by Alexander Mourant
+
+    Bart Lunenburg, Jan McCullough & Alexander Mourant
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/NOUA-4.jpg"
+  caption-text: |-
+    NŌUA, 2023
+
+    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
+
+    Curated by Alexander Mourant
+
+    Bart Lunenburg, Jan McCullough & Alexander Mourant
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/NOUA-6.jpg"
+  caption-text: |-
+    NŌUA, 2023
+
+    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
+
+    Curated by Alexander Mourant
+
+    Bart Lunenburg, Jan McCullough & Alexander Mourant
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/NOUA-9.jpg"
+  caption-text: |-
+    NŌUA, 2023
+
+    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
+
+    Curated by Alexander Mourant
+
+    Bart Lunenburg and Alexander Mourant
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/NOUA-10.jpg"
+  caption-text: |-
+    NŌUA, 2023
+
+    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
+
+    Curated by Alexander Mourant
+
+    Alexander Mourant: *The Night and the First Sculpture*, 2021
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/NOUA-11.jpg"
+  caption-text: |-
+    NŌUA, 2023
+
+    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
+
+    Curated by Alexander Mourant
+
+    Bart Lunenburg, Jan McCullough & Alexander Mourant
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/NOUA-16.jpg"
+  caption-text: |-
+    NŌUA, 2023
+
+    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
+
+    Curated by Alexander Mourant
+
+    Bart Lunenburg, Jan McCullough & Alexander Mourant
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/NOUA-1.jpg"
+  caption-text: |-
+    NŌUA, 2023
+
+    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
+
+    Curated by Alexander Mourant
+
+    Alexander Mourant: *An Image That Holds Its Heat* I, II, III, 2023
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 - image: "/uploads/LIS0323AC073.jpg"
   video: 
   caption-text: |-
@@ -393,114 +501,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: 
-- image: "/uploads/NOUA-3.jpg"
-  caption-text: |-
-    NŌUA, 2023
-
-    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
-
-    Curated by Alexander Mourant
-
-    Bart Lunenburg, Jan McCullough & Alexander Mourant
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/NOUA-4.jpg"
-  caption-text: |-
-    NŌUA, 2023
-
-    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
-
-    Curated by Alexander Mourant
-
-    Bart Lunenburg, Jan McCullough & Alexander Mourant
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/NOUA-6.jpg"
-  caption-text: |-
-    NŌUA, 2023
-
-    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
-
-    Curated by Alexander Mourant
-
-    Bart Lunenburg, Jan McCullough & Alexander Mourant
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/NOUA-7.jpg"
-  caption-text: |-
-    NŌUA, 2023
-
-    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
-
-    Curated by Alexander Mourant
-
-    Bart Lunenburg, Jan McCullough & Alexander Mourant
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/NOUA-9.jpg"
-  caption-text: |-
-    NŌUA, 2023
-
-    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
-
-    Curated by Alexander Mourant
-
-    Bart Lunenburg and Alexander Mourant
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/NOUA-10.jpg"
-  caption-text: |-
-    NŌUA, 2023
-
-    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
-
-    Curated by Alexander Mourant
-
-    Selected works: *The Night and the First Sculpture*, 2021
-  image-size: 
-  image-position: 
-  image-margin-right: 
-- image: "/uploads/NOUA-11.jpg"
-  caption-text: |-
-    NŌUA, 2023
-
-    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
-
-    Curated by Alexander Mourant
-
-    Bart Lunenburg, Jan McCullough & Alexander Mourant
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/NOUA-16.jpg"
-  caption-text: |-
-    NŌUA, 2023
-
-    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
-
-    Curated by Alexander Mourant
-
-    Bart Lunenburg, Jan McCullough & Alexander Mourant
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/NOUA-1.jpg"
-  caption-text: |-
-    NŌUA, 2023
-
-    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
-
-    Curated by Alexander Mourant
-
-    Alexander Mourant: *An Image That Holds Its Heat* I, II, III, 2023
-  image-size: medium
-  image-position: middle
-  image-margin-right: medium
 layout: installations
 ---
 
