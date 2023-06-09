@@ -4,10 +4,11 @@ date: 2021-03-01 17:53:00 Z
 position: 19
 Content:
 - image: "/uploads/NOUA-7.jpg"
+  video: 
   caption-text: |-
     NŌUA, 2023
 
-    [At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
+    [*At the Farthest Edge: Rebuilding Photography*](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)
 
     Curated by Alexander Mourant
 
