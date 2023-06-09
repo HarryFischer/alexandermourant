@@ -100,7 +100,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/NOUA-1.jpg"
+- image: "/uploads/NOUA-17.jpg"
   caption-text: |-
     NŌUA, 2023
 
