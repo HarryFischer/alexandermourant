@@ -12,7 +12,7 @@ Content:
 
     Curated by Alexander Mourant
 
-    Bart Lunenburg, Jan McCullough & Alexander Mourant
+    Lunenburg, McCullough & Mourant
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -24,7 +24,7 @@ Content:
 
     Curated by Alexander Mourant
 
-    Bart Lunenburg, Jan McCullough & Alexander Mourant
+    Lunenburg, McCullough & Mourant
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -36,7 +36,7 @@ Content:
 
     Curated by Alexander Mourant
 
-    Bart Lunenburg, Jan McCullough & Alexander Mourant
+    Lunenburg, McCullough & Mourant
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -48,7 +48,7 @@ Content:
 
     Curated by Alexander Mourant
 
-    Bart Lunenburg, Jan McCullough & Alexander Mourant
+    Lunenburg, McCullough & Mourant
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -60,7 +60,7 @@ Content:
 
     Curated by Alexander Mourant
 
-    Bart Lunenburg and Alexander Mourant
+    Lunenburg & Mourant
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -72,7 +72,7 @@ Content:
 
     Curated by Alexander Mourant
 
-    Alexander Mourant: *The Night and the First Sculpture*, 2021
+    *The Night and the First Sculpture*, 2021
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -84,7 +84,7 @@ Content:
 
     Curated by Alexander Mourant
 
-    Bart Lunenburg, Jan McCullough & Alexander Mourant
+    Lunenburg, McCullough & Mourant
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -96,7 +96,7 @@ Content:
 
     Curated by Alexander Mourant
 
-    Bart Lunenburg, Jan McCullough & Alexander Mourant
+    Lunenburg, McCullough & Mourant
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -108,7 +108,7 @@ Content:
 
     Curated by Alexander Mourant
 
-    Alexander Mourant: *An Image That Holds Its Heat I, II, III*, 2023
+    *An Image That Holds Its Heat I, II, III*, 2023
   image-size: medium
   image-position: middle
   image-margin-right: medium
