@@ -64,18 +64,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/NOUA-10.jpg"
-  caption-text: |-
-    NŌUA, 2023
-
-    *[At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)*
-
-    Curated by Alexander Mourant
-
-    *The Night and the First Sculpture*, 2021
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/NOUA-11.jpg"
   caption-text: |-
     NŌUA, 2023
@@ -85,6 +73,18 @@ Content:
     Curated by Alexander Mourant
 
     Lunenburg, McCullough & Mourant
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/NOUA-10.jpg"
+  caption-text: |-
+    NŌUA, 2023
+
+    *[At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)*
+
+    Curated by Alexander Mourant
+
+    *The Night and the First Sculpture*, 2021
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
