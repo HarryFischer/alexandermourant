@@ -51,7 +51,7 @@ Content:
 - image: "/uploads/NOUA-1-09346c.jpg"
   video: 
   caption-text: |-
-    *An Image That Holds Its Heat I, II & III*, 2019/2023
+    *An Image That Holds Its Heat I, II & III*, 2023
 
     45 x 74 x 61cm each
 
@@ -64,7 +64,7 @@ Content:
 - image: "/uploads/NOUA-2.jpg"
   video: 
   caption-text: |-
-    *An Image That Holds Its Heat I, II & III*, 2019/2023
+    *An Image That Holds Its Heat I, II & III*, 2023
 
     45 x 74 x 61cm each
 
@@ -77,7 +77,7 @@ Content:
 - image: "/uploads/Cloches-39-f5a2c1.jpg"
   video: 
   caption-text: |-
-    *An Image That Holds Its Heat I, II & III*, 2019/2023
+    *An Image That Holds Its Heat I, II & III*, 2023
 
     45 x 74 x 61cm each
 
@@ -90,7 +90,7 @@ Content:
 - image: "/uploads/Cloches-29.jpg"
   video: 
   caption-text: |-
-    *An Image That Holds Its Heat I, II & III*, 2019/2023
+    *An Image That Holds Its Heat I, II & III*, 2023
 
     45 x 74 x 61cm each
 
@@ -103,7 +103,7 @@ Content:
 - image: "/uploads/Cloches-44.jpg"
   video: 
   caption-text: |-
-    *An Image That Holds Its Heat I, II & III*, 2019/2023
+    *An Image That Holds Its Heat I, II & III*, 2023
 
     45 x 74 x 61cm each
 
@@ -116,7 +116,7 @@ Content:
 - image: "/uploads/Cloches-6.jpg"
   video: 
   caption-text: |-
-    *An Image That Holds Its Heat I, II & III*, 2019/2023
+    *An Image That Holds Its Heat I, II & III*, 2023
 
     45 x 74 x 61cm each
 
