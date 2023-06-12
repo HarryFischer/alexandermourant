@@ -51,7 +51,7 @@ Content:
 - image: "/uploads/NOUA-1-94afa9.jpg"
   video: 
   caption-text: |-
-    *An Image That Holds Its Heat I, II & III*, (2019/2023)
+    *An Image That Holds Its Heat I, II & III*, 2019/2023
 
     45 x 74 x 61cm each
 
