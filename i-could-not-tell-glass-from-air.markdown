@@ -74,7 +74,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Cloches-39.jpg"
+- image: "/uploads/Cloches-39-f5a2c1.jpg"
   video: 
   caption-text: |-
     *An Image That Holds Its Heat I, II & III*, 2019/2023
