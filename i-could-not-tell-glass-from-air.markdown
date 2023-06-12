@@ -48,7 +48,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: large
-- image: "/uploads/NOUA-1-94afa9.jpg"
+- image: "/uploads/NOUA-1-09346c.jpg"
   video: 
   caption-text: |-
     *An Image That Holds Its Heat I, II & III*, 2019/2023
