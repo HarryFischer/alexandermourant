@@ -48,6 +48,49 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: large
+- image: "/uploads/NOUA-1-94afa9.jpg"
+  video: 
+  caption-text: |-
+    *An Image That Holds Its Heat I, II & III*, (2019/2023)
+
+    45 x 74 x 61cm each
+
+    Direct to media print on glass, steel
+
+    Unique
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/NOUA-2.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Cloches-29.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Cloches-39.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Cloches-44.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Cloches-6.jpg"
+  video: 
+  caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: large
 - image: "/uploads/Orbit-31-REEDIT-1800%20LQ.jpg"
   video: 
   caption-text: "*Part of a Whole*, 2020/2022\n\nDiptych, 24 x 20” each\n\nSilver
