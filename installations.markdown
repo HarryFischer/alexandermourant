@@ -4,6 +4,7 @@ date: 2021-03-01 17:53:00 Z
 position: 19
 Content:
 - image: "/uploads/NOUA-3.jpg"
+  video: 
   caption-text: |-
     NŌUA, 2023
 
@@ -108,7 +109,7 @@ Content:
 
     Curated by Alexander Mourant
 
-    *An Image That Holds Its Heat I, II, III*, 2023
+    *An Image That Holds Its Heat I, II, III*, 2019/2023
   image-size: medium
   image-position: middle
   image-margin-right: medium
