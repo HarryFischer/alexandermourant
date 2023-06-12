@@ -109,7 +109,7 @@ Content:
 
     Curated by Alexander Mourant
 
-    *An Image That Holds Its Heat I, II, III*, 2019/2023
+    *An Image That Holds Its Heat I, II & III*, 2023
   image-size: medium
   image-position: middle
   image-margin-right: medium
