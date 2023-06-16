@@ -121,8 +121,6 @@ Content:
     *[To Walk in the Image](https://lismorecastlearts.ie/whats-on/to-walk-in-the-image)*
 
     Curated by Susan Bright
-
-    Photo: Ros Kavanagh
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -133,8 +131,6 @@ Content:
     *[To Walk in the Image](https://lismorecastlearts.ie/whats-on/to-walk-in-the-image)*
 
     Curated by Susan Bright
-
-    Photo: Ros Kavanagh
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -146,7 +142,7 @@ Content:
 
     Curated by Susan Bright
 
-    Photo: Ros Kavanagh
+    [*Waterfall I*, 2017](https://www.alexandermourant.com/aomori)
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -158,7 +154,7 @@ Content:
 
     Curated by Susan Bright
 
-    Photo: Ros Kavanagh
+    [*Three Furrows*, 2020](https://www.alexandermourant.com/on-living-stones-and-reaching)
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -170,7 +166,7 @@ Content:
 
     Curated by Susan Bright
 
-    Photo: Ros Kavanagh
+    [*Three Furrows*, 2020](https://www.alexandermourant.com/on-living-stones-and-reaching)
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -502,6 +498,11 @@ Content:
     *Forest III*, 2017; *Dissipate II*, 2017; *City II*, 2017
   image-size: medium
   image-position: middle
+  image-margin-right: 
+- image: 
+  caption-text: 
+  image-size: 
+  image-position: 
   image-margin-right: 
 layout: installations
 ---
