@@ -65,7 +65,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/NOUA-11.jpg"
+- image: "/uploads/NOUA-16.jpg"
   caption-text: |-
     NŌUA, 2023
 
@@ -89,19 +89,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/NOUA-16.jpg"
-  caption-text: |-
-    NŌUA, 2023
-
-    *[At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)*
-
-    Curated by Alexander Mourant
-
-    Lunenburg, McCullough & Mourant
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/NOUA-17-0c075f.jpg"
+- image: "/uploads/NOUA-1-09346c.jpg"
   caption-text: |-
     NŌUA, 2023
 
