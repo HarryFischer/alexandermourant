@@ -210,9 +210,8 @@ Education:
 - title: Writing
   year-text: "2023 - [C4 Journal, Essay: *At the Farthest Edge: Rebuilding Photography*](https://c4journal.com/at-the-farthest-edge-rebuilding-photography/)\n\n2022
     - [C4 Journal, Review: *those eyes - these eyes - they fade*](https://c4journal.com/valletta-malta/)\n\n2022
-    - [C4 Journal, Review: *This Creaking Floor and All the Ceilings Below* by Bart
-    Lunenburg](https://c4journal.com/bart-lunenburg-this-creaking-floor-and-all-the-ceilings-below/)
-    \n\n2021 - [C4 Journal, Review: *Furze* by Jack Whitefield](https://c4journal.com/jack-whitefield-furze/)\n\n2020
+    - [C4 Journal, Review: *This Creaking Floor and All the Ceilings Below*](https://c4journal.com/bart-lunenburg-this-creaking-floor-and-all-the-ceilings-below/)
+    \n\n2021 - [C4 Journal, Review: *Furze*](https://c4journal.com/jack-whitefield-furze/)\n\n2020
     - [On Living Stones and Reaching: *The Wilderness of Words*](https://www.alexandermourant.com/on-living-stones-and-reaching)\n\n2019
     - *The Journal: On Being Someone Other*\n\n2017 - *Land Art, Photography and Time*"
 - title: 'Commissions / Residencies '
