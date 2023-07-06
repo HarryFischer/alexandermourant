@@ -215,11 +215,11 @@ Education:
     - [On Living Stones and Reaching: *The Wilderness of Words*](https://www.alexandermourant.com/on-living-stones-and-reaching)\n\n2019
     - *The Journal: On Being Someone Other*\n\n2017 - *Land Art, Photography and Time*"
 - title: 'Commissions / Residencies '
-  year-text: "2023 - NŌUA, Arena for Photography as Contemporary Art, *Project Room
-    #1*\n\n2022 - Hapax Magazine, Issue 3 (2022/2023), *North East South West* \n\n2020
-    - The Eye Sees, Arles, Entractes 14, *When the Image Returns to Glass*\n\n2020
-    - HGG London, *The Bell Tower*\n\n2019 - FT Weekend Magazine / Photo London, *My
-    London*\n\n2018 - The Greatest Magazine, Issue 14, *The Lightness*"
+  year-text: "2023 - NŌUA, *Project Room #1*\n\n2022 - Hapax Magazine, Issue 3 (2022/2023),
+    *North East South West* \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the
+    Image Returns to Glass*\n\n2020 - HGG London, *The Bell Tower*\n\n2019 - FT Weekend
+    Magazine / Photo London, *My London*\n\n2018 - The Greatest Magazine, Issue 14,
+    *The Lightness*"
 - title: Awards
   year-text: |-
     2019 - Foam Paul Huf Award - Nomination
