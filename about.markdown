@@ -74,7 +74,7 @@ Education:
     2022 - Curator: *A Place to Call Home*, Southside Shopping Centre, Wandsworth, UK
 - title: Talks
   year-text: |-
-    2023 - NŌUA, Arena for Photography as Contemporary Art, *On Living Stones and Reaching*
+    2023 - NŌUA, *On Living Stones and Reaching*
 
     2022 - Livingmaps Network, *A Place to Call Home*
 
