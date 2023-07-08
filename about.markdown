@@ -7,27 +7,27 @@ Content:
     Mourant is an artist, educator and writer based in London. Solo exhibitions include
     *Aomori* at The Old Truman Brewery (2018) and Unseen Amsterdam (2018), and recent
     group exhibitions include *To Walk in the Image*, Lismore Castle Arts, Ireland
-    (2023), *At the Farthest Edge: Rebuilding Photography*, NŌUA, Norway (2023), *Orbits*,
-    Seen Fifteen Gallery, London (2022) and *with fists, it kicks, it bites*, Edel
-    Assanti, London (2020). Mourant is a recipient of grants from Arts Council Norway,
-    Arts Council England and ArtHouse Jersey. He has been commissioned by FT Weekend
-    Magazine, Hapax Magazine and The Greatest Magazine, and included in British Journal
-    of Photography, The Guardian, Photograph, Photoworks, METAL Magazine and Photomonitor.
-    He won the Free Range Award and was nominated for the Foam Paul Huf Award. Mourant
-    is a Visiting Tutor at Arts University Bournemouth, Member of [Revolv Collective](https://revolv.org.uk)
-    and Contributor at [C4 Journal](https://c4journal.com). He achieved BA Photography
-    at Falmouth University, and MA Photography at Royal College of Art, London. \n<br>\n<br>\nThe
-    work of Alexander Mourant embraces autobiography, literature and reference-based
-    thinking, to create narratives that question the relationship between the body
-    and the photographic medium. His  practice is a deeply rooted investigation into
-    photography, writing, performance and sculpture, and seeks to uncover a parallelism
-    between action and theoretical discourse. Known for his post-conceptual approach
-    and expanded [research](https://www.instagram.com/alexandermourant/), he often
-    utilises methodologies cultivated by the 1960s-70s Land Art movement, Performance
-    and Arte Povera, to help question, or push, our understanding of the photographic.
-    Mourant proposes how images may deal with temporality, spatiality and reflexivity,
-    through new ways of thinking, and alludes to the photographic becoming a terrain
-    itself, and a place we traverse."
+    (2023), *At the Farthest Edge: Rebuilding Photography*, NŌUA, Norway (2023), *A
+    Sudden Vanishing*, Seen Fifteen Gallery, London (2023) and *with fists, it kicks,
+    it bites*, Edel Assanti, London (2020). Mourant is a recipient of grants from
+    Arts Council Norway, Arts Council England and ArtHouse Jersey. He has been commissioned
+    by FT Weekend Magazine, Hapax Magazine and The Greatest Magazine, and included
+    in British Journal of Photography, The Guardian, Photograph, Photoworks, METAL
+    Magazine and Photomonitor. He won the Free Range Award and was nominated for the
+    Foam Paul Huf Award. Mourant is a Visiting Tutor at Arts University Bournemouth,
+    Member of [Revolv Collective](https://revolv.org.uk) and Contributor at [C4 Journal](https://c4journal.com).
+    He achieved BA Photography at Falmouth University, and MA Photography at Royal
+    College of Art, London. \n<br>\n<br>\nThe work of Alexander Mourant embraces autobiography,
+    literature and reference-based thinking, to create narratives that question the
+    relationship between the body and the photographic medium. His  practice is a
+    deeply rooted investigation into photography, writing, performance and sculpture,
+    and seeks to uncover a parallelism between action and theoretical discourse. Known
+    for his post-conceptual approach and expanded [research](https://www.instagram.com/alexandermourant/),
+    he often utilises methodologies cultivated by the 1960s-70s Land Art movement,
+    Performance and Arte Povera, to help question, or push, our understanding of the
+    photographic. Mourant proposes how images may deal with temporality, spatiality
+    and reflexivity, through new ways of thinking, and alludes to the photographic
+    becoming a terrain itself, and a place we traverse."
 Education:
 - title: Education
   year-text: |-
@@ -40,8 +40,9 @@ Education:
 
     2018 - The Old Truman Brewery, *Aomori*, London, UK
 - title: Group Exhibitions
-  year-text: "2023 - [NŌUA, *At the Farthest Edge: Rebuilding Photography*, Bodø,
-    NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)\n\n2023
+  year-text: "2023 - Seen Fifteen Gallery, *A Sudden Vanishing*, curated by Vivienne
+    Gamble, London, UK \n\n2023 - [NŌUA, *At the Farthest Edge: Rebuilding Photography*,
+    Bodø, NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)\n\n2023
     - [Lismore Castle Arts, *To Walk in the Image*, curated by Susan Bright, Lismore,
     IE](https://lismorecastlearts.ie/whats-on/to-walk-in-the-image)\n\n2022 - Seen
     Fifteen Gallery, *Orbits*, Revolv Collective, London, UK\n\n2022 - Photo50, London
