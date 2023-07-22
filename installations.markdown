@@ -158,6 +158,54 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
+- image: "/uploads/A-Sudden-Vanishing-1.jpg"
+  caption-text: |-
+    Seen Fifteen Gallery, 2023
+
+    *A Sudden Vanishing*
+
+    Curated by Vivienne Gamble
+
+    *[Peckham I](https://www.alexandermourant.com/to-feel-its-touch)*, 2019
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/A-Sudden-Vanishing-2.jpg"
+  caption-text: |-
+    Seen Fifteen Gallery, 2023
+
+    *A Sudden Vanishing*
+
+    Curated by Vivienne Gamble
+
+    *[Peckham I](https://www.alexandermourant.com/to-feel-its-touch)*, 2019
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/A-Sudden-Vanishing-13.jpg"
+  caption-text: |-
+    Seen Fifteen Gallery, 2023
+
+    *A Sudden Vanishing*
+
+    Curated by Vivienne Gamble
+
+    *[Peckham I](https://www.alexandermourant.com/to-feel-its-touch)*, 2019
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/A-Sudden-Vanishing-11.jpg"
+  caption-text: |-
+    Seen Fifteen Gallery, 2023
+
+    *A Sudden Vanishing*
+
+    Curated by Vivienne Gamble
+
+    *[Peckham I](https://www.alexandermourant.com/to-feel-its-touch)*, 2019
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 - image: "/uploads/Orbit-31-REEDIT-1800%20LQ.jpg"
   video: 
   caption-text: |-
