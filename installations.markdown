@@ -209,7 +209,7 @@ Content:
 - image: "/uploads/Orbit-31-REEDIT-1800%20LQ.jpg"
   video: 
   caption-text: |-
-    Seen Fifteen Gallery
+    Seen Fifteen Gallery, 2022
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
@@ -220,7 +220,7 @@ Content:
 - image: "/uploads/Orbits-21%20NEW.jpg"
   video: 
   caption-text: |-
-    Seen Fifteen Gallery
+    Seen Fifteen Gallery, 2022
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
@@ -230,7 +230,7 @@ Content:
   image-margin-right: medium
 - image: "/uploads/Vertigo%20I-IV)-LondonArtFair-AlexanderMourant.jpg"
   caption-text: |-
-    Photo50, London Art Fair
+    Photo50, London Art Fair, 2022
 
     *[No Place is an Island](/a-vertigo-like-self)*
 
@@ -241,7 +241,7 @@ Content:
 - image: "/uploads/Installations-AlexanderMourant-6.jpg"
   video: 
   caption-text: |-
-    Mont au Prêtre Farm
+    Mont au Prêtre Farm, 2020
 
     *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
 
@@ -251,7 +251,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-34.jpg"
   caption-text: |-
-    Mont au Prêtre Farm
+    Mont au Prêtre Farm, 2020
 
     *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
 
@@ -261,7 +261,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-5.jpg"
   caption-text: |-
-    Mont au Prêtre Farm
+    Mont au Prêtre Farm, 2020
 
     *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
 
@@ -271,7 +271,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-26.jpg"
   caption-text: |-
-    Mont au Prêtre Farm
+    Mont au Prêtre Farm, 2020
 
     *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
 
@@ -281,7 +281,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-25.jpg"
   caption-text: |-
-    Mont au Prêtre Farm
+    Mont au Prêtre Farm, 2020
 
     *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
 
@@ -291,7 +291,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-24.jpg"
   caption-text: |-
-    Mont au Prêtre Farm
+    Mont au Prêtre Farm, 2020
 
     *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
 
@@ -301,7 +301,7 @@ Content:
   image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-37.jpg"
   caption-text: |-
-    The Old Rectory
+    The Old Rectory, 2021
 
     *[The Bell Tower](/the-bell-tower)*
 
@@ -311,7 +311,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-35.jpg"
   caption-text: |-
-    The Old Rectory
+    The Old Rectory, 2021
 
     *[The Bell Tower](/the-bell-tower)*
 
@@ -321,7 +321,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-36.jpg"
   caption-text: |-
-    The Old Rectory
+    The Old Rectory, 2021
 
     *[The Bell Tower](/the-bell-tower)*
 
@@ -331,7 +331,7 @@ Content:
   image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-14.jpg"
   caption-text: |-
-    The Eye Sees, Arles
+    The Eye Sees, Arles, 2020
 
     *[Entractes 14: When the Image Returns to Glass](/aomori)*
 
@@ -341,7 +341,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-13.jpg"
   caption-text: |-
-    The Eye Sees, Arles
+    The Eye Sees, Arles, 2020
 
     *[Entractes 14: When the Image Returns to Glass](/aomori)*
 
@@ -351,7 +351,7 @@ Content:
   image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-17.jpg"
   caption-text: |-
-    Edel Assanti
+    Edel Assanti, 2020
 
     *[With fists, it kicks, it bites](/i-could-not-tell-glass-from-air)*
 
@@ -361,7 +361,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-18.jpg"
   caption-text: |-
-    Edel Assanti
+    Edel Assanti, 2020
 
     *[With fists, it kicks, it bites](/i-could-not-tell-glass-from-air)*
 
@@ -371,7 +371,7 @@ Content:
   image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-11.jpg"
   caption-text: |-
-    Royal College of Art
+    Royal College of Art, 2020
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
@@ -381,7 +381,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-15.jpg"
   caption-text: |-
-    Royal College of Art
+    Royal College of Art, 2020
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
@@ -391,7 +391,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-10.jpg"
   caption-text: |-
-    Royal College of Art
+    Royal College of Art, 2020
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
@@ -401,7 +401,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-2.jpg"
   caption-text: |-
-    Royal College of Art
+    Royal College of Art, 2020
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
@@ -411,7 +411,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-3.jpg"
   caption-text: |-
-    Royal College of Art
+    Royal College of Art, 2020
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
@@ -421,7 +421,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-9.jpg"
   caption-text: |-
-    Royal College of Art
+    Royal College of Art, 2020
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
@@ -431,7 +431,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-12.jpg"
   caption-text: |-
-    Royal College of Art
+    Royal College of Art, 2020
 
     *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
 
@@ -441,7 +441,7 @@ Content:
   image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-31.jpg"
   caption-text: |-
-    Unseen Amsterdam
+    Unseen Amsterdam, 2019
 
     *[Seen Fifteen Gallery, To Feel Its Touch](/to-feel-its-touch)*
 
@@ -451,7 +451,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-32.jpg"
   caption-text: |-
-    Unseen Amsterdam
+    Unseen Amsterdam, 2019
 
     *[Seen Fifteen Gallery, To Feel Its Touch](/to-feel-its-touch)*
 
@@ -461,7 +461,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-33.jpg"
   caption-text: |-
-    Unseen Amsterdam
+    Unseen Amsterdam, 2019
 
     *[Seen Fifteen Gallery, To Feel Its Touch](/to-feel-its-touch)*
 
@@ -471,7 +471,7 @@ Content:
   image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-28.jpg"
   caption-text: |-
-    Peckham 24, Copeland Gallery
+    Peckham 24, Copeland Gallery, 2019
 
     *[For Those Who Could See Beyond the Surface](/to-feel-its-touch)*
 
@@ -489,7 +489,7 @@ Content:
   image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-29.jpg"
   caption-text: |-
-    Unseen Amsterdam
+    Unseen Amsterdam, 2018
 
     *[Seen Fifteen Gallery, Aomori](/aomori)*
 
@@ -507,7 +507,7 @@ Content:
   image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-7.jpg"
   caption-text: |-
-    Copeland Gallery
+    Copeland Gallery, 2019
 
     *[Where You Are Not](/aomori)*
 
@@ -517,7 +517,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-22.jpg"
   caption-text: |-
-    Copeland Gallery
+    Copeland Gallery, 2019
 
     *[Where You Are Not](/aomori)*
 
@@ -527,7 +527,7 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-21.jpg"
   caption-text: |-
-    Copeland Gallery
+    Copeland Gallery, 2019
 
     *[Where You Are Not](/aomori)*
 
