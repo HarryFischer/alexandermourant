@@ -118,13 +118,15 @@ Education:
     All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer, Kingston University, BA Photography"
 - title: Community & Creative Learning
   year-text: |-
+    2023 - ArtHouse Jersey, Artist Educator, *Making Art Partnerships in Schools II*
+
     2023 - Hayward Gallery, Artist Educator, Secondary Schools Takeover, *Mike Nelson*
 
     2023 - ArtHouse Jersey, Learning Curator, *The Land and Us*
 
     2022 - Hayward Gallery, Artist Educator, Primary Schools Takeover, *Strange Clay*
 
-    2022 - ArtHouse Jersey, Artist Educator, *Making Art Partnerships in Schools*
+    2022 - ArtHouse Jersey, Artist Educator, *Making Art Partnerships in Schools I*
 
     2022 - BarrowFull and Greengate School, Artist Educator, *A Trip to Earnse Bay*
 
