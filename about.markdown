@@ -4,19 +4,21 @@ permalink: "/about/"
 position: 18
 Content:
 - about-text: "Contact: alexander@alexandermourant.com<br>\nInstagram: [@alexandermourant](http://www.instagram.com/alexandermourant)\n<br>\n<br>\nAlexander
-    Mourant is an artist, educator and writer based in London. Solo exhibitions include
-    *Aomori* at The Old Truman Brewery (2018) and Unseen Amsterdam (2018), and recent
-    group exhibitions include *To Walk in the Image*, Lismore Castle Arts, Ireland
-    (2023), *At the Farthest Edge: Rebuilding Photography*, NŌUA, Norway (2023), *A
-    Sudden Vanishing*, Seen Fifteen Gallery, London (2023) and *with fists, it kicks,
-    it bites*, Edel Assanti, London (2020). Mourant is a recipient of grants from
-    Arts Council Norway, Arts Council England and ArtHouse Jersey. He has been commissioned
-    by FT Weekend Magazine, Hapax Magazine and The Greatest Magazine, and included
-    in BJP, The Guardian, Photograph, Photoworks, METAL Magazine and Photomonitor.
-    He won the Free Range Award and was nominated for the Foam Paul Huf Award. Mourant
-    is a Visiting Tutor at Arts University Bournemouth, Member of [Revolv Collective](https://revolv.org.uk)
-    and Contributor at [C4 Journal](https://c4journal.com). He achieved BA Photography
-    at Falmouth University, and MA Photography at Royal College of Art, London. \n<br>\n<br>\nThe
+    Mourant is an artist, educator and writer based in London. He is Lecturer on BA
+    (Hons) Photography at [Kingston School of Art](https://www.kingston.ac.uk/undergraduate/courses/photography/).
+    Solo exhibitions include *Aomori* at The Old Truman Brewery (2018) and Unseen
+    Amsterdam (2018), and recent group exhibitions include *To Walk in the Image*,
+    Lismore Castle Arts, Ireland (2023), *At the Farthest Edge: Rebuilding Photography*,
+    NŌUA, Norway (2023), *A Sudden Vanishing*, Seen Fifteen Gallery, London (2023)
+    and *with fists, it kicks, it bites*, Edel Assanti, London (2020). Mourant is
+    a recipient of grants from Arts Council Norway, Arts Council England and ArtHouse
+    Jersey. He has been commissioned by FT Weekend Magazine, Hapax Magazine and The
+    Greatest Magazine, and included in BJP, The Guardian, Photograph, Photoworks,
+    METAL Magazine and Photomonitor. He won the Free Range Award and was nominated
+    for the Foam Paul Huf Award. Mourant is also Visiting Tutor at Arts University
+    Bournemouth, Member of [Revolv Collective](https://revolv.org.uk) and Contributor
+    at [C4 Journal](https://c4journal.com). He achieved BA Photography at Falmouth
+    University, and MA Photography at Royal College of Art, London. \n<br>\n<br>\nThe
     work of Alexander Mourant embraces autobiography, literature and reference-based
     thinking, to create narratives that question the relationship between the body
     and the photographic medium. His  practice is a deeply rooted investigation into
