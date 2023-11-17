@@ -69,6 +69,8 @@ Education:
     Magazine: Student Awards, Jersey, UK"
 - title: Curation
   year-text: |-
+    2024 - Curator: *Grafting: The Land and the Artist*, Photo50, London Art Fair, UK
+
     2024 - Curator: *The Land and Us*, ArtHouse Jersey, Jersey, UK
 
     2023 - Curator: [*Clare Strand: The Colder the Weather the Warmer the Hearts*, NŌUA, Bodø, NO](https://www.noua.no/en/exhibitions/clare-strand-uk-curator-alexander-mourant)
@@ -139,6 +141,8 @@ Education:
     2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Workshops
   year-text: |-
+    2023 - ArtHouse Jersey, *Sketching the Land: Photography, Drawing & Nature*
+
     2023 - d'Auvergne School, *Portals: Towards Wizards and Islands VI*
 
     2023 - d'Auvergne School, *Portals: Towards Wizards and Islands V*
