@@ -302,7 +302,7 @@ Education:
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, *Blue Railing*
 - title: Selected Press
-  year-text: "[Photomonitor](https://photomonitor.co.uk/interview/on-living-stones-and-reaching/)\n\n[The
+  year-text: "[London Art Fair, *Grafting: The Land and the Artist*](https://www.londonartfair.co.uk/fair-programme/photo50/)\n\n[Photomonitor](https://photomonitor.co.uk/interview/on-living-stones-and-reaching/)\n\n[The
     Guardian](https://www.theguardian.com/artanddesign/gallery/2022/apr/20/horse-cults-and-explosives-images-inspired-by-islands-in-pictures)\n\n[SW
     Londoner](https://www.swlondoner.co.uk/news/19032022-artwork-of-wandsworth-schoolchildren-on-show-in-southside-shopping-centre)\n\n[Revolv
     Collective](https://revolv.org.uk/Insular-Time)\n\n[grandmama’s print](https://grandmamasmag.com/en/projects/36/)\n\n[whynow](https://whynow.co.uk/read/i-was-interested-in-the-body-as-both-a-literal-and-metaphysical-object-the-lightness-by-alexander-mourant)\n\n[Der
