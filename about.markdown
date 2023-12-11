@@ -80,7 +80,7 @@ Education:
 
     2022 - Curator: *A Place to Call Home*, Southside Shopping Centre, Wandsworth, UK
 - title: Teaching
-  year-text: "2023 - Lecturer, Kingston School of Art, BA (Hons) Photography\n\n2023
+  year-text: "2023 - Lecturer, Kingston University, BA (Hons) Photography\n\n2023
     - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography \n\n2022
     - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography \n\n2022
     - Visiting Lecturer and Tutor, University of Westminster, BA (Hons) Photography\n\n2023
