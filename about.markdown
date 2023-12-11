@@ -211,7 +211,7 @@ Education:
 
     2021 - Mosaic School, *A Greener Picture: Photography and Climate Change*
 - title: Writing
-  year-text: "2023 - NŌUA, Catalogue Text, *Clare Strand: The Colder the Weather the
+  year-text: "2023 - NŌUA, Catalogue Text: *Clare Strand: The Colder the Weather the
     Warmer the Hearts*\n\n2023 - [C4 Journal, Essay: *At the Farthest Edge: Rebuilding
     Photography*](https://c4journal.com/at-the-farthest-edge-rebuilding-photography/)\n\n2022
     - [C4 Journal, Review: *those eyes - these eyes - they fade*](https://c4journal.com/valletta-malta/)\n\n2022
