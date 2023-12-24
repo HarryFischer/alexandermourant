@@ -70,7 +70,7 @@ Education:
   year-text: |-
     2024 - Curator: [*Grafting: The Land and the Artist*, Photo50, London Art Fair, UK](https://www.londonartfair.co.uk/fair-programme/photo50/)
 
-    2024 - Curator: [*The Land and Us | La Tèrre et Nous*, ArtHouse Jersey, Jersey, UK](https://www.arthousejersey.je/programme)
+    2024 - Curator: [*The Land and Us*, ArtHouse Jersey, Jersey, UK](https://www.arthousejersey.je/programme)
 
     2023 - Curator: [*Clare Strand: The Colder the Weather the Warmer the Hearts*, NŌUA, Bodø, NO](https://www.noua.no/en/exhibitions/clare-strand-uk-curator-alexander-mourant)
 
