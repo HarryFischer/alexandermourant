@@ -41,7 +41,8 @@ Education:
 
     2018 - The Old Truman Brewery, *Aomori*, London, UK
 - title: Group Exhibitions
-  year-text: "2023 - Seen Fifteen Gallery, *A Sudden Vanishing*, curated by Vivienne
+  year-text: "2024 - ArtHouse Jersey, *The Land and Us | La Tèrre et Nous*, Jersey,
+    UK \n\n2023 - Seen Fifteen Gallery, *A Sudden Vanishing*, curated by Vivienne
     Gamble, London, UK \n\n2023 - [NŌUA, *At the Farthest Edge: Rebuilding Photography*,
     Bodø, NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)\n\n2023
     - [Lismore Castle Arts, *To Walk in the Image*, curated by Susan Bright, Lismore,
@@ -70,7 +71,7 @@ Education:
   year-text: |-
     2024 - Curator: [*Grafting: The Land and the Artist*, Photo50, London Art Fair, UK](https://www.londonartfair.co.uk/fair-programme/photo50/)
 
-    2024 - Curator: [*The Land and Us*, ArtHouse Jersey, Jersey, UK](https://www.arthousejersey.je/programme)
+    2024 - Curator: [*The Land and Us | La Tèrre et Nous*, ArtHouse Jersey, Jersey, UK](https://www.arthousejersey.je/programme)
 
     2023 - Curator: [*Clare Strand: The Colder the Weather the Warmer the Hearts*, NŌUA, Bodø, NO](https://www.noua.no/en/exhibitions/clare-strand-uk-curator-alexander-mourant)
 
