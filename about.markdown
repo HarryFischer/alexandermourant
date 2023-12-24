@@ -41,7 +41,7 @@ Education:
 
     2018 - The Old Truman Brewery, *Aomori*, London, UK
 - title: Group Exhibitions
-  year-text: "2024 - ArtHouse Jersey, *The Land and Us | La Tèrre et Nous*, Jersey,
+  year-text: "2024 - ArtHouse Jersey, *The Land and Us ~ La Tèrre et Nous*, Jersey,
     UK\n\n2023 - Seen Fifteen Gallery, *A Sudden Vanishing*, curated by Vivienne Gamble,
     London, UK \n\n2023 - [NŌUA, *At the Farthest Edge: Rebuilding Photography*, Bodø,
     NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)\n\n2023
