@@ -293,7 +293,8 @@ Education:
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, *Blue Railing*
 - title: Selected Press
-  year-text: "[British Journal of Photography, *Grafting: The Land and the Artist*](https://www.1854.photography/2024/01/revolv-collective-grafting-photo50-london-art-fair-2024/?utm_source=ig_grid_organic&utm_medium=content_promo&utm_campaign=gfa246~ig_grid_organic~content_promo~5_jan_2024~bjp_online_editorial~gfa246)\n\n[London
+  year-text: "[Photomonitor, *Grafting: The Land and the Artist*](https://photomonitor.co.uk/exhibition/photo50-grafting-the-land-and-the-artist/)\n\n[British
+    Journal of Photography, *Grafting: The Land and the Artist*](https://www.1854.photography/2024/01/revolv-collective-grafting-photo50-london-art-fair-2024/?utm_source=ig_grid_organic&utm_medium=content_promo&utm_campaign=gfa246~ig_grid_organic~content_promo~5_jan_2024~bjp_online_editorial~gfa246)\n\n[London
     Art Fair, *Grafting: The Land and the Artist*](https://www.londonartfair.co.uk/photo50-2024-meet-the-curator-revolv-collective/)\n\n[Photomonitor](https://photomonitor.co.uk/interview/on-living-stones-and-reaching/)\n\n[The
     Guardian](https://www.theguardian.com/artanddesign/gallery/2022/apr/20/horse-cults-and-explosives-images-inspired-by-islands-in-pictures)\n\n[SW
     Londoner](https://www.swlondoner.co.uk/news/19032022-artwork-of-wandsworth-schoolchildren-on-show-in-southside-shopping-centre)\n\n[Revolv
