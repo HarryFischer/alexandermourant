@@ -293,7 +293,7 @@ Education:
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, *Blue Railing*
 - title: Selected Press
-  year-text: "ITV News, *The Land and Us*\n\nBBC Radio Jersey, *The Land and US*\n\n[1000
+  year-text: "ITV News, *The Land and Us*\n\nBBC Radio Jersey, *The Land and Us*\n\n[1000
     Words, *Grafting: The Land and the Artist*](https://www.1000wordsmag.com/revolv-collective/)\n\n[Photomonitor,
     *Grafting: The Land and the Artist*](https://photomonitor.co.uk/exhibition/photo50-grafting-the-land-and-the-artist/)\n\n[British
     Journal of Photography, *Grafting: The Land and the Artist*](https://www.1854.photography/2024/01/revolv-collective-grafting-photo50-london-art-fair-2024/?utm_source=ig_grid_organic&utm_medium=content_promo&utm_campaign=gfa246~ig_grid_organic~content_promo~5_jan_2024~bjp_online_editorial~gfa246)\n\n[London
