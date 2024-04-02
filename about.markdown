@@ -41,9 +41,10 @@ Education:
 
     2018 - The Old Truman Brewery, *Aomori*, London, UK
 - title: Group Exhibitions
-  year-text: "2024 - ArtHouse Jersey, *The Land and Us*, Jersey, UK\n\n2023 - Seen
-    Fifteen Gallery, *A Sudden Vanishing*, curated by Vivienne Gamble, London, UK
-    \n\n2023 - [NŌUA, *At the Farthest Edge: Rebuilding Photography*, Bodø, NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)\n\n2023
+  year-text: "2024 - ArtHouse Jersey, *The Land and Us – La Tèrre et Nous*, Jersey,
+    UK\n\n2023 - Seen Fifteen Gallery, *A Sudden Vanishing*, curated by Vivienne Gamble,
+    London, UK \n\n2023 - [NŌUA, *At the Farthest Edge: Rebuilding Photography*, Bodø,
+    NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)\n\n2023
     - [Lismore Castle Arts, *To Walk in the Image*, curated by Susan Bright, Lismore,
     IE](https://lismorecastlearts.ie/whats-on/to-walk-in-the-image)\n\n2022 - Seen
     Fifteen Gallery, *Orbits*, Revolv Collective, London, UK\n\n2022 - Photo50, London
@@ -70,7 +71,7 @@ Education:
   year-text: |-
     2024 - Curator: [*Grafting: The Land and the Artist*, Photo50, London Art Fair, UK](https://www.londonartfair.co.uk/fair-programme/photo50/)
 
-    2024 - Curator: [*The Land and Us*, ArtHouse Jersey, Jersey, UK](https://www.arthousejersey.je/programme)
+    2024 - Curator: [*The Land and Us – La Tèrre et Nous*, ArtHouse Jersey, Jersey, UK](https://www.arthousejersey.je/programme)
 
     2023 - Curator: [*Clare Strand: The Colder the Weather the Warmer the Hearts*, NŌUA, Bodø, NO](https://www.noua.no/en/exhibitions/clare-strand-uk-curator-alexander-mourant)
 
@@ -219,9 +220,10 @@ Education:
     - [On Living Stones and Reaching: *The Wilderness of Words*](https://www.alexandermourant.com/on-living-stones-and-reaching)\n\n2019
     - *The Journal: On Being Someone Other*\n\n2017 - *Land Art, Photography and Time*"
 - title: 'Commissions / Residencies '
-  year-text: "2023 - NŌUA, *Project Room #1*\n\n2022 - Hapax Magazine, Issue 3 (2022/2023),
-    *North East South West* \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the
-    Image Returns to Glass*\n\n2020 - HGG London, *The Bell Tower*\n\n2019 - FT Weekend
+  year-text: "2024 – ArtHouse Jersey, *The Land and Us – La Tèrre et Nous*\n\n2023
+    - NŌUA, *Project Room #1*\n\n2022 - Hapax Magazine, Issue 3 (2022/2023), *North
+    East South West* \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the Image
+    Returns to Glass*\n\n2020 - HGG London, *The Bell Tower*\n\n2019 - FT Weekend
     Magazine / Photo London, *My London*\n\n2018 - The Greatest Magazine, Issue 14,
     *The Lightness*"
 - title: Awards
@@ -293,9 +295,10 @@ Education:
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, *Blue Railing*
 - title: Selected Press
-  year-text: "ITV News, *The Land and Us*\n\nBBC Radio Jersey, *The Land and Us*\n\n[1000
-    Words, *Grafting: The Land and the Artist*](https://www.1000wordsmag.com/revolv-collective/)\n\n[Photomonitor,
-    *Grafting: The Land and the Artist*](https://photomonitor.co.uk/exhibition/photo50-grafting-the-land-and-the-artist/)\n\n[British
+  year-text: "ITV News, *The Land and Us – La Tèrre et Nous*\n\nBBC Radio Jersey,
+    *The Land and Us – La Tèrre et Nous*\n\n[1000 Words, *Grafting: The Land and the
+    Artist*](https://www.1000wordsmag.com/revolv-collective/)\n\n[Photomonitor, *Grafting:
+    The Land and the Artist*](https://photomonitor.co.uk/exhibition/photo50-grafting-the-land-and-the-artist/)\n\n[British
     Journal of Photography, *Grafting: The Land and the Artist*](https://www.1854.photography/2024/01/revolv-collective-grafting-photo50-london-art-fair-2024/?utm_source=ig_grid_organic&utm_medium=content_promo&utm_campaign=gfa246~ig_grid_organic~content_promo~5_jan_2024~bjp_online_editorial~gfa246)\n\n[London
     Art Fair, *Grafting: The Land and the Artist*](https://www.londonartfair.co.uk/photo50-2024-meet-the-curator-revolv-collective/)\n\n[Photomonitor](https://photomonitor.co.uk/interview/on-living-stones-and-reaching/)\n\n[The
     Guardian](https://www.theguardian.com/artanddesign/gallery/2022/apr/20/horse-cults-and-explosives-images-inspired-by-islands-in-pictures)\n\n[SW
