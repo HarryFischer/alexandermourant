@@ -34,7 +34,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/ATreeDraws-3.jpg"
+- image: "/uploads/ATreeDraws-3%202.jpg"
   caption-text: |-
     ArtHouse Jersey, 2024
 
