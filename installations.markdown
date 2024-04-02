@@ -10,7 +10,7 @@ Content:
 
     *The Land and Us – La Tèrre et Nous*
 
-    *An Image That Holds Its Heat (IV)*, 2024
+    [*An Image That Holds Its Heat (IV)*, 2024](https://www.alexandermourant.com/i-could-not-tell-glass-from-air)
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -20,7 +20,7 @@ Content:
 
     *The Land and Us – La Tèrre et Nous*
 
-    *An Image That Holds Its Heat (IV)*, 2024
+    [*An Image That Holds Its Heat (IV)*, 2024](https://www.alexandermourant.com/i-could-not-tell-glass-from-air)
   image-size: medium
   image-position: middle
   image-margin-right: medium
