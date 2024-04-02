@@ -3,6 +3,56 @@ title: Installations
 date: 2021-03-01 17:53:00 Z
 position: 19
 Content:
+- image: "/uploads/Cloche5x4-3.jpg"
+  caption-text: |-
+    ArtHouse Jersey, 2024
+
+    *The Land and Us | La Tèrre et Nous*
+
+    *An Image That Holds Its Heat (IV)*, 2024
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Cloche5x4-1.jpg"
+  caption-text: |-
+    ArtHouse Jersey, 2024
+
+    *The Land and Us | La Tèrre et Nous*
+
+    *An Image That Holds Its Heat (IV)*, 2024
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/ATreeDraws-1.jpg"
+  caption-text: |-
+    ArtHouse Jersey, 2024
+
+    *The Land and Us | La Tèrre et Nous*
+
+    *A Tree Draws*, 2024
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/ATreeDraws-3.jpg"
+  caption-text: |-
+    ArtHouse Jersey, 2024
+
+    *The Land and Us | La Tèrre et Nous*
+
+    *A Tree Draws*, 2024
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/ATreeDraws-13.jpg"
+  caption-text: |-
+    ArtHouse Jersey, 2024
+
+    *The Land and Us | La Tèrre et Nous*
+
+    *A Tree Draws*, 2024
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/NOUA-3.jpg"
   video: 
   caption-text: |-
@@ -534,11 +584,6 @@ Content:
     *Forest III*, 2017; *Dissipate II*, 2017; *City II*, 2017
   image-size: medium
   image-position: middle
-  image-margin-right: 
-- image: 
-  caption-text: 
-  image-size: 
-  image-position: 
   image-margin-right: 
 layout: installations
 ---
