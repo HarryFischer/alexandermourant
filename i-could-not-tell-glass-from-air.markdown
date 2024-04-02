@@ -56,6 +56,8 @@ Content:
     48 x 45 x 45cm
 
     Direct to media print on horticultural glass, cast iron, copper pins, wood, paint, soil
+
+    Unique
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -67,6 +69,8 @@ Content:
     48 x 45 x 45cm
 
     Glass, cast iron, soil
+
+    Unique
   image-size: medium
   image-position: middle
   image-margin-right: large
