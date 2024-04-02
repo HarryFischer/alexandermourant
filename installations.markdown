@@ -4,10 +4,11 @@ date: 2021-03-01 17:53:00 Z
 position: 19
 Content:
 - image: "/uploads/Cloche5x4-3.jpg"
+  video: 
   caption-text: |-
     ArtHouse Jersey, 2024
 
-    *The Land and Us | La Tèrre et Nous*
+    *The Land and Us – La Tèrre et Nous*
 
     *An Image That Holds Its Heat (IV)*, 2024
   image-size: medium
@@ -17,17 +18,17 @@ Content:
   caption-text: |-
     ArtHouse Jersey, 2024
 
-    *The Land and Us | La Tèrre et Nous*
+    *The Land and Us – La Tèrre et Nous*
 
     *An Image That Holds Its Heat (IV)*, 2024
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/ATreeDraws-1.jpg"
   caption-text: |-
     ArtHouse Jersey, 2024
 
-    *The Land and Us | La Tèrre et Nous*
+    *The Land and Us – La Tèrre et Nous*
 
     *A Tree Draws*, 2024
   image-size: medium
@@ -37,7 +38,7 @@ Content:
   caption-text: |-
     ArtHouse Jersey, 2024
 
-    *The Land and Us | La Tèrre et Nous*
+    *The Land and Us – La Tèrre et Nous*
 
     *A Tree Draws*, 2024
   image-size: medium
@@ -47,7 +48,7 @@ Content:
   caption-text: |-
     ArtHouse Jersey, 2024
 
-    *The Land and Us | La Tèrre et Nous*
+    *The Land and Us – La Tèrre et Nous*
 
     *A Tree Draws*, 2024
   image-size: medium
