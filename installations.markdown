@@ -53,7 +53,7 @@ Content:
     *A Tree Draws*, 2024
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/NOUA-3.jpg"
   video: 
   caption-text: |-
