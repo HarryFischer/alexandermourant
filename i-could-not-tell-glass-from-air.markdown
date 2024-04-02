@@ -48,6 +48,28 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: large
+- image: "/uploads/Cloche5x4-3.jpg"
+  video: 
+  caption-text: |-
+    *An Image That Holds Its Heat (IV)*, 2024
+
+    48 x 45 x 45cm
+
+    Direct to media print on horticultural glass, cast iron, copper pins, wood, paint, soil
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Cloche5x4-1.jpg"
+  video: 
+  caption-text: |-
+    *An Image That Holds Its Heat (IV)*, 2024
+
+    48 x 45 x 45cm
+
+    Direct to media print on horticultural glass, cast iron, copper pins, wood, paint, soil
+  image-size: medium
+  image-position: middle
+  image-margin-right: large
 - image: "/uploads/NOUA-1-09346c.jpg"
   video: 
   caption-text: |-
