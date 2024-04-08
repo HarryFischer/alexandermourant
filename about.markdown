@@ -220,7 +220,7 @@ Education:
     - [On Living Stones and Reaching: *The Wilderness of Words*](https://www.alexandermourant.com/on-living-stones-and-reaching)\n\n2019
     - *The Journal: On Being Someone Other*\n\n2017 - *Land Art, Photography and Time*"
 - title: 'Commissions / Residencies '
-  year-text: "2024 – ArtHouse Jersey, *The Land and Us – La Tèrre et Nous*\n\n2023
+  year-text: "2024 - ArtHouse Jersey, *The Land and Us – La Tèrre et Nous*\n\n2023
     - NŌUA, *Project Room #1*\n\n2022 - Hapax Magazine, Issue 3 (2022/2023), *North
     East South West* \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the Image
     Returns to Glass*\n\n2020 - HGG London, *The Bell Tower*\n\n2019 - FT Weekend
