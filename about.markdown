@@ -98,7 +98,7 @@ Education:
     Falmouth University, BA Photography\n\n2019 - Guest Lecturer, University of Huddersfield,
     All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer, Kingston University, BA Photography"
 - title: Talks / Panel Discussions
-  year-text: "2024 – Eye to Pencil, *The Phantom Pencil: Drawing Under the Surface*\n\n2024
+  year-text: "2024 - Eye to Pencil, *The Phantom Pencil: Drawing Under the Surface*\n\n2024
     - London Art Fair, Photo50 Panel, *Land Matters*, with Christiane Monarchi, Almudena
     Romero & Marisa Culatto \n\n2023 - NŌUA, *On Living Stones and Reaching*\n\n2022
     - Livingmaps Network, *A Place to Call Home*\n\n2021 - Four Corners, London Creative
