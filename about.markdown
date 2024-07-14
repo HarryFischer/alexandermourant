@@ -8,12 +8,11 @@ Content:
     at [Kingston University](https://www.kingston.ac.uk/undergraduate/courses/photography/).
     His forthcoming monograph, *The Night and the First Sculpture*, will be published
     by Folium Books, Autumn 2024. Recent exhibitions include *To Walk in the Image*,
-    Lismore Castle Arts, Ireland (2023); *At the Farthest Edge: Rebuilding Photography*,
-    NŌUA, Norway (2023); *A Sudden Vanishing*, Seen Fifteen Gallery, London (2023)
-    and *with fists, it kicks, it bites*, Edel Assanti, London (2020). Mourant is
-    a recipient of grants from Arts Council Norway, Arts Council England and ArtHouse
-    Jersey. He has been commissioned by FT Weekend Magazine, Hapax Magazine and The
-    Greatest Magazine, and included in BJP, The Guardian, Photograph, Photoworks,
+    Lismore Castle Arts, Ireland (2023), *At the Farthest Edge: Rebuilding Photography*,
+    NŌUA, Norway (2023) and *A Sudden Vanishing*, Seen Fifteen Gallery, London (2023).
+    Mourant is a recipient of grants from Arts Council Norway, Arts Council England
+    and ArtHouse Jersey. He has been commissioned by FT Weekend Magazine, Hapax Magazine
+    and The Greatest Magazine, and included in BJP, The Guardian, Photograph, Photoworks,
     METAL Magazine and Photomonitor. He won the Free Range Award and was nominated
     for the Foam Paul Huf Award. Mourant is a Member of [Revolv Collective](https://revolv.org.uk)
     and Contributor at [C4 Journal](https://c4journal.com). He achieved BA Photography
