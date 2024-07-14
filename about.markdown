@@ -4,8 +4,8 @@ permalink: "/about/"
 position: 18
 Content:
 - about-text: "Contact: alexander@alexandermourant.com<br>\nInstagram: [@alexandermourant](http://www.instagram.com/alexandermourant)\n<br>\n<br>\nAlexander
-    Mourant is an artist and educator based in London. He is a Lecturer in Photography
-    at [Kingston University](https://www.kingston.ac.uk/undergraduate/courses/photography/).
+    Mourant is an artist, educator and writer based in London. He is a Lecturer in
+    Photography at [Kingston University](https://www.kingston.ac.uk/undergraduate/courses/photography/).
     His forthcoming monograph, *The Night and the First Sculpture*, will be published
     by Folium Books, Autumn 2024. Recent exhibitions include *To Walk in the Image*,
     Lismore Castle Arts, Ireland (2023), *At the Farthest Edge: Rebuilding Photography*,
