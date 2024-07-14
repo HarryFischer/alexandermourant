@@ -132,19 +132,11 @@ Education:
     2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Workshops
   year-text: |-
+    2024 - d'Auvergne School, *The Return: Wizards and Islands, Part II, I–VI*
+
     2023 - ArtHouse Jersey, *Sketching the Land: Photography, Drawing & Nature*
 
-    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands VI*
-
-    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands V*
-
-    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands IV*
-
-    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands III*
-
-    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands II*
-
-    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands I*
+    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands I–VI*
 
     2023 - Eyecan, ArtHouse Jersey, *Sensory Redirection: The Journey of a Leaf Falling*
 
@@ -295,11 +287,11 @@ Education:
     2015 - Gallery Magazine: Evolution Issue no. 116, *Beauty in Rumination*
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, *Blue Railing*
-- title: Selected Press
-  year-text: "ITV News, *The Land and Us – La Tèrre et Nous*\n\nBBC Radio Jersey,
-    *The Land and Us – La Tèrre et Nous*\n\n[1000 Words, *Grafting: The Land and the
-    Artist*](https://www.1000wordsmag.com/revolv-collective/)\n\n[Photomonitor, *Grafting:
-    The Land and the Artist*](https://photomonitor.co.uk/exhibition/photo50-grafting-the-land-and-the-artist/)\n\n[British
+- title: Selected Press / Interviews
+  year-text: "Urbanautica, The Urbanaut Podcast: Alexander Mourant\n\nITV News, *The
+    Land and Us – La Tèrre et Nous*\n\nBBC Radio Jersey, *The Land and Us – La Tèrre
+    et Nous*\n\n[1000 Words, *Grafting: The Land and the Artist*](https://www.1000wordsmag.com/revolv-collective/)\n\n[Photomonitor,
+    *Grafting: The Land and the Artist*](https://photomonitor.co.uk/exhibition/photo50-grafting-the-land-and-the-artist/)\n\n[British
     Journal of Photography, *Grafting: The Land and the Artist*](https://www.1854.photography/2024/01/revolv-collective-grafting-photo50-london-art-fair-2024/?utm_source=ig_grid_organic&utm_medium=content_promo&utm_campaign=gfa246~ig_grid_organic~content_promo~5_jan_2024~bjp_online_editorial~gfa246)\n\n[London
     Art Fair, *Grafting: The Land and the Artist*](https://www.londonartfair.co.uk/photo50-2024-meet-the-curator-revolv-collective/)\n\n[Photomonitor](https://photomonitor.co.uk/interview/on-living-stones-and-reaching/)\n\n[The
     Guardian](https://www.theguardian.com/artanddesign/gallery/2022/apr/20/horse-cults-and-explosives-images-inspired-by-islands-in-pictures)\n\n[SW
