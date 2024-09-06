@@ -2,7 +2,7 @@
 title: 3 Artist with Two Hundred and Eighty Boxes
 date: 2021-11-15 17:29:00 Z
 permalink: "/on-living-stones-and-reaching/artist-with-two-hundred-and-eighty-boxes"
-position: 4
+position: 6
 Content:
 - image: "/uploads/olsar-p2-01.jpg"
   caption-text: |-

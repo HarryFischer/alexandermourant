@@ -1,7 +1,7 @@
 ---
 title: On Living Stones and Reaching
 date: 2021-02-20 10:45:00 Z
-position: 27
+position: 29
 Words:
 - interview-text: "# On Living Stones and Reaching\n\n<br>\n<br>\n***How to Plant
     an Image: Growing, Photographing, Writing***<br>\n<br>\nAn introduction to *On

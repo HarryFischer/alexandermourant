@@ -2,7 +2,7 @@
 title: 1 How to Plant an Image
 date: 2021-11-15 16:12:00 Z
 permalink: "/on-living-stones-and-reaching/how-to-plant-an-image"
-position: 2
+position: 4
 Content:
 - video: https://player.vimeo.com/video/666489957?autoplay=1&loop=1&controls=false&muted=1
   caption-text: |-

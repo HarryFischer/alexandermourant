@@ -1,6 +1,6 @@
 ---
 title: Home
-position: 17
+position: 19
 Content:
 - image: "/uploads/North%20East%20South%20West.jpg"
   caption-text: "*North East South West*, 2020/2022"

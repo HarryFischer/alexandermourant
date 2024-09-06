@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-position: 18
+position: 20
 Content:
 - about-text: "Contact: alexander@alexandermourant.com<br>\nInstagram: [@alexandermourant](http://www.instagram.com/alexandermourant)\n<br>\n<br>\nAlexander
     Mourant is an artist, educator and writer based in London. He is a Lecturer in

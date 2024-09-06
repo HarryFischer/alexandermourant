@@ -1,7 +1,7 @@
 ---
 title: The Bell Tower
 date: 2021-02-20 10:40:00 Z
-position: 24
+position: 26
 Content:
 - image: "/uploads/BellTowerNew-1.jpg"
   video: 
