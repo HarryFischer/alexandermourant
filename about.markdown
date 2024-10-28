@@ -36,7 +36,7 @@ Education:
     2017 - Falmouth University, BA (Hons) Photography (First Class Honours)
 - title: Solo Exhibitions / Monographs
   year-text: |-
-    2024 – [Folium, *The Night and the First Sculpture*](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)
+    2024 - [Folium, *The Night and the First Sculpture*](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)
 
     2018 - Unseen Amsterdam, *Aomori*, Seen Fifteen Gallery, Amsterdam, NL
 
