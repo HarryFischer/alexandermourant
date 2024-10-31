@@ -22,11 +22,8 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 Words:
-- interview-text: |-
-    # The Night and the First Sculpture
-    <br>
-    <br>
-    Insert new text here
+- interview-text: "# North East South West\n<br>\n<br>\nSome time ago my shutter release
+    cable accidentally fused through a faulty mechanism to the port "
 layout: project
 ---
 
