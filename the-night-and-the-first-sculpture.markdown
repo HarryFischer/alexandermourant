@@ -6,9 +6,9 @@ Content:
 - image: "/uploads/TNATFS-AlexanderMourant-48.jpg"
   video: 
   caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/TNATFS-AlexanderMourant-10.jpg"
   video: 
   caption-text: Test Artwork
@@ -18,9 +18,9 @@ Content:
 - image: "/uploads/TNATFS-AlexanderMourant-33.jpg"
   video: 
   caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 Words:
 - interview-text: |-
     # The Night and the First Sculpture
