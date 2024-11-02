@@ -2,12 +2,19 @@
 title: Home
 position: 19
 Content:
-- image: "/uploads/North%20East%20South%20West.jpg"
-  caption-text: "*North East South West*, 2020/2022"
-  page-url: "/north-east-south-west"
+- image: "/uploads/Snakes%20and%20Ladders%20-%20Alexander%20Mourant.jpg"
+  caption-text: "*The Night and the First Sculpture*, 2021/2024"
+  page-url: "/the-night-and-the-first-sculpture"
   image-size: medium
   image-position: middle
   image-margin-right: medium
+- image: "/uploads/North%20East%20South%20West.jpg"
+  video: 
+  caption-text: "*North East South West*, 2020/2022"
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
+  page-url: "/north-east-south-west"
 - image: "/uploads/Portrait-of-the-artist-repeating-himself-2020.jpg"
   video: 
   caption-text: "*On Living Stones and Reaching*, 2020"
