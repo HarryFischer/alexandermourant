@@ -6,7 +6,7 @@ Content:
 - image: "/uploads/TNATFS-AlexanderMourant-48.jpg"
   video: 
   caption-text: |-
-    *The Night and the First Sculpture*, 2024
+    *[The Night and the First Sculpture](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)*, 2024
 
     Published by Folium
 
