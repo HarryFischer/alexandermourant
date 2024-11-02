@@ -169,17 +169,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/Perception%20and%20the%20Potential%20of%20Knowing%20-%20Alexander%20Mourant.jpg"
-  video: 
-  caption-text: |-
-    *Perception and the Potential of Knowing*, 2021/2024
-
-    Photo-series of 10 archival giclée prints
-
-    Dimensions variable
-  image-size: medium
-  image-position: middle
-  image-margin-right: medium
 - image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(I)%20-%C2%A0Alexander%20Mourant.jpg"
   video: 
   caption-text: |-
@@ -246,6 +235,17 @@ Content:
 - image: "/uploads/A%20Place%20Possesses%20Me-5-Alexander%20Mourant.jpg"
   video: 
   caption-text: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
+- image: "/uploads/Perception%20and%20the%20Potential%20of%20Knowing%20-%20Alexander%20Mourant.jpg"
+  video: 
+  caption-text: |-
+    *Perception and the Potential of Knowing*, 2021/2024
+
+    Photo-series of 10 archival giclée prints
+
+    Dimensions variable
   image-size: medium
   image-position: middle
   image-margin-right: medium
