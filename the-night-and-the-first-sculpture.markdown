@@ -258,7 +258,7 @@ Content:
 
     18 x 320 x 60cm
   image-size: medium
-  image-position: middle
+  image-position: large
   image-margin-right: xsmall
 - image: "/uploads/A%20Fin%20Cut%20the%20Green%20Glass%20of%20a%20Lake%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -269,7 +269,7 @@ Content:
 
     27 x 300 x 300cm
   image-size: medium
-  image-position: middle
+  image-position: large
   image-margin-right: xsmall
 - image: "/uploads/The%20Life%20and%20Death%20of%20Images%20(An%20Image%20Caught%20in%20a%20Vice)%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -280,7 +280,7 @@ Content:
 
     75 x 120 x 100cm
   image-size: medium
-  image-position: middle
+  image-position: large
   image-margin-right: xsmall
 - image: "/uploads/A%20Shipment%20Belonging%20to%20R.S.%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -291,7 +291,7 @@ Content:
 
     120 x 120 x 80cm
   image-size: medium
-  image-position: middle
+  image-position: large
   image-margin-right: xsmall
 - image: "/uploads/Heavy%20Is%20the%20Image%20That%20Stands%20Between%20Place%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -302,7 +302,7 @@ Content:
 
     140 x 100 x 100cm
   image-size: medium
-  image-position: middle
+  image-position: large
   image-margin-right: xsmall
 - image: "/uploads/An%20Image%20Raised%20by%20Two%20Arms%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -313,7 +313,7 @@ Content:
 
     240 x 400 x 100cm
   image-size: medium
-  image-position: middle
+  image-position: large
   image-margin-right: xsmall
 - image: "/uploads/The%20Partial%20Formation%20of%20a%20Roof%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -324,7 +324,7 @@ Content:
 
     335 x 290 x 145cm
   image-size: medium
-  image-position: middle
+  image-position: large
   image-margin-right: xsmall
 - image: "/uploads/Snakes%20and%20Ladders%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -335,7 +335,7 @@ Content:
 
     500 x 640 x 120cm
   image-size: medium
-  image-position: middle
+  image-position: large
   image-margin-right: xsmall
 - image: "/uploads/The%20Axis%20of%20Time%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -346,7 +346,7 @@ Content:
 
     240 x 480 x 200cm
   image-size: medium
-  image-position: middle
+  image-position: large
   image-margin-right: xsmall
 - image: "/uploads/The%20Storyteller%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -357,7 +357,7 @@ Content:
 
     110 x 120 x 100cm
   image-size: medium
-  image-position: middle
+  image-position: large
   image-margin-right: xsmall
 - image: "/uploads/The%20Book%20of%20Stone%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -368,7 +368,7 @@ Content:
 
     15 x 12 x 20cm
   image-size: medium
-  image-position: middle
+  image-position: large
   image-margin-right: xsmall
 Words:
 - interview-text: "# The Night and the First Sculpture\n<br>\n<br>\n[Available now:
