@@ -10,7 +10,7 @@ Content:
 
     Published by Folium
 
-    Edition of 200
+    First Edition of 200
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -21,7 +21,7 @@ Content:
 
     Published by Folium
 
-    Edition of 200
+    First Edition of 200
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -32,7 +32,7 @@ Content:
 
     Published by Folium
 
-    Edition of 200
+    First Edition of 200
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -43,7 +43,7 @@ Content:
 
     Published by Folium
 
-    Edition of 200
+    First Edition of 200
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -54,7 +54,7 @@ Content:
 
     Published by Folium
 
-    Edition of 200
+    First Edition of 200
   image-size: medium
   image-position: middle
   image-margin-right: small
@@ -65,7 +65,7 @@ Content:
 
     Published by Folium
 
-    Edition of 200
+    First Edition of 200
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -76,7 +76,7 @@ Content:
 
     Published by Folium
 
-    Edition of 200
+    First Edition of 200
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -87,7 +87,7 @@ Content:
 
     Published by Folium
 
-    Edition of 200
+    First Edition of 200
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -98,7 +98,7 @@ Content:
 
     Published by Folium
 
-    Edition of 200
+    First Edition of 200
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -109,7 +109,7 @@ Content:
 
     Published by Folium
 
-    Edition of 200
+    First Edition of 200
   image-size: medium
   image-position: middle
   image-margin-right: medium
