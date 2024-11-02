@@ -257,8 +257,8 @@ Content:
     Wood, glass, organic matter, granite, screws
 
     18 x 320 x 60cm
-  image-size: medium
-  image-position: large
+  image-size: large
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/A%20Fin%20Cut%20the%20Green%20Glass%20of%20a%20Lake%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -268,8 +268,8 @@ Content:
     Glass, organic matter, wood
 
     27 x 300 x 300cm
-  image-size: medium
-  image-position: large
+  image-size: large
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/The%20Life%20and%20Death%20of%20Images%20(An%20Image%20Caught%20in%20a%20Vice)%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -279,8 +279,8 @@ Content:
     Pallet, granite, glass, organic matter, vice
 
     75 x 120 x 100cm
-  image-size: medium
-  image-position: large
+  image-size: large
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/A%20Shipment%20Belonging%20to%20R.S.%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -290,8 +290,8 @@ Content:
     Wood, glass, organic matter, nails, screws
 
     120 x 120 x 80cm
-  image-size: medium
-  image-position: large
+  image-size: large
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Heavy%20Is%20the%20Image%20That%20Stands%20Between%20Place%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -301,8 +301,8 @@ Content:
     Pallets, wood, glass, organic matter, screws
 
     140 x 100 x 100cm
-  image-size: medium
-  image-position: large
+  image-size: large
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/An%20Image%20Raised%20by%20Two%20Arms%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -312,8 +312,8 @@ Content:
     Pallets, wood, glass, organic matter
 
     240 x 400 x 100cm
-  image-size: medium
-  image-position: large
+  image-size: large
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/The%20Partial%20Formation%20of%20a%20Roof%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -323,8 +323,8 @@ Content:
     Wood, glass, organic matter, screws
 
     335 x 290 x 145cm
-  image-size: medium
-  image-position: large
+  image-size: large
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Snakes%20and%20Ladders%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -334,8 +334,8 @@ Content:
     Forklift, pallets, ladders
 
     500 x 640 x 120cm
-  image-size: medium
-  image-position: large
+  image-size: large
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/The%20Axis%20of%20Time%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -345,8 +345,8 @@ Content:
     Pallets, rebar
 
     240 x 480 x 200cm
-  image-size: medium
-  image-position: large
+  image-size: large
+  image-position: medium
   image-margin-right: xsmall
 - image: "/uploads/The%20Storyteller%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -356,8 +356,8 @@ Content:
     Pallet, wooden chair, granite
 
     110 x 120 x 100cm
-  image-size: medium
-  image-position: large
+  image-size: large
+  image-position: medium
   image-margin-right: xsmall
 - image: "/uploads/The%20Book%20of%20Stone%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -367,8 +367,8 @@ Content:
     Granite
 
     15 x 12 x 20cm
-  image-size: medium
-  image-position: large
+  image-size: large
+  image-position: medium
   image-margin-right: xsmall
 Words:
 - interview-text: "# The Night and the First Sculpture\n<br>\n<br>\n[Available now:
