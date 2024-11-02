@@ -183,7 +183,7 @@ Content:
 - image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(I)%20-%C2%A0Alexander%20Mourant.jpg"
   video: 
   caption-text: |-
-    *Evidence of a Failed Marriage (I, II & III)*, 2021/2024
+    *Evidence of a Failed Marriage (I)*, 2021/2024
 
     Photo-series of 3 archival giclée prints
 
@@ -193,13 +193,23 @@ Content:
   image-margin-right: xsmall
 - image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(II)%20-%20Alexander%20Mourant.jpg"
   video: 
-  caption-text: 
+  caption-text: |-
+    *Evidence of a Failed Marriage (II)*, 2021/2024
+
+    Photo-series of 3 archival giclée prints
+
+    Dimensions variable
   image-size: large
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(III)%20-%20Alexander%20Mourant.jpg"
   video: 
-  caption-text: 
+  caption-text: |-
+    *Evidence of a Failed Marriage (III)*, 2021/2024
+
+    Photo-series of 3 archival giclée prints
+
+    Dimensions variable
   image-size: large
   image-position: middle
   image-margin-right: medium
