@@ -3,6 +3,30 @@ title: Installations
 date: 2021-03-01 17:53:00 Z
 position: 21
 Content:
+- image: "/uploads/The%20Partial%20Formation%20of%20a%20Roof%20-%20Alexander%20Mourant.jpg"
+  caption-text: |-
+    [The Night and the First Sculpture](https://www.alexandermourant.com/the-night-and-the-first-sculpture), 2024
+
+    *[The Partial Formation of a Roof](https://www.alexandermourant.com/the-night-and-the-first-sculpture)*, 2021/2024
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Snakes%20and%20Ladders%20-%20Alexander%20Mourant.jpg"
+  caption-text: |-
+    [The Night and the First Sculpture](https://www.alexandermourant.com/the-night-and-the-first-sculpture), 2024
+
+    *[Snakes and Ladders](https://www.alexandermourant.com/the-night-and-the-first-sculpture)*, 2021/2024
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/The%20Axis%20of%20Time%20-%20Alexander%20Mourant.jpg"
+  caption-text: |-
+    [The Night and the First Sculpture](https://www.alexandermourant.com/the-night-and-the-first-sculpture), 2024
+
+    *[The Axis of Time](https://www.alexandermourant.com/the-night-and-the-first-sculpture)*, 2021/2024
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 - image: "/uploads/Cloche5x4-3.jpg"
   video: 
   caption-text: |-
