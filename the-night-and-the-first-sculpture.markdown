@@ -346,7 +346,7 @@ Content:
 
     240 x 480 x 200cm
   image-size: large
-  image-position: medium
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/The%20Storyteller%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -357,7 +357,7 @@ Content:
 
     110 x 120 x 100cm
   image-size: large
-  image-position: medium
+  image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/The%20Book%20of%20Stone%20-%20Alexander%20Mourant.jpg"
   video: 
@@ -368,7 +368,7 @@ Content:
 
     15 x 12 x 20cm
   image-size: large
-  image-position: medium
+  image-position: middle
   image-margin-right: xsmall
 Words:
 - interview-text: "# The Night and the First Sculpture\n<br>\n<br>\n[Available now:
