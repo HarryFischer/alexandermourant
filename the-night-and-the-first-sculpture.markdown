@@ -36,6 +36,39 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/TNATFS-AlexanderMourant-15.jpg"
+  video: 
+  caption-text: |-
+    *[The Night and the First Sculpture](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)*, 2024
+
+    Published by Folium
+
+    Edition of 200
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/TNATFS-AlexanderMourant-17.jpg"
+  video: 
+  caption-text: |-
+    *[The Night and the First Sculpture](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)*, 2024
+
+    Published by Folium
+
+    Edition of 200
+  image-size: medium
+  image-position: middle
+  image-margin-right: small
+- image: "/uploads/TNATFS-AlexanderMourant-20.jpg"
+  video: 
+  caption-text: |-
+    *[The Night and the First Sculpture](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)*, 2024
+
+    Published by Folium
+
+    Edition of 200
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/TNATFS-AlexanderMourant-24.jpg"
   video: 
   caption-text: |-
@@ -48,17 +81,6 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/TNATFS-AlexanderMourant-28.jpg"
-  video: 
-  caption-text: |-
-    *[The Night and the First Sculpture](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)*, 2024
-
-    Published by Folium
-
-    Edition of 200
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/TNATFS-AlexanderMourant-20.jpg"
   video: 
   caption-text: |-
     *[The Night and the First Sculpture](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)*, 2024
