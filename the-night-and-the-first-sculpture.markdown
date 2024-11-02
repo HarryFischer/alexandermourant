@@ -5,13 +5,78 @@ position: 0
 Content:
 - image: "/uploads/TNATFS-AlexanderMourant-48.jpg"
   video: 
-  caption-text: 
+  caption-text: |-
+    *The Night and the First Sculpture*, 2024
+
+    Published by Folium
+
+    Edition of 200
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/TNATFS-AlexanderMourant-10.jpg"
+- image: "/uploads/TNATFS-AlexanderMourant-9.jpg"
   video: 
-  caption-text: Test Artwork
+  caption-text: |-
+    *The Night and the First Sculpture*, 2024
+
+    Published by Folium
+
+    Edition of 200
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/TNATFS-AlexanderMourant-11.jpg"
+  video: 
+  caption-text: |-
+    *The Night and the First Sculpture*, 2024
+
+    Published by Folium
+
+    Edition of 200
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/TNATFS-AlexanderMourant-24.jpg"
+  video: 
+  caption-text: |-
+    *The Night and the First Sculpture*, 2024
+
+    Published by Folium
+
+    Edition of 200
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/TNATFS-AlexanderMourant-28.jpg"
+  video: 
+  caption-text: |-
+    *The Night and the First Sculpture*, 2024
+
+    Published by Folium
+
+    Edition of 200
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/TNATFS-AlexanderMourant-20.jpg"
+  video: 
+  caption-text: |-
+    *The Night and the First Sculpture*, 2024
+
+    Published by Folium
+
+    Edition of 200
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/TNATFS-AlexanderMourant-32.jpg"
+  video: 
+  caption-text: |-
+    *The Night and the First Sculpture*, 2024
+
+    Published by Folium
+
+    Edition of 200
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
