@@ -17,11 +17,15 @@ Content:
 - image: "/uploads/TNATFS-AlexanderMourant-9.jpg"
   video: 
   caption-text: |-
-    *The Night and the First Sculpture*, 2024
+    *Shelter*, 2020
 
-    Published by Folium
+    38 mixed size (piece scale: 4m x 9.2m)
 
-    Edition of 200
+    Silver gelatin hand print (photogram)
+
+    Aluminium mount \+ steel tray frame
+
+    Unique
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -102,28 +106,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/Train%20Carriages%20(Stationary)%20-%20Alexander%20Mourant.jpg"
-  video: 
-  caption-text: |-
-    *Train Carriages (Stationary)*, 2021/2024
-
-    Wood, glass, organic matter
-
-    7 x 51 x 244cm
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Train%20Carriages%20(Oscillating)%20-%20Alexander%20Mourant.jpg"
-  video: 
-  caption-text: |-
-    *Train Carriages (Oscillating)*, 2021/2024
-
-    Wood, glass, organic matter
-
-    7 x 51 x 244cm
-  image-size: medium
-  image-position: middle
-  image-margin-right: medium
 - image: "/uploads/Ships%20That%20Pass%20in%20the%20Night-1-Alexander%20Mourant.jpg"
   video: 
   caption-text: |-
@@ -146,7 +128,40 @@ Content:
   caption-text: 
   image-size: medium
   image-position: middle
+  image-margin-right: medium
+- image: "/uploads/Train%20Carriages%20(Stationary)%20-%20Alexander%20Mourant.jpg"
+  video: 
+  caption-text: |-
+    *Train Carriages (Stationary)*, 2021/2024
+
+    Wood, glass, organic matter
+
+    7 x 51 x 244cm
+  image-size: medium
+  image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Train%20Carriages%20(Oscillating)%20-%20Alexander%20Mourant.jpg"
+  video: 
+  caption-text: |-
+    *Train Carriages (Oscillating)*, 2021/2024
+
+    Wood, glass, organic matter
+
+    7 x 51 x 244cm
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
+- image: "/uploads/Perception%20and%20the%20Potential%20of%20Knowing%20-%20Alexander%20Mourant.jpg"
+  video: 
+  caption-text: |-
+    *Perception and the Potential of Knowing*, 2021/2024
+
+    Photo-series of 10 archival giclée prints
+
+    Dimensions variable
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 - image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(I)%20-%C2%A0Alexander%20Mourant.jpg"
   video: 
   caption-text: |-
@@ -155,19 +170,19 @@ Content:
     Photo-series of 3 archival giclée prints
 
     Dimensions variable
-  image-size: medium
+  image-size: large
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(II)%20-%20Alexander%20Mourant.jpg"
   video: 
   caption-text: 
-  image-size: medium
+  image-size: large
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(III)%20-%20Alexander%20Mourant.jpg"
   video: 
   caption-text: 
-  image-size: medium
+  image-size: large
   image-position: middle
   image-margin-right: medium
 - image: "/uploads/A%20Week%20at%20the%20Seaside%20with%20You%20-%20Alexander%20Mourant.jpg"
@@ -213,17 +228,6 @@ Content:
 - image: "/uploads/A%20Place%20Possesses%20Me-5-Alexander%20Mourant.jpg"
   video: 
   caption-text: 
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Perception%20and%20the%20Potential%20of%20Knowing%20-%20Alexander%20Mourant.jpg"
-  video: 
-  caption-text: |-
-    *Perception and the Potential of Knowing*, 2021/2024
-
-    Photo-series of 10 archival giclée prints
-
-    Dimensions variable
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -329,7 +333,7 @@ Content:
 - image: "/uploads/The%20Storyteller%20-%20Alexander%20Mourant.jpg"
   video: 
   caption-text: |-
-    The Storyteller, 2021/2024
+    *The Storyteller*, 2021/2024
 
     Pallet, wooden chair, granite
 
