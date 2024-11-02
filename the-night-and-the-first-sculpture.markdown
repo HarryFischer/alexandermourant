@@ -354,30 +354,31 @@ Content:
   image-margin-right: xsmall
 Words:
 - interview-text: "# The Night and the First Sculpture\n<br>\n<br>\n[Available now:
-    First Edition](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)\n[Available
+    First Edition](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)\n<br>\n<br>\n[Available
     now: Special Edition](https://www.folium.site/shop/p/thenightandthefirstsculpture-specialedition)\n<br>\n<br>\n*The
     Night and the First Sculpture* (2024) is Alexander Mourant’s first publication,
     containing sculptures, performances and photographs, made on his family farm.
     Responding, firstly, to Robert Smithson’s *Island of Broken Glass* (1969/1970),
     the work evolved through playful, material-led exploration, to question the metaphysical
-    nature of images and concepts of time, space and place.\n\nMade under the cover
-    of night, Mourant’s process was one of metaphorically imbuing and assembling agricultural
-    materials – glass, wood and stone – in an attempt to materialise his own theories,
-    often referencing novels, non-fiction, autobiography and mythologies. As Alan
-    Huck writes, “The approach that Mourant takes is not unlike what Wordsworth proclaimed
-    was the task of the poet – to build up the greatest things from the least suggestions.”
-    \n\nIn this work, the artist’s ad hoc farm-studio performs, becoming a stage or
-    a theatre for the conjuring of images. This ‘black box’ hints at the origins of
-    photography and the camera as architecture; one seemingly infinite, with a void-like
-    substance and hard to define scale. Here, the night transforms into a character,
-    encapsulating desire, the unknown and the artist’s pursuit of knowledge.\n\nAt
-    its heart, *The Night and the First Sculpture* proposes how images and stories
-    may form, erode and reshape themselves over time. Mourant continues to draw upon
-    research into Conceptualism’s cognate movements – Land Art, Arte Povera and Mono-ha
-    – to help expand or ‘push’ our understanding of the image world.\n\n*The Night
-    and the First Sculpture* includes an essay by Alan Huck, and an in conversation
-    with Eugenie Shinkle and Alexander Mourant. \n\nPublished by Folium, 2024. \nSupported
-    by ArtHouse Jersey\n\nFirst Edition of 200\n176mm x 225mm\n96 pages\nSection sewn\nHardback"
+    nature of images and concepts of time, space and place.\n<br>\n<br>\nMade under
+    the cover of night, Mourant’s process was one of metaphorically imbuing and assembling
+    agricultural materials – glass, wood and stone – in an attempt to materialise
+    his own theories, often referencing novels, non-fiction, autobiography and mythologies.
+    As Alan Huck writes, “The approach that Mourant takes is not unlike what Wordsworth
+    proclaimed was the task of the poet – to build up the greatest things from the
+    least suggestions.” \n<br>\n<br>\nIn this work, the artist’s ad hoc farm-studio
+    performs, becoming a stage or a theatre for the conjuring of images. This ‘black
+    box’ hints at the origins of photography and the camera as architecture; one seemingly
+    infinite, with a void-like substance and hard to define scale. Here, the night
+    transforms into a character, encapsulating desire, the unknown and the artist’s
+    pursuit of knowledge.\n<br>\n<br>\nAt its heart, *The Night and the First Sculpture*
+    proposes how images and stories may form, erode and reshape themselves over time.
+    Mourant continues to draw upon research into Conceptualism’s cognate movements
+    – Land Art, Arte Povera and Mono-ha – to help expand or ‘push’ our understanding
+    of the image world.\n<br>\n<br>\n*The Night and the First Sculpture* includes
+    an essay by Alan Huck, and an in conversation with Eugenie Shinkle and Alexander
+    Mourant. \n<br>\n<br>\nPublished by Folium, 2024.<br> \nSupported by ArtHouse
+    Jersey\n<br>\n<br>\nFirst Edition of 200\n176mm x 225mm\n96 pages\nSection sewn\nHardback"
 layout: project
 ---
 
