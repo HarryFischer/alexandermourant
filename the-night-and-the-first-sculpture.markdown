@@ -113,6 +113,17 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
+- image: "/uploads/NOUA-10.jpg"
+  video: 
+  caption-text: |-
+    NŌUA, 2023
+
+    *[At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)*
+
+    *The Night and the First Sculpture*, 2021/2024
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 - image: "/uploads/The%20Night%20Is%20the%20First%20Sculpture%20-%20Alexander%20Mourant.jpg"
   video: 
   caption-text: |-
