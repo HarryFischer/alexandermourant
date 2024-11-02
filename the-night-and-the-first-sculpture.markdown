@@ -354,8 +354,8 @@ Content:
   image-margin-right: xsmall
 Words:
 - interview-text: "# The Night and the First Sculpture\n<br>\n<br>\n[Available now:
-    First Edition](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)\n<br>\n<br>\n[Available
-    now: Special Edition](https://www.folium.site/shop/p/thenightandthefirstsculpture-specialedition)\n<br>\n<br>\n*The
+    First Edition (200)](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)<br>\n[Available
+    now: Special Edition (20 +2APs](https://www.folium.site/shop/p/thenightandthefirstsculpture-specialedition)\n<br>\n<br>\n*The
     Night and the First Sculpture* (2024) is Alexander Mourant’s first publication,
     containing sculptures, performances and photographs, made on his family farm.
     Responding, firstly, to Robert Smithson’s *Island of Broken Glass* (1969/1970),
@@ -378,7 +378,8 @@ Words:
     of the image world.\n<br>\n<br>\n*The Night and the First Sculpture* includes
     an essay by Alan Huck, and an in conversation with Eugenie Shinkle and Alexander
     Mourant. \n<br>\n<br>\nPublished by Folium, 2024.<br> \nSupported by ArtHouse
-    Jersey\n<br>\n<br>\nFirst Edition of 200\n176mm x 225mm\n96 pages\nSection sewn\nHardback"
+    Jersey\n<br>\n<br>\nFirst Edition of 200<br>\n176mm x 225mm<br>\n96 pages<br>\nSection
+    sewn<br>\nHardback"
 layout: project
 ---
 
