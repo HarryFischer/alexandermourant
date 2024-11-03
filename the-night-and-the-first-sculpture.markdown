@@ -57,7 +57,7 @@ Content:
     First Edition of 200
   image-size: medium
   image-position: middle
-  image-margin-right: small
+  image-margin-right: xsmall
 - image: "/uploads/TNATFS-AlexanderMourant-HQ-6.jpg"
   video: 
   caption-text: |-
