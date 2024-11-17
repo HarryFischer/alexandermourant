@@ -169,7 +169,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(I)%20-%C2%A0Alexander%20Mourant.jpg"
+- image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(I),%20from%20the%20series%20%E2%80%98The%20Night%20and%20the%20First%20Sculpture%E2%80%99,%20Alexander%20Mourant%20(c),%20Folium%202024,%20image%20courtesy%20Alexander%20Mourant%20&%20Folium,%20London.jpg"
   video: 
   caption-text: |-
     *Evidence of a Failed Marriage (I)*, 2021/2024
@@ -180,7 +180,7 @@ Content:
   image-size: large
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(II)%20-%20Alexander%20Mourant.jpg"
+- image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(II),%20from%20the%20series%20%E2%80%98The%20Night%20and%20the%20First%20Sculpture%E2%80%99,%20Alexander%20Mourant%20(c),%20Folium%202024,%20image%20courtesy%20Alexander%20Mourant%20&%20Folium,%20London.jpg"
   video: 
   caption-text: |-
     *Evidence of a Failed Marriage (II)*, 2021/2024
@@ -191,7 +191,7 @@ Content:
   image-size: large
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(III)%20-%20Alexander%20Mourant.jpg"
+- image: "/uploads/Evidence%20of%20a%20Failed%20Marriage%20(III),%20from%20the%20series%20%E2%80%98The%20Night%20and%20the%20First%20Sculpture%E2%80%99,%20Alexander%20Mourant%20(c),%20Folium%202024,%20image%20courtesy%20Alexander%20Mourant%20&%20Folium,%20London.jpg"
   video: 
   caption-text: |-
     *Evidence of a Failed Marriage (III)*, 2021/2024
