@@ -292,8 +292,9 @@ Education:
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, *Blue Railing*
 - title: Selected Press / Interviews
-  year-text: "[Urbanautica Podcast, Ep. #33: *Jersey Roots, Japanese Forests: Exploring
-    Heritage and Horizons with Alexander Mourant*](https://youtu.be/5-nzNR-bLNA?si=jBV2KqKPKmwM3TDt)\n\nITV
+  year-text: "[Photo-Eye, *The Night and the First Sculpture*](https://www.photoeye.com/best-books-2024/details.cfm?FirstName=Awoiska&Lastname=van%20der%20Molen&catalog=ZK720)\n\n[Urbanautica
+    Podcast, Ep. #33: *Jersey Roots, Japanese Forests: Exploring Heritage and Horizons
+    with Alexander Mourant*](https://youtu.be/5-nzNR-bLNA?si=jBV2KqKPKmwM3TDt)\n\nITV
     News, *The Land and Us – La Tèrre et Nous*\n\nBBC Radio Jersey, *The Land and
     Us – La Tèrre et Nous*\n\n[1000 Words, *Grafting: The Land and the Artist*](https://www.1000wordsmag.com/revolv-collective/)\n\n[Photomonitor,
     *Grafting: The Land and the Artist*](https://photomonitor.co.uk/exhibition/photo50-grafting-the-land-and-the-artist/)\n\n[British
