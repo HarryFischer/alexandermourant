@@ -209,9 +209,10 @@ Education:
     2021 - Mosaic School, *A Greener Picture: Photography and Climate Change*
 - title: Writing
   year-text: "2024 - [C4 Journal, Review: *those eyes - these eyes - they fade (Part
-    II)*](https://c4journal.com/those-eyes-these-eyes-they-fade-part-ii-at-musee-des-beaux-arts-mulhouse-france/)\n\n[2023
-    - NŌUA, Catalogue Text: *Clare Strand: The Colder the Weather the Warmer the Hearts*](https://sites.google.com/view/clare-strand/home)\n\n2023
-    - [C4 Journal, Essay: *At the Farthest Edge: Rebuilding Photography*](https://c4journal.com/at-the-farthest-edge-rebuilding-photography/)\n\n2022
+    II)*](https://c4journal.com/those-eyes-these-eyes-they-fade-part-ii-at-musee-des-beaux-arts-mulhouse-france/)\n\n2023
+    - [NŌUA, Catalogue Text: *Clare Strand: The Colder the Weather the Warmer the
+    Hearts*](https://sites.google.com/view/clare-strand/home)\n\n2023 - [C4 Journal,
+    Essay: *At the Farthest Edge: Rebuilding Photography*](https://c4journal.com/at-the-farthest-edge-rebuilding-photography/)\n\n2022
     - [C4 Journal, Review: *those eyes - these eyes - they fade*](https://c4journal.com/valletta-malta/)\n\n2022
     - [C4 Journal, Review: *This Creaking Floor and All the Ceilings Below*](https://c4journal.com/bart-lunenburg-this-creaking-floor-and-all-the-ceilings-below/)
     \n\n2021 - [C4 Journal, Review: *Furze*](https://c4journal.com/jack-whitefield-furze/)\n\n2020
