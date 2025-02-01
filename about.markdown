@@ -83,21 +83,20 @@ Education:
     2022 - Curator: *A Place to Call Home*, Southside Shopping Centre, Wandsworth, UK
 - title: Teaching
   year-text: "2023 - Lecturer, Kingston University, BA (Hons) Photography\n\n2023
+    - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography \n\n2023
+    - Visiting Lecturer, University of Westminster, BA (Hons) Photography\n\n2022
     - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography \n\n2022
-    - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography \n\n2022
-    - Visiting Lecturer and Tutor, University of Westminster, BA (Hons) Photography\n\n2023
-    - Guest Lecturer, University of Westminster, BA Photography, *Profile*\n\n2023
-    - Guest Lecturer, University of Westminster, BA Photography, *Being with Photography*\n\n2022
-    - Guest Lecturer, University of Westminster, BA Photography, *Think Then Shoot*\n\n2022
-    - Guest Lecturer, University of Westminster, BA Photography, *The Artist and the
-    Universe*\n\n2022 - Guest Lecturer, Kingston University, BA Photography\n\n2022
-    - Guest Lecturer, Falmouth University, MA Photography \n\n2021 - Guest Lecturer,
-    Kingston University, BA Photography\n\n2021 - Guest Lecturer, Arts University
-    Bournemouth, BA Photography\n\n2021 - Guest Lecturer, Swansea College of Art,
-    BA Photography\n\n2020 - Guest Lecturer, Kingston University, BA Photography\n\n2019
-    - Guest Lecturer, Kingston University, BA Photography\n\n2019 - Guest Lecturer,
-    Falmouth University, BA Photography\n\n2019 - Guest Lecturer, University of Huddersfield,
-    All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer, Kingston University, BA Photography"
+    - Visiting Lecturer and Tutor, University of Westminster, BA (Hons) Photography\n\n2025
+    - Guest Lecturer, UWE Bristol, BA Photography\n\n2025 - Guest Lecturer, Falmouth
+    University, BA Photography (Online)\n\n2022 - Guest Lecturer, Kingston University,
+    BA Photography\n\n2022 - Guest Lecturer, Falmouth University, MA Photography \n\n2021
+    - Guest Lecturer, Kingston University, BA Photography\n\n2021 - Guest Lecturer,
+    Arts University Bournemouth, BA Photography\n\n2021 - Guest Lecturer, Swansea
+    College of Art, BA Photography\n\n2020 - Guest Lecturer, Kingston University,
+    BA Photography\n\n2019 - Guest Lecturer, Kingston University, BA Photography\n\n2019
+    - Guest Lecturer, Falmouth University, BA Photography\n\n2019 - Guest Lecturer,
+    University of Huddersfield, All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer,
+    Kingston University, BA Photography"
 - title: Talks / Panel Discussions
   year-text: "2024 - Mulhouse Museum of Fine Arts, Biennale de la Photographie de
     Mulhouse, Awoiska van der Molen & Alexander Mourant\n\n2024 - Mulhouse Museum
