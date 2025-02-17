@@ -4,7 +4,7 @@ permalink: "/about/"
 position: 20
 Content:
 - about-text: "Contact: alexander@alexandermourant.com<br>\nInstagram: [@alexandermourant](http://www.instagram.com/alexandermourant)\n<br>\n<br>\nAlexander
-    Mourant is an artist, educator and writer based in London. His debut monograph,
+    Mourant is an artist, educator and writer based in London. His first publication,
     *[The Night and the First Sculpture](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)*,
     was published by Folium, 2024. Recent exhibitions include *To Walk in the Image*,
     Lismore Castle Arts, Ireland (2023), *At the Farthest Edge: Rebuilding Photography*,
@@ -87,16 +87,16 @@ Education:
     - Visiting Lecturer, University of Westminster, BA (Hons) Photography\n\n2022
     - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography \n\n2022
     - Visiting Lecturer and Tutor, University of Westminster, BA (Hons) Photography\n\n2025
-    - Guest Lecturer, UWE Bristol, BA Photography\n\n2025 - Guest Lecturer, Falmouth
-    University, BA Photography (Online)\n\n2022 - Guest Lecturer, Kingston University,
-    BA Photography\n\n2022 - Guest Lecturer, Falmouth University, MA Photography \n\n2021
-    - Guest Lecturer, Kingston University, BA Photography\n\n2021 - Guest Lecturer,
-    Arts University Bournemouth, BA Photography\n\n2021 - Guest Lecturer, Swansea
-    College of Art, BA Photography\n\n2020 - Guest Lecturer, Kingston University,
-    BA Photography\n\n2019 - Guest Lecturer, Kingston University, BA Photography\n\n2019
-    - Guest Lecturer, Falmouth University, BA Photography\n\n2019 - Guest Lecturer,
-    University of Huddersfield, All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer,
-    Kingston University, BA Photography"
+    - Guest Lecturer, UWE Bristol, BA Photography\n\n2025 - Guest Lecturer, University
+    of Westminster, BA Photography\n\n2025 - Guest Lecturer, Falmouth University,
+    BA Photography (Online)\n\n2022 - Guest Lecturer, Kingston University, BA Photography\n\n2022
+    - Guest Lecturer, Falmouth University, MA Photography \n\n2021 - Guest Lecturer,
+    Kingston University, BA Photography\n\n2021 - Guest Lecturer, Arts University
+    Bournemouth, BA Photography\n\n2021 - Guest Lecturer, Swansea College of Art,
+    BA Photography\n\n2020 - Guest Lecturer, Kingston University, BA Photography\n\n2019
+    - Guest Lecturer, Kingston University, BA Photography\n\n2019 - Guest Lecturer,
+    Falmouth University, BA Photography\n\n2019 - Guest Lecturer, University of Huddersfield,
+    All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer, Kingston University, BA Photography"
 - title: Talks / Panel Discussions
   year-text: "2024 - Mulhouse Museum of Fine Arts, Biennale de la Photographie de
     Mulhouse, Awoiska van der Molen & Alexander Mourant\n\n2024 - Mulhouse Museum
@@ -135,6 +135,10 @@ Education:
     2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Workshops
   year-text: |-
+    2025 - ArtHouse Jersey, *Art Masterclass Series: Photography*
+
+    2025 - ArtHouse Jersey, *Sensory Drawing, I-III*
+
     2024 - d'Auvergne School, *The Return: Wizards and Islands, Part II, I–VI*
 
     2023 - ArtHouse Jersey, *Sketching the Land: Photography, Drawing & Nature*
