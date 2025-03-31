@@ -135,6 +135,8 @@ Education:
     2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Workshops
   year-text: |-
+    2025 - Hautlieu School, *Thinking with Photography*
+
     2025 - ArtHouse Jersey, *Art Masterclass Series: Photography*
 
     2025 - ArtHouse Jersey, *Sensory Drawing, I-III*
