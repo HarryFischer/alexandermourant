@@ -299,7 +299,8 @@ Education:
 
     2014 - Gallery Magazine: Jersey Style Magazine no.110, *Blue Railing*
 - title: Selected Press / Interviews
-  year-text: "[Photo-Eye, *The Night and the First Sculpture*](https://www.photoeye.com/best-books-2024/details.cfm?FirstName=Awoiska&Lastname=van%20der%20Molen&catalog=ZK720)\n\n[Urbanautica
+  year-text: "[Collector Daily, *The Night and the First Sculpture*](https://collectordaily.com/alexander-mourant-the-night-and-the-first-sculpture/)\n\n[Photo-Eye,
+    *The Night and the First Sculpture*](https://www.photoeye.com/best-books-2024/details.cfm?FirstName=Awoiska&Lastname=van%20der%20Molen&catalog=ZK720)\n\n[Urbanautica
     Podcast, Ep. #33: *Jersey Roots, Japanese Forests: Exploring Heritage and Horizons
     with Alexander Mourant*](https://youtu.be/5-nzNR-bLNA?si=jBV2KqKPKmwM3TDt)\n\nITV
     News, *The Land and Us – La Tèrre et Nous*\n\nBBC Radio Jersey, *The Land and
