@@ -249,6 +249,8 @@ Education:
   year-text: |-
     2025 - ArtHouse Jersey - www.arthouse.je
 
+    2024 - Arts Council Norway - www.kulturradet.no
+
     2023 - Arts Council Norway - www.kulturradet.no
 
     2021 - ArtHouse Jersey - www.arthouse.je
