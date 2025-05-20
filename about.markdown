@@ -152,41 +152,19 @@ Education:
 
     2023 - Eyecan, ArtHouse Jersey, *Sensory Redirection: The Journey of a Leaf Falling*
 
-    2023 - Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games IV*
-
-    2023 - Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games III*
-
-    2023 - Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games II*
-
-    2023 - Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games I*
+    2023 - Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games I-IV*
 
     2023 - Hayward Gallery, *Mike Nelson: Secondary Schools Takeover Day*
 
-    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons V*
-
-    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons IV*
-
-    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons III*
-
-    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons II*
-
-    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons I*
+    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons I-V*
 
     2022 - Hayward Gallery, *Strange Clay: Primary Schools Takeover Day*
 
-    2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay IV*
-
-    2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay III*
-
-    2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay II*
-
-    2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay I*
+    2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay I-V*
 
     2022 - GRAIN Projects, East Meets West Masterclass, Revolv Collective, *On Collective Working*
 
-    2022 - Greengate School, *A House by the Sea II*
-
-    2022 - Greengate School, *A House by the Sea I*
+    2022 - Greengate School, *A House by the Sea I-II*
 
     2022 - Greengate School, Earnse Bay, *Whistle for the Wind*
 
