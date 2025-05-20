@@ -148,23 +148,23 @@ Education:
 
     2023 - ArtHouse Jersey, *Sketching the Land: Photography, Drawing & Nature*
 
-    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands I–VI*
+    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands, I–VI*
 
     2023 - Eyecan, ArtHouse Jersey, *Sensory Redirection: The Journey of a Leaf Falling*
 
-    2023 - Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games I-IV*
+    2023 - Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games, I-IV*
 
     2023 - Hayward Gallery, *Mike Nelson: Secondary Schools Takeover Day*
 
-    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons I-V*
+    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons, I-V*
 
     2022 - Hayward Gallery, *Strange Clay: Primary Schools Takeover Day*
 
-    2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay I-V*
+    2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay, I-V*
 
     2022 - GRAIN Projects, East Meets West Masterclass, Revolv Collective, *On Collective Working*
 
-    2022 - Greengate School, *A House by the Sea I-II*
+    2022 - Greengate School, *A House by the Sea, I-II*
 
     2022 - Greengate School, Earnse Bay, *Whistle for the Wind*
 
