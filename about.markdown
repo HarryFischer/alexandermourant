@@ -136,6 +136,8 @@ Education:
     2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Workshops
   year-text: |-
+    2025 - d'Auvergne School, *The Return: Wizards and Islands, Part III, I–VI*
+
     2025 - National Portrait Gallery, *Photo Portrait Now*
 
     2025 - Hautlieu School, *Thinking with Photography*
@@ -205,27 +207,19 @@ Education:
     - [On Living Stones and Reaching: *The Wilderness of Words*](https://www.alexandermourant.com/on-living-stones-and-reaching)\n\n2019
     - *The Journal: On Being Someone Other*\n\n2017 - *Land Art, Photography and Time*"
 - title: 'Commissions / Residencies '
-  year-text: "2025 - Henry Moore Institute, Research Fellowship\n\n2024 - ArtHouse
-    Jersey, *The Land and Us – La Tèrre et Nous*\n\n2023 - NŌUA, *Project Room #1*\n\n2022
-    - Hapax Magazine, Issue 3 (2022/2023), *North East South West* \n\n2020 - The
-    Eye Sees, Arles, Entractes 14, *When the Image Returns to Glass*\n\n2020 - HGG
-    London, *The Bell Tower*\n\n2019 - FT Weekend Magazine / Photo London, *My London*\n\n2018
-    - The Greatest Magazine, Issue 14, *The Lightness*"
+  year-text: "2025 - Henry Moore Institute, *Visiting Research Fellowship*\n\n2024
+    - ArtHouse Jersey, *The Land and Us – La Tèrre et Nous*\n\n2023 - NŌUA, *Project
+    Room #1*\n\n2022 - Hapax Magazine, Issue 3 (2022/2023), *North East South West*
+    \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the Image Returns to Glass*\n\n2020
+    - HGG London, *The Bell Tower*\n\n2019 - FT Weekend Magazine / Photo London, *My
+    London*\n\n2018 - The Greatest Magazine, Issue 14, *The Lightness*"
 - title: Awards
-  year-text: |-
-    2019 - Foam Paul Huf Award - Nomination
-
-    2017 - Free Range Award - Winner
-
-    2017 - Metro Imaging Award - Winner
-
-    2017 - South West Graduate Photography Prize - Finalist
-
-    2016 - NCVO and PhotoVoice Photography Prize - Finalist
-
-    2015 - Jersey Arts Centre's, Original Student Art Award - Winner
-
-    2015 - theprintspace, PhotoVoice Awards - Finalist
+  year-text: "2025 - Rencontres d'Arles Book Awards, Author Book Award - Shortlist
+    \n\n2019 - Foam Paul Huf Award - Nomination\n\n2017 - Free Range Award - Winner\n\n2017
+    - Metro Imaging Award - Winner\n\n2017 - South West Graduate Photography Prize
+    - Finalist\n\n2016 - NCVO and PhotoVoice Photography Prize - Finalist\n\n2015
+    - Jersey Arts Centre's, Original Student Art Award - Winner\n\n2015 - theprintspace,
+    PhotoVoice Awards - Finalist"
 - title: Grants
   year-text: |-
     2025 - ArtHouse Jersey - www.arthouse.je
