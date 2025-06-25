@@ -302,7 +302,7 @@ Education:
     Studios\n\n[Unveil'd](https://unveild.online/feature/aomori)\n\n[British Journal
     of Photography](https://www.1854.photography/2018/01/mourantaomori/), *Aomori*\n\n[British
     Journal of Photography](https://www.1854.photography/2017/07/alexander-mourants-aurelian-study-of-time-and-memory-via-classic-butterfly-houses/),
-    *Aurelian* \n\n[The Plantation Journal](http://www.acornerwith.com/contributors)\n\n[iGNANT](https://www.ignant.com/submissions/aurelian-by-alexander-mourant/)\n\n[AINT-BAD](https://www.aint-bad.com/article/2017/06/21/alexander-mourant/)\n\n[Photograd](https://www.photograd.co.uk/alexander-mourant-2/)\n\nlosthenfound\n\nSIGH
+    *Aurelian* \n\n[A Corner With](https://www.acornerwith.com/alexander-mourant-collective-34)\n\n[iGNANT](https://www.ignant.com/submissions/aurelian-by-alexander-mourant/)\n\n[AINT-BAD](https://www.aint-bad.com/article/2017/06/21/alexander-mourant/)\n\n[Photograd](https://www.photograd.co.uk/alexander-mourant-2/)\n\nlosthenfound\n\nSIGH
     Journal\n\n[Source Magazine](https://www.source.ie/graduate/2017/falmunivba/falmunivba_student_17_49_47_10-05-17/falmunivba_student_17_49_47_10-05-17.php)\n\n[PYLOT
     Magazine](https://www.pylotmagazine.com/field-visit/)\n\nTRIP Magazine"
 layout: about
