@@ -99,25 +99,26 @@ Education:
     Falmouth University, BA Photography\n\n2019 - Guest Lecturer, University of Huddersfield,
     All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer, Kingston University, BA Photography"
 - title: Talks / Panel Discussions
-  year-text: "2025 - Photofusion, Janet Hall Memorial Lecture, *The Next Photographic
-    Idea*\n\n2024 - Mulhouse Museum of Fine Arts, Biennale de la Photographie de Mulhouse,
-    Awoiska van der Molen & Alexander Mourant\n\n2024 - Mulhouse Museum of Fine Arts,
-    Biennale de la Photographie de Mulhouse, Nigel Baldacchino & Alexander Mourant\n\n2024
-    - Eye to Pencil, *The Phantom Pencil: Drawing Under the Surface*\n\n2024 - London
-    Art Fair, Photo50 Panel, *Land Matters*, with Christiane Monarchi, Almudena Romero
-    & Marisa Culatto \n\n2023 - NŌUA, *On Living Stones and Reaching*\n\n2022 - Livingmaps
-    Network, *A Place to Call Home*\n\n2021 - Four Corners, London Creative Network,
-    *On Collective Practice*\n\n2021 - Revolv Collective, Conversations with Artists,
-    Laura Bivolaru x Alexander Mourant, *A Vertigo Like Self*\n\n2021 - VOID Collective,
-    *Digital Futures among an Earthly Land*\n\n2020 - Royal College of Art, *On Borders
-    and Being*, with Julia Crabtree, Katie Bret-Day & Roei Greenberg\n\n2020 - Seen
-    Fifteen, *Time Light Chance*, with Lina Ivanova & Victoria Doyle\n\n2020 - ArtLacuna,
-    *What’s a Can of Worms Between Mates?* with Victoria Doyle, Krasimira Butseva
-    & Harry Gammer-Flitcroft\n\n2019 - Copeland Gallery, *On Blue and Photography*,
-    with Duncan Wooldridge, Tom Pope & Simone Mudde\n\n2019 - Peckham 24, *Visualising
-    Community*, with Karen McQuaid, Marianne Bjørnmyr, D Wiafe & Max Miechowski\n\n2018
-    - The Old Truman Brewery, *Aomori*, with Professor Steve Macleod\n\n2018 - Bryanston
-    School, Artist Talk"
+  year-text: "2025 - Henry Moore Institute, *Anti-Monumentality and the Afterlives
+    of ‘Land Art’ in Britain*\n\n2025 - Photofusion, Janet Hall Memorial Lecture,
+    *The Next Photographic Idea*\n\n2024 - Mulhouse Museum of Fine Arts, Biennale
+    de la Photographie de Mulhouse, Awoiska van der Molen & Alexander Mourant\n\n2024
+    - Mulhouse Museum of Fine Arts, Biennale de la Photographie de Mulhouse, Nigel
+    Baldacchino & Alexander Mourant\n\n2024 - Eye to Pencil, *The Phantom Pencil:
+    Drawing Under the Surface*\n\n2024 - London Art Fair, Photo50 Panel, *Land Matters*,
+    with Christiane Monarchi, Almudena Romero & Marisa Culatto \n\n2023 - NŌUA, *On
+    Living Stones and Reaching*\n\n2022 - Livingmaps Network, *A Place to Call Home*\n\n2021
+    - Four Corners, London Creative Network, *On Collective Practice*\n\n2021 - Revolv
+    Collective, Conversations with Artists, Laura Bivolaru x Alexander Mourant, *A
+    Vertigo Like Self*\n\n2021 - VOID Collective, *Digital Futures among an Earthly
+    Land*\n\n2020 - Royal College of Art, *On Borders and Being*, with Julia Crabtree,
+    Katie Bret-Day & Roei Greenberg\n\n2020 - Seen Fifteen, *Time Light Chance*, with Lina
+    Ivanova & Victoria Doyle\n\n2020 - ArtLacuna, *What’s a Can of Worms Between Mates?*
+    with Victoria Doyle, Krasimira Butseva & Harry Gammer-Flitcroft\n\n2019 - Copeland
+    Gallery, *On Blue and Photography*, with Duncan Wooldridge, Tom Pope & Simone
+    Mudde\n\n2019 - Peckham 24, *Visualising Community*, with Karen McQuaid, Marianne
+    Bjørnmyr, D Wiafe & Max Miechowski\n\n2018 - The Old Truman Brewery, *Aomori*,
+    with Professor Steve Macleod\n\n2018 - Bryanston School, Artist Talk"
 - title: Community & Creative Learning
   year-text: |-
     2023 - ArtHouse Jersey, Artist Educator, *Making Art Partnerships in Schools II*
@@ -137,7 +138,7 @@ Education:
     2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Workshops
   year-text: |-
-    2025 - d'Auvergne School, *The Return: Wizards and Islands, Part III, I–VI*
+    2025 - d'Auvergne School, *The Return: Wizards and Islands, Part III, I–IIII*
 
     2025 - National Portrait Gallery, *Photo Portrait Now*
 
@@ -240,6 +241,8 @@ Education:
     2017 - ArtHouse Jersey - www.arthouse.je
 - title: Publications
   year-text: |-
+    2025 - Source Magazine, Issue 119, *The Night and the First Sculpture*
+
     2023 - Tall Poppy Press, *Site Specific: Photography Exhibitions from around the World*, edited by Matt Dunne
     and Callum Beaney
 
