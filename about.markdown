@@ -88,16 +88,17 @@ Education:
     - Visiting Lecturer, University of Westminster, BA (Hons) Photography\n\n2022
     - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography \n\n2022
     - Visiting Lecturer and Tutor, University of Westminster, BA (Hons) Photography\n\n2025
-    - Guest Lecturer, UWE Bristol, BA Photography\n\n2025 - Guest Lecturer, University
-    of Westminster, BA Photography\n\n2025 - Guest Lecturer, Falmouth University,
-    BA Photography (Online)\n\n2022 - Guest Lecturer, Kingston University, BA Photography\n\n2022
-    - Guest Lecturer, Falmouth University, MA Photography \n\n2021 - Guest Lecturer,
-    Kingston University, BA Photography\n\n2021 - Guest Lecturer, Arts University
-    Bournemouth, BA Photography\n\n2021 - Guest Lecturer, Swansea College of Art,
-    BA Photography\n\n2020 - Guest Lecturer, Kingston University, BA Photography\n\n2019
-    - Guest Lecturer, Kingston University, BA Photography\n\n2019 - Guest Lecturer,
-    Falmouth University, BA Photography\n\n2019 - Guest Lecturer, University of Huddersfield,
-    All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer, Kingston University, BA Photography"
+    - Guest Lecturer, Highlands College, Art Foundation\n\n2025 - Guest Lecturer,
+    UWE Bristol, BA Photography\n\n2025 - Guest Lecturer, University of Westminster,
+    BA Photography\n\n2025 - Guest Lecturer, Falmouth University, BA Photography (Online)\n\n2022
+    - Guest Lecturer, Kingston University, BA Photography\n\n2022 - Guest Lecturer,
+    Falmouth University, MA Photography \n\n2021 - Guest Lecturer, Kingston University,
+    BA Photography\n\n2021 - Guest Lecturer, Arts University Bournemouth, BA Photography\n\n2021
+    - Guest Lecturer, Swansea College of Art, BA Photography\n\n2020 - Guest Lecturer,
+    Kingston University, BA Photography\n\n2019 - Guest Lecturer, Kingston University,
+    BA Photography\n\n2019 - Guest Lecturer, Falmouth University, BA Photography\n\n2019
+    - Guest Lecturer, University of Huddersfield, All Levels (BA, MA & PhD) \n\n2018
+    - Guest Lecturer, Kingston University, BA Photography"
 - title: Talks / Panel Discussions
   year-text: "2025 - Henry Moore Institute, *Anti-Monumentality and the Afterlives
     of ‘Land Art’ in Britain*\n\n2025 - Photofusion, Janet Hall Memorial Lecture,
@@ -141,6 +142,8 @@ Education:
     2025 - d'Auvergne School, *The Return: Wizards and Islands, Part III, I–IIII*
 
     2025 - National Portrait Gallery, *Photo Portrait Now*
+
+    2025 - Hautlieu School, *Thinking with Photography II*
 
     2025 - Hautlieu School, *Thinking with Photography*
 
