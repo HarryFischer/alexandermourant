@@ -3,32 +3,14 @@ title: About
 permalink: "/about/"
 position: 20
 Content:
-- about-text: "Contact: alexander@alexandermourant.com<br>\nInstagram: [@alexandermourant](http://www.instagram.com/alexandermourant)\n<br>\n<br>\nAlexander
-    Mourant is an artist, educator and writer based in London. His first publication,
-    *[The Night and the First Sculpture](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)*,
-    was published by Folium, 2024. He is a Visiting Research Fellow at the Henry Moore
-    Institute (2025-2026). Recent exhibitions include *To Walk in the Image*, Lismore
-    Castle Arts, Ireland (2023), *At the Farthest Edge: Rebuilding Photography*, NŌUA,
-    Norway (2023) and *A Sudden Vanishing*, Seen Fifteen Gallery, London (2023). Mourant
-    is a recipient of grants from Arts Council Norway, Arts Council England and ArtHouse
-    Jersey. He has been commissioned by FT Weekend Magazine, Hapax Magazine and The
-    Greatest Magazine, and included in BJP, The Guardian, Photograph, Photoworks,
-    METAL Magazine and Photomonitor. He won the Free Range Award and was nominated
-    for the Foam Paul Huf Award. Mourant is a Member of [Revolv Collective](https://revolv.org.uk)
-    and Contributor at [C4 Journal](https://c4journal.com). He achieved BA Photography
-    at Falmouth University, and MA Photography at Royal College of Art, London. He
-    is a Lecturer in Photography at [Kingston University](https://www.kingston.ac.uk/undergraduate/courses/photography/).
-    \n<br>\n<br>\nThe work of Alexander Mourant embraces autobiography, literature
-    and reference-based thinking, to create narratives that question the relationship
-    between the body and the photographic medium. His  practice is a deeply rooted
-    investigation into photography, writing, performance and sculpture, and seeks
-    to uncover a parallelism between action and theoretical discourse. Known for his
-    post-conceptual approach and expanded [research](https://www.instagram.com/alexandermourant/),
-    he often utilises methodologies cultivated by the 1960s-70s Land Art movement,
-    Performance and Arte Povera, to help question, or push, our understanding of the
-    photographic. Mourant proposes how images may deal with temporality, spatiality
-    and reflexivity, through new ways of thinking, and alludes to the photographic
-    becoming a terrain itself, and a place we traverse."
+- about-text: |-
+    Contact: alexander@alexandermourant.com<br>
+    Instagram: [@alexandermourant](http://www.instagram.com/alexandermourant)
+    <br>
+    <br>
+    Alexander Mourant is an artist, educator and writer based in London. He is a Lecturer in Photography at [Kingston University](https://www.kingston.ac.uk/study/undergraduate/photography-ba-hons). His first publication, [*The Night and the First Sculpture*](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture), was published by Folium (2024), and was shortlisted for the Author Book Award at Rencontres d’Arles (2025). Mourant is a Visiting Research Fellow in Sculpture at the Henry Moore Institute (2025-2026), and recently presented at the symposium, *Anti-Monumentality and the Afterlives of ‘Land Art’ in Britain* (2025). 
+    <br>
+    Recent exhibitions include *To Walk in the Image*, Lismore Castle Arts, Ireland (2023); *At the Farthest Edge: Rebuilding Photography*, NŌUA, Norway (2023); and *A Sudden Vanishing*, Seen Fifteen Gallery, London (2023). He is a recipient of grants from Arts Council Norway, Arts Council England and ArtHouse Jersey. He has been commissioned by FT Weekend Magazine, Hapax Magazine and The Greatest Magazine, and included in British Journal of Photography, The Guardian, Photograph, Photoworks, METAL Magazine and Photomonitor. He won the Free Range Award (2017) and was nominated for the Foam Paul Huf Award (2019). Mourant is a Member of [Revolv Collective](https://www.instagram.com/revolvcollective/?hl=en) and Contributor at [C4 Journal](https://c4journal.com). He achieved BA Photography at Falmouth University, and MA Photography at Royal College of Art, London.
 Education:
 - title: Education
   year-text: |-
