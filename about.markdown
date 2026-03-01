@@ -16,12 +16,10 @@ Education:
 
     2017 - Falmouth University, BA (Hons) Photography (First Class Honours)
 - title: Solo Exhibitions / Monographs
-  year-text: |-
-    2024 - [Folium, *The Night and the First Sculpture*](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)
-
-    2018 - Unseen Amsterdam, *Aomori*, Seen Fifteen Gallery, Amsterdam, NL
-
-    2018 - The Old Truman Brewery, *Aomori*, London, UK
+  year-text: "2026 - FILET, *Bruises*, London, UK \n\n2024 - [Folium, *The Night and
+    the First Sculpture*](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture)\n\n2018
+    - Unseen Amsterdam, *Aomori*, Seen Fifteen Gallery, Amsterdam, NL\n\n2018 - The
+    Old Truman Brewery, *Aomori*, London, UK"
 - title: Group Exhibitions
   year-text: "2024 - [ArtHouse Jersey, *The Land and Us – La Tèrre et Nous*, Jersey,
     UK](https://www.arthousejersey.je/our-work/the-land-us)\n\n2023 - Seen Fifteen
