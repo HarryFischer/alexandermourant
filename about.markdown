@@ -21,10 +21,10 @@ Education:
     - Unseen Amsterdam, *Aomori*, Seen Fifteen Gallery, Amsterdam, NL\n\n2018 - The
     Old Truman Brewery, *Aomori*, London, UK"
 - title: Group Exhibitions
-  year-text: "2024 - [ArtHouse Jersey, *The Land and Us – La Tèrre et Nous*, Jersey,
-    UK](https://www.arthousejersey.je/our-work/the-land-us)\n\n2023 - Seen Fifteen
-    Gallery, *A Sudden Vanishing*, curated by Vivienne Gamble, London, UK \n\n2023
-    - [NŌUA, *At the Farthest Edge: Rebuilding Photography*, Bodø, NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)\n\n2023
+  year-text: "2026 - Peckham 24, *Eras Edition*, London, UK\n\n2024 - [ArtHouse Jersey,
+    *The Land and Us – La Tèrre et Nous*, Jersey, UK](https://www.arthousejersey.je/our-work/the-land-us)\n\n2023
+    - Seen Fifteen Gallery, *A Sudden Vanishing*, curated by Vivienne Gamble, London,
+    UK \n\n2023 - [NŌUA, *At the Farthest Edge: Rebuilding Photography*, Bodø, NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)\n\n2023
     - [Lismore Castle Arts, *To Walk in the Image*, curated by Susan Bright, Lismore,
     IE](https://lismorecastlearts.ie/whats-on/to-walk-in-the-image)\n\n2022 - Seen
     Fifteen Gallery, *Orbits*, Revolv Collective, London, UK\n\n2022 - Photo50, London
@@ -49,6 +49,8 @@ Education:
     Magazine: Student Awards, Jersey, UK"
 - title: Curation
   year-text: |-
+    2026 - Curator: [Peckham 24, *Eras Edition*](https://www.peckham24.com)
+
     2024 - Curator: [*Grafting: The Land and the Artist*, Photo50, London Art Fair, UK](https://www.londonartfair.co.uk/fair-programme/photo50/)
 
     2024 - Curator: [*The Land and Us – La Tèrre et Nous*, ArtHouse Jersey, Jersey, UK](https://www.arthousejersey.je/our-work/the-land-us)
@@ -77,27 +79,28 @@ Education:
     BA Photography\n\n2019 - Guest Lecturer, Falmouth University, BA Photography\n\n2019
     - Guest Lecturer, University of Huddersfield, All Levels (BA, MA & PhD) \n\n2018
     - Guest Lecturer, Kingston University, BA Photography"
-- title: Talks / Panel Discussions
-  year-text: "2025 - Henry Moore Institute, *Anti-Monumentality and the Afterlives
-    of ‘Land Art’ in Britain*\n\n2025 - Photofusion, Janet Hall Memorial Lecture,
-    *The Next Photographic Idea*\n\n2024 - Mulhouse Museum of Fine Arts, Biennale
-    de la Photographie de Mulhouse, Awoiska van der Molen & Alexander Mourant\n\n2024
-    - Mulhouse Museum of Fine Arts, Biennale de la Photographie de Mulhouse, Nigel
-    Baldacchino & Alexander Mourant\n\n2024 - Eye to Pencil, *The Phantom Pencil:
-    Drawing Under the Surface*\n\n2024 - London Art Fair, Photo50 Panel, *Land Matters*,
-    with Christiane Monarchi, Almudena Romero & Marisa Culatto \n\n2023 - NŌUA, *On
-    Living Stones and Reaching*\n\n2022 - Livingmaps Network, *A Place to Call Home*\n\n2021
-    - Four Corners, London Creative Network, *On Collective Practice*\n\n2021 - Revolv
-    Collective, Conversations with Artists, Laura Bivolaru x Alexander Mourant, *A
-    Vertigo Like Self*\n\n2021 - VOID Collective, *Digital Futures among an Earthly
-    Land*\n\n2020 - Royal College of Art, *On Borders and Being*, with Julia Crabtree,
-    Katie Bret-Day & Roei Greenberg\n\n2020 - Seen Fifteen, *Time Light Chance*, with Lina
-    Ivanova & Victoria Doyle\n\n2020 - ArtLacuna, *What’s a Can of Worms Between Mates?*
-    with Victoria Doyle, Krasimira Butseva & Harry Gammer-Flitcroft\n\n2019 - Copeland
-    Gallery, *On Blue and Photography*, with Duncan Wooldridge, Tom Pope & Simone
-    Mudde\n\n2019 - Peckham 24, *Visualising Community*, with Karen McQuaid, Marianne
-    Bjørnmyr, D Wiafe & Max Miechowski\n\n2018 - The Old Truman Brewery, *Aomori*,
-    with Professor Steve Macleod\n\n2018 - Bryanston School, Artist Talk"
+- title: Talks / Panels / Symposiums
+  year-text: "2026 - Filet, Alexander Mourant & Rut Blees Luxemburg, *Bruises*\n\n2025
+    - Henry Moore Institute, *Anti-Monumentality and the Afterlives of ‘Land Art’
+    in Britain*\n\n2025 - Photofusion, Janet Hall Memorial Lecture, *The Next Photographic
+    Idea*\n\n2024 - Mulhouse Museum of Fine Arts, Biennale de la Photographie de Mulhouse,
+    Awoiska van der Molen & Alexander Mourant\n\n2024 - Mulhouse Museum of Fine Arts,
+    Biennale de la Photographie de Mulhouse, Nigel Baldacchino & Alexander Mourant\n\n2024
+    - Eye to Pencil, *The Phantom Pencil: Drawing Under the Surface*\n\n2024 - London
+    Art Fair, Photo50 Panel, *Land Matters*, with Christiane Monarchi, Almudena Romero
+    & Marisa Culatto \n\n2023 - NŌUA, *On Living Stones and Reaching*\n\n2022 - Livingmaps
+    Network, *A Place to Call Home*\n\n2021 - Four Corners, London Creative Network,
+    *On Collective Practice*\n\n2021 - Revolv Collective, Conversations with Artists,
+    Laura Bivolaru x Alexander Mourant, *A Vertigo Like Self*\n\n2021 - VOID Collective,
+    *Digital Futures among an Earthly Land*\n\n2020 - Royal College of Art, *On Borders
+    and Being*, with Julia Crabtree, Katie Bret-Day & Roei Greenberg\n\n2020 - Seen
+    Fifteen, *Time Light Chance*, with Lina Ivanova & Victoria Doyle\n\n2020 - ArtLacuna,
+    *What’s a Can of Worms Between Mates?* with Victoria Doyle, Krasimira Butseva
+    & Harry Gammer-Flitcroft\n\n2019 - Copeland Gallery, *On Blue and Photography*,
+    with Duncan Wooldridge, Tom Pope & Simone Mudde\n\n2019 - Peckham 24, *Visualising
+    Community*, with Karen McQuaid, Marianne Bjørnmyr, D Wiafe & Max Miechowski\n\n2018
+    - The Old Truman Brewery, *Aomori*, with Professor Steve Macleod\n\n2018 - Bryanston
+    School, Artist Talk"
 - title: Community & Creative Learning
   year-text: |-
     2023 - ArtHouse Jersey, Artist Educator, *Making Art Partnerships in Schools II*
