@@ -21,8 +21,8 @@ Education:
     - Unseen Amsterdam, *Aomori*, Seen Fifteen Gallery, Amsterdam, NL\n\n2018 - The
     Old Truman Brewery, *Aomori*, London, UK"
 - title: Group Exhibitions
-  year-text: "2026 - Peckham 24, *Eras Edition*, London, UK\n\n2024 - [ArtHouse Jersey,
-    *The Land and Us – La Tèrre et Nous*, Jersey, UK](https://www.arthousejersey.je/our-work/the-land-us)\n\n2023
+  year-text: "2026 - [Peckham 24, *Eras Edition*, London, UK](https://www.peckham24.com)\n\n2024
+    - [ArtHouse Jersey, *The Land and Us – La Tèrre et Nous*, Jersey, UK](https://www.arthousejersey.je/our-work/the-land-us)\n\n2023
     - Seen Fifteen Gallery, *A Sudden Vanishing*, curated by Vivienne Gamble, London,
     UK \n\n2023 - [NŌUA, *At the Farthest Edge: Rebuilding Photography*, Bodø, NO](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)\n\n2023
     - [Lismore Castle Arts, *To Walk in the Image*, curated by Susan Bright, Lismore,
