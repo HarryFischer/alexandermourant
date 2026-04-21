@@ -49,7 +49,7 @@ Education:
     Magazine: Student Awards, Jersey, UK"
 - title: Curation
   year-text: |-
-    2026 - Curator: [Peckham 24, *Eras Edition*](https://www.peckham24.com)
+    2026 - Curator: [Peckham 24, *Eras Edition*(https://www.peckham24.com), London, UK]
 
     2024 - Curator: [*Grafting: The Land and the Artist*, Photo50, London Art Fair, UK](https://www.londonartfair.co.uk/fair-programme/photo50/)
 
