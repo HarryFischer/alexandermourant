@@ -80,7 +80,7 @@ Education:
     - Guest Lecturer, University of Huddersfield, All Levels (BA, MA & PhD) \n\n2018
     - Guest Lecturer, Kingston University, BA Photography"
 - title: Talks / Panels / Symposiums
-  year-text: "2026 - Photoworks X Peckham 24: Alexander Mourant, Eugenie Shinkle &
+  year-text: "2026 - Photoworks x Peckham 24: Alexander Mourant, Eugenie Shinkle &
     Julie F Hill, in conversation with Diane Smyth\n\n2026 - Filet, Alexander Mourant
     & Rut Blees Luxemburg, *Bruises*\n\n2025 - Henry Moore Institute, *Anti-Monumentality
     and the Afterlives of ‘Land Art’ in Britain*\n\n2025 - Photofusion, Janet Hall
