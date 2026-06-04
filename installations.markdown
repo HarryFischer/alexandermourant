@@ -4,6 +4,17 @@ date: 2021-03-01 17:53:00 Z
 position: 21
 Content:
 - image: "/uploads/P24-AlexanderMourant-1.jpg"
+  video: 
+  caption-text: "Peckham 24: Eras Edition, 2026\n\n*Ensemble IV*, 2026 "
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: 
+  caption-text: "Peckham 24: Eras Edition, 2026\n\n*Ensemble IV*, 2026 "
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: 
   caption-text: "Peckham 24: Eras Edition, 2026\n\n*Ensemble IV*, 2026 "
   image-size: medium
   image-position: middle
