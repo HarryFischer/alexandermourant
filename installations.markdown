@@ -9,12 +9,12 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: 
+- image: "/uploads/P24-AlexanderMourant-2.jpg"
   caption-text: "Peckham 24: Eras Edition, 2026\n\n*Ensemble IV*, 2026 "
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: 
+- image: "/uploads/P24-AlexanderMourant-3.jpg"
   caption-text: "Peckham 24: Eras Edition, 2026\n\n*Ensemble IV*, 2026 "
   image-size: medium
   image-position: middle
