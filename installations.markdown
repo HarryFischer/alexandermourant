@@ -19,6 +19,26 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/P24-AlexanderMourant-6.jpg"
+  caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 "
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/P24-AlexanderMourant-8.jpg"
+  caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 "
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/P24-AlexanderMourant-22.jpg"
+  caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 "
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/P24-AlexanderMourant-23.jpg"
+  caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 "
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/The%20Partial%20Formation%20of%20a%20Roof%20-%20Alexander%20Mourant.jpg"
   video: 
   caption-text: |-
@@ -596,26 +616,6 @@ Content:
     *Forest III*, 2017; *Dissipate II*, 2017; *City II*, 2017
   image-size: medium
   image-position: middle
-  image-margin-right: 
-- image: "/uploads/P24-AlexanderMourant-6.jpg"
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
-- image: "/uploads/P24-AlexanderMourant-8.jpg"
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
-- image: "/uploads/P24-AlexanderMourant-22.jpg"
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
-- image: "/uploads/P24-AlexanderMourant-23.jpg"
-  caption-text: 
-  image-size: 
-  image-position: 
   image-margin-right: 
 - image: "/uploads/P24-AlexanderMourant-24.jpg"
   caption-text: 
