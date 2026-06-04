@@ -597,6 +597,26 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: 
+- image: "/uploads/P24-AlexanderMourant-6.jpg"
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+- image: "/uploads/P24-AlexanderMourant-8.jpg"
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+- image: "/uploads/P24-AlexanderMourant-22.jpg"
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+- image: "/uploads/P24-AlexanderMourant-23.jpg"
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
 layout: installations
 ---
 
