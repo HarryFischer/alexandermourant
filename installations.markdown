@@ -3,7 +3,13 @@ title: Installations
 date: 2021-03-01 17:53:00 Z
 position: 21
 Content:
+- image: "/uploads/P24-AlexanderMourant-1.jpg"
+  caption-text: "Peckham 24: Eras Edition, 2026\n\n*Ensemble IV*, 2026 "
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/The%20Partial%20Formation%20of%20a%20Roof%20-%20Alexander%20Mourant.jpg"
+  video: 
   caption-text: |-
     [The Night and the First Sculpture](https://www.alexandermourant.com/the-night-and-the-first-sculpture), 2024
 
@@ -49,16 +55,6 @@ Content:
   image-position: middle
   image-margin-right: medium
 - image: "/uploads/ATreeDraws-1.jpg"
-  caption-text: |-
-    ArtHouse Jersey, 2024
-
-    *The Land and Us – La Tèrre et Nous*
-
-    *A Tree Draws*, 2024
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/ATreeDraws-3%202.jpg"
   caption-text: |-
     ArtHouse Jersey, 2024
 
@@ -494,26 +490,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-9.jpg"
-  caption-text: |-
-    Royal College of Art, 2020
-
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
-
-    *Vitrum VI*, 2019; *Fall I & II* (diptych), 2019; *Vitrum VIII*, 2019
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-12.jpg"
-  caption-text: |-
-    Royal College of Art, 2020
-
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
-
-    *Vitrum X*, 2019; *Vitrum IX*, 2019; *Fall I & II* (diptych), 2019; *Vitrum VIII*, 2019; *Vitrum XI*, 2018
-  image-size: medium
-  image-position: middle
-  image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-31.jpg"
   caption-text: |-
     Unseen Amsterdam, 2019
