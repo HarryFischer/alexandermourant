@@ -29,7 +29,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/P24-AlexanderMourant-22.jpg"
+- image: "/uploads/P24-AlexanderMourant-9.jpg"
   caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 "
   image-size: medium
   image-position: middle
@@ -52,6 +52,14 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/P24-AlexanderMourant-5.jpg"
+  caption-text: |-
+    Peckham 24: Eras Edition, 2026
+
+    *Imago (I-V)* & *The Promise (I-IV)*, 2025-2026
+  image-size: medium
+  image-position: middle
+  image-margin-right: medium
 - image: "/uploads/The%20Partial%20Formation%20of%20a%20Roof%20-%20Alexander%20Mourant.jpg"
   video: 
   caption-text: |-
@@ -584,11 +592,6 @@ Content:
     *Forest III*, 2017; *Dissipate II*, 2017; *City II*, 2017
   image-size: medium
   image-position: middle
-  image-margin-right: 
-- image: 
-  caption-text: 
-  image-size: 
-  image-position: 
   image-margin-right: 
 layout: installations
 ---
