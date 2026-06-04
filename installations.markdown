@@ -118,31 +118,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/NOUA-3.jpg"
-  video: 
-  caption-text: |-
-    NŌUA, 2023
-
-    *[At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)*
-
-    Curated by Alexander Mourant
-
-    Lunenburg, McCullough & Mourant
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/NOUA-4.jpg"
-  caption-text: |-
-    NŌUA, 2023
-
-    *[At the Farthest Edge: Rebuilding Photography](https://www.noua.no/en/exhibitions/alexander-mourant-uk-bart-lunenburg-nl-jan-mccullough-ie-at-the-farthest-edge-rebuilding-photography)*
-
-    Curated by Alexander Mourant
-
-    Lunenburg, McCullough & Mourant
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/NOUA-7.jpg"
   video: 
   caption-text: |-
@@ -374,16 +349,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-5.jpg"
-  caption-text: |-
-    Mont au Prêtre Farm, 2020
-
-    *[On Living Stones and Reaching](/on-living-stones-and-reaching)*
-
-    *Five Furrows*, 2020
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-26.jpg"
   caption-text: |-
     Mont au Prêtre Farm, 2020
@@ -473,16 +438,6 @@ Content:
     *Vitrum IX*, 2019
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-18.jpg"
-  caption-text: |-
-    Edel Assanti, 2020
-
-    *[With fists, it kicks, it bites](/i-could-not-tell-glass-from-air)*
-
-    *Vitrum I*, 2019
-  image-size: medium
-  image-position: middle
   image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-11.jpg"
   caption-text: |-
@@ -533,7 +488,7 @@ Content:
     *A Gesture of Brambles*, 2019
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-31.jpg"
   caption-text: |-
     Unseen Amsterdam, 2019
