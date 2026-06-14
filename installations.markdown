@@ -28,14 +28,20 @@ Content:
   caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 "
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/P24-AlexanderMourant-9.jpg"
-  caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 "
+  image-margin-right: medium
+- image: "/uploads/Bruises-AlexanderMourant-2.jpg"
+  caption-text: |-
+    Filet, *Bruises*, 2026
+
+    *Split Cab (Green)*, 2026
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/P24-AlexanderMourant-23.jpg"
-  caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 "
+- image: "/uploads/Bruises-AlexanderMourant-6.jpg"
+  caption-text: |-
+    Filet, *Bruises*, 2026
+
+    *Orange Machine*, 2025
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
