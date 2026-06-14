@@ -46,10 +46,13 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/P24-AlexanderMourant-24.jpg"
-  caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 "
+  caption-text: |-
+    Filet, *Bruises*, 2026
+
+    *Blue Tyre*, 2026
   image-size: medium
   image-position: middle
-  image-margin-right: medium
+  image-margin-right: xsmall
 - image: "/uploads/P24-AlexanderMourant-4.jpg"
   caption-text: |-
     Peckham 24: Eras Edition, 2026
