@@ -45,11 +45,19 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/P24-AlexanderMourant-24.jpg"
+- image: "/uploads/Bruises-AlexanderMourant-7.jpg"
   caption-text: |-
     Filet, *Bruises*, 2026
 
     *Blue Tyre*, 2026
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Bruises-AlexanderMourant-11.jpg"
+  caption-text: |-
+    Filet, *Bruises*, 2026
+
+    *Red Curve*, 2026
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
