@@ -93,7 +93,7 @@ Content:
     Silkscreen on aluminium
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/P24-AlexanderMourant-4.jpg"
   caption-text: |-
     Peckham 24: Eras Edition, 2026
