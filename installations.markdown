@@ -39,6 +39,8 @@ Content:
     Peckham 24: Eras Edition, 2026
 
     *Imago (I-V)* & *The Promise (I-IV)*, 2025-2026
+
+    Wax cast aluminium & bronze
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -47,6 +49,8 @@ Content:
     Peckham 24: Eras Edition, 2026
 
     *Imago (I-V)* & *The Promise (I-IV)*, 2025-2026
+
+    Wax cast aluminium & bronze
   image-size: medium
   image-position: middle
   image-margin-right: medium
