@@ -61,6 +61,14 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
+- image: "/uploads/Bruises-AlexanderMourant-Ensemble1-1.jpg"
+  caption-text: |-
+    Filet, *Bruises*, 2026
+
+    *Ensemble II (Baby Pink & Blue)*, 2026
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/P24-AlexanderMourant-4.jpg"
   caption-text: |-
     Peckham 24: Eras Edition, 2026
