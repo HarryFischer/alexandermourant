@@ -5,27 +5,32 @@ position: 21
 Content:
 - image: "/uploads/P24-AlexanderMourant-1.jpg"
   video: 
-  caption-text: "Peckham 24: Eras Edition, 2026\n\n*Ensemble IV*, 2026 "
+  caption-text: "Peckham 24: Eras Edition, 2026\n\n*Ensemble IV*, 2026 \n\nSilkscreen
+    on aluminium & steel, steel shelves"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/P24-AlexanderMourant-2.jpg"
-  caption-text: "Peckham 24: Eras Edition, 2026\n\n*Ensemble IV*, 2026 "
+  caption-text: "Peckham 24: Eras Edition, 2026\n\n*Ensemble IV*, 2026 \n\nSilkscreen
+    on aluminium & steel, steel shelves"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/P24-AlexanderMourant-3.jpg"
-  caption-text: "Peckham 24: Eras Edition, 2026\n\n*Ensemble IV*, 2026 "
+  caption-text: "Peckham 24: Eras Edition, 2026\n\n*Ensemble IV*, 2026 \n\nSilkscreen
+    on aluminium & steel, steel shelves"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/P24-AlexanderMourant-6.jpg"
-  caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 "
+  caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 \n\nSilkscreen
+    on aluminium & steel, steel shelves"
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
 - image: "/uploads/P24-AlexanderMourant-8.jpg"
-  caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 "
+  caption-text: "Peckham 24: Eras Edition, 2026\n\nDetail: *Ensemble IV*, 2026 \n\nSilkscreen
+    on aluminium & steel, steel shelves"
   image-size: medium
   image-position: middle
   image-margin-right: medium
@@ -34,6 +39,8 @@ Content:
     Filet, *Bruises*, 2026
 
     *Split Cab (Green)*, 2026
+
+    Silkscreen on aluminium
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -42,6 +49,8 @@ Content:
     Filet, *Bruises*, 2026
 
     *Orange Machine*, 2025
+
+    Silkscreen on aluminium
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -50,6 +59,8 @@ Content:
     Filet, *Bruises*, 2026
 
     *Blue Tyre*, 2026
+
+    Silkscreen on aluminium
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -58,6 +69,8 @@ Content:
     Filet, *Bruises*, 2026
 
     *Red Curve*, 2026
+
+    Silkscreen on aluminium
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
@@ -66,6 +79,18 @@ Content:
     Filet, *Bruises*, 2026
 
     *Ensemble II (Baby Pink & Blue)*, 2026
+
+    Silkscreen on aluminium
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Bruises-AlexanderMourant-Ensemble1-2.jpg"
+  caption-text: |-
+    Filet, *Bruises*, 2026
+
+    *Ensemble II (Baby Pink & Blue)*, 2026
+
+    Silkscreen on aluminium
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
