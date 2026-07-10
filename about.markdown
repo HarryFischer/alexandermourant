@@ -184,7 +184,7 @@ Education:
 
     2021 - Mosaic School, *A Greener Picture: Photography and Climate Change*
 - title: Writing
-  year-text: "2024 - [C4 Journal, Interview: Benjamin Jones and Alexander Mourant](https://c4journal.com/odd-sympathy-benjamin-jones-in-conversation-with-alexander-mourant/)\n\n2024
+  year-text: "2026 - [C4 Journal, Interview: Benjamin Jones and Alexander Mourant](https://c4journal.com/odd-sympathy-benjamin-jones-in-conversation-with-alexander-mourant/)\n\n2024
     - [C4 Journal, Review: *those eyes - these eyes - they fade (Part II)*](https://c4journal.com/those-eyes-these-eyes-they-fade-part-ii-at-musee-des-beaux-arts-mulhouse-france/)\n\n2023
     - [NŌUA, Catalogue Text: *Clare Strand: The Colder the Weather the Warmer the
     Hearts*](https://sites.google.com/view/clare-strand/home)\n\n2023 - [C4 Journal,
