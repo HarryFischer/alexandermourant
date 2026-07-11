@@ -381,9 +381,9 @@ Content:
   image-position: middle
   image-margin-right: xsmall
 Words:
-- interview-text: "# The Night and the First Sculpture\n<br>\n<br>\nCopies available,
-    please enquire: alexander@alexandermourant.com\n<br>\n<br>\n[Available now: Special
-    Edition (20 +2APs)](https://www.folium.site/shop/p/thenightandthefirstsculpture-specialedition)\n<br>\n<br>\n*The
+- interview-text: "# The Night and the First Sculpture\n<br>\n<br>\nTo purchase a
+    copy, please enquire: alexander@alexandermourant.com\n<br>\n<br>\n[Available now:
+    Special Edition (20 +2APs)](https://www.folium.site/shop/p/thenightandthefirstsculpture-specialedition)\n<br>\n<br>\n*The
     Night and the First Sculpture* (2024) is Alexander Mourant’s first publication,
     containing sculptures, performances and photographs, made on his family farm.
     Responding, firstly, to Robert Smithson’s *Island of Broken Glass* (1969/1970),
