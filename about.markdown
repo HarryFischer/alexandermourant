@@ -62,24 +62,6 @@ Education:
     2022 - Curator: *A Trip to Earnse Bay*, Cooke’s Studios, Barrow-in-Furness, UK
 
     2022 - Curator: *A Place to Call Home*, Southside Shopping Centre, Wandsworth, UK
-- title: Teaching
-  year-text: "2026 - Senior Lecturer, Kingston University, BA (Hons) Photography\n\n2023
-    - Lecturer, Kingston University, BA (Hons) Photography\n\n2023 - Visiting Tutor,
-    Arts University Bournemouth, BA (Hons) Photography \n\n2023 - Visiting Lecturer,
-    University of Westminster, BA (Hons) Photography\n\n2022 - Visiting Tutor, Arts
-    University Bournemouth, BA (Hons) Photography \n\n2022 - Visiting Lecturer and
-    Tutor, University of Westminster, BA (Hons) Photography\n\n2025 - Guest Lecturer,
-    Highlands College, Art Foundation\n\n2025 - Guest Lecturer, UWE Bristol, BA Photography\n\n2025
-    - Guest Lecturer, University of Westminster, BA Photography\n\n2025 - Guest Lecturer,
-    Falmouth University, BA Photography (Online)\n\n2022 - Guest Lecturer, Kingston
-    University, BA Photography\n\n2022 - Guest Lecturer, Falmouth University, MA Photography
-    \n\n2021 - Guest Lecturer, Kingston University, BA Photography\n\n2021 - Guest
-    Lecturer, Arts University Bournemouth, BA Photography\n\n2021 - Guest Lecturer,
-    Swansea College of Art, BA Photography\n\n2020 - Guest Lecturer, Kingston University,
-    BA Photography\n\n2019 - Guest Lecturer, Kingston University, BA Photography\n\n2019
-    - Guest Lecturer, Falmouth University, BA Photography\n\n2019 - Guest Lecturer,
-    University of Huddersfield, All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer,
-    Kingston University, BA Photography"
 - title: Talks / Panels / Symposiums
   year-text: "2026 - Photoworks x Peckham 24: Alexander Mourant, Eugenie Shinkle &
     Julie F Hill, in conversation with Diane Smyth\n\n2026 - Filet, Alexander Mourant
@@ -104,6 +86,32 @@ Education:
     with Karen McQuaid, Marianne Bjørnmyr, D Wiafe & Max Miechowski\n\n2018 - The
     Old Truman Brewery, *Aomori*, with Professor Steve Macleod\n\n2018 - Bryanston
     School, Artist Talk"
+- title: Fellowships / Residencies / Commissions
+  year-text: "2026 - Passerelle Centre d'art contemporain, *Territoires Extra Residency*\n\n2025
+    - Henry Moore Institute, *Visiting Research Fellowship*\n\n2024 - ArtHouse Jersey,
+    *The Land and Us – La Tèrre et Nous*\n\n2023 - NŌUA, *Project Room #1*\n\n2022
+    - Hapax Magazine, Issue 3 (2022/2023), *North East South West* \n\n2020 - The
+    Eye Sees, Arles, Entractes 14, *When the Image Returns to Glass*\n\n2020 - HGG
+    London, *The Bell Tower*\n\n2019 - FT Weekend Magazine / Photo London, *My London*\n\n2018
+    - The Greatest Magazine, Issue 14, *The Lightness*"
+- title: Teaching
+  year-text: "2026 - Senior Lecturer, Kingston University, BA (Hons) Photography\n\n2023
+    - Lecturer, Kingston University, BA (Hons) Photography\n\n2023 - Visiting Tutor,
+    Arts University Bournemouth, BA (Hons) Photography \n\n2023 - Visiting Lecturer,
+    University of Westminster, BA (Hons) Photography\n\n2022 - Visiting Tutor, Arts
+    University Bournemouth, BA (Hons) Photography \n\n2022 - Visiting Lecturer and
+    Tutor, University of Westminster, BA (Hons) Photography\n\n2025 - Guest Lecturer,
+    Highlands College, Art Foundation\n\n2025 - Guest Lecturer, UWE Bristol, BA Photography\n\n2025
+    - Guest Lecturer, University of Westminster, BA Photography\n\n2025 - Guest Lecturer,
+    Falmouth University, BA Photography (Online)\n\n2022 - Guest Lecturer, Kingston
+    University, BA Photography\n\n2022 - Guest Lecturer, Falmouth University, MA Photography
+    \n\n2021 - Guest Lecturer, Kingston University, BA Photography\n\n2021 - Guest
+    Lecturer, Arts University Bournemouth, BA Photography\n\n2021 - Guest Lecturer,
+    Swansea College of Art, BA Photography\n\n2020 - Guest Lecturer, Kingston University,
+    BA Photography\n\n2019 - Guest Lecturer, Kingston University, BA Photography\n\n2019
+    - Guest Lecturer, Falmouth University, BA Photography\n\n2019 - Guest Lecturer,
+    University of Huddersfield, All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer,
+    Kingston University, BA Photography"
 - title: Community & Creative Learning
   year-text: |-
     2025 - National Portrait Gallery, Revolv Collective, *Photo Portrait Now*
@@ -138,14 +146,6 @@ Education:
     \n\n2021 - [C4 Journal, Review: *Furze*](https://c4journal.com/jack-whitefield-furze/)\n\n2020
     - [On Living Stones and Reaching: *The Wilderness of Words*](https://www.alexandermourant.com/on-living-stones-and-reaching)\n\n2019
     - *The Journal: On Being Someone Other*\n\n2017 - *Land Art, Photography and Time*"
-- title: Fellowships / Residencies / Commissions
-  year-text: "2026 - Passerelle Centre d'art contemporain, *Territoires Extra Residency*\n\n2025
-    - Henry Moore Institute, *Visiting Research Fellowship*\n\n2024 - ArtHouse Jersey,
-    *The Land and Us – La Tèrre et Nous*\n\n2023 - NŌUA, *Project Room #1*\n\n2022
-    - Hapax Magazine, Issue 3 (2022/2023), *North East South West* \n\n2020 - The
-    Eye Sees, Arles, Entractes 14, *When the Image Returns to Glass*\n\n2020 - HGG
-    London, *The Bell Tower*\n\n2019 - FT Weekend Magazine / Photo London, *My London*\n\n2018
-    - The Greatest Magazine, Issue 14, *The Lightness*"
 - title: Awards
   year-text: "2025 - Rencontres d'Arles Book Awards, Author Book Award - Shortlist
     \n\n2019 - Foam Paul Huf Award - Nomination\n\n2017 - Free Range Award - Winner\n\n2017
