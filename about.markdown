@@ -106,6 +106,10 @@ Education:
     School, Artist Talk"
 - title: Community & Creative Learning
   year-text: |-
+    2025 - National Portrait Gallery, Revolv Collective, *Photo Portrait Now*
+
+    2024 - ArtHouse Jersey, Artist Educator, *Making Art Partnerships in Schools III*
+
     2023 - ArtHouse Jersey, Artist Educator, *Making Art Partnerships in Schools II*
 
     2023 - Hayward Gallery, Artist Educator, Secondary Schools Takeover, *Mike Nelson*
@@ -120,70 +124,9 @@ Education:
 
     2022 - Wandsworth Council's Children's and Arts Service, Lead Educator, *A Place to Call Home*
 
-    2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
-- title: Workshops
-  year-text: |-
-    2025 - d'Auvergne School, *The Return: Wizards and Islands, Part III, I–IIII*
-
-    2025 - National Portrait Gallery, *Photo Portrait Now*
-
-    2025 - Hautlieu School, *Thinking with Photography II*
-
-    2025 - Hautlieu School, *Thinking with Photography*
-
-    2025 - ArtHouse Jersey, *Art Masterclass Series: Photography*
-
-    2025 - ArtHouse Jersey, *Sensory Drawing, I-III*
-
-    2024 - d'Auvergne School, *The Return: Wizards and Islands, Part II, I–VI*
-
-    2023 - ArtHouse Jersey, *Sketching the Land: Photography, Drawing & Nature*
-
-    2023 - d'Auvergne School, *Portals: Towards Wizards and Islands, I–VI*
-
-    2023 - Eyecan, ArtHouse Jersey, *Sensory Redirection: The Journey of a Leaf Falling*
-
-    2023 - Arts University Bournemouth, *On Collaboration: Photo-Twister & Other Games, I-IV*
-
-    2023 - Hayward Gallery, *Mike Nelson: Secondary Schools Takeover Day*
-
-    2023 - Hayward Gallery, *Mike Nelson: Extinction Beckons, I-V*
-
-    2022 - Hayward Gallery, *Strange Clay: Primary Schools Takeover Day*
-
-    2022 - Hayward Gallery, Heathbrook Primary School, *Strange Clay, I-V*
-
     2022 - GRAIN Projects, East Meets West Masterclass, Revolv Collective, *On Collective Working*
 
-    2022 - Greengate School, *A House by the Sea, I-II*
-
-    2022 - Greengate School, Earnse Bay, *Whistle for the Wind*
-
-    2022 - Heathmere School, Southside Shopping Centre, *A Place to Call Home*
-
-    2022 - Penwortham School, Southside Shopping Centre, *A Place to Call Home*
-
-    2021 - Chestnut Grove Academy, *A Place to Call Home*, Artist Talk & CPD Workshop Lead
-
-    2021 - Putney High School, *A Place to Call Home*, Artist Talk & CPD Workshop Lead
-
-    2021 - Emanuel School, *A Place to Call Home*, Artist Talk & CPD Workshop Lead
-
-    2021 - Hillbrook School, *A Greener Picture: Photography and Climate Change*
-
-    2021 - Hotham School, *A Greener Picture: Photography and Climate Change*
-
-    2021 - Earlsfield Primary, *A Greener Picture: Photography and Climate Change* 
-
-    2021 - St Faith’s School, *A Greener Picture: Photography and Climate Change*
-
-    2021 - West Hill Primary, *A Greener Picture: Photography and Climate Change*
-
-    2021 - Gatton School, *A Greener Picture: Photography and Climate Change*
-
-    2021 - Smallwood School, *A Greener Picture: Photography and Climate Change* 
-
-    2021 - Mosaic School, *A Greener Picture: Photography and Climate Change*
+    2021 - Wandsworth Council, Artist Educator, *A Greener Picture: Photography and Climate Change*
 - title: Writing
   year-text: "2026 - [C4 Journal, Interview: Benjamin Jones and Alexander Mourant](https://c4journal.com/odd-sympathy-benjamin-jones-in-conversation-with-alexander-mourant/)\n\n2024
     - [C4 Journal, Review: *those eyes - these eyes - they fade (Part II)*](https://c4journal.com/those-eyes-these-eyes-they-fade-part-ii-at-musee-des-beaux-arts-mulhouse-france/)\n\n2023
