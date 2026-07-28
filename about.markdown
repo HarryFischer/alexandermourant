@@ -84,8 +84,7 @@ Education:
     Gammer-Flitcroft\n\n2019 - Copeland Gallery, *On Blue and Photography*, with Duncan
     Wooldridge, Tom Pope & Simone Mudde\n\n2019 - Peckham 24, *Visualising Community*,
     with Karen McQuaid, Marianne Bjørnmyr, D Wiafe & Max Miechowski\n\n2018 - The
-    Old Truman Brewery, *Aomori*, with Professor Steve Macleod\n\n2018 - Bryanston
-    School, Artist Talk"
+    Old Truman Brewery, *Aomori*, with Professor Steve Macleod"
 - title: Fellowships / Residencies / Commissions
   year-text: "2026 - Passerelle Centre d'art contemporain, *Territoires Extra Residency*\n\n2025
     - Henry Moore Institute, *Visiting Research Fellowship*\n\n2024 - ArtHouse Jersey,
