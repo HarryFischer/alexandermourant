@@ -138,7 +138,7 @@ Education:
     \n\n2021 - [C4 Journal, Review: *Furze*](https://c4journal.com/jack-whitefield-furze/)\n\n2020
     - [On Living Stones and Reaching: *The Wilderness of Words*](https://www.alexandermourant.com/on-living-stones-and-reaching)\n\n2019
     - *The Journal: On Being Someone Other*\n\n2017 - *Land Art, Photography and Time*"
-- title: 'Commissions / Residencies '
+- title: Fellowships / Residencies / Commissions
   year-text: "2026 - Passerelle Centre d'art contemporain, *Territoires Extra Residency*\n\n2025
     - Henry Moore Institute, *Visiting Research Fellowship*\n\n2024 - ArtHouse Jersey,
     *The Land and Us – La Tèrre et Nous*\n\n2023 - NŌUA, *Project Room #1*\n\n2022
