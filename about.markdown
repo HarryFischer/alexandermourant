@@ -171,6 +171,8 @@ Education:
     2017 - ArtHouse Jersey - www.arthouse.je
 - title: Publications
   year-text: |-
+    2026 - Tall Poppy Press, *Site Specific: Photography Exhibitions from around the World II*, edited by Matt Dunne and Callum Beaney
+
     2025 - Source Magazine, Issue 119, *The Night and the First Sculpture*
 
     2023 - Tall Poppy Press, *Site Specific: Photography Exhibitions from around the World*, edited by Matt Dunne
