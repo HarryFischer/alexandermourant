@@ -8,7 +8,7 @@ Content:
     Instagram: [@alexandermourant](http://www.instagram.com/alexandermourant)
     <br>
     <br>
-    Alexander Mourant is an artist, educator and writer based in London. He is a Lecturer in Photography at [Kingston University](https://www.kingston.ac.uk/study/undergraduate/photography-ba-hons). His first publication, [*The Night and the First Sculpture*](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture), was published by Folium (2024), and was shortlisted for the Author Book Award at Rencontres d’Arles (2025). Mourant is a Visiting Research Fellow in Sculpture at the Henry Moore Institute (2025-2026), and recently presented at the symposium, *Anti-Monumentality and the Afterlives of ‘Land Art’ in Britain* (2025). Recent exhibitions include *To Walk in the Image*, Lismore Castle Arts, Ireland (2023); *At the Farthest Edge: Rebuilding Photography*, NŌUA, Norway (2023); and *A Sudden Vanishing*, Seen Fifteen Gallery, London (2023). He is a recipient of grants from Arts Council Norway, Arts Council England and ArtHouse Jersey. He has been commissioned by FT Weekend Magazine, Hapax Magazine and The Greatest Magazine, and included in British Journal of Photography, The Guardian, Photograph, Photoworks, METAL Magazine and Photomonitor. He won the Free Range Award (2017) and was nominated for the Foam Paul Huf Award (2019). Mourant is a Member of [Revolv Collective](https://www.instagram.com/revolvcollective/?hl=en) and Contributor at [C4 Journal](https://c4journal.com). He achieved BA Photography at Falmouth University, and MA Photography at Royal College of Art, London.
+    Alexander Mourant is an artist, educator and writer based in London. He is a Senior Lecturer in Photography at [Kingston University](https://www.kingston.ac.uk/study/undergraduate/photography-ba-hons). His first publication, [*The Night and the First Sculpture*](https://www.folium.site/shop/p/alex-mourant-the-night-and-the-first-sculpture), was published by Folium (2024) and was shortlisted for the Author Book Award at Rencontres d’Arles (2025). Mourant is a Visiting Research Fellow in Sculpture at the Henry Moore Institute (2025-2026), and recently presented at the symposium, *Anti-Monumentality and the Afterlives of ‘Land Art’ in Britain* (2025). Recent exhibitions include *To Walk in the Image*, Lismore Castle Arts, Ireland (2023); *At the Farthest Edge: Rebuilding Photography*, NŌUA, Norway (2023); and *A Sudden Vanishing*, Seen Fifteen Gallery, London (2023). He is a recipient of grants from Arts Council Norway, Arts Council England and ArtHouse Jersey. He has been commissioned by FT Weekend Magazine, Hapax Magazine and The Greatest Magazine, and included in British Journal of Photography, The Guardian, Photograph, Photoworks, METAL Magazine and Photomonitor. He won the Free Range Award (2017) and was nominated for the Foam Paul Huf Award (2019). Mourant is a Member of [Revolv Collective](https://www.instagram.com/revolvcollective/?hl=en) and Contributor at [C4 Journal](https://c4journal.com). He achieved BA Photography at Falmouth University, and MA Photography at Royal College of Art, London.
 Education:
 - title: Education
   year-text: |-
@@ -63,22 +63,23 @@ Education:
 
     2022 - Curator: *A Place to Call Home*, Southside Shopping Centre, Wandsworth, UK
 - title: Teaching
-  year-text: "2023 - Lecturer, Kingston University, BA (Hons) Photography\n\n2023
-    - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography \n\n2023
-    - Visiting Lecturer, University of Westminster, BA (Hons) Photography\n\n2022
-    - Visiting Tutor, Arts University Bournemouth, BA (Hons) Photography \n\n2022
-    - Visiting Lecturer and Tutor, University of Westminster, BA (Hons) Photography\n\n2025
-    - Guest Lecturer, Highlands College, Art Foundation\n\n2025 - Guest Lecturer,
-    UWE Bristol, BA Photography\n\n2025 - Guest Lecturer, University of Westminster,
-    BA Photography\n\n2025 - Guest Lecturer, Falmouth University, BA Photography (Online)\n\n2022
-    - Guest Lecturer, Kingston University, BA Photography\n\n2022 - Guest Lecturer,
-    Falmouth University, MA Photography \n\n2021 - Guest Lecturer, Kingston University,
-    BA Photography\n\n2021 - Guest Lecturer, Arts University Bournemouth, BA Photography\n\n2021
-    - Guest Lecturer, Swansea College of Art, BA Photography\n\n2020 - Guest Lecturer,
-    Kingston University, BA Photography\n\n2019 - Guest Lecturer, Kingston University,
-    BA Photography\n\n2019 - Guest Lecturer, Falmouth University, BA Photography\n\n2019
-    - Guest Lecturer, University of Huddersfield, All Levels (BA, MA & PhD) \n\n2018
-    - Guest Lecturer, Kingston University, BA Photography"
+  year-text: "2026 - Senior Lecturer, Kingston University, BA (Hons) Photography\n\n2023
+    - Lecturer, Kingston University, BA (Hons) Photography\n\n2023 - Visiting Tutor,
+    Arts University Bournemouth, BA (Hons) Photography \n\n2023 - Visiting Lecturer,
+    University of Westminster, BA (Hons) Photography\n\n2022 - Visiting Tutor, Arts
+    University Bournemouth, BA (Hons) Photography \n\n2022 - Visiting Lecturer and
+    Tutor, University of Westminster, BA (Hons) Photography\n\n2025 - Guest Lecturer,
+    Highlands College, Art Foundation\n\n2025 - Guest Lecturer, UWE Bristol, BA Photography\n\n2025
+    - Guest Lecturer, University of Westminster, BA Photography\n\n2025 - Guest Lecturer,
+    Falmouth University, BA Photography (Online)\n\n2022 - Guest Lecturer, Kingston
+    University, BA Photography\n\n2022 - Guest Lecturer, Falmouth University, MA Photography
+    \n\n2021 - Guest Lecturer, Kingston University, BA Photography\n\n2021 - Guest
+    Lecturer, Arts University Bournemouth, BA Photography\n\n2021 - Guest Lecturer,
+    Swansea College of Art, BA Photography\n\n2020 - Guest Lecturer, Kingston University,
+    BA Photography\n\n2019 - Guest Lecturer, Kingston University, BA Photography\n\n2019
+    - Guest Lecturer, Falmouth University, BA Photography\n\n2019 - Guest Lecturer,
+    University of Huddersfield, All Levels (BA, MA & PhD) \n\n2018 - Guest Lecturer,
+    Kingston University, BA Photography"
 - title: Talks / Panels / Symposiums
   year-text: "2026 - Photoworks x Peckham 24: Alexander Mourant, Eugenie Shinkle &
     Julie F Hill, in conversation with Diane Smyth\n\n2026 - Filet, Alexander Mourant
