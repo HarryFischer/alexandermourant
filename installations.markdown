@@ -114,6 +114,76 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
+- image: "/uploads/Filet-4.jpg"
+  caption-text: |-
+    Filet, 2026
+
+    *Bruises*
+
+    Supported by ArtHouse Jersey
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Filet-5.jpg"
+  caption-text: |-
+    Filet, 2026
+
+    *Bruises*
+
+    Supported by ArtHouse Jersey
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Filet-3.jpg"
+  caption-text: |-
+    Filet, 2026
+
+    *Bruises*
+
+    Supported by ArtHouse Jersey
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Filet-6.jpg"
+  caption-text: |-
+    Filet, 2026
+
+    *Bruises*
+
+    Supported by ArtHouse Jersey
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Filet-2.jpg"
+  caption-text: |-
+    Filet, 2026
+
+    *Bruises*
+
+    Supported by ArtHouse Jersey
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Filet-1.jpg"
+  caption-text: |-
+    Filet, 2026
+
+    *Bruises*
+
+    Supported by ArtHouse Jersey
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
+- image: "/uploads/Filet-8.jpg"
+  caption-text: |-
+    Filet, 2026
+
+    *Bruises*
+
+    Supported by ArtHouse Jersey
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/The%20Partial%20Formation%20of%20a%20Roof%20-%20Alexander%20Mourant.jpg"
   video: 
   caption-text: |-
@@ -637,76 +707,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: 
-- image: "/uploads/Filet-4.jpg"
-  caption-text: |-
-    Filet, 2026
-
-    *Bruises*
-
-    Supported by ArtHouse Jersey
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Filet-5.jpg"
-  caption-text: |-
-    Filet, 2026
-
-    *Bruises*
-
-    Supported by ArtHouse Jersey
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Filet-3.jpg"
-  caption-text: |-
-    Filet, 2026
-
-    *Bruises*
-
-    Supported by ArtHouse Jersey
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Filet-2.jpg"
-  caption-text: |-
-    Filet, 2026
-
-    *Bruises*
-
-    Supported by ArtHouse Jersey
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Filet-1.jpg"
-  caption-text: |-
-    Filet, 2026
-
-    *Bruises*
-
-    Supported by ArtHouse Jersey
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Filet-6.jpg"
-  caption-text: |-
-    Filet, 2026
-
-    *Bruises*
-
-    Supported by ArtHouse Jersey
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Filet-8.jpg"
-  caption-text: |-
-    Filet, 2026
-
-    *Bruises*
-
-    Supported by ArtHouse Jersey
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 layout: installations
 ---
 
