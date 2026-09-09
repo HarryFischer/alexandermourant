@@ -677,13 +677,23 @@ Content:
   image-size: 
   image-position: 
   image-margin-right: 
-- image: 
+- image: "/uploads/Filet-1.jpg"
   caption-text: |-
     Filet, 2026
 
     *Bruises*
 
     Supported by ArtHouse Jersey
+  image-size: 
+  image-position: 
+  image-margin-right: 
+- image: "/uploads/Filet-6.jpg"
+  caption-text: 
+  image-size: 
+  image-position: 
+  image-margin-right: 
+- image: "/uploads/Filet-8.jpg"
+  caption-text: 
   image-size: 
   image-position: 
   image-margin-right: 
