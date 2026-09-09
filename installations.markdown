@@ -183,7 +183,7 @@ Content:
     Supported by ArtHouse Jersey
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/The%20Partial%20Formation%20of%20a%20Roof%20-%20Alexander%20Mourant.jpg"
   video: 
   caption-text: |-
