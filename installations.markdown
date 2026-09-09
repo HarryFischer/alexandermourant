@@ -182,7 +182,7 @@ Content:
     *[The Partial Formation of a Roof](https://www.alexandermourant.com/the-night-and-the-first-sculpture)*, 2021/2024
   image-size: medium
   image-position: middle
-  image-margin-right: medium
+  image-margin-right: xsmall
 - image: "/uploads/Snakes%20and%20Ladders%20-%20Alexander%20Mourant.jpg"
   caption-text: |-
     [The Night and the First Sculpture](https://www.alexandermourant.com/the-night-and-the-first-sculpture), 2024
