@@ -241,7 +241,7 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/NOUA-1-09346c.jpg"
+- image: "/uploads/9-Mourant.jpg"
   caption-text: |-
     NŌUA, 2023
 
@@ -541,16 +541,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-3.jpg"
-  caption-text: |-
-    Royal College of Art, 2020
-
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
-
-    *A Gesture of Brambles*, 2019
-  image-size: medium
-  image-position: middle
-  image-margin-right: medium
 - image: "/uploads/Installations-AlexanderMourant-31.jpg"
   caption-text: |-
     Unseen Amsterdam, 2019
