@@ -674,9 +674,9 @@ Content:
     *Bruises*
 
     Supported by ArtHouse Jersey
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/Filet-1.jpg"
   caption-text: |-
     Filet, 2026
@@ -684,19 +684,29 @@ Content:
     *Bruises*
 
     Supported by ArtHouse Jersey
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/Filet-6.jpg"
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  caption-text: |-
+    Filet, 2026
+
+    *Bruises*
+
+    Supported by ArtHouse Jersey
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 - image: "/uploads/Filet-8.jpg"
-  caption-text: 
-  image-size: 
-  image-position: 
-  image-margin-right: 
+  caption-text: |-
+    Filet, 2026
+
+    *Bruises*
+
+    Supported by ArtHouse Jersey
+  image-size: medium
+  image-position: middle
+  image-margin-right: xsmall
 layout: installations
 ---
 
