@@ -192,7 +192,7 @@ Content:
     *[The Partial Formation of a Roof](https://www.alexandermourant.com/the-night-and-the-first-sculpture)*, 2021/2024
   image-size: medium
   image-position: middle
-  image-margin-right: xsmall
+  image-margin-right: medium
 - image: "/uploads/Snakes%20and%20Ladders%20-%20Alexander%20Mourant.jpg"
   caption-text: |-
     [The Night and the First Sculpture](https://www.alexandermourant.com/the-night-and-the-first-sculpture), 2024
@@ -392,18 +392,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: xsmall
-- image: "/uploads/A-Sudden-Vanishing-2.jpg"
-  caption-text: |-
-    Seen Fifteen Gallery, 2023
-
-    *A Sudden Vanishing*
-
-    Curated by Vivienne Gamble
-
-    *[Peckham I](https://www.alexandermourant.com/to-feel-its-touch)*, 2019
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/A-Sudden-Vanishing-13.jpg"
   caption-text: |-
     Seen Fifteen Gallery, 2023
@@ -571,46 +559,6 @@ Content:
   image-size: medium
   image-position: middle
   image-margin-right: medium
-- image: "/uploads/Installations-AlexanderMourant-11.jpg"
-  caption-text: |-
-    Royal College of Art, 2020
-
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
-
-    *Shelter*, 2020
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-15.jpg"
-  caption-text: |-
-    Royal College of Art, 2020
-
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
-
-    *Shelter*, 2020
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-10.jpg"
-  caption-text: |-
-    Royal College of Art, 2020
-
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
-
-    *Shelter*, 2020
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
-- image: "/uploads/Installations-AlexanderMourant-2.jpg"
-  caption-text: |-
-    Royal College of Art, 2020
-
-    *[I Could Not Tell Glass From Air](/i-could-not-tell-glass-from-air)*
-
-    *A Gesture of Brambles*, 2019
-  image-size: medium
-  image-position: middle
-  image-margin-right: xsmall
 - image: "/uploads/Installations-AlexanderMourant-31.jpg"
   caption-text: |-
     Unseen Amsterdam, 2019
