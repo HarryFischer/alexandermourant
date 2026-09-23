@@ -86,13 +86,13 @@ Education:
     with Karen McQuaid, Marianne Bjørnmyr, D Wiafe & Max Miechowski\n\n2018 - The
     Old Truman Brewery, *Aomori*, with Professor Steve Macleod"
 - title: Fellowships / Residencies / Commissions
-  year-text: "2026 - Passerelle Centre d'art contemporain, *Territoires Extra Residency*\n\n2025
-    - Henry Moore Institute, *Visiting Research Fellowship*\n\n2024 - ArtHouse Jersey,
-    *The Land and Us – La Tèrre et Nous*\n\n2023 - NŌUA, *Project Room #1*\n\n2022
-    - Hapax Magazine, Issue 3 (2022/2023), *North East South West* \n\n2020 - The
-    Eye Sees, Arles, Entractes 14, *When the Image Returns to Glass*\n\n2020 - HGG
-    London, *The Bell Tower*\n\n2019 - FT Weekend Magazine / Photo London, *My London*\n\n2018
-    - The Greatest Magazine, Issue 14, *The Lightness*"
+  year-text: "2026 - Passerelle Centre d'art contemporain, *Territoires Extra Artist
+    Residency*\n\n2025 - Henry Moore Institute, *Visiting Research Fellowship*\n\n2024
+    - ArtHouse Jersey, *The Land and Us – La Tèrre et Nous*\n\n2023 - NŌUA, *Project
+    Room #1*\n\n2022 - Hapax Magazine, Issue 3 (2022/2023), *North East South West*
+    \n\n2020 - The Eye Sees, Arles, Entractes 14, *When the Image Returns to Glass*\n\n2020
+    - HGG London, *The Bell Tower*\n\n2019 - FT Weekend Magazine / Photo London, *My
+    London*\n\n2018 - The Greatest Magazine, Issue 14, *The Lightness*"
 - title: Teaching
   year-text: "2026 - Senior Lecturer, Kingston University, BA (Hons) Photography\n\n2023
     - Lecturer, Kingston University, BA (Hons) Photography\n\n2023 - Visiting Tutor,
